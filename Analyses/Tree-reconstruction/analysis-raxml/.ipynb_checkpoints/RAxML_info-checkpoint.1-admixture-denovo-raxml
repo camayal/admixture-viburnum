@@ -1,0 +1,62 @@
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 484202 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 57.71%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 100 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 484202
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+/gpfs/ysm/project/edwards/cm2828/conda_envs/ipyrad_from_conda/bin/raxmlHPC-PTHREADS-AVX2 -f a -T 4 -m GTRCAT -n 1-admixture-denovo-raxml -w /gpfs/ysm/project/edwards/cm2828/morganTrees_admixtureProj/analysis-raxml -s /gpfs/ysm/project/edwards/cm2828/morganTrees_admixtureProj/analysis-window_extracter/1-admixture-denovo.phy -p 54321 -N 100 -x 12345 
+
+
+
+Time for BS model parameter optimization 276.840116
+Bootstrap[0]: Time 382.374488 seconds, bootstrap likelihood -12468235.888522, best rearrangement setting 13
+Bootstrap[1]: Time 101.940600 seconds, bootstrap likelihood -12474724.799143, best rearrangement setting 13
+Bootstrap[2]: Time 103.610088 seconds, bootstrap likelihood -12468271.501715, best rearrangement setting 12
+Bootstrap[3]: Time 102.048410 seconds, bootstrap likelihood -12471207.385649, best rearrangement setting 15
+Bootstrap[4]: Time 102.198334 seconds, bootstrap likelihood -12472684.595765, best rearrangement setting 10
+Bootstrap[5]: Time 59.630339 seconds, bootstrap likelihood -12465823.446738, best rearrangement setting 10
