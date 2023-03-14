@@ -1,11 +1,7 @@
-# admixture-viburnum-
+# admixture-viburnum
 Reproducibility repository for Genetic architecture underlying the parallel evolution of leaf syndromes in Viburnum 
 
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
