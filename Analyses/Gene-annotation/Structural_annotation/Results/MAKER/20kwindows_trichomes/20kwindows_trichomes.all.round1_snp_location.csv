@@ -1,0 +1,22 @@
+,window,geneModel,start,end,SNP_in_geneModel,ID
+0,Scaffold_62942_SNP_1452977,gene 1,16545,23466,True,maker-Scaffold_62942_SNP_1452977-exonerate_est2genome-gene-0.0
+1,Scaffold_51506_SNP_1002237,gene 1,36677,37864,False,maker-Scaffold_51506_SNP_1002237-exonerate_est2genome-gene-0.0
+2,Scaffold_56543_SNP_14798389,gene 1,24479,25737,False,maker-Scaffold_56543_SNP_14798389-exonerate_est2genome-gene-0.0
+3,Scaffold_23621_SNP_2202981,gene 1,4803,5891,False,maker-Scaffold_23621_SNP_2202981-exonerate_est2genome-gene-0.0
+4,Scaffold_23621_SNP_2202981,gene 2,26596,26867,False,maker-Scaffold_23621_SNP_2202981-exonerate_est2genome-gene-0.1
+5,Scaffold_19888_SNP_3195966,gene 1,18692,36002,True,maker-Scaffold_19888_SNP_3195966-exonerate_est2genome-gene-0.0
+6,Scaffold_62540_SNP_3710393,gene 1,19666,21219,True,maker-Scaffold_62540_SNP_3710393-exonerate_est2genome-gene-0.0
+7,Scaffold_62540_SNP_3710393,gene 2,21825,22360,False,maker-Scaffold_62540_SNP_3710393-exonerate_est2genome-gene-0.1
+8,Scaffold_62540_SNP_3710393,gene 3,21314,26032,False,maker-Scaffold_62540_SNP_3710393-exonerate_est2genome-gene-0.2
+9,Scaffold_62540_SNP_3710393,gene 4,29321,29713,False,maker-Scaffold_62540_SNP_3710393-exonerate_est2genome-gene-0.3
+10,Scaffold_63514_SNP_229274,gene 1,3820,11742,False,maker-Scaffold_63514_SNP_229274-exonerate_est2genome-gene-0.0
+11,Scaffold_47900_SNP_1597869,gene 1,18364,25458,True,maker-Scaffold_47900_SNP_1597869-exonerate_est2genome-gene-0.0
+12,Scaffold_5277_SNP_211152,gene 1,1354,2846,False,maker-Scaffold_5277_SNP_211152-exonerate_est2genome-gene-0.0
+13,Scaffold_61434_SNP_9194665,gene 1,9943,36724,True,maker-Scaffold_61434_SNP_9194665-exonerate_est2genome-gene-0.0
+14,Scaffold_61305_SNP_2136144,gene 1,1615,1961,False,maker-Scaffold_61305_SNP_2136144-exonerate_est2genome-gene-0.0
+15,Scaffold_61305_SNP_2136144,gene 2,29632,34612,False,maker-Scaffold_61305_SNP_2136144-exonerate_est2genome-gene-0.1
+16,Scaffold_62540_SNP_1173139,gene 1,3909,4214,False,maker-Scaffold_62540_SNP_1173139-exonerate_est2genome-gene-0.0
+17,Scaffold_17618_SNP_8223181,gene 1,2829,8572,False,maker-Scaffold_17618_SNP_8223181-exonerate_est2genome-gene-0.0
+18,Scaffold_28087_SNP_43758310,gene 1,7054,7388,False,maker-Scaffold_28087_SNP_43758310-exonerate_est2genome-gene-0.0
+19,Scaffold_28087_SNP_43758310,gene 2,8898,13121,False,maker-Scaffold_28087_SNP_43758310-exonerate_est2genome-gene-0.1
+20,Scaffold_62480_SNP_2374442,gene 1,10139,33811,True,maker-Scaffold_62480_SNP_2374442-exonerate_est2genome-gene-0.0

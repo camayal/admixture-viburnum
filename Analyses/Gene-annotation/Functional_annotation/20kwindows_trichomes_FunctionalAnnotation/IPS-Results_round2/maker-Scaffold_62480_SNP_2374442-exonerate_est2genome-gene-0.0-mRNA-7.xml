@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.56-89.0">
+  <protein>
+    <sequence md5="0c168e423b5344d9fbca7f4b764ce0dc">MQDNWDHISKTWGSGFLITQFISEIVSPFFSYEKAKEIEEYFASRSKPSFTRTLKQSIERVHINAKWVESIQNEKHLAEVAQELAYRKY</sequence>
+    <xref id="maker-Scaffold_62480_SNP_2374442-exonerate_est2genome-gene-0.0-mRNA-7" name="maker-Scaffold_62480_SNP_2374442-exonerate_est2genome-gene-0.0-mRNA-7"/>
+    <matches>
+      <hmmer3-match evalue="2.5E-12" score="46.9">
+        <signature ac="PF11838" desc="ERAP1-like C-terminal domain" name="ERAP1_C">
+          <entry ac="IPR024571" desc="ERAP1-like C-terminal domain" name="ERAP1-like_C_dom" type="DOMAIN">
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="MetaCyc" id="PWY-7694" name="zwittermicin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5706" name="alliin metabolism"/>
+            <pathway-xref db="Reactome" id="R-MMU-2022377" name="Metabolism of Angiotensinogen to Angiotensins"/>
+            <pathway-xref db="Reactome" id="R-MMU-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-SCE-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-2022377" name="Metabolism of Angiotensinogen to Angiotensins"/>
+            <pathway-xref db="Reactome" id="R-HSA-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-SPO-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5707" name="propanethial S-oxide biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-2022377" name="Metabolism of Angiotensinogen to Angiotensins"/>
+            <pathway-xref db="Reactome" id="R-RNO-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6423" name="hemoglobin degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-1236977" name="Endosomal/Vacuolar pathway"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CEL-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7614" name="methiin metabolism"/>
+            <pathway-xref db="Reactome" id="R-SCE-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-CEL-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-SPO-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-1236977" name="Endosomal/Vacuolar pathway"/>
+            <pathway-xref db="Reactome" id="R-SSC-2022377" name="Metabolism of Angiotensinogen to Angiotensins"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-RNO-1236977" name="Endosomal/Vacuolar pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-1445148" name="Translocation of SLC2A4 (GLUT4) to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-CEL-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7954" name="tabtoxinine-beta-lactam biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF11838</model-ac>
+        <locations>
+          <hmmer3-location env-end="63" env-start="1" post-processed="true" score="46.7" evalue="3.0E-12" hmm-start="253" hmm-end="314" hmm-length="315" hmm-bounds="INCOMPLETE" start="1" end="62">
+            <location-fragments>
+              <hmmer3-location-fragment start="1" end="62" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="2.3E-13" score="51.8">
+        <signature ac="G3DSA:1.25.50.20" name="">
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>6q4rA04</model-ac>
+        <locations>
+          <hmmer3-location env-end="79" env-start="1" post-processed="true" score="51.6" evalue="2.6E-13" hmm-start="241" hmm-end="314" hmm-length="325" hmm-bounds="COMPLETE" start="1" end="79">
+            <location-fragments>
+              <hmmer3-location-fragment start="1" end="79" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="3.2E-27" familyName="AMINOPEPTIDASE" score="106.7">
+        <signature ac="PTHR11533" name="PROTEASE M1 ZINC METALLOPROTEASE">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR11533</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="87" hmm-start="819" hmm-end="902" hmm-length="904" hmm-bounds="INCOMPLETE" start="2" end="85">
+            <location-fragments>
+              <panther-location-fragment start="2" end="85" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="3.2E-27" familyName="AMINOPEPTIDASE" score="106.7">
+        <signature ac="PTHR11533:SF269" name="AMINOPEPTIDASE">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR11533:SF269</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="87" hmm-start="819" hmm-end="902" hmm-length="904" hmm-bounds="INCOMPLETE" start="2" end="85">
+            <location-fragments>
+              <panther-location-fragment start="2" end="85" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="6a15913291843482da565c09aad55769">MELLDHSTLLLKKKWLFGVLDDFITKQLPHNVTWGLSLLYAMEHKGDRSLSSTQGELAHALRFLASVVSQSFLAFGDILELHRKFLELSGGVNRIFELEELLDAAQ</sequence>
+    <xref id="maker-Scaffold_62189_SNP_1927409-exonerate_est2genome-gene-0.2-mRNA-1" name="maker-Scaffold_62189_SNP_1927409-exonerate_est2genome-gene-0.2-mRNA-1"/>
+    <matches>
+      <panther-match evalue="1.2E-69" familyName="ABC TRANSPORTER D FAMILY MEMBER 1" score="247.3">
+        <signature ac="PTHR11384" name="ATP-BINDING CASSETTE, SUB-FAMILY D MEMBER">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR11384</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="106" hmm-start="957" hmm-end="1061" hmm-length="1313" hmm-bounds="C_TERMINAL_COMPLETE" start="2" end="106">
+            <location-fragments>
+              <panther-location-fragment start="2" end="106" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="1.2E-69" familyName="ABC TRANSPORTER D FAMILY MEMBER 1" score="247.3">
+        <signature ac="PTHR11384:SF56" name="ABC TRANSPORTER D FAMILY MEMBER 1">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR11384:SF56</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="106" hmm-start="957" hmm-end="1061" hmm-length="1313" hmm-bounds="C_TERMINAL_COMPLETE" start="2" end="106">
+            <location-fragments>
+              <panther-location-fragment start="2" end="106" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

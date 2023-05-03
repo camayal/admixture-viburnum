@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.56-89.0">
+  <protein>
+    <sequence md5="c70b988b290fc9de0dd8012da75751a9">MNMDELLKSIWTAEETQALASSTGVVGGGSVLGGNLQKQGSLTLPRTLSQKTVDEVWRDLFKENGGSKDGIGSGGLDLQQREPTFGEITLEDFLLRAGVVGEATQPIGRPNNGGFYGEISQPNSNSNGLTFGFQQPAQNHGSMANQIIENNNTVPNLAPNLALNLGGIRSQQQLQQQQQPIFPKQATVAFASPIQLVNNAQLASPGTRGPVVGRTDPSVSTALVQGGAIQGGAMGMSGLGTGATTKVAAGSPTNQLPTSVIPKSNLDTSSLSPSPYAFSEGLRGKKSGGPVEKVVERRRRRMIKNRESASRSRARKQVN</sequence>
+    <xref id="maker-Scaffold_56543_SNP_14798389-exonerate_protein2genome-gene-0.0-mRNA-4" name="maker-Scaffold_56543_SNP_14798389-exonerate_protein2genome-gene-0.0-mRNA-4"/>
+    <matches>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="" start="246" end="319">
+            <location-fragments>
+              <mobidblite-location-fragment start="246" end="319" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="Polar" start="246" end="276">
+            <location-fragments>
+              <mobidblite-location-fragment start="246" end="276" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="Polyampholyte" start="286" end="313">
+            <location-fragments>
+              <mobidblite-location-fragment start="286" end="313" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <panther-match evalue="1.9E-84" familyName="ABSCISIC ACID-INSENSITIVE 5-LIKE PROTEIN 7" score="296.0">
+        <signature ac="PTHR22952:SF436" name="ABSCISIC ACID-INSENSITIVE 5-LIKE PROTEIN 7">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR22952:SF436</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="318" hmm-start="47" hmm-end="305" hmm-length="363" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="317">
+            <location-fragments>
+              <panther-location-fragment start="1" end="317" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="1.9E-84" familyName="ABSCISIC ACID-INSENSITIVE 5-LIKE PROTEIN 7" score="296.0">
+        <signature ac="PTHR22952" name="CAMP-RESPONSE ELEMENT BINDING PROTEIN-RELATED">
+          <entry ac="IPR043452" desc="Plant bZIP transcription factors" name="BZIP46-like" type="FAMILY">
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0045893" name="positive regulation of transcription, DNA-templated"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0003700" name="DNA-binding transcription factor activity"/>
+          </entry>
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR22952</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="318" hmm-start="47" hmm-end="305" hmm-length="363" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="317">
+            <location-fragments>
+              <panther-location-fragment start="1" end="317" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="dbd847cc532c41e71cbdfc58a59f5387">MEHQGDSMSRSEHPLEVEMPKASEENNVPSEAMQFSCNPICSFSKQEYHISDAKERSKSTVKLSGLIIFYTIVMVIEIVGGLKANSLAVLTDAAHLLTDIAGFSIALFTVWASGWEATSKQSFGFNRLEVLGALLSVQLIWVISGILIYEALDRMLHKNAKVDGKLMFAFAAFGFIINFIMVVWLGHGHDHGHSHGHDHGHSHGHGHDHSHHTCMDKDHDHDEESTNLVSSSPVKTTSLNINLQGAYLHVIADMIQTVGVMVAGSIIWAKPDWLAVDLICTLIFSVFALAATLPMLRNIFSILMEGTPGEIEVSRLEKDLKCIKGVHDVHDLHVWAITVGKFVLACHVVIEPGVDSNEILHRVRDYCEKTYRIHHVTIQIEQGQW</sequence>
+    <xref id="maker-Scaffold_9666_SNP_5105659-exonerate_est2genome-gene-0.0-mRNA-1" name="maker-Scaffold_9666_SNP_5105659-exonerate_est2genome-gene-0.0-mRNA-1"/>
+    <matches>
+      <hmmer3-match evalue="1.3E-38" score="132.7">
+        <signature ac="PF01545" desc="Cation efflux family" name="Cation_efflux">
+          <entry ac="IPR002524" desc="Cation efflux protein" name="Cation_efflux" type="FAMILY">
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0055085" name="transmembrane transport"/>
+            <go-xref category="CELLULAR_COMPONENT" db="GO" id="GO:0016021" name="integral component of membrane"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0008324" name="cation transmembrane transporter activity"/>
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0006812" name="cation transport"/>
+            <pathway-xref db="Reactome" id="R-RNO-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-RNO-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-DRE-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-DRE-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-GGA-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-DDI-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-DDI-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-HSA-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-GGA-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-XTR-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-SCE-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-MMU-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-HSA-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-SCE-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-DDI-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-CEL-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-XTR-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-HSA-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-SCE-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-SPO-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-SPO-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-MMU-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-CEL-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-MMU-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-SPO-425410" name="Metal ion SLC transporters"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF01545</model-ac>
+        <locations>
+          <hmmer3-location env-end="304" env-start="66" post-processed="true" score="132.3" evalue="1.8E-38" hmm-start="5" hmm-end="199" hmm-length="199" hmm-bounds="C_TERMINAL_COMPLETE" start="67" end="304">
+            <location-fragments>
+              <hmmer3-location-fragment start="67" end="304" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="1.7E-49" score="154.4">
+        <signature ac="G3DSA:1.20.1510.10" name="Cation efflux protein transmembrane domain">
+          <entry ac="IPR027469" desc="Cation efflux transmembrane domain superfamily" name="Cation_efflux_TMD_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="Reactome" id="R-RNO-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-RNO-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-DRE-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-DRE-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-GGA-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-DDI-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-DDI-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-HSA-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-GGA-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-XTR-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-SCE-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-MMU-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-HSA-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-SCE-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-DDI-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-CEL-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-XTR-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-HSA-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-SCE-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-SPO-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-SPO-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-MMU-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-CEL-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-MMU-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-SPO-425410" name="Metal ion SLC transporters"/>
+          </entry>
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>3h90A01</model-ac>
+        <locations>
+          <hmmer3-location env-end="0" env-start="0" post-processed="true" score="154.4" evalue="1.1E-44" hmm-start="0" hmm-end="0" hmm-length="199" hmm-bounds="INCOMPLETE" start="62" end="303">
+            <location-fragments>
+              <hmmer3-location-fragment start="238" end="303" dc-status="N_TERMINAL_DISC"/>
+              <hmmer3-location-fragment start="62" end="191" dc-status="C_TERMINAL_DISC"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="7.1E-80" score="266.3">
+        <signature ac="TIGR01297" desc="CDF: cation diffusion facilitator family transporter" name="TIGR01297">
+          <entry ac="IPR002524" desc="Cation efflux protein" name="Cation_efflux" type="FAMILY">
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0055085" name="transmembrane transport"/>
+            <go-xref category="CELLULAR_COMPONENT" db="GO" id="GO:0016021" name="integral component of membrane"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0008324" name="cation transmembrane transporter activity"/>
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0006812" name="cation transport"/>
+            <pathway-xref db="Reactome" id="R-RNO-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-RNO-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-DRE-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-DRE-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-GGA-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-DDI-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-DDI-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-HSA-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-GGA-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-XTR-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-SCE-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-MMU-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-HSA-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-SCE-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-DDI-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-CEL-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-XTR-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-HSA-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-SCE-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-SPO-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-SPO-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-MMU-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-CEL-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-MMU-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-SPO-425410" name="Metal ion SLC transporters"/>
+          </entry>
+          <signature-library-release library="TIGRFAM" version="15.0"/>
+        </signature>
+        <model-ac>TIGR01297</model-ac>
+        <locations>
+          <hmmer3-location env-end="384" env-start="59" post-processed="false" score="265.9" evalue="9.1E-80" hmm-start="9" hmm-end="282" hmm-length="285" hmm-bounds="INCOMPLETE" start="67" end="382">
+            <location-fragments>
+              <hmmer3-location-fragment start="67" end="382" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="Polyampholyte" start="1" end="20">
+            <location-fragments>
+              <mobidblite-location-fragment start="1" end="20" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="" start="194" end="231">
+            <location-fragments>
+              <mobidblite-location-fragment start="194" end="231" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="Polyampholyte" start="194" end="226">
+            <location-fragments>
+              <mobidblite-location-fragment start="194" end="226" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="" start="1" end="24">
+            <location-fragments>
+              <mobidblite-location-fragment start="1" end="24" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <panther-match evalue="1.9E-186" familyName="METAL TOLERANCE PROTEIN B" score="631.2">
+        <signature ac="PTHR11562" name="CATION EFFLUX PROTEIN/ ZINC TRANSPORTER">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR11562</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="381" hmm-start="1" hmm-end="379" hmm-length="379" hmm-bounds="COMPLETE" start="1" end="381">
+            <location-fragments>
+              <panther-location-fragment start="1" end="381" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="1.9E-186" familyName="METAL TOLERANCE PROTEIN B" score="631.2">
+        <signature ac="PTHR11562:SF54" name="METAL TOLERANCE PROTEIN B">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR11562:SF54</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="381" hmm-start="1" hmm-end="379" hmm-length="379" hmm-bounds="COMPLETE" start="1" end="381">
+            <location-fragments>
+              <panther-location-fragment start="1" end="381" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <superfamilyhmmer3-match evalue="1.57E-8">
+        <signature ac="SSF160240" name="Cation efflux protein cytoplasmic domain-like">
+          <entry ac="IPR036837" desc="Cation efflux protein, cytoplasmic domain superfamily" name="Cation_efflux_CTD_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="Reactome" id="R-RNO-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-RNO-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-SCE-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-DDI-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-SPO-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-DDI-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-MMU-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-MMU-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-XTR-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-SPO-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-HSA-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-SCE-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-DDI-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-XTR-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-HSA-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0054605</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="82" start="309" end="381">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="309" end="381" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+      <superfamilyhmmer3-match evalue="3.27E-41">
+        <signature ac="SSF161111" name="Cation efflux protein transmembrane domain-like">
+          <entry ac="IPR027469" desc="Cation efflux transmembrane domain superfamily" name="Cation_efflux_TMD_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="Reactome" id="R-RNO-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-RNO-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-DRE-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-DRE-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-GGA-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-DDI-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-DDI-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-HSA-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-GGA-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-XTR-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-SCE-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-MMU-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-HSA-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-SCE-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-DDI-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-CEL-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-XTR-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-HSA-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-SCE-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-SPO-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-SPO-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-MMU-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-CEL-435368" name="Zinc efflux and compartmentalization by the SLC30 family"/>
+            <pathway-xref db="Reactome" id="R-MMU-264876" name="Insulin processing"/>
+            <pathway-xref db="Reactome" id="R-SPO-425410" name="Metal ion SLC transporters"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0054606</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="204" start="60" end="305">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="240" end="305" dc-status="N_TERMINAL_DISC"/>
+              <superfamilyhmmer3-location-fragment start="60" end="189" dc-status="C_TERMINAL_DISC"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

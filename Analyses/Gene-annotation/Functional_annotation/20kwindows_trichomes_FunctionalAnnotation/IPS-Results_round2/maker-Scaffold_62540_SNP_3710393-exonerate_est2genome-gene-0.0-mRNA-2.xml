@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.56-89.0">
+  <protein>
+    <sequence md5="be3afbff379a95cc67049e711db975b7">MNEAAILAARRDLKEISKDEIADALERIIAGPEKKNAVVSEEKKKLVAYHEAGHALVGALMPEYDPVAKISIIPRGQAGGLTFFAPSEERLESGLYSRSYLENQMAVALGGRVAEEVIFGQENVTTGASNDFMQVSRVARQMVERFGFSKKIGQVAIGGPGGNPFLGQQVRLQLTFGN</sequence>
+    <xref id="maker-Scaffold_62540_SNP_3710393-exonerate_est2genome-gene-0.0-mRNA-2" name="maker-Scaffold_62540_SNP_3710393-exonerate_est2genome-gene-0.0-mRNA-2"/>
+    <matches>
+      <hmmer3-match evalue="8.0E-52" score="175.9">
+        <signature ac="PF01434" desc="Peptidase family M41" name="Peptidase_M41">
+          <entry ac="IPR000642" desc="Peptidase M41" name="Peptidase_M41" type="DOMAIN">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005524" name="ATP binding"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0004176" name="ATP-dependent peptidase activity"/>
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0006508" name="proteolysis"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0004222" name="metalloendopeptidase activity"/>
+            <pathway-xref db="Reactome" id="R-DME-8949664" name="Processing of SMDT1"/>
+            <pathway-xref db="MetaCyc" id="PWY-8119" name="microcin B17 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-8949664" name="Processing of SMDT1"/>
+            <pathway-xref db="Reactome" id="R-CEL-8949664" name="Processing of SMDT1"/>
+            <pathway-xref db="Reactome" id="R-HSA-8949664" name="Processing of SMDT1"/>
+            <pathway-xref db="Reactome" id="R-MMU-8949664" name="Processing of SMDT1"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF01434</model-ac>
+        <locations>
+          <hmmer3-location env-end="178" env-start="37" post-processed="true" score="175.6" evalue="9.9E-52" hmm-start="2" hmm-end="133" hmm-length="191" hmm-bounds="INCOMPLETE" start="38" end="173">
+            <location-fragments>
+              <hmmer3-location-fragment start="38" end="173" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="1.9E-51" score="176.7">
+        <signature ac="G3DSA:1.20.58.760" name="Peptidase M41">
+          <entry ac="IPR037219" desc="Peptidase M41-like" name="Peptidase_M41-like" type="HOMOLOGOUS_SUPERFAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005524" name="ATP binding"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0004176" name="ATP-dependent peptidase activity"/>
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0006508" name="proteolysis"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0004222" name="metalloendopeptidase activity"/>
+            <pathway-xref db="Reactome" id="R-DME-8949664" name="Processing of SMDT1"/>
+            <pathway-xref db="MetaCyc" id="PWY-8119" name="microcin B17 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-8949664" name="Processing of SMDT1"/>
+            <pathway-xref db="Reactome" id="R-CEL-8949664" name="Processing of SMDT1"/>
+            <pathway-xref db="Reactome" id="R-HSA-8949664" name="Processing of SMDT1"/>
+            <pathway-xref db="Reactome" id="R-MMU-8949664" name="Processing of SMDT1"/>
+          </entry>
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>2di4A00</model-ac>
+        <locations>
+          <hmmer3-location env-end="175" env-start="29" post-processed="true" score="176.1" evalue="3.1E-51" hmm-start="3" hmm-end="138" hmm-length="211" hmm-bounds="COMPLETE" start="29" end="175">
+            <location-fragments>
+              <hmmer3-location-fragment start="29" end="175" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="3.4E-60" familyName="ATP-DEPENDENT ZINC METALLOPROTEASE FTSH 8, CHLOROPLASTIC" score="216.1">
+        <signature ac="PTHR23076:SF92" name="ATP-DEPENDENT ZINC METALLOPROTEASE FTSH 8, CHLOROPLASTIC">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR23076:SF92</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="178" hmm-start="375" hmm-end="541" hmm-length="606" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="172">
+            <location-fragments>
+              <panther-location-fragment start="1" end="172" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="3.4E-60" familyName="ATP-DEPENDENT ZINC METALLOPROTEASE FTSH 8, CHLOROPLASTIC" score="216.1">
+        <signature ac="PTHR23076" name="METALLOPROTEASE M41 FTSH">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR23076</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="178" hmm-start="375" hmm-end="541" hmm-length="606" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="172">
+            <location-fragments>
+              <panther-location-fragment start="1" end="172" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <superfamilyhmmer3-match evalue="1.02E-48">
+        <signature ac="SSF140990" name="FtsH protease domain-like">
+          <entry ac="IPR037219" desc="Peptidase M41-like" name="Peptidase_M41-like" type="HOMOLOGOUS_SUPERFAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005524" name="ATP binding"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0004176" name="ATP-dependent peptidase activity"/>
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0006508" name="proteolysis"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0004222" name="metalloendopeptidase activity"/>
+            <pathway-xref db="Reactome" id="R-DME-8949664" name="Processing of SMDT1"/>
+            <pathway-xref db="MetaCyc" id="PWY-8119" name="microcin B17 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-8949664" name="Processing of SMDT1"/>
+            <pathway-xref db="Reactome" id="R-CEL-8949664" name="Processing of SMDT1"/>
+            <pathway-xref db="Reactome" id="R-HSA-8949664" name="Processing of SMDT1"/>
+            <pathway-xref db="Reactome" id="R-MMU-8949664" name="Processing of SMDT1"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0052432</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="202" start="38" end="171">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="38" end="171" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

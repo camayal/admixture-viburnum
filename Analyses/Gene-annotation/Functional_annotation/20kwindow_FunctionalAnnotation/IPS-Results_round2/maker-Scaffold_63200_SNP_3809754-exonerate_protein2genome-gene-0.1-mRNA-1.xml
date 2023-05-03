@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="c0f735e3ca1200019790d276f56ae975">MKCSIQCVVYESLTISDFEARWNRLVGKFNLEKNEWLSGLYSERYRWVPTFVKDTFFIGMPTTQRSESMNAFFDGYVNLKTTLKQFVEQYENALRTKVEKESQGNFDTYKALIPCVTKYKIEKQFQDCYTNAKFLEVQEEIKGKLYCTLSPVREDGGVLMYEV</sequence>
+    <xref id="maker-Scaffold_63200_SNP_3809754-exonerate_protein2genome-gene-0.1-mRNA-1" name="maker-Scaffold_63200_SNP_3809754-exonerate_protein2genome-gene-0.1-mRNA-1"/>
+    <matches>
+      <panther-match evalue="3.2E-48" familyName="SUBFAMILY NOT NAMED" score="176.7">
+        <signature ac="PTHR31669" name="PROTEIN FAR1-RELATED SEQUENCE 10-RELATED">
+          <entry ac="IPR031052" desc="FHY3/FAR1 family" name="FHY3/FAR1" type="FAMILY">
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0006355" name="regulation of transcription, DNA-templated"/>
+          </entry>
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR31669</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="163" hmm-start="375" hmm-end="535" hmm-length="579" hmm-bounds="C_TERMINAL_COMPLETE" start="3" end="163">
+            <location-fragments>
+              <panther-location-fragment start="3" end="163" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="3.2E-48" familyName="SUBFAMILY NOT NAMED" score="176.7">
+        <signature ac="PTHR31669:SF224" name="SUBFAMILY NOT NAMED">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR31669:SF224</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="163" hmm-start="375" hmm-end="535" hmm-length="579" hmm-bounds="C_TERMINAL_COMPLETE" start="3" end="163">
+            <location-fragments>
+              <panther-location-fragment start="3" end="163" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.56-89.0">
+  <protein>
+    <sequence md5="78088818515768c2617c9e119d471853">MPDPTFKVGMLFSDNKEFNAAVMMYSIKHGKKIKFTKNESKRVRVVYKDGCPRFVFASKMQDYPTLQIKTVEKEHKCNREFKNTHVNSRWLSKQYMDTFRSNPKMHVKCFRETVMKDYMVNVSRSEVYKTKKFAMEMIEGT</sequence>
+    <xref id="maker-Scaffold_62540_SNP_1173139-exonerate_protein2genome-gene-0.0-mRNA-1" name="maker-Scaffold_62540_SNP_1173139-exonerate_protein2genome-gene-0.0-mRNA-1"/>
+    <matches>
+      <hmmer3-match evalue="4.1E-10" score="39.2">
+        <signature ac="PF03108" desc="MuDR family transposase" name="DBD_Tnp_Mut">
+          <entry ac="IPR004332" desc="Transposase, MuDR, plant" name="Transposase_MuDR" type="DOMAIN"/>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF03108</model-ac>
+        <locations>
+          <hmmer3-location env-end="68" env-start="3" post-processed="true" score="38.3" evalue="7.8E-10" hmm-start="3" hmm-end="67" hmm-length="67" hmm-bounds="C_TERMINAL_COMPLETE" start="5" end="68">
+            <location-fragments>
+              <hmmer3-location-fragment start="5" end="68" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="3.0E-20" familyName="SUBFAMILY NOT NAMED" score="84.4">
+        <signature ac="PTHR31973" name="POLYPROTEIN, PUTATIVE-RELATED">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR31973</model-ac>
+        <locations>
+          <panther-location env-start="2" env-end="141" hmm-start="38" hmm-end="170" hmm-length="670" hmm-bounds="INCOMPLETE" start="9" end="140">
+            <location-fragments>
+              <panther-location-fragment start="9" end="140" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="3.0E-20" familyName="SUBFAMILY NOT NAMED" score="84.4">
+        <signature ac="PTHR31973:SF147" name="SUBFAMILY NOT NAMED">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR31973:SF147</model-ac>
+        <locations>
+          <panther-location env-start="2" env-end="141" hmm-start="38" hmm-end="170" hmm-length="670" hmm-bounds="INCOMPLETE" start="9" end="140">
+            <location-fragments>
+              <panther-location-fragment start="9" end="140" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

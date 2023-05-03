@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="d70524010686791279d5fd450211eda7">MEHILDGSSYVKEAKKMHEMDPLQKPKQDRYALRTSPQWLGPLIEVIRSSTKSIEREINSVNDNPLIDVSRNKALHGGNFQGTPIGVSMDNTRLAIAAIGKLMFAQISELVNDFYNNGLPSNLSGGRNPSLDYGFKGAEIAMAAYCSELQFLANPVTNHVQSAEQHNQDVNSLGLISSRKTAEAVDILKLMSSTYLVALCQAVDLRHMEENLKNSVKNTVSQVAKRVLTMGHNGELHPSRFCEKDLLKVVDREYVFAYIDDPCSSTYPLMQKLRQVLVEHALVNGDEEKNSSTSIFQKIGAFEDELKALLPKEVESARSDLESGKEGIVNRIKDCRSYPLYKFVREELGTALLTGEKVRSPGEEFDKVFTAMCEGKLIDPLLDCLKEWNGAPLPIC</sequence>
+    <xref id="maker-Scaffold_63552_SNP_4859480-exonerate_protein2genome-gene-0.0-mRNA-2" name="maker-Scaffold_63552_SNP_4859480-exonerate_protein2genome-gene-0.0-mRNA-2"/>
+    <matches>
+      <hmmer3-match evalue="3.3E-211" score="703.9">
+        <signature ac="G3DSA:1.10.274.20" name="">
+          <entry ac="IPR023144" desc="Phenylalanine ammonia-lyase, shielding domain superfamily" name="Phe_NH3-lyase_shielding_dom_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="MetaCyc" id="PWY-8157" name="avenanthramide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7397" name="naringenin biosynthesis (engineered)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5883" name="ephedrine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5048" name="rosmarinic acid biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7398" name="coumarins biosynthesis (engineered)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6444" name="benzoate biosynthesis II (CoA-independent, non-beta-oxidative)"/>
+            <pathway-xref db="MetaCyc" id="PWY-1121" name="suberin monomers biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5660" name="taxol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6457" name="cinnamoyl-CoA biosynthesis"/>
+          </entry>
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>1w27A03</model-ac>
+        <locations>
+          <hmmer3-location env-end="391" env-start="1" post-processed="true" score="703.7" evalue="3.8E-211" hmm-start="59" hmm-end="449" hmm-length="122" hmm-bounds="INCOMPLETE" start="209" end="330">
+            <location-fragments>
+              <hmmer3-location-fragment start="209" end="330" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="3.3E-211" score="703.9">
+        <signature ac="G3DSA:1.20.200.10" name="Fumarase/aspartase (Central domain)">
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>1w27A02</model-ac>
+        <locations>
+          <hmmer3-location env-end="391" env-start="1" post-processed="true" score="703.7" evalue="3.8E-211" hmm-start="59" hmm-end="449" hmm-length="332" hmm-bounds="C_TERMINAL_COMPLETE" start="1" end="391">
+            <location-fragments>
+              <hmmer3-location-fragment start="331" end="391" dc-status="N_TERMINAL_DISC"/>
+              <hmmer3-location-fragment start="1" end="208" dc-status="C_TERMINAL_DISC"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="2.9E-198" score="658.3">
+        <signature ac="TIGR01226" desc="phe_am_lyase: phenylalanine ammonia-lyase" name="TIGR01226">
+          <entry ac="IPR005922" desc="Phenylalanine ammonia-lyase" name="Phe_NH3-lyase" type="FAMILY">
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0006559" name="L-phenylalanine catabolic process"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0016841" name="ammonia-lyase activity"/>
+            <go-xref category="CELLULAR_COMPONENT" db="GO" id="GO:0005737" name="cytoplasm"/>
+            <pathway-xref db="MetaCyc" id="PWY-8157" name="avenanthramide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7397" name="naringenin biosynthesis (engineered)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5883" name="ephedrine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5048" name="rosmarinic acid biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7398" name="coumarins biosynthesis (engineered)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6444" name="benzoate biosynthesis II (CoA-independent, non-beta-oxidative)"/>
+            <pathway-xref db="MetaCyc" id="PWY-1121" name="suberin monomers biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5660" name="taxol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6457" name="cinnamoyl-CoA biosynthesis"/>
+          </entry>
+          <signature-library-release library="TIGRFAM" version="15.0"/>
+        </signature>
+        <model-ac>TIGR01226</model-ac>
+        <locations>
+          <hmmer3-location env-end="386" env-start="1" post-processed="false" score="658.2" evalue="3.3E-198" hmm-start="296" hmm-end="680" hmm-length="680" hmm-bounds="C_TERMINAL_COMPLETE" start="1" end="386">
+            <location-fragments>
+              <hmmer3-location-fragment start="1" end="386" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="5.5E-70" score="236.3">
+        <signature ac="PF00221" desc="Aromatic amino acid lyase" name="Lyase_aromatic">
+          <entry ac="IPR001106" desc="Aromatic amino acid lyase" name="Aromatic_Lyase" type="FAMILY">
+            <pathway-xref db="MetaCyc" id="PWY-5030" name="L-histidine degradation III"/>
+            <pathway-xref db="Reactome" id="R-HSA-70921" name="Histidine catabolism"/>
+            <pathway-xref db="Reactome" id="R-DDI-70921" name="Histidine catabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-5048" name="rosmarinic acid biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7398" name="coumarins biosynthesis (engineered)"/>
+            <pathway-xref db="Reactome" id="R-MMU-70921" name="Histidine catabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6457" name="cinnamoyl-CoA biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8157" name="avenanthramide biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-70921" name="Histidine catabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-5028" name="L-histidine degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-5883" name="ephedrine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7397" name="naringenin biosynthesis (engineered)"/>
+            <pathway-xref db="Reactome" id="R-RNO-70921" name="Histidine catabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6444" name="benzoate biosynthesis II (CoA-independent, non-beta-oxidative)"/>
+            <pathway-xref db="MetaCyc" id="PWY-1121" name="suberin monomers biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5660" name="taxol biosynthesis"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF00221</model-ac>
+        <locations>
+          <hmmer3-location env-end="227" env-start="1" post-processed="true" score="236.0" evalue="6.8E-70" hmm-start="247" hmm-end="456" hmm-length="463" hmm-bounds="INCOMPLETE" start="1" end="218">
+            <location-fragments>
+              <hmmer3-location-fragment start="1" end="218" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="4.2E-263" familyName="PHENYLALANINE AMMONIA-LYASE" score="886.4">
+        <signature ac="PTHR10362:SF54" name="PHENYLALANINE AMMONIA-LYASE">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR10362:SF54</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="396" hmm-start="322" hmm-end="717" hmm-length="717" hmm-bounds="COMPLETE" start="1" end="396">
+            <location-fragments>
+              <panther-location-fragment start="1" end="396" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="4.2E-263" familyName="PHENYLALANINE AMMONIA-LYASE" score="886.4">
+        <signature ac="PTHR10362" name="HISTIDINE AMMONIA-LYASE">
+          <entry ac="IPR001106" desc="Aromatic amino acid lyase" name="Aromatic_Lyase" type="FAMILY">
+            <pathway-xref db="MetaCyc" id="PWY-5030" name="L-histidine degradation III"/>
+            <pathway-xref db="Reactome" id="R-HSA-70921" name="Histidine catabolism"/>
+            <pathway-xref db="Reactome" id="R-DDI-70921" name="Histidine catabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-5048" name="rosmarinic acid biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7398" name="coumarins biosynthesis (engineered)"/>
+            <pathway-xref db="Reactome" id="R-MMU-70921" name="Histidine catabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6457" name="cinnamoyl-CoA biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8157" name="avenanthramide biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-70921" name="Histidine catabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-5028" name="L-histidine degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-5883" name="ephedrine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7397" name="naringenin biosynthesis (engineered)"/>
+            <pathway-xref db="Reactome" id="R-RNO-70921" name="Histidine catabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6444" name="benzoate biosynthesis II (CoA-independent, non-beta-oxidative)"/>
+            <pathway-xref db="MetaCyc" id="PWY-1121" name="suberin monomers biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5660" name="taxol biosynthesis"/>
+          </entry>
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR10362</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="396" hmm-start="322" hmm-end="717" hmm-length="717" hmm-bounds="COMPLETE" start="1" end="396">
+            <location-fragments>
+              <panther-location-fragment start="1" end="396" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <superfamilyhmmer3-match evalue="6.83E-147">
+        <signature ac="SSF48557" name="L-aspartase-like">
+          <entry ac="IPR008948" desc="L-Aspartase-like" name="L-Aspartase-like" type="HOMOLOGOUS_SUPERFAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0003824" name="catalytic activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-7735" name="echinomycin and triostin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8151" name="cholesterol degradation to androstenedione III (anaerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7694" name="zwittermicin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7265" name="lampranthin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7382" name="lipoate biosynthesis and incorporation IV (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7053" name="docosahexaenoate biosynthesis I (lower eukaryotes)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8018" name="itaconate biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-8035" name="streptovaricin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7621" name="autoinducer CAI-1 biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7583" name="arachidonate biosynthesis II (bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7049" name="icosapentaenoate biosynthesis II (6-desaturase, mammals)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5994" name="palmitate biosynthesis I (type I fatty acid synthase)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7818" name="type IV lipoteichoic acid biosynthesis (S. pneumoniae)"/>
+            <pathway-xref db="Reactome" id="R-HSA-70635" name="Urea cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-5139" name="pelargonidin conjugates biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7460" name="2-O-acetyl-3-O-trans-coutarate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8047" name="bryostatin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-70921" name="Histidine catabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7624" name="nystatin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7711" name="calonectrin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6397" name="mycolyl-arabinogalactan-peptidoglycan complex biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5477" name="gallotannin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8051" name="anandamide biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-6948" name="sitosterol degradation to androstenedione"/>
+            <pathway-xref db="MetaCyc" id="PWY-7601" name="arachidonate biosynthesis IV (8-detaturase, lower eukaryotes)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7950" name="diadinoxanthin and fucoxanthin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-419140" name="De novo synthesis of IMP"/>
+            <pathway-xref db="MetaCyc" id="PWY-7100" name="spinosyn A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5913" name="partial TCA cycle (obligate autotrophs)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7930" name="pyoluteorin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7352" name="daunorubicin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6842" name="glutathione-mediated detoxification II"/>
+            <pathway-xref db="MetaCyc" id="PWY-8243" name="colanic acid (Escherichia coli K12) biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7465" name="3,3'-thiodipropanoate degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7599" name="anditomin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6457" name="cinnamoyl-CoA biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7401" name="crotonate fermentation (to acetate and cyclohexane carboxylate)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7816" name="poly(ribitol phosphate) wall teichoic acid biosynthesis II (S. aureus)"/>
+            <pathway-xref db="Reactome" id="R-HSA-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8045" name="cylindrospermopsin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6679" name="jadomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7983" name="pseudomonine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5154" name="L-arginine biosynthesis III (via N-acetyl-L-citrulline)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5400" name="amaranthin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7234" name="inosine-5'-phosphate biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-8231" name="Escherichia coli serotype O:127 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7168" name="flavonol acylglucoside biosynthesis I - kaempferol derivatives"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7690" name="holomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5392" name="reductive TCA cycle II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7817" name="type I lipoteichoic acid biosynthesis (S. aureus)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5307" name="gentiodelphin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5883" name="ephedrine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-70921" name="Histidine catabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7714" name="harzianum A and trichodermin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5710" name="capsaicin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5660" name="taxol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8116" name="ochratoxin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8036" name="chaxamycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5437" name="L-threonine degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7606" name="docosahexaenoate biosynthesis III (6-desaturase, mammals)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5987" name="sorgoleone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7474" name="avenacin A-2 biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-4984" name="urea cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-4983" name="nitric oxide biosynthesis II (mammals)"/>
+            <pathway-xref db="Reactome" id="R-SCE-70635" name="Urea cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7696" name="citreoisocoumarin and bikisocoumarin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8133" name="succinoglycan biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-81" name="toluene degradation to benzoyl-CoA (anaerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7532" name="acetylaszonalenin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8040" name="ansatrienin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8272" name="Escherichia coli serotype O:49 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6971" name="oleandomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8053" name="anandamide biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-GGA-187630" name="Arginine metabolism"/>
+            <pathway-xref db="Reactome" id="R-DDI-71403" name="Citric acid cycle (TCA cycle)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6728" name="methylaspartate cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-8049" name="pederin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6969" name="TCA cycle V (2-oxoglutarate synthase)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6036" name="cardenolide glucosides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SSC-71403" name="Citric acid cycle (TCA cycle)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8294" name="L-aspartate degradation II (anaerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7172" name="flavonol acylglucoside biosynthesis III - quercetin derivatives"/>
+            <pathway-xref db="MetaCyc" id="PWY-6314" name="plumbagin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7612" name="chaetoglobosin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6373" name="acrylate degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7671" name="saframycin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6032" name="digitoxigenin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7592" name="arachidonate biosynthesis III (6-desaturase, mammals)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7693" name="guadinomine B biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7473" name="avenacin A-1 biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7384" name="anaerobic energy metabolism (invertebrates, mitochondrial)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7461" name="hydroxycinnamate sugar acid ester biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7727" name="docosahexaenoate biosynthesis IV (4-desaturase, mammals)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7716" name="penicillin G and penicillin V biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8166" name="emodin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6312" name="barbaloin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7653" name="griseofulvin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8152" name="androstenedione degradation II (anaerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5048" name="rosmarinic acid biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-DRE-71403" name="Citric acid cycle (TCA cycle)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8012" name="mupirocin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-361" name="phenylpropanoid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-761" name="rhizobactin 1021 biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7475" name="des-methyl avenacin A-1 biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7989" name="acinetoferrin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6320" name="phaselate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7673" name="fusarin C biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7677" name="rosamicin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-4801" name="aloesone biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-6407" name="yersiniabactin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7171" name="flavonol acylglucoside biosynthesis II - isorhamnetin derivatives"/>
+            <pathway-xref db="MetaCyc" id="PWY-8055" name="palmitoyl ethanolamide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7261" name="anthocyanidin 3-malylglucoside biosynthesis (acyl-glucose dependent)"/>
+            <pathway-xref db="Reactome" id="R-GGA-70635" name="Urea cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-1121" name="suberin monomers biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-70635" name="Urea cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7585" name="docosahexaenoate biosynthesis II (bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7563" name="bassianin and desmethylbassianin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6672" name="cis-geranyl-CoA degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7695" name="aurofusarin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5984" name="rifamycin B biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6442" name="spermidine hydroxycinnamic acid conjugates biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6722" name="candicidin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5975" name="furaneol and mesifurane biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7450" name="anthocyanidin modification (Arabidopsis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7045" name="mithramycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5" name="canavanine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5353" name="arachidonate biosynthesis I (6-desaturase, lower eukaryotes)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7354" name="aclacinomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7415" name="tylosin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7254" name="TCA cycle VII (acetate-producers)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7679" name="anthocyanidin acylglucoside and acylsambubioside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6946" name="cholesterol degradation to androstenedione II (cholesterol dehydrogenase)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5028" name="L-histidine degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7530" name="Escherichia coli serotype O:104 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7702" name="sch210971 and sch210972 biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5268" name="salvianin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6958" name="icosapentaenoate biosynthesis I (lower eukaryotes)"/>
+            <pathway-xref db="Reactome" id="R-MMU-70921" name="Histidine catabolism"/>
+            <pathway-xref db="Reactome" id="R-CEL-70921" name="Histidine catabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6673" name="caffeoylglucarate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-71403" name="Citric acid cycle (TCA cycle)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6799" name="fatty acid biosynthesis initiation (plant mitochondria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7400" name="L-arginine biosynthesis IV (archaea)"/>
+            <pathway-xref db="Reactome" id="R-MMU-70635" name="Urea cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-5690" name="TCA cycle II (plants and fungi)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5473" name="hydroxycinnamic acid serotonin amides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7656" name="Spodoptera littoralis pheromone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6453" name="stigma estolide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5875" name="staphyloxanthin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-4922" name="6-methoxymellein biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5475" name="pentagalloylglucose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7692" name="bikaverin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6056" name="dimethylsulfoniopropanoate degradation II (cleavage)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7811" name="6-methylpretetramide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8157" name="avenanthramide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6316" name="aromatic polyketides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7452" name="cyanidin dimalonylglucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8082" name="glycine lipid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5284" name="shisonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8289" name="dZTP biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7565" name="aspyridone A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8032" name="chloramphenicol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7050" name="icosapentaenoate biosynthesis IV (bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6920" name="6-gingerol analog biosynthesis (engineered)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7688" name="dTDP-alpha-D-ravidosamine and dTDP-4-acetyl-alpha-D-ravidosamine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWYG-321" name="mycolate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6378" name="putrebactin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8038" name="naphthomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-70921" name="Histidine catabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7737" name="thiocoraline biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7458" name="violdelphin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7602" name="icosapentaenoate biosynthesis V (8-desaturase, lower eukaryotes)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6123" name="inosine-5'-phosphate biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8084" name="daurichromenate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7713" name="nivalenol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7412" name="mycinamicin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7672" name="fusaric acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7318" name="dTDP-3-acetamido-3,6-dideoxy-alpha-D-glucose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7988" name="baumannoferrin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7448" name="galloylated catechin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8086" name="(S)-lactate fermentation to propanoate, acetate and hydrogen"/>
+            <pathway-xref db="MetaCyc" id="PWY-7669" name="equisetin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-70635" name="Urea cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7986" name="anguibactin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5903" name="bacillibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-421203" name="De novo synthesis of AMP"/>
+            <pathway-xref db="Reactome" id="R-CEL-71403" name="Citric acid cycle (TCA cycle)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7738" name="polyacyltrehalose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7687" name="stipitatate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7397" name="naringenin biosynthesis (engineered)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6124" name="inosine-5'-phosphate biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7689" name="8-O-methylfusarubin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6379" name="alcaligin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7543" name="5-N-acetylardeemin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8058" name="2-deoxy-D-ribose degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7398" name="coumarins biosynthesis (engineered)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7730" name="T-2 toxin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6922" name="L-Ndelta-acetylornithine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7219" name="adenosine ribonucleotides de novo biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5846" name="colchicine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5313" name="superpathway of anthocyanin biosynthesis (from cyanidin and cyanidin 3-O-glucoside)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7577" name="ferrichrome biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7407" name="aurachin A, B, C and D biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6930" name="phenolic malonylglucosides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7470" name="phosphatidylcholine biosynthesis VII"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7708" name="lyngbyatoxin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7940" name="lauryl-hydroxychlorobactene glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5679" name="clavulanate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5030" name="L-histidine degradation III"/>
+            <pathway-xref db="MetaCyc" id="PWY-6944" name="androstenedione degradation I (aerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7405" name="aurachin RE biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6310" name="aloesone biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7561" name="tenellin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6039" name="chlorogenic acid biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7987" name="vanchrobactin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-561" name="superpathway of glyoxylate cycle and fatty acid degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6945" name="cholesterol degradation to androstenedione I (cholesterol oxidase)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7464" name="cyanidin 3,7-diglucoside polyacylation biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7815" name="poly(ribitol phosphate) wall teichoic acid biosynthesis I (B. subtilis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7726" name="(4Z,7Z,10Z,13Z,16Z)-docosapentaenoate biosynthesis (6-desaturase)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8075" name="(Kdo)2-lipid A biosynthesis (P. putida)"/>
+            <pathway-xref db="Reactome" id="R-RNO-71403" name="Citric acid cycle (TCA cycle)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7659" name="viridicatumtoxin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7821" name="tunicamycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-84" name="resveratrol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5794" name="malonate degradation I (biotin-independent)"/>
+            <pathway-xref db="Reactome" id="R-SCE-71403" name="Citric acid cycle (TCA cycle)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7728" name="(4Z,7Z,10Z,13Z,16Z)-docosa-4,7,10,13,16-pentaenoate biosynthesis II (4-desaturase)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8210" name="pyrrolomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5292" name="vindoline, vindorosine and vinblastine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7280" name="ternatin C3 biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7029" name="terminal olefins biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7670" name="fusaridione A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7547" name="prodigiosin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-71403" name="Citric acid cycle (TCA cycle)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7984" name="acinetobactin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7660" name="tryptoquialanine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6027" name="capsiconiate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8291" name="L-aspartate degradation II (aerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7907" name="(2S,3E)-2-amino-4-methoxy-but-3-enoate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-71403" name="Citric acid cycle (TCA cycle)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7555" name="alpha-cyclopiazonate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7954" name="tabtoxinine-beta-lactam biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6444" name="benzoate biosynthesis II (CoA-independent, non-beta-oxidative)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7746" name="mycobacterial sulfolipid biosynthesis"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0050346</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="692" start="1" end="396">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="1" end="396" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

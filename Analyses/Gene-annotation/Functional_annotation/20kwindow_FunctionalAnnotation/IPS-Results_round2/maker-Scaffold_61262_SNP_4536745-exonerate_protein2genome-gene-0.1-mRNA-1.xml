@@ -1,0 +1,1287 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="3e430ccd9aee4466e28aab7c35643b79">VREQKVKVLTPREAGYAIQLSNKTLLDVRPSGEHEKARVKGSTWIPIFDVDTGFDAGTLSRKITSFMMGGWWSGVPTLSYDNQFLSKVTQKYPKDTDLIVACQKGLRSLAACELLYNAGYRNLFWVQGGLEAAEEEDLEREGPQPFKFAGIGGVSEFLGWTDQQRAAAAKEGWSYRLVFSARLVGVFLVADALFIGAQQVVHYLQDIRSH</sequence>
+    <xref id="maker-Scaffold_61262_SNP_4536745-exonerate_protein2genome-gene-0.1-mRNA-1" name="maker-Scaffold_61262_SNP_4536745-exonerate_protein2genome-gene-0.1-mRNA-1"/>
+    <matches>
+      <hmmer2-match evalue="9.2E-14" score="61.7">
+        <signature ac="SM00450" name="rhod_4">
+          <entry ac="IPR001763" desc="Rhodanese-like domain" name="Rhodanese-like_dom" type="DOMAIN">
+            <pathway-xref db="MetaCyc" id="PWY-7980" name="ATP biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8052" name="2-arachidonoylglycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7735" name="echinomycin and triostin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-RNO-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-HSA-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="Reactome" id="R-DME-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-MMU-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-RNO-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="Reactome" id="R-MMU-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-6823" name="molybdopterin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7018" name="paromomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5303" name="thiosulfate oxidation II (via tetrathionate)"/>
+            <pathway-xref db="Reactome" id="R-SPO-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-HSA-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-6998" name="CDP-D-arabitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7878" name="A-factor gamma-butyrolactone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6892" name="thiazole component of thiamine diphosphate biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-5329" name="L-cysteine degradation III"/>
+            <pathway-xref db="Reactome" id="R-HSA-8862803" name="Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models"/>
+            <pathway-xref db="Reactome" id="R-RNO-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-RNO-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-6807004" name="Negative regulation of MET activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-7888" name="tRNA-uridine 2-thiolation (cytoplasmic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6802" name="salidroside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-1358803" name="Downregulation of ERBB2:ERBB3 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7396" name="butanol and isobutanol biosynthesis (engineered)"/>
+            <pathway-xref db="Reactome" id="R-MMU-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-HSA-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-8136" name="NADPH repair (prokaryotes)"/>
+            <pathway-xref db="Reactome" id="R-DME-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="Reactome" id="R-DDI-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="MetaCyc" id="PWY-7119" name="ceramide and sphingolipid recycling and degradation (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5350" name="thiosulfate disproportionation IV (rhodanese)"/>
+            <pathway-xref db="Reactome" id="R-RNO-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="Reactome" id="R-GGA-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="MetaCyc" id="PWY-5480" name="pyruvate fermentation to ethanol I"/>
+            <pathway-xref db="Reactome" id="R-GGA-437980" name="Activated TAK1 mediates p38 MAP kinase phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-DRE-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-SPO-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804114" name="TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest"/>
+            <pathway-xref db="MetaCyc" id="PWY-7892" name="tRNA-uridine 2-thiolation and selenation (bacteria)"/>
+            <pathway-xref db="Reactome" id="R-RNO-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="Reactome" id="R-MMU-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8131" name="5'-deoxyadenosine degradation II"/>
+            <pathway-xref db="Reactome" id="R-DME-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-MMU-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-DME-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="Reactome" id="R-MMU-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="MetaCyc" id="PWY-6675" name="sulfur oxidation IV (intracellular sulfur)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6703" name="preQ0 biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-4702" name="phytate degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7174" name="S-methyl-5-thio-alpha-D-ribose 1-phosphate degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7127" name="CDP-D-mannitol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5704" name="urea degradation II"/>
+            <pathway-xref db="Reactome" id="R-SPO-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-MMU-6807004" name="Negative regulation of MET activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-4361" name="S-methyl-5-thio-alpha-D-ribose 1-phosphate degradation I"/>
+            <pathway-xref db="Reactome" id="R-SPO-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-RNO-199418" name="Negative regulation of the PI3K/AKT network"/>
+            <pathway-xref db="Reactome" id="R-RNO-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-MMU-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-HSA-204174" name="Regulation of pyruvate dehydrogenase (PDH) complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-8282" name="adenosylcobinamide-GDP salvage from assorted adenosylcobamides"/>
+            <pathway-xref db="Reactome" id="R-DME-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-DDI-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-HSA-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6365" name="D-myo-inositol (3,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-SCE-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-DME-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="Reactome" id="R-MMU-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-5656169" name="Termination of translesion DNA synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7111" name="pyruvate fermentation to isobutanol (engineered)"/>
+            <pathway-xref db="Reactome" id="R-BTA-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-GGA-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="MetaCyc" id="PWY-6333" name="acetaldehyde biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8130" name="5'-deoxyadenosine degradation I"/>
+            <pathway-xref db="Reactome" id="R-SCE-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-SPO-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="MetaCyc" id="PWY-6342" name="noradrenaline and adrenaline degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5057" name="L-valine degradation II"/>
+            <pathway-xref db="Reactome" id="R-HSA-9652817" name="Signaling by MAPK mutants"/>
+            <pathway-xref db="Reactome" id="R-SCE-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-DDI-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="Reactome" id="R-RNO-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-6456" name="serinol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-HSA-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="MetaCyc" id="PWY-8164" name="bis(guanylyl molybdopterin) cofactor sulfurylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-3162" name="L-tryptophan degradation V (side chain pathway)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7881" name="virginiae butanolide type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7771" name="butachlor degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="Reactome" id="R-MMU-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="MetaCyc" id="PWY-7887" name="protein SAMPylation and SAMP-mediated thiolation"/>
+            <pathway-xref db="Reactome" id="R-DDI-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="Reactome" id="R-RNO-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="MetaCyc" id="PWY-8263" name="arsenate detoxification III"/>
+            <pathway-xref db="Reactome" id="R-HSA-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-MMU-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-DDI-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="MetaCyc" id="PWY-7008" name="2-hydroxybiphenyl degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="MetaCyc" id="PWY-4722" name="creatinine degradation II"/>
+            <pathway-xref db="Reactome" id="R-DME-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="Reactome" id="R-DDI-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-HSA-1362277" name="Transcription of E2F targets under negative control by DREAM complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-6724" name="starch degradation II"/>
+            <pathway-xref db="Reactome" id="R-SCE-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="Reactome" id="R-SPO-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="MetaCyc" id="PWY-7009" name="2,2'-dihydroxybiphenyl degradation"/>
+            <pathway-xref db="Reactome" id="R-BTA-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-HSA-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="MetaCyc" id="PWY-8259" name="arsenic detoxification (plants)"/>
+            <pathway-xref db="Reactome" id="R-HSA-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="MetaCyc" id="PWY-5751" name="phenylethanol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-1358803" name="Downregulation of ERBB2:ERBB3 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7889" name="tRNA-uridine 2-thiolation (mammalian mitochondria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8137" name="NADPH repair (eukaryotes)"/>
+            <pathway-xref db="Reactome" id="R-DME-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-HSA-1358803" name="Downregulation of ERBB2:ERBB3 signaling"/>
+            <pathway-xref db="Reactome" id="R-CEL-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-8176" name="geraniol biosynthesis (cytosol)"/>
+            <pathway-xref db="MetaCyc" id="PWY-4621" name="arsenic detoxification (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6313" name="serotonin degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7863" name="roseoflavin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="Reactome" id="R-DRE-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-HSA-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-HSA-9636569" name="Suppression of autophagy"/>
+            <pathway-xref db="Reactome" id="R-SPO-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-DDI-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="MetaCyc" id="PWY-6368" name="3-phosphoinositide degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-HSA-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-8132" name="S-methyl-5-thio-alpha-D-ribose 1-phosphate degradation III"/>
+            <pathway-xref db="Reactome" id="R-MTU-936654" name="Cysteine synthesis from O-phosphoserine"/>
+            <pathway-xref db="MetaCyc" id="PWY-5078" name="L-isoleucine degradation II"/>
+            <pathway-xref db="Reactome" id="R-DRE-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6148" name="tetrahydromethanopterin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="Reactome" id="R-GGA-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-GGA-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="Reactome" id="R-SPO-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="MetaCyc" id="PWY-3661" name="glycine betaine degradation I"/>
+            <pathway-xref db="Reactome" id="R-DRE-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-MMU-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-MMU-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="Reactome" id="R-HSA-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-6366" name="D-myo-inositol (1,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6871" name="3-methylbutanol biosynthesis (engineered)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="MetaCyc" id="PWY-6352" name="3-phosphoinositide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7882" name="IM-2 type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6990" name="(+)-camphor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6575" name="juvenile hormone III biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-GGA-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="MetaCyc" id="PWY-7737" name="thiocoraline biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7927" name="sulfide oxidation IV (mitochondria)"/>
+            <pathway-xref db="Reactome" id="R-DDI-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="Reactome" id="R-RNO-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-GGA-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="Reactome" id="R-MMU-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="MetaCyc" id="PWY-5486" name="pyruvate fermentation to ethanol II"/>
+            <pathway-xref db="Reactome" id="R-MMU-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-8264" name="arsenate detoxification I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7456" name="beta-(1,4)-mannan degradation"/>
+            <pathway-xref db="Reactome" id="R-SPO-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="MetaCyc" id="PWY-6938" name="NADH repair (prokaryotes)"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614517" name="Sulfide oxidation to sulfate"/>
+            <pathway-xref db="Reactome" id="R-SCE-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="Reactome" id="R-HSA-4641263" name="Regulation of FZD by ubiquitination"/>
+            <pathway-xref db="MetaCyc" id="PWY-7531" name="mannojirimycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-DDI-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-HSA-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="Reactome" id="R-DRE-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="Reactome" id="R-RNO-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="Reactome" id="R-RNO-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-437986" name="Activated TAK1 mediates Jun kinases (JNK) phosphorylation and activation"/>
+            <pathway-xref db="Reactome" id="R-SSC-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6720" name="toyocamycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-MMU-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-DME-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-DME-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="MetaCyc" id="PWY-7904" name="tRNA-uridine 2-thiolation (thermophilic bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5079" name="L-phenylalanine degradation III"/>
+            <pathway-xref db="Reactome" id="R-SPO-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="MetaCyc" id="PWY-5082" name="L-methionine degradation III"/>
+            <pathway-xref db="MetaCyc" id="PWY-842" name="starch degradation I"/>
+            <pathway-xref db="Reactome" id="R-SCE-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="Reactome" id="R-MMU-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="MetaCyc" id="PWY-7250" name="[2Fe-2S] iron-sulfur cluster biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7891" name="tRNA-uridine 2-thiolation (yeast mitochondria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7013" name="(S)-propane-1,2-diol degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8117" name="colibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-5491" name="diethylphosphate degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-MMU-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-8247" name="(Kdo)2-lipid A biosynthesis (P. gingivalis)"/>
+            <pathway-xref db="Reactome" id="R-CEL-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="Reactome" id="R-SCE-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-7321" name="ecdysteroid metabolism (arthropods)"/>
+            <pathway-xref db="Reactome" id="R-SCE-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-MMU-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="MetaCyc" id="PWY-6587" name="pyruvate fermentation to ethanol III"/>
+            <pathway-xref db="Reactome" id="R-GGA-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-RNO-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-HSA-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="Reactome" id="R-DRE-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-6626" name="cytidine-5'-diphosphate-glycerol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6991" name="(-)-camphor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-MMU-4641263" name="Regulation of FZD by ubiquitination"/>
+            <pathway-xref db="Reactome" id="R-SCE-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-SPO-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-5076" name="L-leucine degradation III"/>
+            <pathway-xref db="Reactome" id="R-MMU-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="MetaCyc" id="PWY-6686" name="mannosylglucosylglycerate biosynthesis I"/>
+          </entry>
+          <signature-library-release library="SMART" version="7.1"/>
+        </signature>
+        <model-ac>SM00450</model-ac>
+        <locations>
+          <hmmer2-location score="61.7" evalue="9.2E-14" hmm-start="1" hmm-end="94" hmm-length="94" hmm-bounds="COMPLETE" start="9" end="139">
+            <location-fragments>
+              <hmmer2-location-fragment start="9" end="139" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer2-location>
+        </locations>
+      </hmmer2-match>
+      <hmmer3-match evalue="1.3E-8" score="35.3">
+        <signature ac="PF00581" desc="Rhodanese-like domain" name="Rhodanese">
+          <entry ac="IPR001763" desc="Rhodanese-like domain" name="Rhodanese-like_dom" type="DOMAIN">
+            <pathway-xref db="MetaCyc" id="PWY-7980" name="ATP biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8052" name="2-arachidonoylglycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7735" name="echinomycin and triostin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-RNO-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-HSA-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="Reactome" id="R-DME-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-MMU-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-RNO-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="Reactome" id="R-MMU-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-6823" name="molybdopterin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7018" name="paromomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5303" name="thiosulfate oxidation II (via tetrathionate)"/>
+            <pathway-xref db="Reactome" id="R-SPO-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-HSA-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-6998" name="CDP-D-arabitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7878" name="A-factor gamma-butyrolactone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6892" name="thiazole component of thiamine diphosphate biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-5329" name="L-cysteine degradation III"/>
+            <pathway-xref db="Reactome" id="R-HSA-8862803" name="Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models"/>
+            <pathway-xref db="Reactome" id="R-RNO-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-RNO-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-6807004" name="Negative regulation of MET activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-7888" name="tRNA-uridine 2-thiolation (cytoplasmic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6802" name="salidroside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-1358803" name="Downregulation of ERBB2:ERBB3 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7396" name="butanol and isobutanol biosynthesis (engineered)"/>
+            <pathway-xref db="Reactome" id="R-MMU-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-HSA-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-8136" name="NADPH repair (prokaryotes)"/>
+            <pathway-xref db="Reactome" id="R-DME-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="Reactome" id="R-DDI-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="MetaCyc" id="PWY-7119" name="ceramide and sphingolipid recycling and degradation (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5350" name="thiosulfate disproportionation IV (rhodanese)"/>
+            <pathway-xref db="Reactome" id="R-RNO-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="Reactome" id="R-GGA-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="MetaCyc" id="PWY-5480" name="pyruvate fermentation to ethanol I"/>
+            <pathway-xref db="Reactome" id="R-GGA-437980" name="Activated TAK1 mediates p38 MAP kinase phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-DRE-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-SPO-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804114" name="TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest"/>
+            <pathway-xref db="MetaCyc" id="PWY-7892" name="tRNA-uridine 2-thiolation and selenation (bacteria)"/>
+            <pathway-xref db="Reactome" id="R-RNO-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="Reactome" id="R-MMU-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8131" name="5'-deoxyadenosine degradation II"/>
+            <pathway-xref db="Reactome" id="R-DME-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-MMU-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-DME-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="Reactome" id="R-MMU-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="MetaCyc" id="PWY-6675" name="sulfur oxidation IV (intracellular sulfur)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6703" name="preQ0 biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-4702" name="phytate degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7174" name="S-methyl-5-thio-alpha-D-ribose 1-phosphate degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7127" name="CDP-D-mannitol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5704" name="urea degradation II"/>
+            <pathway-xref db="Reactome" id="R-SPO-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-MMU-6807004" name="Negative regulation of MET activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-4361" name="S-methyl-5-thio-alpha-D-ribose 1-phosphate degradation I"/>
+            <pathway-xref db="Reactome" id="R-SPO-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-RNO-199418" name="Negative regulation of the PI3K/AKT network"/>
+            <pathway-xref db="Reactome" id="R-RNO-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-MMU-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-HSA-204174" name="Regulation of pyruvate dehydrogenase (PDH) complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-8282" name="adenosylcobinamide-GDP salvage from assorted adenosylcobamides"/>
+            <pathway-xref db="Reactome" id="R-DME-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-DDI-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-HSA-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6365" name="D-myo-inositol (3,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-SCE-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-DME-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="Reactome" id="R-MMU-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-5656169" name="Termination of translesion DNA synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7111" name="pyruvate fermentation to isobutanol (engineered)"/>
+            <pathway-xref db="Reactome" id="R-BTA-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-GGA-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="MetaCyc" id="PWY-6333" name="acetaldehyde biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8130" name="5'-deoxyadenosine degradation I"/>
+            <pathway-xref db="Reactome" id="R-SCE-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-SPO-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="MetaCyc" id="PWY-6342" name="noradrenaline and adrenaline degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5057" name="L-valine degradation II"/>
+            <pathway-xref db="Reactome" id="R-HSA-9652817" name="Signaling by MAPK mutants"/>
+            <pathway-xref db="Reactome" id="R-SCE-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-DDI-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="Reactome" id="R-RNO-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-6456" name="serinol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-HSA-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="MetaCyc" id="PWY-8164" name="bis(guanylyl molybdopterin) cofactor sulfurylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-3162" name="L-tryptophan degradation V (side chain pathway)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7881" name="virginiae butanolide type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7771" name="butachlor degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="Reactome" id="R-MMU-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="MetaCyc" id="PWY-7887" name="protein SAMPylation and SAMP-mediated thiolation"/>
+            <pathway-xref db="Reactome" id="R-DDI-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="Reactome" id="R-RNO-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="MetaCyc" id="PWY-8263" name="arsenate detoxification III"/>
+            <pathway-xref db="Reactome" id="R-HSA-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-MMU-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-DDI-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="MetaCyc" id="PWY-7008" name="2-hydroxybiphenyl degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="MetaCyc" id="PWY-4722" name="creatinine degradation II"/>
+            <pathway-xref db="Reactome" id="R-DME-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="Reactome" id="R-DDI-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-HSA-1362277" name="Transcription of E2F targets under negative control by DREAM complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-6724" name="starch degradation II"/>
+            <pathway-xref db="Reactome" id="R-SCE-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="Reactome" id="R-SPO-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="MetaCyc" id="PWY-7009" name="2,2'-dihydroxybiphenyl degradation"/>
+            <pathway-xref db="Reactome" id="R-BTA-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-HSA-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="MetaCyc" id="PWY-8259" name="arsenic detoxification (plants)"/>
+            <pathway-xref db="Reactome" id="R-HSA-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="MetaCyc" id="PWY-5751" name="phenylethanol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-1358803" name="Downregulation of ERBB2:ERBB3 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7889" name="tRNA-uridine 2-thiolation (mammalian mitochondria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8137" name="NADPH repair (eukaryotes)"/>
+            <pathway-xref db="Reactome" id="R-DME-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-HSA-1358803" name="Downregulation of ERBB2:ERBB3 signaling"/>
+            <pathway-xref db="Reactome" id="R-CEL-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-8176" name="geraniol biosynthesis (cytosol)"/>
+            <pathway-xref db="MetaCyc" id="PWY-4621" name="arsenic detoxification (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6313" name="serotonin degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7863" name="roseoflavin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="Reactome" id="R-DRE-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-HSA-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-HSA-9636569" name="Suppression of autophagy"/>
+            <pathway-xref db="Reactome" id="R-SPO-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-DDI-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="MetaCyc" id="PWY-6368" name="3-phosphoinositide degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-HSA-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-8132" name="S-methyl-5-thio-alpha-D-ribose 1-phosphate degradation III"/>
+            <pathway-xref db="Reactome" id="R-MTU-936654" name="Cysteine synthesis from O-phosphoserine"/>
+            <pathway-xref db="MetaCyc" id="PWY-5078" name="L-isoleucine degradation II"/>
+            <pathway-xref db="Reactome" id="R-DRE-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6148" name="tetrahydromethanopterin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="Reactome" id="R-GGA-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-GGA-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="Reactome" id="R-SPO-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="MetaCyc" id="PWY-3661" name="glycine betaine degradation I"/>
+            <pathway-xref db="Reactome" id="R-DRE-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-MMU-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-MMU-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="Reactome" id="R-HSA-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-6366" name="D-myo-inositol (1,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6871" name="3-methylbutanol biosynthesis (engineered)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="MetaCyc" id="PWY-6352" name="3-phosphoinositide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7882" name="IM-2 type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6990" name="(+)-camphor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6575" name="juvenile hormone III biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-GGA-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="MetaCyc" id="PWY-7737" name="thiocoraline biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7927" name="sulfide oxidation IV (mitochondria)"/>
+            <pathway-xref db="Reactome" id="R-DDI-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="Reactome" id="R-RNO-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-GGA-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="Reactome" id="R-MMU-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="MetaCyc" id="PWY-5486" name="pyruvate fermentation to ethanol II"/>
+            <pathway-xref db="Reactome" id="R-MMU-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-8264" name="arsenate detoxification I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7456" name="beta-(1,4)-mannan degradation"/>
+            <pathway-xref db="Reactome" id="R-SPO-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="MetaCyc" id="PWY-6938" name="NADH repair (prokaryotes)"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614517" name="Sulfide oxidation to sulfate"/>
+            <pathway-xref db="Reactome" id="R-SCE-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="Reactome" id="R-HSA-4641263" name="Regulation of FZD by ubiquitination"/>
+            <pathway-xref db="MetaCyc" id="PWY-7531" name="mannojirimycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-DDI-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-HSA-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="Reactome" id="R-DRE-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="Reactome" id="R-RNO-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="Reactome" id="R-RNO-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-437986" name="Activated TAK1 mediates Jun kinases (JNK) phosphorylation and activation"/>
+            <pathway-xref db="Reactome" id="R-SSC-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6720" name="toyocamycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-MMU-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-DME-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-DME-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="MetaCyc" id="PWY-7904" name="tRNA-uridine 2-thiolation (thermophilic bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5079" name="L-phenylalanine degradation III"/>
+            <pathway-xref db="Reactome" id="R-SPO-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="MetaCyc" id="PWY-5082" name="L-methionine degradation III"/>
+            <pathway-xref db="MetaCyc" id="PWY-842" name="starch degradation I"/>
+            <pathway-xref db="Reactome" id="R-SCE-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="Reactome" id="R-MMU-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="MetaCyc" id="PWY-7250" name="[2Fe-2S] iron-sulfur cluster biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7891" name="tRNA-uridine 2-thiolation (yeast mitochondria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7013" name="(S)-propane-1,2-diol degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8117" name="colibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-5491" name="diethylphosphate degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-MMU-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-8247" name="(Kdo)2-lipid A biosynthesis (P. gingivalis)"/>
+            <pathway-xref db="Reactome" id="R-CEL-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="Reactome" id="R-SCE-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-7321" name="ecdysteroid metabolism (arthropods)"/>
+            <pathway-xref db="Reactome" id="R-SCE-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-MMU-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="MetaCyc" id="PWY-6587" name="pyruvate fermentation to ethanol III"/>
+            <pathway-xref db="Reactome" id="R-GGA-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-RNO-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-HSA-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="Reactome" id="R-DRE-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-6626" name="cytidine-5'-diphosphate-glycerol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6991" name="(-)-camphor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-MMU-4641263" name="Regulation of FZD by ubiquitination"/>
+            <pathway-xref db="Reactome" id="R-SCE-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-SPO-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-5076" name="L-leucine degradation III"/>
+            <pathway-xref db="Reactome" id="R-MMU-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="MetaCyc" id="PWY-6686" name="mannosylglucosylglycerate biosynthesis I"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF00581</model-ac>
+        <locations>
+          <hmmer3-location env-end="136" env-start="11" post-processed="true" score="34.1" evalue="3.1E-8" hmm-start="9" hmm-end="103" hmm-length="107" hmm-bounds="INCOMPLETE" start="21" end="132">
+            <location-fragments>
+              <hmmer3-location-fragment start="21" end="132" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="1.7E-21" score="78.5">
+        <signature ac="G3DSA:3.40.250.10" name="">
+          <entry ac="IPR036873" desc="Rhodanese-like domain superfamily" name="Rhodanese-like_dom_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="MetaCyc" id="PWY-8052" name="2-arachidonoylglycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7735" name="echinomycin and triostin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-RNO-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-HSA-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="Reactome" id="R-DME-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-MMU-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-RNO-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="Reactome" id="R-MMU-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-6823" name="molybdopterin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7018" name="paromomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5303" name="thiosulfate oxidation II (via tetrathionate)"/>
+            <pathway-xref db="Reactome" id="R-SPO-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-HSA-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-6998" name="CDP-D-arabitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7878" name="A-factor gamma-butyrolactone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6892" name="thiazole component of thiamine diphosphate biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-5329" name="L-cysteine degradation III"/>
+            <pathway-xref db="Reactome" id="R-HSA-8862803" name="Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models"/>
+            <pathway-xref db="Reactome" id="R-RNO-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-RNO-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-6807004" name="Negative regulation of MET activity"/>
+            <pathway-xref db="Reactome" id="R-SCE-110314" name="Recognition of DNA damage by PCNA-containing replication complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-7888" name="tRNA-uridine 2-thiolation (cytoplasmic)"/>
+            <pathway-xref db="Reactome" id="R-SCE-1358803" name="Downregulation of ERBB2:ERBB3 signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-HSA-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="Reactome" id="R-DME-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="Reactome" id="R-DDI-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="MetaCyc" id="PWY-7119" name="ceramide and sphingolipid recycling and degradation (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5350" name="thiosulfate disproportionation IV (rhodanese)"/>
+            <pathway-xref db="Reactome" id="R-RNO-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="Reactome" id="R-GGA-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-GGA-437980" name="Activated TAK1 mediates p38 MAP kinase phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-DRE-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-SPO-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804114" name="TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest"/>
+            <pathway-xref db="MetaCyc" id="PWY-7892" name="tRNA-uridine 2-thiolation and selenation (bacteria)"/>
+            <pathway-xref db="Reactome" id="R-RNO-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="Reactome" id="R-MMU-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="Reactome" id="R-DME-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-MMU-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-DME-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="Reactome" id="R-MMU-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="MetaCyc" id="PWY-6675" name="sulfur oxidation IV (intracellular sulfur)"/>
+            <pathway-xref db="MetaCyc" id="PWY-4702" name="phytate degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7127" name="CDP-D-mannitol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-MMU-6807004" name="Negative regulation of MET activity"/>
+            <pathway-xref db="Reactome" id="R-SPO-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-RNO-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-MMU-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-8282" name="adenosylcobinamide-GDP salvage from assorted adenosylcobamides"/>
+            <pathway-xref db="Reactome" id="R-DME-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-DDI-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-HSA-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6365" name="D-myo-inositol (3,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-SCE-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-DME-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="Reactome" id="R-MMU-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-5656169" name="Termination of translesion DNA synthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-GGA-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-SCE-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-SPO-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="Reactome" id="R-HSA-9652817" name="Signaling by MAPK mutants"/>
+            <pathway-xref db="Reactome" id="R-SCE-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-DDI-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="Reactome" id="R-RNO-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-6456" name="serinol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-HSA-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="MetaCyc" id="PWY-8164" name="bis(guanylyl molybdopterin) cofactor sulfurylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7881" name="virginiae butanolide type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7771" name="butachlor degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="Reactome" id="R-MMU-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="MetaCyc" id="PWY-7887" name="protein SAMPylation and SAMP-mediated thiolation"/>
+            <pathway-xref db="Reactome" id="R-DDI-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="Reactome" id="R-RNO-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="MetaCyc" id="PWY-8263" name="arsenate detoxification III"/>
+            <pathway-xref db="Reactome" id="R-HSA-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-MMU-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-DDI-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="Reactome" id="R-HSA-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-DME-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="Reactome" id="R-DDI-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-HSA-1362277" name="Transcription of E2F targets under negative control by DREAM complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-6724" name="starch degradation II"/>
+            <pathway-xref db="Reactome" id="R-SCE-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="Reactome" id="R-SPO-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="Reactome" id="R-BTA-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-HSA-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="MetaCyc" id="PWY-8259" name="arsenic detoxification (plants)"/>
+            <pathway-xref db="Reactome" id="R-HSA-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="Reactome" id="R-MMU-1358803" name="Downregulation of ERBB2:ERBB3 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7889" name="tRNA-uridine 2-thiolation (mammalian mitochondria)"/>
+            <pathway-xref db="Reactome" id="R-DME-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-HSA-1358803" name="Downregulation of ERBB2:ERBB3 signaling"/>
+            <pathway-xref db="Reactome" id="R-CEL-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-8176" name="geraniol biosynthesis (cytosol)"/>
+            <pathway-xref db="MetaCyc" id="PWY-4621" name="arsenic detoxification (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7863" name="roseoflavin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="Reactome" id="R-DRE-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-HSA-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-HSA-9636569" name="Suppression of autophagy"/>
+            <pathway-xref db="Reactome" id="R-SPO-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-DDI-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="MetaCyc" id="PWY-6368" name="3-phosphoinositide degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-HSA-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-MTU-936654" name="Cysteine synthesis from O-phosphoserine"/>
+            <pathway-xref db="Reactome" id="R-DRE-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6148" name="tetrahydromethanopterin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="Reactome" id="R-GGA-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-GGA-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="Reactome" id="R-SPO-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-DRE-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-MMU-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-MMU-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="Reactome" id="R-HSA-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-6366" name="D-myo-inositol (1,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="MetaCyc" id="PWY-6352" name="3-phosphoinositide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7882" name="IM-2 type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6990" name="(+)-camphor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6575" name="juvenile hormone III biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-GGA-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="MetaCyc" id="PWY-7737" name="thiocoraline biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7927" name="sulfide oxidation IV (mitochondria)"/>
+            <pathway-xref db="Reactome" id="R-DDI-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="Reactome" id="R-RNO-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-GGA-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="Reactome" id="R-MMU-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-MMU-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-8264" name="arsenate detoxification I"/>
+            <pathway-xref db="Reactome" id="R-SPO-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614517" name="Sulfide oxidation to sulfate"/>
+            <pathway-xref db="Reactome" id="R-SCE-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="Reactome" id="R-HSA-4641263" name="Regulation of FZD by ubiquitination"/>
+            <pathway-xref db="MetaCyc" id="PWY-7531" name="mannojirimycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-DDI-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-HSA-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="Reactome" id="R-DRE-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="Reactome" id="R-RNO-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="Reactome" id="R-RNO-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-437986" name="Activated TAK1 mediates Jun kinases (JNK) phosphorylation and activation"/>
+            <pathway-xref db="Reactome" id="R-SSC-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6720" name="toyocamycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-MMU-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-DME-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-DME-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="MetaCyc" id="PWY-7904" name="tRNA-uridine 2-thiolation (thermophilic bacteria)"/>
+            <pathway-xref db="Reactome" id="R-SPO-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="Reactome" id="R-SCE-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="Reactome" id="R-MMU-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="MetaCyc" id="PWY-7250" name="[2Fe-2S] iron-sulfur cluster biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7891" name="tRNA-uridine 2-thiolation (yeast mitochondria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8117" name="colibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-5491" name="diethylphosphate degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-MMU-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-8247" name="(Kdo)2-lipid A biosynthesis (P. gingivalis)"/>
+            <pathway-xref db="Reactome" id="R-CEL-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="Reactome" id="R-SCE-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-7321" name="ecdysteroid metabolism (arthropods)"/>
+            <pathway-xref db="Reactome" id="R-SCE-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-MMU-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="Reactome" id="R-GGA-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-RNO-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-HSA-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="Reactome" id="R-DRE-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-6626" name="cytidine-5'-diphosphate-glycerol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6991" name="(-)-camphor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-MMU-4641263" name="Regulation of FZD by ubiquitination"/>
+            <pathway-xref db="Reactome" id="R-SCE-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-SPO-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="Reactome" id="R-MMU-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="MetaCyc" id="PWY-6686" name="mannosylglucosylglycerate biosynthesis I"/>
+          </entry>
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>2fsxA00</model-ac>
+        <locations>
+          <hmmer3-location env-end="176" env-start="6" post-processed="true" score="77.9" evalue="2.7E-21" hmm-start="7" hmm-end="126" hmm-length="148" hmm-bounds="COMPLETE" start="6" end="176">
+            <location-fragments>
+              <hmmer3-location-fragment start="6" end="176" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="3.2E-125" familyName="RHODANESE-LIKE DOMAIN-CONTAINING PROTEIN 11, CHLOROPLASTIC" score="429.1">
+        <signature ac="PTHR45187" name="RHODANESE-LIKE DOMAIN-CONTAINING PROTEIN 11, CHLOROPLASTIC">
+          <entry ac="IPR044664" desc="Rhodanese-like domain-containing protein 11-like" name="STR11-like" type="FAMILY"/>
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR45187</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="209" hmm-start="86" hmm-end="294" hmm-length="294" hmm-bounds="COMPLETE" start="1" end="209">
+            <location-fragments>
+              <panther-location-fragment start="1" end="209" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <profilescan-match>
+        <signature ac="PS50206" desc="Rhodanese domain profile." name="RHODANESE_3">
+          <entry ac="IPR001763" desc="Rhodanese-like domain" name="Rhodanese-like_dom" type="DOMAIN">
+            <pathway-xref db="MetaCyc" id="PWY-7980" name="ATP biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8052" name="2-arachidonoylglycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7735" name="echinomycin and triostin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-RNO-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-HSA-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="Reactome" id="R-DME-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-MMU-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-RNO-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="Reactome" id="R-MMU-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-6823" name="molybdopterin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7018" name="paromomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5303" name="thiosulfate oxidation II (via tetrathionate)"/>
+            <pathway-xref db="Reactome" id="R-SPO-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-HSA-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-6998" name="CDP-D-arabitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7878" name="A-factor gamma-butyrolactone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6892" name="thiazole component of thiamine diphosphate biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-5329" name="L-cysteine degradation III"/>
+            <pathway-xref db="Reactome" id="R-HSA-8862803" name="Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models"/>
+            <pathway-xref db="Reactome" id="R-RNO-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-RNO-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-6807004" name="Negative regulation of MET activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-7888" name="tRNA-uridine 2-thiolation (cytoplasmic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6802" name="salidroside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-1358803" name="Downregulation of ERBB2:ERBB3 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7396" name="butanol and isobutanol biosynthesis (engineered)"/>
+            <pathway-xref db="Reactome" id="R-MMU-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-HSA-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-8136" name="NADPH repair (prokaryotes)"/>
+            <pathway-xref db="Reactome" id="R-DME-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="Reactome" id="R-DDI-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="MetaCyc" id="PWY-7119" name="ceramide and sphingolipid recycling and degradation (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5350" name="thiosulfate disproportionation IV (rhodanese)"/>
+            <pathway-xref db="Reactome" id="R-RNO-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="Reactome" id="R-GGA-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="MetaCyc" id="PWY-5480" name="pyruvate fermentation to ethanol I"/>
+            <pathway-xref db="Reactome" id="R-GGA-437980" name="Activated TAK1 mediates p38 MAP kinase phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-DRE-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-SPO-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804114" name="TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest"/>
+            <pathway-xref db="MetaCyc" id="PWY-7892" name="tRNA-uridine 2-thiolation and selenation (bacteria)"/>
+            <pathway-xref db="Reactome" id="R-RNO-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="Reactome" id="R-MMU-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8131" name="5'-deoxyadenosine degradation II"/>
+            <pathway-xref db="Reactome" id="R-DME-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-MMU-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-DME-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="Reactome" id="R-MMU-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="MetaCyc" id="PWY-6675" name="sulfur oxidation IV (intracellular sulfur)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6703" name="preQ0 biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-4702" name="phytate degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7174" name="S-methyl-5-thio-alpha-D-ribose 1-phosphate degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7127" name="CDP-D-mannitol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5704" name="urea degradation II"/>
+            <pathway-xref db="Reactome" id="R-SPO-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-MMU-6807004" name="Negative regulation of MET activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-4361" name="S-methyl-5-thio-alpha-D-ribose 1-phosphate degradation I"/>
+            <pathway-xref db="Reactome" id="R-SPO-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-RNO-199418" name="Negative regulation of the PI3K/AKT network"/>
+            <pathway-xref db="Reactome" id="R-RNO-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-MMU-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-HSA-204174" name="Regulation of pyruvate dehydrogenase (PDH) complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-8282" name="adenosylcobinamide-GDP salvage from assorted adenosylcobamides"/>
+            <pathway-xref db="Reactome" id="R-DME-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-DDI-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-HSA-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6365" name="D-myo-inositol (3,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-SCE-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-DME-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="Reactome" id="R-MMU-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-5656169" name="Termination of translesion DNA synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7111" name="pyruvate fermentation to isobutanol (engineered)"/>
+            <pathway-xref db="Reactome" id="R-BTA-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-GGA-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="MetaCyc" id="PWY-6333" name="acetaldehyde biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8130" name="5'-deoxyadenosine degradation I"/>
+            <pathway-xref db="Reactome" id="R-SCE-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-SPO-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="MetaCyc" id="PWY-6342" name="noradrenaline and adrenaline degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5057" name="L-valine degradation II"/>
+            <pathway-xref db="Reactome" id="R-HSA-9652817" name="Signaling by MAPK mutants"/>
+            <pathway-xref db="Reactome" id="R-SCE-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-DDI-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="Reactome" id="R-RNO-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-6456" name="serinol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-HSA-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="MetaCyc" id="PWY-8164" name="bis(guanylyl molybdopterin) cofactor sulfurylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-3162" name="L-tryptophan degradation V (side chain pathway)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7881" name="virginiae butanolide type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7771" name="butachlor degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="Reactome" id="R-MMU-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="MetaCyc" id="PWY-7887" name="protein SAMPylation and SAMP-mediated thiolation"/>
+            <pathway-xref db="Reactome" id="R-DDI-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="Reactome" id="R-RNO-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="MetaCyc" id="PWY-8263" name="arsenate detoxification III"/>
+            <pathway-xref db="Reactome" id="R-HSA-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-MMU-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-DDI-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="MetaCyc" id="PWY-7008" name="2-hydroxybiphenyl degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="MetaCyc" id="PWY-4722" name="creatinine degradation II"/>
+            <pathway-xref db="Reactome" id="R-DME-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="Reactome" id="R-DDI-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-HSA-1362277" name="Transcription of E2F targets under negative control by DREAM complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-6724" name="starch degradation II"/>
+            <pathway-xref db="Reactome" id="R-SCE-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="Reactome" id="R-SPO-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="MetaCyc" id="PWY-7009" name="2,2'-dihydroxybiphenyl degradation"/>
+            <pathway-xref db="Reactome" id="R-BTA-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-HSA-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="MetaCyc" id="PWY-8259" name="arsenic detoxification (plants)"/>
+            <pathway-xref db="Reactome" id="R-HSA-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="MetaCyc" id="PWY-5751" name="phenylethanol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-1358803" name="Downregulation of ERBB2:ERBB3 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7889" name="tRNA-uridine 2-thiolation (mammalian mitochondria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8137" name="NADPH repair (eukaryotes)"/>
+            <pathway-xref db="Reactome" id="R-DME-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-HSA-1358803" name="Downregulation of ERBB2:ERBB3 signaling"/>
+            <pathway-xref db="Reactome" id="R-CEL-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-8176" name="geraniol biosynthesis (cytosol)"/>
+            <pathway-xref db="MetaCyc" id="PWY-4621" name="arsenic detoxification (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6313" name="serotonin degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7863" name="roseoflavin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="Reactome" id="R-DRE-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-HSA-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-HSA-9636569" name="Suppression of autophagy"/>
+            <pathway-xref db="Reactome" id="R-SPO-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-DDI-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="MetaCyc" id="PWY-6368" name="3-phosphoinositide degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-HSA-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-8132" name="S-methyl-5-thio-alpha-D-ribose 1-phosphate degradation III"/>
+            <pathway-xref db="Reactome" id="R-MTU-936654" name="Cysteine synthesis from O-phosphoserine"/>
+            <pathway-xref db="MetaCyc" id="PWY-5078" name="L-isoleucine degradation II"/>
+            <pathway-xref db="Reactome" id="R-DRE-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6148" name="tetrahydromethanopterin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="Reactome" id="R-GGA-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-GGA-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="Reactome" id="R-SPO-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="MetaCyc" id="PWY-3661" name="glycine betaine degradation I"/>
+            <pathway-xref db="Reactome" id="R-DRE-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-MMU-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-MMU-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="Reactome" id="R-HSA-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-6366" name="D-myo-inositol (1,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6871" name="3-methylbutanol biosynthesis (engineered)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="MetaCyc" id="PWY-6352" name="3-phosphoinositide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7882" name="IM-2 type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6990" name="(+)-camphor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6575" name="juvenile hormone III biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-GGA-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="MetaCyc" id="PWY-7737" name="thiocoraline biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7927" name="sulfide oxidation IV (mitochondria)"/>
+            <pathway-xref db="Reactome" id="R-DDI-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="Reactome" id="R-RNO-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-GGA-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="Reactome" id="R-MMU-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="MetaCyc" id="PWY-5486" name="pyruvate fermentation to ethanol II"/>
+            <pathway-xref db="Reactome" id="R-MMU-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-8264" name="arsenate detoxification I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7456" name="beta-(1,4)-mannan degradation"/>
+            <pathway-xref db="Reactome" id="R-SPO-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="MetaCyc" id="PWY-6938" name="NADH repair (prokaryotes)"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614517" name="Sulfide oxidation to sulfate"/>
+            <pathway-xref db="Reactome" id="R-SCE-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="Reactome" id="R-HSA-4641263" name="Regulation of FZD by ubiquitination"/>
+            <pathway-xref db="MetaCyc" id="PWY-7531" name="mannojirimycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-DDI-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-HSA-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="Reactome" id="R-DRE-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="Reactome" id="R-RNO-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="Reactome" id="R-RNO-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-437986" name="Activated TAK1 mediates Jun kinases (JNK) phosphorylation and activation"/>
+            <pathway-xref db="Reactome" id="R-SSC-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6720" name="toyocamycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-MMU-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-DME-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-DME-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="MetaCyc" id="PWY-7904" name="tRNA-uridine 2-thiolation (thermophilic bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5079" name="L-phenylalanine degradation III"/>
+            <pathway-xref db="Reactome" id="R-SPO-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="MetaCyc" id="PWY-5082" name="L-methionine degradation III"/>
+            <pathway-xref db="MetaCyc" id="PWY-842" name="starch degradation I"/>
+            <pathway-xref db="Reactome" id="R-SCE-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="Reactome" id="R-MMU-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="MetaCyc" id="PWY-7250" name="[2Fe-2S] iron-sulfur cluster biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7891" name="tRNA-uridine 2-thiolation (yeast mitochondria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7013" name="(S)-propane-1,2-diol degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8117" name="colibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-5491" name="diethylphosphate degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-MMU-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-8247" name="(Kdo)2-lipid A biosynthesis (P. gingivalis)"/>
+            <pathway-xref db="Reactome" id="R-CEL-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="Reactome" id="R-SCE-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-7321" name="ecdysteroid metabolism (arthropods)"/>
+            <pathway-xref db="Reactome" id="R-SCE-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-MMU-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="MetaCyc" id="PWY-6587" name="pyruvate fermentation to ethanol III"/>
+            <pathway-xref db="Reactome" id="R-GGA-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-RNO-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-HSA-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="Reactome" id="R-DRE-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-6626" name="cytidine-5'-diphosphate-glycerol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6991" name="(-)-camphor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-MMU-4641263" name="Regulation of FZD by ubiquitination"/>
+            <pathway-xref db="Reactome" id="R-SCE-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-SPO-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-5076" name="L-leucine degradation III"/>
+            <pathway-xref db="Reactome" id="R-MMU-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="MetaCyc" id="PWY-6686" name="mannosylglucosylglycerate biosynthesis I"/>
+          </entry>
+          <signature-library-release library="PROSITE_PROFILES" version="2021_01"/>
+        </signature>
+        <model-ac>PS50206</model-ac>
+        <locations>
+          <profilescan-location score="13.901171" start="19" end="142">
+            <location-fragments>
+              <profilescan-location-fragment start="19" end="142" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>QlSNKTLLDVR------------------PSGEHEKARVKGSTWIPIFDVDTGFdagtlsrkitsfmmggwwsgvptlsYDNQFLSKVTQKYP--KDTDLIVACQK-GLRSLAACELLYNAGYRNLFWVQGGLeAAEEEDLEREG</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+      <rpsblast-match>
+        <signature ac="cd00158" desc="RHOD" name="RHOD">
+          <signature-library-release library="CDD" version="3.18"/>
+        </signature>
+        <model-ac>cd00158</model-ac>
+        <locations>
+          <rpsblast-location evalue="3.04311E-13" score="61.1614" start="24" end="129">
+            <location-fragments>
+              <rpsblast-location-fragment start="24" end="129" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <sites>
+              <rpsblast-site description="active site residue" numLocations="1">
+                <site-locations>
+                  <site-location residue="C" start="102" end="102"/>
+                </site-locations>
+              </rpsblast-site>
+            </sites>
+          </rpsblast-location>
+        </locations>
+      </rpsblast-match>
+      <superfamilyhmmer3-match evalue="6.04E-17">
+        <signature ac="SSF52821" name="Rhodanese/Cell cycle control phosphatase">
+          <entry ac="IPR036873" desc="Rhodanese-like domain superfamily" name="Rhodanese-like_dom_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="MetaCyc" id="PWY-8052" name="2-arachidonoylglycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7735" name="echinomycin and triostin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-RNO-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-HSA-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="Reactome" id="R-DME-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-MMU-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-RNO-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="Reactome" id="R-MMU-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-6823" name="molybdopterin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7018" name="paromomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5303" name="thiosulfate oxidation II (via tetrathionate)"/>
+            <pathway-xref db="Reactome" id="R-SPO-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-HSA-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-6998" name="CDP-D-arabitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7878" name="A-factor gamma-butyrolactone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6892" name="thiazole component of thiamine diphosphate biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-5329" name="L-cysteine degradation III"/>
+            <pathway-xref db="Reactome" id="R-HSA-8862803" name="Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models"/>
+            <pathway-xref db="Reactome" id="R-RNO-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-RNO-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-6807004" name="Negative regulation of MET activity"/>
+            <pathway-xref db="Reactome" id="R-SCE-110314" name="Recognition of DNA damage by PCNA-containing replication complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-7888" name="tRNA-uridine 2-thiolation (cytoplasmic)"/>
+            <pathway-xref db="Reactome" id="R-SCE-1358803" name="Downregulation of ERBB2:ERBB3 signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-HSA-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="Reactome" id="R-DME-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="Reactome" id="R-DDI-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="MetaCyc" id="PWY-7119" name="ceramide and sphingolipid recycling and degradation (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5350" name="thiosulfate disproportionation IV (rhodanese)"/>
+            <pathway-xref db="Reactome" id="R-RNO-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="Reactome" id="R-GGA-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-GGA-437980" name="Activated TAK1 mediates p38 MAP kinase phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-DRE-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-SPO-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804114" name="TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest"/>
+            <pathway-xref db="MetaCyc" id="PWY-7892" name="tRNA-uridine 2-thiolation and selenation (bacteria)"/>
+            <pathway-xref db="Reactome" id="R-RNO-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="Reactome" id="R-MMU-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="Reactome" id="R-DME-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-MMU-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-DME-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="Reactome" id="R-MMU-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="MetaCyc" id="PWY-6675" name="sulfur oxidation IV (intracellular sulfur)"/>
+            <pathway-xref db="MetaCyc" id="PWY-4702" name="phytate degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7127" name="CDP-D-mannitol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-MMU-6807004" name="Negative regulation of MET activity"/>
+            <pathway-xref db="Reactome" id="R-SPO-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-RNO-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-MMU-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-8282" name="adenosylcobinamide-GDP salvage from assorted adenosylcobamides"/>
+            <pathway-xref db="Reactome" id="R-DME-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-DDI-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-HSA-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6365" name="D-myo-inositol (3,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-SCE-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-DME-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="Reactome" id="R-MMU-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-5656169" name="Termination of translesion DNA synthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-GGA-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-SCE-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-SPO-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="Reactome" id="R-HSA-9652817" name="Signaling by MAPK mutants"/>
+            <pathway-xref db="Reactome" id="R-SCE-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-DDI-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="Reactome" id="R-RNO-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-6456" name="serinol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-HSA-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="MetaCyc" id="PWY-8164" name="bis(guanylyl molybdopterin) cofactor sulfurylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7881" name="virginiae butanolide type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7771" name="butachlor degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="Reactome" id="R-MMU-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="MetaCyc" id="PWY-7887" name="protein SAMPylation and SAMP-mediated thiolation"/>
+            <pathway-xref db="Reactome" id="R-DDI-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="Reactome" id="R-RNO-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="MetaCyc" id="PWY-8263" name="arsenate detoxification III"/>
+            <pathway-xref db="Reactome" id="R-HSA-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-MMU-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-DDI-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="Reactome" id="R-HSA-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-DME-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="Reactome" id="R-DDI-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-HSA-1362277" name="Transcription of E2F targets under negative control by DREAM complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-6724" name="starch degradation II"/>
+            <pathway-xref db="Reactome" id="R-SCE-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="Reactome" id="R-SPO-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="Reactome" id="R-BTA-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-HSA-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="MetaCyc" id="PWY-8259" name="arsenic detoxification (plants)"/>
+            <pathway-xref db="Reactome" id="R-HSA-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="Reactome" id="R-MMU-1358803" name="Downregulation of ERBB2:ERBB3 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7889" name="tRNA-uridine 2-thiolation (mammalian mitochondria)"/>
+            <pathway-xref db="Reactome" id="R-DME-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-HSA-1358803" name="Downregulation of ERBB2:ERBB3 signaling"/>
+            <pathway-xref db="Reactome" id="R-CEL-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-8176" name="geraniol biosynthesis (cytosol)"/>
+            <pathway-xref db="MetaCyc" id="PWY-4621" name="arsenic detoxification (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7863" name="roseoflavin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="Reactome" id="R-DRE-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-HSA-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-HSA-9636569" name="Suppression of autophagy"/>
+            <pathway-xref db="Reactome" id="R-SPO-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-DDI-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="MetaCyc" id="PWY-6368" name="3-phosphoinositide degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-HSA-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-MTU-936654" name="Cysteine synthesis from O-phosphoserine"/>
+            <pathway-xref db="Reactome" id="R-DRE-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6148" name="tetrahydromethanopterin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="Reactome" id="R-GGA-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-GGA-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="Reactome" id="R-SPO-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-DRE-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-MMU-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-MMU-156711" name="Polo-like kinase mediated events"/>
+            <pathway-xref db="Reactome" id="R-HSA-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-6366" name="D-myo-inositol (1,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="MetaCyc" id="PWY-6352" name="3-phosphoinositide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7882" name="IM-2 type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6990" name="(+)-camphor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6575" name="juvenile hormone III biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-GGA-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="MetaCyc" id="PWY-7737" name="thiocoraline biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7927" name="sulfide oxidation IV (mitochondria)"/>
+            <pathway-xref db="Reactome" id="R-DDI-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="Reactome" id="R-RNO-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-GGA-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="Reactome" id="R-MMU-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-MMU-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-8264" name="arsenate detoxification I"/>
+            <pathway-xref db="Reactome" id="R-SPO-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614517" name="Sulfide oxidation to sulfate"/>
+            <pathway-xref db="Reactome" id="R-SCE-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="Reactome" id="R-HSA-4641263" name="Regulation of FZD by ubiquitination"/>
+            <pathway-xref db="MetaCyc" id="PWY-7531" name="mannojirimycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-DDI-69273" name="Cyclin A/B1/B2 associated events during G2/M transition"/>
+            <pathway-xref db="Reactome" id="R-HSA-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="Reactome" id="R-DRE-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="Reactome" id="R-RNO-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="Reactome" id="R-RNO-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-437986" name="Activated TAK1 mediates Jun kinases (JNK) phosphorylation and activation"/>
+            <pathway-xref db="Reactome" id="R-SSC-947581" name="Molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6720" name="toyocamycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-69656" name="Cyclin A:Cdk2-associated events at S phase entry"/>
+            <pathway-xref db="Reactome" id="R-MMU-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-DME-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-DME-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="MetaCyc" id="PWY-7904" name="tRNA-uridine 2-thiolation (thermophilic bacteria)"/>
+            <pathway-xref db="Reactome" id="R-SPO-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="Reactome" id="R-SCE-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="Reactome" id="R-MMU-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="MetaCyc" id="PWY-7250" name="[2Fe-2S] iron-sulfur cluster biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7891" name="tRNA-uridine 2-thiolation (yeast mitochondria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8117" name="colibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-5491" name="diethylphosphate degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-MMU-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-8247" name="(Kdo)2-lipid A biosynthesis (P. gingivalis)"/>
+            <pathway-xref db="Reactome" id="R-CEL-112409" name="RAF-independent MAPK1/3 activation"/>
+            <pathway-xref db="Reactome" id="R-SCE-69202" name="Cyclin E associated events during G1/S transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-7321" name="ecdysteroid metabolism (arthropods)"/>
+            <pathway-xref db="Reactome" id="R-SCE-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-MMU-5625740" name="RHO GTPases activate PKNs"/>
+            <pathway-xref db="Reactome" id="R-GGA-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-RNO-69601" name="Ubiquitin Mediated Degradation of Phosphorylated Cdc25A"/>
+            <pathway-xref db="Reactome" id="R-HSA-176187" name="Activation of ATR in response to replication stress"/>
+            <pathway-xref db="Reactome" id="R-DRE-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-6626" name="cytidine-5'-diphosphate-glycerol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6991" name="(-)-camphor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-MMU-4641263" name="Regulation of FZD by ubiquitination"/>
+            <pathway-xref db="Reactome" id="R-SCE-75035" name="Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex"/>
+            <pathway-xref db="Reactome" id="R-SPO-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="Reactome" id="R-MMU-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="MetaCyc" id="PWY-6686" name="mannosylglucosylglycerate biosynthesis I"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0051398</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="136" start="5" end="142">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="83" end="142" dc-status="N_TERMINAL_DISC"/>
+              <superfamilyhmmer3-location-fragment start="5" end="47" dc-status="C_TERMINAL_DISC"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

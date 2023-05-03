@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="45765b815ea6b2f84bd7cd44f2bb26d0">MILLATNITSSEFDKAKGEGFADTVIMKPLRASTVAACLQQVLGVGKKIQQEHMLNGSLFLRSLLCGKRILVVDDNRVNRRVAAGALKKFGANVECAESGKAALALLQLPHNFDACFMDIQMPEMDGYVTEPLVSLFPMLCRFINLSFRSLSRYFSKSKIILVALLVA</sequence>
+    <xref id="maker-Scaffold_63432_SNP_2670146-exonerate_protein2genome-gene-0.0-mRNA-6" name="maker-Scaffold_63432_SNP_2670146-exonerate_protein2genome-gene-0.0-mRNA-6"/>
+    <matches>
+      <hmmer2-match evalue="2.5E-4" score="30.4">
+        <signature ac="SM00448" name="REC_2">
+          <entry ac="IPR001789" desc="Signal transduction response regulator, receiver domain" name="Sig_transdc_resp-reg_receiver" type="DOMAIN">
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0000160" name="phosphorelay signal transduction system"/>
+            <pathway-xref db="MetaCyc" id="PWY-8052" name="2-arachidonoylglycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-3371568" name="Attenuation phase"/>
+            <pathway-xref db="Reactome" id="R-DDI-418555" name="G alpha (s) signalling events"/>
+            <pathway-xref db="MetaCyc" id="PWY-6366" name="D-myo-inositol (1,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6129" name="dolichol and dolichyl phosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-3371453" name="Regulation of HSF1-mediated heat shock response"/>
+            <pathway-xref db="Reactome" id="R-DDI-418457" name="cGMP effects"/>
+            <pathway-xref db="Reactome" id="R-DDI-111957" name="Cam-PDE 1 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8282" name="adenosylcobinamide-GDP salvage from assorted adenosylcobamides"/>
+            <pathway-xref db="MetaCyc" id="PWY-7366" name="phosphatidylglycerol degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5491" name="diethylphosphate degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6365" name="D-myo-inositol (3,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8247" name="(Kdo)2-lipid A biosynthesis (P. gingivalis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6456" name="serinol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8176" name="geraniol biosynthesis (cytosol)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7531" name="mannojirimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-3371571" name="HSF1-dependent transactivation"/>
+            <pathway-xref db="Reactome" id="R-SPO-3371568" name="Attenuation phase"/>
+            <pathway-xref db="MetaCyc" id="PWY-6689" name="tRNA splicing I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7863" name="roseoflavin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7018" name="paromomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-3371571" name="HSF1-dependent transactivation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7321" name="ecdysteroid metabolism (arthropods)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6352" name="3-phosphoinositide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7882" name="IM-2 type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7878" name="A-factor gamma-butyrolactone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7881" name="virginiae butanolide type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5978" name="kanosamine biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-SCE-3371511" name="HSF1 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6990" name="(+)-camphor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6575" name="juvenile hormone III biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7771" name="butachlor degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6720" name="toyocamycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6368" name="3-phosphoinositide degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6991" name="(-)-camphor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-4702" name="phytate degradation I"/>
+            <pathway-xref db="Reactome" id="R-SPO-3371511" name="HSF1 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6148" name="tetrahydromethanopterin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-3371453" name="Regulation of HSF1-mediated heat shock response"/>
+            <pathway-xref db="MetaCyc" id="PWY-7119" name="ceramide and sphingolipid recycling and degradation (yeast)"/>
+            <pathway-xref db="Reactome" id="R-DDI-165160" name="PDE3B signalling"/>
+            <pathway-xref db="MetaCyc" id="PWY-6724" name="starch degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-6686" name="mannosylglucosylglycerate biosynthesis I"/>
+          </entry>
+          <signature-library-release library="SMART" version="7.1"/>
+        </signature>
+        <model-ac>SM00448</model-ac>
+        <locations>
+          <hmmer2-location score="30.4" evalue="2.5E-4" hmm-start="1" hmm-end="150" hmm-length="150" hmm-bounds="COMPLETE" start="68" end="166">
+            <location-fragments>
+              <hmmer2-location-fragment start="68" end="166" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer2-location>
+        </locations>
+      </hmmer2-match>
+      <hmmer3-match evalue="1.9E-23" score="84.7">
+        <signature ac="G3DSA:3.40.50.2300" name="">
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>5lnnA00</model-ac>
+        <locations>
+          <hmmer3-location env-end="131" env-start="61" post-processed="true" score="81.0" evalue="2.6E-22" hmm-start="23" hmm-end="98" hmm-length="169" hmm-bounds="COMPLETE" start="61" end="131">
+            <location-fragments>
+              <hmmer3-location-fragment start="61" end="131" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="2.1E-13" score="50.4">
+        <signature ac="PF00072" desc="Response regulator receiver domain" name="Response_reg">
+          <entry ac="IPR001789" desc="Signal transduction response regulator, receiver domain" name="Sig_transdc_resp-reg_receiver" type="DOMAIN">
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0000160" name="phosphorelay signal transduction system"/>
+            <pathway-xref db="MetaCyc" id="PWY-8052" name="2-arachidonoylglycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-3371568" name="Attenuation phase"/>
+            <pathway-xref db="Reactome" id="R-DDI-418555" name="G alpha (s) signalling events"/>
+            <pathway-xref db="MetaCyc" id="PWY-6366" name="D-myo-inositol (1,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6129" name="dolichol and dolichyl phosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-3371453" name="Regulation of HSF1-mediated heat shock response"/>
+            <pathway-xref db="Reactome" id="R-DDI-418457" name="cGMP effects"/>
+            <pathway-xref db="Reactome" id="R-DDI-111957" name="Cam-PDE 1 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8282" name="adenosylcobinamide-GDP salvage from assorted adenosylcobamides"/>
+            <pathway-xref db="MetaCyc" id="PWY-7366" name="phosphatidylglycerol degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5491" name="diethylphosphate degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6365" name="D-myo-inositol (3,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8247" name="(Kdo)2-lipid A biosynthesis (P. gingivalis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6456" name="serinol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8176" name="geraniol biosynthesis (cytosol)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7531" name="mannojirimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-3371571" name="HSF1-dependent transactivation"/>
+            <pathway-xref db="Reactome" id="R-SPO-3371568" name="Attenuation phase"/>
+            <pathway-xref db="MetaCyc" id="PWY-6689" name="tRNA splicing I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7863" name="roseoflavin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7018" name="paromomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-3371571" name="HSF1-dependent transactivation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7321" name="ecdysteroid metabolism (arthropods)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6352" name="3-phosphoinositide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7882" name="IM-2 type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7878" name="A-factor gamma-butyrolactone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7881" name="virginiae butanolide type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5978" name="kanosamine biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-SCE-3371511" name="HSF1 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6990" name="(+)-camphor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6575" name="juvenile hormone III biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7771" name="butachlor degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6720" name="toyocamycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6368" name="3-phosphoinositide degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6991" name="(-)-camphor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-4702" name="phytate degradation I"/>
+            <pathway-xref db="Reactome" id="R-SPO-3371511" name="HSF1 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6148" name="tetrahydromethanopterin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-3371453" name="Regulation of HSF1-mediated heat shock response"/>
+            <pathway-xref db="MetaCyc" id="PWY-7119" name="ceramide and sphingolipid recycling and degradation (yeast)"/>
+            <pathway-xref db="Reactome" id="R-DDI-165160" name="PDE3B signalling"/>
+            <pathway-xref db="MetaCyc" id="PWY-6724" name="starch degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-6686" name="mannosylglucosylglycerate biosynthesis I"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF00072</model-ac>
+        <locations>
+          <hmmer3-location env-end="147" env-start="70" post-processed="true" score="48.9" evalue="6.0E-13" hmm-start="1" hmm-end="59" hmm-length="112" hmm-bounds="N_TERMINAL_COMPLETE" start="70" end="128">
+            <location-fragments>
+              <hmmer3-location-fragment start="70" end="128" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="9.1E-65" familyName="HISTIDINE KINASE 4" score="230.8">
+        <signature ac="PTHR43719" name="TWO-COMPONENT HISTIDINE KINASE">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR43719</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="153" hmm-start="790" hmm-end="918" hmm-length="998" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="129">
+            <location-fragments>
+              <panther-location-fragment start="1" end="129" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="9.1E-65" familyName="HISTIDINE KINASE 4" score="230.8">
+        <signature ac="PTHR43719:SF51" name="HISTIDINE KINASE 4">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR43719:SF51</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="153" hmm-start="790" hmm-end="918" hmm-length="998" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="129">
+            <location-fragments>
+              <panther-location-fragment start="1" end="129" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <profilescan-match>
+        <signature ac="PS50110" desc="Response regulatory domain profile." name="RESPONSE_REGULATORY">
+          <entry ac="IPR001789" desc="Signal transduction response regulator, receiver domain" name="Sig_transdc_resp-reg_receiver" type="DOMAIN">
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0000160" name="phosphorelay signal transduction system"/>
+            <pathway-xref db="MetaCyc" id="PWY-8052" name="2-arachidonoylglycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-3371568" name="Attenuation phase"/>
+            <pathway-xref db="Reactome" id="R-DDI-418555" name="G alpha (s) signalling events"/>
+            <pathway-xref db="MetaCyc" id="PWY-6366" name="D-myo-inositol (1,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6129" name="dolichol and dolichyl phosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-3371453" name="Regulation of HSF1-mediated heat shock response"/>
+            <pathway-xref db="Reactome" id="R-DDI-418457" name="cGMP effects"/>
+            <pathway-xref db="Reactome" id="R-DDI-111957" name="Cam-PDE 1 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8282" name="adenosylcobinamide-GDP salvage from assorted adenosylcobamides"/>
+            <pathway-xref db="MetaCyc" id="PWY-7366" name="phosphatidylglycerol degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5491" name="diethylphosphate degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6365" name="D-myo-inositol (3,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8247" name="(Kdo)2-lipid A biosynthesis (P. gingivalis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6456" name="serinol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8176" name="geraniol biosynthesis (cytosol)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7531" name="mannojirimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-3371571" name="HSF1-dependent transactivation"/>
+            <pathway-xref db="Reactome" id="R-SPO-3371568" name="Attenuation phase"/>
+            <pathway-xref db="MetaCyc" id="PWY-6689" name="tRNA splicing I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7863" name="roseoflavin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7018" name="paromomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-3371571" name="HSF1-dependent transactivation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7321" name="ecdysteroid metabolism (arthropods)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6352" name="3-phosphoinositide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7882" name="IM-2 type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7878" name="A-factor gamma-butyrolactone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7881" name="virginiae butanolide type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5978" name="kanosamine biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-SCE-3371511" name="HSF1 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6990" name="(+)-camphor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6575" name="juvenile hormone III biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7771" name="butachlor degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6720" name="toyocamycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6368" name="3-phosphoinositide degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6991" name="(-)-camphor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-4702" name="phytate degradation I"/>
+            <pathway-xref db="Reactome" id="R-SPO-3371511" name="HSF1 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6148" name="tetrahydromethanopterin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-3371453" name="Regulation of HSF1-mediated heat shock response"/>
+            <pathway-xref db="MetaCyc" id="PWY-7119" name="ceramide and sphingolipid recycling and degradation (yeast)"/>
+            <pathway-xref db="Reactome" id="R-DDI-165160" name="PDE3B signalling"/>
+            <pathway-xref db="MetaCyc" id="PWY-6724" name="starch degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-6686" name="mannosylglucosylglycerate biosynthesis I"/>
+          </entry>
+          <signature-library-release library="PROSITE_PROFILES" version="2021_01"/>
+        </signature>
+        <model-ac>PS50110</model-ac>
+        <locations>
+          <profilescan-location score="24.680759" start="69" end="168">
+            <location-fragments>
+              <profilescan-location-fragment start="69" end="168" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>RILVVDDNRVNRRVAAGALKKFGANVECAESGKAALALLQLPHnFDACFMDIQMPEMDGYVTEPLVSlfpmlcrfinlsfrslsryFSKSKIILVALLVA-----------------------------------</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+      <rpsblast-match>
+        <signature ac="cd17546" desc="REC_hyHK_CKI1_RcsC-like" name="REC_hyHK_CKI1_RcsC-like">
+          <signature-library-release library="CDD" version="3.18"/>
+        </signature>
+        <model-ac>cd17546</model-ac>
+        <locations>
+          <rpsblast-location evalue="1.41614E-24" score="89.836" start="70" end="128">
+            <location-fragments>
+              <rpsblast-location-fragment start="70" end="128" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <sites>
+              <rpsblast-site description="metal binding site" numLocations="3">
+                <site-locations>
+                  <site-location residue="D" start="75" end="75"/>
+                  <site-location residue="D" start="74" end="74"/>
+                  <site-location residue="D" start="119" end="119"/>
+                </site-locations>
+              </rpsblast-site>
+            </sites>
+          </rpsblast-location>
+        </locations>
+      </rpsblast-match>
+      <superfamilyhmmer3-match evalue="9.25E-20">
+        <signature ac="SSF52172" name="CheY-like">
+          <entry ac="IPR011006" desc="CheY-like superfamily" name="CheY-like_superfamily" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="MetaCyc" id="PWY-8052" name="2-arachidonoylglycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-3371568" name="Attenuation phase"/>
+            <pathway-xref db="Reactome" id="R-DDI-418555" name="G alpha (s) signalling events"/>
+            <pathway-xref db="MetaCyc" id="PWY-6366" name="D-myo-inositol (1,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6129" name="dolichol and dolichyl phosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-3371453" name="Regulation of HSF1-mediated heat shock response"/>
+            <pathway-xref db="Reactome" id="R-DDI-418457" name="cGMP effects"/>
+            <pathway-xref db="Reactome" id="R-DDI-111957" name="Cam-PDE 1 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8282" name="adenosylcobinamide-GDP salvage from assorted adenosylcobamides"/>
+            <pathway-xref db="MetaCyc" id="PWY-46" name="putrescine biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-7366" name="phosphatidylglycerol degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5491" name="diethylphosphate degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6365" name="D-myo-inositol (3,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8247" name="(Kdo)2-lipid A biosynthesis (P. gingivalis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6456" name="serinol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8176" name="geraniol biosynthesis (cytosol)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7531" name="mannojirimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-3371571" name="HSF1-dependent transactivation"/>
+            <pathway-xref db="Reactome" id="R-SPO-3371568" name="Attenuation phase"/>
+            <pathway-xref db="MetaCyc" id="PWY-6689" name="tRNA splicing I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7863" name="roseoflavin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7018" name="paromomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-3371571" name="HSF1-dependent transactivation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7321" name="ecdysteroid metabolism (arthropods)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6352" name="3-phosphoinositide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7882" name="IM-2 type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7878" name="A-factor gamma-butyrolactone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7881" name="virginiae butanolide type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5978" name="kanosamine biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-SCE-3371511" name="HSF1 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6990" name="(+)-camphor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6575" name="juvenile hormone III biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7771" name="butachlor degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6720" name="toyocamycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6368" name="3-phosphoinositide degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6991" name="(-)-camphor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-4702" name="phytate degradation I"/>
+            <pathway-xref db="Reactome" id="R-SPO-3371511" name="HSF1 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6148" name="tetrahydromethanopterin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-3371453" name="Regulation of HSF1-mediated heat shock response"/>
+            <pathway-xref db="MetaCyc" id="PWY-7119" name="ceramide and sphingolipid recycling and degradation (yeast)"/>
+            <pathway-xref db="Reactome" id="R-DDI-165160" name="PDE3B signalling"/>
+            <pathway-xref db="MetaCyc" id="PWY-6724" name="starch degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-6686" name="mannosylglucosylglycerate biosynthesis I"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0046299</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="134" start="67" end="129">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="67" end="129" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.56-89.0">
+  <protein>
+    <sequence md5="f0c20d8a371f497aa1ea1acbff2a7d58">QKTNKNKYLEALQSHRGLSLFSTLSTDNVNAEKLQKFMCSIHTQKVQFMASCAFLSLFFICISLFEFPCLAGDPFVNYEFEVSYITASPLGIPQQVIAINGQFPGPTINTTTNNNVVINVRNKLDENLLITWAGIQQRRSSWQDGVLGTNCPIPPKWNWTYQFQVKDQIGSFFYFPSINFHRASGGFGGFIINNRAIIPIPFATPDGDITILIGDWYARNHTALRRELNGGKDLGMPDGVLINGKGPFRYNTTLVPDGIEYETIDVHPVGSKLLVFITFCCSDGRKKVK</sequence>
+    <xref id="maker-Scaffold_62942_SNP_1452977-exonerate_est2genome-gene-0.0-mRNA-2" name="maker-Scaffold_62942_SNP_1452977-exonerate_est2genome-gene-0.0-mRNA-2"/>
+    <matches>
+      <hmmer3-match evalue="2.1E-42" score="143.9">
+        <signature ac="PF07732" desc="Multicopper oxidase" name="Cu-oxidase_3">
+          <entry ac="IPR011707" desc="Multicopper oxidase, N-terminal" name="Cu-oxidase_N" type="DOMAIN">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005507" name="copper ion binding"/>
+            <pathway-xref db="Reactome" id="R-HSA-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6748" name="nitrate reduction VII (denitrification)"/>
+            <pathway-xref db="Reactome" id="R-RNO-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9673202" name="Defective F9 variant does not activate FX"/>
+            <pathway-xref db="Reactome" id="R-HSA-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-HSA-9674519" name="Defective F8 sulfation at Y1699"/>
+            <pathway-xref db="MetaCyc" id="PWY-5404" name="betaxanthin biosynthesis (via dopaxanthin)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5469" name="sesamin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5694530" name="Cargo concentration in the ER"/>
+            <pathway-xref db="MetaCyc" id="PWY-7084" name="nitrifier denitrification"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672391" name="Defective F8 cleavage by thrombin"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672397" name="Defective F8 secretion"/>
+            <pathway-xref db="Reactome" id="R-HSA-5655799" name="Defective SLC40A1 causes hemochromatosis 4 (HFE4) (duodenum)"/>
+            <pathway-xref db="Reactome" id="R-MMU-5694530" name="Cargo concentration in the ER"/>
+            <pathway-xref db="Reactome" id="R-RNO-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="MetaCyc" id="PWY-5773" name="gossypol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-204005" name="COPII-mediated vesicle transport"/>
+            <pathway-xref db="Reactome" id="R-MMU-163841" name="Gamma carboxylation, hypusine formation and arylsulfatase activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6824" name="justicidin B biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672393" name="Defective F8 binding to von Willebrand factor"/>
+            <pathway-xref db="Reactome" id="R-HSA-140875" name="Common Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672396" name="Defective cofactor function of FVIIIa variant"/>
+            <pathway-xref db="Reactome" id="R-MMU-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-163841" name="Gamma carboxylation, hypusine formation and arylsulfatase activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672387" name="Defective F8 accelerates dissociation of the A2 domain"/>
+            <pathway-xref db="Reactome" id="R-HSA-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="MetaCyc" id="PWY-7718" name="actinomycin D biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5619049" name="Defective SLC40A1 causes hemochromatosis 4 (HFE4) (macrophages)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7079" name="geodin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5780" name="hypericin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-MMU-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="Reactome" id="R-HSA-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5619060" name="Defective CP causes aceruloplasminemia (ACERULOP)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5399" name="betacyanin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5439" name="betacyanin biosynthesis (via dopamine)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6523" name="nitrite-dependent anaerobic methane oxidation"/>
+            <pathway-xref db="Reactome" id="R-MMU-204005" name="COPII-mediated vesicle transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672395" name="Defective F8 binding to the cell membrane"/>
+            <pathway-xref db="Reactome" id="R-HSA-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-MMU-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-MMU-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5787" name="oligomeric urushiol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672383" name="Defective factor IX causes thrombophilia"/>
+            <pathway-xref db="Reactome" id="R-HSA-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5476" name="cornusiin E biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-MMU-140875" name="Common Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5466" name="matairesinol biosynthesis"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF07732</model-ac>
+        <locations>
+          <hmmer3-location env-end="197" env-start="81" post-processed="true" score="143.3" evalue="3.3E-42" hmm-start="2" hmm-end="117" hmm-length="119" hmm-bounds="INCOMPLETE" start="82" end="195">
+            <location-fragments>
+              <hmmer3-location-fragment start="82" end="195" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="2.0E-6" score="29.8">
+        <signature ac="G3DSA:2.60.40.420" name="">
+          <entry ac="IPR008972" desc="Cupredoxin" name="Cupredoxin" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="MetaCyc" id="PWY-5404" name="betaxanthin biosynthesis (via dopaxanthin)"/>
+            <pathway-xref db="Reactome" id="R-HSA-5655799" name="Defective SLC40A1 causes hemochromatosis 4 (HFE4) (duodenum)"/>
+            <pathway-xref db="Reactome" id="R-BTA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-RNO-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="MetaCyc" id="PWY-6824" name="justicidin B biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672393" name="Defective F8 binding to von Willebrand factor"/>
+            <pathway-xref db="Reactome" id="R-CEL-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="Reactome" id="R-MMU-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-5619049" name="Defective SLC40A1 causes hemochromatosis 4 (HFE4) (macrophages)"/>
+            <pathway-xref db="Reactome" id="R-RNO-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="Reactome" id="R-BTA-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-114608" name="Platelet degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7279" name="aerobic respiration II (cytochrome c) (yeast)"/>
+            <pathway-xref db="Reactome" id="R-CFA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-CEL-3928662" name="EPHB-mediated forward signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-5694530" name="Cargo concentration in the ER"/>
+            <pathway-xref db="Reactome" id="R-CFA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672391" name="Defective F8 cleavage by thrombin"/>
+            <pathway-xref db="Reactome" id="R-MMU-163841" name="Gamma carboxylation, hypusine formation and arylsulfatase activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672396" name="Defective cofactor function of FVIIIa variant"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672387" name="Defective F8 accelerates dissociation of the A2 domain"/>
+            <pathway-xref db="MetaCyc" id="PWY-5780" name="hypericin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-5619060" name="Defective CP causes aceruloplasminemia (ACERULOP)"/>
+            <pathway-xref db="Reactome" id="R-DRE-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672395" name="Defective F8 binding to the cell membrane"/>
+            <pathway-xref db="Reactome" id="R-HSA-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-BTA-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="Reactome" id="R-MMU-140875" name="Common Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="Reactome" id="R-GGA-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-DRE-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-MMU-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-BTA-2682334" name="EPH-Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6748" name="nitrate reduction VII (denitrification)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8271" name="NADPH to cytochrome c oxidase via plastocyanin"/>
+            <pathway-xref db="Reactome" id="R-RNO-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9673202" name="Defective F9 variant does not activate FX"/>
+            <pathway-xref db="Reactome" id="R-HSA-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-HSA-9674519" name="Defective F8 sulfation at Y1699"/>
+            <pathway-xref db="MetaCyc" id="PWY-5469" name="sesamin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7084" name="nitrifier denitrification"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672397" name="Defective F8 secretion"/>
+            <pathway-xref db="MetaCyc" id="PWY-5773" name="gossypol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="MetaCyc" id="PWY-4521" name="arsenite to oxygen electron transfer"/>
+            <pathway-xref db="Reactome" id="R-RNO-2682334" name="EPH-Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-2682334" name="EPH-Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-HSA-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-GGA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-RNO-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-3247509" name="Chromatin modifying enzymes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7718" name="actinomycin D biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7429" name="arsenite to oxygen electron transfer (via azurin)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7079" name="geodin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5399" name="betacyanin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5439" name="betacyanin biosynthesis (via dopamine)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6523" name="nitrite-dependent anaerobic methane oxidation"/>
+            <pathway-xref db="Reactome" id="R-BTA-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="Reactome" id="R-MMU-204005" name="COPII-mediated vesicle transport"/>
+            <pathway-xref db="Reactome" id="R-RNO-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-RNO-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-HSA-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="Reactome" id="R-MMU-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-MMU-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-DME-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-5787" name="oligomeric urushiol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-3928662" name="EPHB-mediated forward signaling"/>
+            <pathway-xref db="Reactome" id="R-RNO-3928664" name="Ephrin signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-5476" name="cornusiin E biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DME-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-CEL-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="Reactome" id="R-DRE-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="Reactome" id="R-MMU-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="Reactome" id="R-HSA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-RNO-3928662" name="EPHB-mediated forward signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-5694530" name="Cargo concentration in the ER"/>
+            <pathway-xref db="Reactome" id="R-CEL-3928664" name="Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-204005" name="COPII-mediated vesicle transport"/>
+            <pathway-xref db="Reactome" id="R-MMU-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-3928664" name="Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-140875" name="Common Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="Reactome" id="R-RNO-3247509" name="Chromatin modifying enzymes"/>
+            <pathway-xref db="Reactome" id="R-MMU-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="Reactome" id="R-DRE-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-163841" name="Gamma carboxylation, hypusine formation and arylsulfatase activation"/>
+            <pathway-xref db="Reactome" id="R-DRE-2682334" name="EPH-Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-DRE-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="Reactome" id="R-MMU-3928662" name="EPHB-mediated forward signaling"/>
+            <pathway-xref db="Reactome" id="R-CFA-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="MetaCyc" id="PWY-4921" name="protein citrullination"/>
+            <pathway-xref db="MetaCyc" id="PWY-3781" name="aerobic respiration I (cytochrome c)"/>
+            <pathway-xref db="Reactome" id="R-MMU-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6692" name="Fe(II) oxidation"/>
+            <pathway-xref db="Reactome" id="R-DRE-3928664" name="Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-GGA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-MMU-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-DME-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672383" name="Defective factor IX causes thrombophilia"/>
+            <pathway-xref db="Reactome" id="R-MMU-3928664" name="Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-MMU-3247509" name="Chromatin modifying enzymes"/>
+            <pathway-xref db="Reactome" id="R-BTA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-HSA-3928662" name="EPHB-mediated forward signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-2682334" name="EPH-Ephrin signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-5466" name="matairesinol biosynthesis"/>
+          </entry>
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>1v10A02</model-ac>
+        <locations>
+          <hmmer3-location env-end="282" env-start="201" post-processed="true" score="28.7" evalue="4.3E-6" hmm-start="12" hmm-end="68" hmm-length="184" hmm-bounds="COMPLETE" start="201" end="282">
+            <location-fragments>
+              <hmmer3-location-fragment start="201" end="282" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="3.8E-35" score="123.0">
+        <signature ac="G3DSA:2.60.40.420" name="">
+          <entry ac="IPR008972" desc="Cupredoxin" name="Cupredoxin" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="MetaCyc" id="PWY-5404" name="betaxanthin biosynthesis (via dopaxanthin)"/>
+            <pathway-xref db="Reactome" id="R-HSA-5655799" name="Defective SLC40A1 causes hemochromatosis 4 (HFE4) (duodenum)"/>
+            <pathway-xref db="Reactome" id="R-BTA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-RNO-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="MetaCyc" id="PWY-6824" name="justicidin B biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672393" name="Defective F8 binding to von Willebrand factor"/>
+            <pathway-xref db="Reactome" id="R-CEL-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="Reactome" id="R-MMU-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-5619049" name="Defective SLC40A1 causes hemochromatosis 4 (HFE4) (macrophages)"/>
+            <pathway-xref db="Reactome" id="R-RNO-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="Reactome" id="R-BTA-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-114608" name="Platelet degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7279" name="aerobic respiration II (cytochrome c) (yeast)"/>
+            <pathway-xref db="Reactome" id="R-CFA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-CEL-3928662" name="EPHB-mediated forward signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-5694530" name="Cargo concentration in the ER"/>
+            <pathway-xref db="Reactome" id="R-CFA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672391" name="Defective F8 cleavage by thrombin"/>
+            <pathway-xref db="Reactome" id="R-MMU-163841" name="Gamma carboxylation, hypusine formation and arylsulfatase activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672396" name="Defective cofactor function of FVIIIa variant"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672387" name="Defective F8 accelerates dissociation of the A2 domain"/>
+            <pathway-xref db="MetaCyc" id="PWY-5780" name="hypericin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-5619060" name="Defective CP causes aceruloplasminemia (ACERULOP)"/>
+            <pathway-xref db="Reactome" id="R-DRE-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672395" name="Defective F8 binding to the cell membrane"/>
+            <pathway-xref db="Reactome" id="R-HSA-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-BTA-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="Reactome" id="R-MMU-140875" name="Common Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="Reactome" id="R-GGA-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-DRE-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-MMU-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-BTA-2682334" name="EPH-Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6748" name="nitrate reduction VII (denitrification)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8271" name="NADPH to cytochrome c oxidase via plastocyanin"/>
+            <pathway-xref db="Reactome" id="R-RNO-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9673202" name="Defective F9 variant does not activate FX"/>
+            <pathway-xref db="Reactome" id="R-HSA-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-HSA-9674519" name="Defective F8 sulfation at Y1699"/>
+            <pathway-xref db="MetaCyc" id="PWY-5469" name="sesamin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7084" name="nitrifier denitrification"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672397" name="Defective F8 secretion"/>
+            <pathway-xref db="MetaCyc" id="PWY-5773" name="gossypol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="MetaCyc" id="PWY-4521" name="arsenite to oxygen electron transfer"/>
+            <pathway-xref db="Reactome" id="R-RNO-2682334" name="EPH-Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-2682334" name="EPH-Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-HSA-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-GGA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-RNO-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-3247509" name="Chromatin modifying enzymes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7718" name="actinomycin D biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7429" name="arsenite to oxygen electron transfer (via azurin)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7079" name="geodin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5399" name="betacyanin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5439" name="betacyanin biosynthesis (via dopamine)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6523" name="nitrite-dependent anaerobic methane oxidation"/>
+            <pathway-xref db="Reactome" id="R-BTA-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="Reactome" id="R-MMU-204005" name="COPII-mediated vesicle transport"/>
+            <pathway-xref db="Reactome" id="R-RNO-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-RNO-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-HSA-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="Reactome" id="R-MMU-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-MMU-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-DME-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-5787" name="oligomeric urushiol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-3928662" name="EPHB-mediated forward signaling"/>
+            <pathway-xref db="Reactome" id="R-RNO-3928664" name="Ephrin signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-5476" name="cornusiin E biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DME-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-CEL-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="Reactome" id="R-DRE-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="Reactome" id="R-MMU-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="Reactome" id="R-HSA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-RNO-3928662" name="EPHB-mediated forward signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-5694530" name="Cargo concentration in the ER"/>
+            <pathway-xref db="Reactome" id="R-CEL-3928664" name="Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-204005" name="COPII-mediated vesicle transport"/>
+            <pathway-xref db="Reactome" id="R-MMU-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-3928664" name="Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-140875" name="Common Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="Reactome" id="R-RNO-3247509" name="Chromatin modifying enzymes"/>
+            <pathway-xref db="Reactome" id="R-MMU-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="Reactome" id="R-DRE-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-163841" name="Gamma carboxylation, hypusine formation and arylsulfatase activation"/>
+            <pathway-xref db="Reactome" id="R-DRE-2682334" name="EPH-Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-DRE-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="Reactome" id="R-MMU-3928662" name="EPHB-mediated forward signaling"/>
+            <pathway-xref db="Reactome" id="R-CFA-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="MetaCyc" id="PWY-4921" name="protein citrullination"/>
+            <pathway-xref db="MetaCyc" id="PWY-3781" name="aerobic respiration I (cytochrome c)"/>
+            <pathway-xref db="Reactome" id="R-MMU-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6692" name="Fe(II) oxidation"/>
+            <pathway-xref db="Reactome" id="R-DRE-3928664" name="Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-GGA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-MMU-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-DME-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672383" name="Defective factor IX causes thrombophilia"/>
+            <pathway-xref db="Reactome" id="R-MMU-3928664" name="Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-MMU-3247509" name="Chromatin modifying enzymes"/>
+            <pathway-xref db="Reactome" id="R-BTA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-HSA-3928662" name="EPHB-mediated forward signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-2682334" name="EPH-Ephrin signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-5466" name="matairesinol biosynthesis"/>
+          </entry>
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>5lwxA01</model-ac>
+        <locations>
+          <hmmer3-location env-end="194" env-start="69" post-processed="true" score="122.2" evalue="6.5E-35" hmm-start="29" hmm-end="147" hmm-length="149" hmm-bounds="COMPLETE" start="69" end="194">
+            <location-fragments>
+              <hmmer3-location-fragment start="69" end="194" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="3.7E-8" score="33.7">
+        <signature ac="PF00394" desc="Multicopper oxidase" name="Cu-oxidase">
+          <entry ac="IPR001117" desc="Multicopper oxidase, type 1" name="Cu-oxidase" type="DOMAIN">
+            <pathway-xref db="MetaCyc" id="PWY-5780" name="hypericin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="Reactome" id="R-RNO-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="MetaCyc" id="PWY-6748" name="nitrate reduction VII (denitrification)"/>
+            <pathway-xref db="Reactome" id="R-HSA-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5619060" name="Defective CP causes aceruloplasminemia (ACERULOP)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5399" name="betacyanin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5439" name="betacyanin biosynthesis (via dopamine)"/>
+            <pathway-xref db="Reactome" id="R-RNO-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9673202" name="Defective F9 variant does not activate FX"/>
+            <pathway-xref db="MetaCyc" id="PWY-6523" name="nitrite-dependent anaerobic methane oxidation"/>
+            <pathway-xref db="Reactome" id="R-HSA-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-HSA-9674519" name="Defective F8 sulfation at Y1699"/>
+            <pathway-xref db="MetaCyc" id="PWY-5404" name="betaxanthin biosynthesis (via dopaxanthin)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5469" name="sesamin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5694530" name="Cargo concentration in the ER"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672391" name="Defective F8 cleavage by thrombin"/>
+            <pathway-xref db="MetaCyc" id="PWY-7084" name="nitrifier denitrification"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672395" name="Defective F8 binding to the cell membrane"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672397" name="Defective F8 secretion"/>
+            <pathway-xref db="Reactome" id="R-HSA-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-RNO-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5773" name="gossypol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-204005" name="COPII-mediated vesicle transport"/>
+            <pathway-xref db="Reactome" id="R-MMU-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-MMU-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5787" name="oligomeric urushiol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6824" name="justicidin B biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672383" name="Defective factor IX causes thrombophilia"/>
+            <pathway-xref db="Reactome" id="R-HSA-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672393" name="Defective F8 binding to von Willebrand factor"/>
+            <pathway-xref db="MetaCyc" id="PWY-5476" name="cornusiin E biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-140875" name="Common Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672396" name="Defective cofactor function of FVIIIa variant"/>
+            <pathway-xref db="Reactome" id="R-MMU-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-163841" name="Gamma carboxylation, hypusine formation and arylsulfatase activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672387" name="Defective F8 accelerates dissociation of the A2 domain"/>
+            <pathway-xref db="Reactome" id="R-HSA-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-5619049" name="Defective SLC40A1 causes hemochromatosis 4 (HFE4) (macrophages)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7079" name="geodin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5466" name="matairesinol biosynthesis"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF00394</model-ac>
+        <locations>
+          <hmmer3-location env-end="286" env-start="207" post-processed="true" score="30.3" evalue="3.9E-7" hmm-start="2" hmm-end="75" hmm-length="159" hmm-bounds="INCOMPLETE" start="208" end="277">
+            <location-fragments>
+              <hmmer3-location-fragment start="208" end="277" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="1.9E-105" familyName="MONOCOPPER OXIDASE-LIKE PROTEIN SKS1" score="365.1">
+        <signature ac="PTHR11709:SF270" name="MONOCOPPER OXIDASE-LIKE PROTEIN SKS1">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR11709:SF270</model-ac>
+        <locations>
+          <panther-location env-start="49" env-end="283" hmm-start="10" hmm-end="221" hmm-length="590" hmm-bounds="INCOMPLETE" start="59" end="270">
+            <location-fragments>
+              <panther-location-fragment start="59" end="270" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="1.9E-105" familyName="MONOCOPPER OXIDASE-LIKE PROTEIN SKS1" score="365.1">
+        <signature ac="PTHR11709" name="MULTI-COPPER OXIDASE">
+          <entry ac="IPR045087" desc="Multicopper oxidase" name="Cu-oxidase_fam" type="FAMILY">
+            <pathway-xref db="Reactome" id="R-HSA-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6748" name="nitrate reduction VII (denitrification)"/>
+            <pathway-xref db="Reactome" id="R-RNO-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9673202" name="Defective F9 variant does not activate FX"/>
+            <pathway-xref db="Reactome" id="R-HSA-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-HSA-9674519" name="Defective F8 sulfation at Y1699"/>
+            <pathway-xref db="MetaCyc" id="PWY-5404" name="betaxanthin biosynthesis (via dopaxanthin)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5469" name="sesamin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5694530" name="Cargo concentration in the ER"/>
+            <pathway-xref db="MetaCyc" id="PWY-7084" name="nitrifier denitrification"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672391" name="Defective F8 cleavage by thrombin"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672397" name="Defective F8 secretion"/>
+            <pathway-xref db="Reactome" id="R-HSA-5655799" name="Defective SLC40A1 causes hemochromatosis 4 (HFE4) (duodenum)"/>
+            <pathway-xref db="Reactome" id="R-MMU-5694530" name="Cargo concentration in the ER"/>
+            <pathway-xref db="Reactome" id="R-RNO-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="MetaCyc" id="PWY-5773" name="gossypol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-204005" name="COPII-mediated vesicle transport"/>
+            <pathway-xref db="Reactome" id="R-MMU-163841" name="Gamma carboxylation, hypusine formation and arylsulfatase activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6824" name="justicidin B biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672393" name="Defective F8 binding to von Willebrand factor"/>
+            <pathway-xref db="Reactome" id="R-HSA-140875" name="Common Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672396" name="Defective cofactor function of FVIIIa variant"/>
+            <pathway-xref db="Reactome" id="R-MMU-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-163841" name="Gamma carboxylation, hypusine formation and arylsulfatase activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672387" name="Defective F8 accelerates dissociation of the A2 domain"/>
+            <pathway-xref db="Reactome" id="R-HSA-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="MetaCyc" id="PWY-7718" name="actinomycin D biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5619049" name="Defective SLC40A1 causes hemochromatosis 4 (HFE4) (macrophages)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7079" name="geodin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5780" name="hypericin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-MMU-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="Reactome" id="R-HSA-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5619060" name="Defective CP causes aceruloplasminemia (ACERULOP)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5399" name="betacyanin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5439" name="betacyanin biosynthesis (via dopamine)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6523" name="nitrite-dependent anaerobic methane oxidation"/>
+            <pathway-xref db="Reactome" id="R-MMU-204005" name="COPII-mediated vesicle transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672395" name="Defective F8 binding to the cell membrane"/>
+            <pathway-xref db="Reactome" id="R-HSA-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-MMU-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-MMU-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5787" name="oligomeric urushiol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672383" name="Defective factor IX causes thrombophilia"/>
+            <pathway-xref db="Reactome" id="R-HSA-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5476" name="cornusiin E biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-MMU-140875" name="Common Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5466" name="matairesinol biosynthesis"/>
+          </entry>
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR11709</model-ac>
+        <locations>
+          <panther-location env-start="49" env-end="283" hmm-start="10" hmm-end="221" hmm-length="590" hmm-bounds="INCOMPLETE" start="59" end="270">
+            <location-fragments>
+              <panther-location-fragment start="59" end="270" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <superfamilyhmmer3-match evalue="1.79E-9">
+        <signature ac="SSF49503" name="Cupredoxins">
+          <entry ac="IPR008972" desc="Cupredoxin" name="Cupredoxin" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="MetaCyc" id="PWY-5404" name="betaxanthin biosynthesis (via dopaxanthin)"/>
+            <pathway-xref db="Reactome" id="R-HSA-5655799" name="Defective SLC40A1 causes hemochromatosis 4 (HFE4) (duodenum)"/>
+            <pathway-xref db="Reactome" id="R-BTA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-RNO-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="MetaCyc" id="PWY-6824" name="justicidin B biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672393" name="Defective F8 binding to von Willebrand factor"/>
+            <pathway-xref db="Reactome" id="R-CEL-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="Reactome" id="R-MMU-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-5619049" name="Defective SLC40A1 causes hemochromatosis 4 (HFE4) (macrophages)"/>
+            <pathway-xref db="Reactome" id="R-RNO-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="Reactome" id="R-BTA-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-114608" name="Platelet degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7279" name="aerobic respiration II (cytochrome c) (yeast)"/>
+            <pathway-xref db="Reactome" id="R-CFA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-CEL-3928662" name="EPHB-mediated forward signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-5694530" name="Cargo concentration in the ER"/>
+            <pathway-xref db="Reactome" id="R-CFA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672391" name="Defective F8 cleavage by thrombin"/>
+            <pathway-xref db="Reactome" id="R-MMU-163841" name="Gamma carboxylation, hypusine formation and arylsulfatase activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672396" name="Defective cofactor function of FVIIIa variant"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672387" name="Defective F8 accelerates dissociation of the A2 domain"/>
+            <pathway-xref db="MetaCyc" id="PWY-5780" name="hypericin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-5619060" name="Defective CP causes aceruloplasminemia (ACERULOP)"/>
+            <pathway-xref db="Reactome" id="R-DRE-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672395" name="Defective F8 binding to the cell membrane"/>
+            <pathway-xref db="Reactome" id="R-HSA-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-BTA-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="Reactome" id="R-MMU-140875" name="Common Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="Reactome" id="R-GGA-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-DRE-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-MMU-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-BTA-2682334" name="EPH-Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6748" name="nitrate reduction VII (denitrification)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8271" name="NADPH to cytochrome c oxidase via plastocyanin"/>
+            <pathway-xref db="Reactome" id="R-RNO-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9673202" name="Defective F9 variant does not activate FX"/>
+            <pathway-xref db="Reactome" id="R-HSA-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-HSA-9674519" name="Defective F8 sulfation at Y1699"/>
+            <pathway-xref db="MetaCyc" id="PWY-5469" name="sesamin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7084" name="nitrifier denitrification"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672397" name="Defective F8 secretion"/>
+            <pathway-xref db="MetaCyc" id="PWY-5773" name="gossypol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="MetaCyc" id="PWY-4521" name="arsenite to oxygen electron transfer"/>
+            <pathway-xref db="Reactome" id="R-RNO-2682334" name="EPH-Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-2682334" name="EPH-Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-HSA-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-GGA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-RNO-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-3247509" name="Chromatin modifying enzymes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7718" name="actinomycin D biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7429" name="arsenite to oxygen electron transfer (via azurin)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7079" name="geodin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5399" name="betacyanin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5439" name="betacyanin biosynthesis (via dopamine)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6523" name="nitrite-dependent anaerobic methane oxidation"/>
+            <pathway-xref db="Reactome" id="R-BTA-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="Reactome" id="R-MMU-204005" name="COPII-mediated vesicle transport"/>
+            <pathway-xref db="Reactome" id="R-RNO-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-RNO-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-HSA-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="Reactome" id="R-MMU-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-MMU-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-DME-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-5787" name="oligomeric urushiol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-3928662" name="EPHB-mediated forward signaling"/>
+            <pathway-xref db="Reactome" id="R-RNO-3928664" name="Ephrin signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-5476" name="cornusiin E biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DME-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-CEL-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="Reactome" id="R-DRE-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="Reactome" id="R-MMU-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="Reactome" id="R-HSA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-RNO-3928662" name="EPHB-mediated forward signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-5694530" name="Cargo concentration in the ER"/>
+            <pathway-xref db="Reactome" id="R-CEL-3928664" name="Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-204005" name="COPII-mediated vesicle transport"/>
+            <pathway-xref db="Reactome" id="R-MMU-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-3928664" name="Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-140875" name="Common Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="Reactome" id="R-RNO-3247509" name="Chromatin modifying enzymes"/>
+            <pathway-xref db="Reactome" id="R-MMU-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="Reactome" id="R-DRE-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-163841" name="Gamma carboxylation, hypusine formation and arylsulfatase activation"/>
+            <pathway-xref db="Reactome" id="R-DRE-2682334" name="EPH-Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-DRE-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="Reactome" id="R-MMU-3928662" name="EPHB-mediated forward signaling"/>
+            <pathway-xref db="Reactome" id="R-CFA-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="MetaCyc" id="PWY-4921" name="protein citrullination"/>
+            <pathway-xref db="MetaCyc" id="PWY-3781" name="aerobic respiration I (cytochrome c)"/>
+            <pathway-xref db="Reactome" id="R-MMU-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6692" name="Fe(II) oxidation"/>
+            <pathway-xref db="Reactome" id="R-DRE-3928664" name="Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-GGA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-MMU-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-DME-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672383" name="Defective factor IX causes thrombophilia"/>
+            <pathway-xref db="Reactome" id="R-MMU-3928664" name="Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-MMU-3247509" name="Chromatin modifying enzymes"/>
+            <pathway-xref db="Reactome" id="R-BTA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-HSA-3928662" name="EPHB-mediated forward signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-2682334" name="EPH-Ephrin signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-5466" name="matairesinol biosynthesis"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0045803</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="209" start="202" end="268">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="202" end="268" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+      <superfamilyhmmer3-match evalue="8.55E-39">
+        <signature ac="SSF49503" name="Cupredoxins">
+          <entry ac="IPR008972" desc="Cupredoxin" name="Cupredoxin" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="MetaCyc" id="PWY-5404" name="betaxanthin biosynthesis (via dopaxanthin)"/>
+            <pathway-xref db="Reactome" id="R-HSA-5655799" name="Defective SLC40A1 causes hemochromatosis 4 (HFE4) (duodenum)"/>
+            <pathway-xref db="Reactome" id="R-BTA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-RNO-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="MetaCyc" id="PWY-6824" name="justicidin B biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672393" name="Defective F8 binding to von Willebrand factor"/>
+            <pathway-xref db="Reactome" id="R-CEL-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="Reactome" id="R-MMU-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-5619049" name="Defective SLC40A1 causes hemochromatosis 4 (HFE4) (macrophages)"/>
+            <pathway-xref db="Reactome" id="R-RNO-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="Reactome" id="R-BTA-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-114608" name="Platelet degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7279" name="aerobic respiration II (cytochrome c) (yeast)"/>
+            <pathway-xref db="Reactome" id="R-CFA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-CEL-3928662" name="EPHB-mediated forward signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-5694530" name="Cargo concentration in the ER"/>
+            <pathway-xref db="Reactome" id="R-CFA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672391" name="Defective F8 cleavage by thrombin"/>
+            <pathway-xref db="Reactome" id="R-MMU-163841" name="Gamma carboxylation, hypusine formation and arylsulfatase activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672396" name="Defective cofactor function of FVIIIa variant"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672387" name="Defective F8 accelerates dissociation of the A2 domain"/>
+            <pathway-xref db="MetaCyc" id="PWY-5780" name="hypericin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-5619060" name="Defective CP causes aceruloplasminemia (ACERULOP)"/>
+            <pathway-xref db="Reactome" id="R-DRE-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672395" name="Defective F8 binding to the cell membrane"/>
+            <pathway-xref db="Reactome" id="R-HSA-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-BTA-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="Reactome" id="R-MMU-140875" name="Common Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="Reactome" id="R-GGA-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-DRE-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-MMU-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-BTA-2682334" name="EPH-Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6748" name="nitrate reduction VII (denitrification)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8271" name="NADPH to cytochrome c oxidase via plastocyanin"/>
+            <pathway-xref db="Reactome" id="R-RNO-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9673202" name="Defective F9 variant does not activate FX"/>
+            <pathway-xref db="Reactome" id="R-HSA-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-HSA-9674519" name="Defective F8 sulfation at Y1699"/>
+            <pathway-xref db="MetaCyc" id="PWY-5469" name="sesamin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7084" name="nitrifier denitrification"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672397" name="Defective F8 secretion"/>
+            <pathway-xref db="MetaCyc" id="PWY-5773" name="gossypol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="MetaCyc" id="PWY-4521" name="arsenite to oxygen electron transfer"/>
+            <pathway-xref db="Reactome" id="R-RNO-2682334" name="EPH-Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-2682334" name="EPH-Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-HSA-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-GGA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-RNO-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-3247509" name="Chromatin modifying enzymes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7718" name="actinomycin D biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7429" name="arsenite to oxygen electron transfer (via azurin)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7079" name="geodin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5399" name="betacyanin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5439" name="betacyanin biosynthesis (via dopamine)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6523" name="nitrite-dependent anaerobic methane oxidation"/>
+            <pathway-xref db="Reactome" id="R-BTA-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="Reactome" id="R-MMU-204005" name="COPII-mediated vesicle transport"/>
+            <pathway-xref db="Reactome" id="R-RNO-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-RNO-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-HSA-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="Reactome" id="R-MMU-425410" name="Metal ion SLC transporters"/>
+            <pathway-xref db="Reactome" id="R-MMU-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-DME-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-5787" name="oligomeric urushiol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-3928662" name="EPHB-mediated forward signaling"/>
+            <pathway-xref db="Reactome" id="R-RNO-3928664" name="Ephrin signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-5476" name="cornusiin E biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DME-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-CEL-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="Reactome" id="R-DRE-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="Reactome" id="R-MMU-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="Reactome" id="R-HSA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-RNO-3928662" name="EPHB-mediated forward signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-5694530" name="Cargo concentration in the ER"/>
+            <pathway-xref db="Reactome" id="R-CEL-3928664" name="Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-204005" name="COPII-mediated vesicle transport"/>
+            <pathway-xref db="Reactome" id="R-MMU-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-3928664" name="Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-140875" name="Common Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="Reactome" id="R-RNO-3247509" name="Chromatin modifying enzymes"/>
+            <pathway-xref db="Reactome" id="R-MMU-3928665" name="EPH-ephrin mediated repulsion of cells"/>
+            <pathway-xref db="Reactome" id="R-DRE-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-163841" name="Gamma carboxylation, hypusine formation and arylsulfatase activation"/>
+            <pathway-xref db="Reactome" id="R-DRE-2682334" name="EPH-Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-DRE-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="Reactome" id="R-MMU-3928662" name="EPHB-mediated forward signaling"/>
+            <pathway-xref db="Reactome" id="R-CFA-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-3928663" name="EPHA-mediated growth cone collapse"/>
+            <pathway-xref db="MetaCyc" id="PWY-4921" name="protein citrullination"/>
+            <pathway-xref db="MetaCyc" id="PWY-3781" name="aerobic respiration I (cytochrome c)"/>
+            <pathway-xref db="Reactome" id="R-MMU-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6692" name="Fe(II) oxidation"/>
+            <pathway-xref db="Reactome" id="R-DRE-3928664" name="Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-GGA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-MMU-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-DME-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-9672383" name="Defective factor IX causes thrombophilia"/>
+            <pathway-xref db="Reactome" id="R-MMU-3928664" name="Ephrin signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-MMU-3247509" name="Chromatin modifying enzymes"/>
+            <pathway-xref db="Reactome" id="R-BTA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-HSA-3928662" name="EPHB-mediated forward signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-2682334" name="EPH-Ephrin signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-5466" name="matairesinol biosynthesis"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0038299</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="181" start="65" end="222">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="65" end="222" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

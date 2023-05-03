@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="ebffccfcdab22bc97f025ed9a54202c8">MRNCLEFEPDWINLLENIHRRPVIPVGLLPPSTQDRGDDTNETWITVKNWLDIQNKSSIIESLMFGHPLICLPFSLDQGMNSTVIVDKKVAIEVARNEEDGSFMKDSVADSVRLIMVEDKGASYRKKAKEISAMFGDQDLHNGYIHNFIQHLQQLRTQTKA</sequence>
+    <xref id="maker-Scaffold_59695_SNP_80628-exonerate_protein2genome-gene-0.0-mRNA-10" name="maker-Scaffold_59695_SNP_80628-exonerate_protein2genome-gene-0.0-mRNA-10"/>
+    <matches>
+      <hmmer3-match evalue="3.8E-16" score="61.0">
+        <signature ac="G3DSA:3.40.50.2000" name="Glycogen Phosphorylase B;">
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>5v2jA02</model-ac>
+        <locations>
+          <hmmer3-location env-end="135" env-start="46" post-processed="true" score="60.5" evalue="5.6E-16" hmm-start="113" hmm-end="190" hmm-length="194" hmm-bounds="COMPLETE" start="46" end="135">
+            <location-fragments>
+              <hmmer3-location-fragment start="46" end="135" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="5.9E-47" familyName="UDP-GLYCOSYLTRANSFERASE 91A1-LIKE" score="172.1">
+        <signature ac="PTHR48049" name="GLYCOSYLTRANSFERASE">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR48049</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="60" hmm-start="220" hmm-end="278" hmm-length="464" hmm-bounds="COMPLETE" start="1" end="60">
+            <location-fragments>
+              <panther-location-fragment start="1" end="60" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="5.9E-47" familyName="UDP-GLYCOSYLTRANSFERASE 91A1-LIKE" score="172.1">
+        <signature ac="PTHR48049" name="GLYCOSYLTRANSFERASE">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR48049</model-ac>
+        <locations>
+          <panther-location env-start="55" env-end="160" hmm-start="361" hmm-end="459" hmm-length="464" hmm-bounds="INCOMPLETE" start="57" end="155">
+            <location-fragments>
+              <panther-location-fragment start="57" end="155" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="5.9E-47" familyName="UDP-GLYCOSYLTRANSFERASE 91A1-LIKE" score="172.1">
+        <signature ac="PTHR48049:SF8" name="UDP-GLYCOSYLTRANSFERASE 91A1-LIKE">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR48049:SF8</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="60" hmm-start="220" hmm-end="278" hmm-length="464" hmm-bounds="COMPLETE" start="1" end="60">
+            <location-fragments>
+              <panther-location-fragment start="1" end="60" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="5.9E-47" familyName="UDP-GLYCOSYLTRANSFERASE 91A1-LIKE" score="172.1">
+        <signature ac="PTHR48049:SF8" name="UDP-GLYCOSYLTRANSFERASE 91A1-LIKE">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR48049:SF8</model-ac>
+        <locations>
+          <panther-location env-start="55" env-end="160" hmm-start="361" hmm-end="459" hmm-length="464" hmm-bounds="INCOMPLETE" start="57" end="155">
+            <location-fragments>
+              <panther-location-fragment start="57" end="155" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <superfamilyhmmer3-match evalue="4.71E-23">
+        <signature ac="SSF53756" name="UDP-Glycosyltransferase/glycogen phosphorylase">
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0053693</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="461" start="3" end="149">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="3" end="149" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

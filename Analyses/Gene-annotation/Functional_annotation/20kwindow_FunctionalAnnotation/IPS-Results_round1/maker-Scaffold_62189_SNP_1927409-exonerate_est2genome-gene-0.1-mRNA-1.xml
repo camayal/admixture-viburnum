@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="7454bae2d039feebe71781df87626bba">MSSINVDADQRLTQDLEKLSIDLSGLVTGMVKPTVDILWFTWRMKLLTGQRGVAILYAYMLLGLGFLRN</sequence>
+    <xref id="maker-Scaffold_62189_SNP_1927409-exonerate_est2genome-gene-0.1-mRNA-1" name="maker-Scaffold_62189_SNP_1927409-exonerate_est2genome-gene-0.1-mRNA-1"/>
+    <matches>
+      <hmmer3-match evalue="4.1E-15" score="55.9">
+        <signature ac="PF06472" desc="ABC transporter transmembrane region 2" name="ABC_membrane_2">
+          <entry ac="IPR011527" desc="ABC transporter type 1, transmembrane domain" name="ABC1_TM_dom" type="DOMAIN">
+            <go-xref category="CELLULAR_COMPONENT" db="GO" id="GO:0016021" name="integral component of membrane"/>
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0055085" name="transmembrane transport"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0140359" name="ABC-type transporter activity"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005524" name="ATP binding"/>
+            <pathway-xref db="Reactome" id="R-DME-1369062" name="ABC transporters in lipid homeostasis"/>
+            <pathway-xref db="Reactome" id="R-SCE-390247" name="Beta-oxidation of very long chain fatty acids"/>
+            <pathway-xref db="Reactome" id="R-SCE-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-CEL-382556" name="ABC-family proteins mediated transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-8980692" name="RHOA GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013406" name="RHOQ GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-5679001" name="Defective ABCC2 causes DJS"/>
+            <pathway-xref db="Reactome" id="R-HSA-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013406" name="RHOQ GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-CFA-9646399" name="Aggrephagy"/>
+            <pathway-xref db="Reactome" id="R-HSA-5678420" name="Defective ABCC9 causes CMD10, ATFB12 and Cantu syndrome"/>
+            <pathway-xref db="Reactome" id="R-MMU-390247" name="Beta-oxidation of very long chain fatty acids"/>
+            <pathway-xref db="Reactome" id="R-DME-2046105" name="Linoleic acid (LA) metabolism"/>
+            <pathway-xref db="Reactome" id="R-SPO-159418" name="Recycling of bile acids and salts"/>
+            <pathway-xref db="Reactome" id="R-DRE-9603798" name="Class I peroxisomal membrane protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-5109" name="propanoate fermentation to 2-methylbutanoate"/>
+            <pathway-xref db="Reactome" id="R-MMU-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-159418" name="Recycling of bile acids and salts"/>
+            <pathway-xref db="Reactome" id="R-MMU-8980692" name="RHOA GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-DDI-382556" name="ABC-family proteins mediated transport"/>
+            <pathway-xref db="MetaCyc" id="PWY-6948" name="sitosterol degradation to androstenedione"/>
+            <pathway-xref db="Reactome" id="R-SPO-8856825" name="Cargo recognition for clathrin-mediated endocytosis"/>
+            <pathway-xref db="Reactome" id="R-HSA-390247" name="Beta-oxidation of very long chain fatty acids"/>
+            <pathway-xref db="Reactome" id="R-SCE-196741" name="Cobalamin (Cbl, vitamin B12) transport and metabolism"/>
+            <pathway-xref db="Reactome" id="R-DDI-189483" name="Heme degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7930" name="pyoluteorin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6842" name="glutathione-mediated detoxification II"/>
+            <pathway-xref db="Reactome" id="R-SCE-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-HSA-1369062" name="ABC transporters in lipid homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5683329" name="Defective ABCD4 causes MAHCJ"/>
+            <pathway-xref db="Reactome" id="R-DRE-8856828" name="Clathrin-mediated endocytosis"/>
+            <pathway-xref db="Reactome" id="R-SPO-1369007" name="Mitochondrial ABC transporters"/>
+            <pathway-xref db="Reactome" id="R-MMU-196741" name="Cobalamin (Cbl, vitamin B12) transport and metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7401" name="crotonate fermentation (to acetate and cyclohexane carboxylate)"/>
+            <pathway-xref db="Reactome" id="R-SPO-8856828" name="Clathrin-mediated endocytosis"/>
+            <pathway-xref db="Reactome" id="R-HSA-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-SPO-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-RNO-1236974" name="ER-Phagosome pathway"/>
+            <pathway-xref db="Reactome" id="R-DRE-8856825" name="Cargo recognition for clathrin-mediated endocytosis"/>
+            <pathway-xref db="Reactome" id="R-DRE-9646399" name="Aggrephagy"/>
+            <pathway-xref db="Reactome" id="R-DRE-1369007" name="Mitochondrial ABC transporters"/>
+            <pathway-xref db="Reactome" id="R-XTR-1369007" name="Mitochondrial ABC transporters"/>
+            <pathway-xref db="Reactome" id="R-MMU-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-RNO-8980692" name="RHOA GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-2046105" name="Linoleic acid (LA) metabolism"/>
+            <pathway-xref db="Reactome" id="R-SPO-193368" name="Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol"/>
+            <pathway-xref db="Reactome" id="R-CEL-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-CEL-189483" name="Heme degradation"/>
+            <pathway-xref db="Reactome" id="R-CFA-196741" name="Cobalamin (Cbl, vitamin B12) transport and metabolism"/>
+            <pathway-xref db="Reactome" id="R-DME-2046106" name="alpha-linolenic acid (ALA) metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7402" name="benzoate fermentation (to acetate and cyclohexane carboxylate)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9615710" name="Late endosomal microautophagy"/>
+            <pathway-xref db="Reactome" id="R-SPO-382556" name="ABC-family proteins mediated transport"/>
+            <pathway-xref db="MetaCyc" id="PWY-7690" name="holomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-9646399" name="Aggrephagy"/>
+            <pathway-xref db="Reactome" id="R-HSA-196741" name="Cobalamin (Cbl, vitamin B12) transport and metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-189483" name="Heme degradation"/>
+            <pathway-xref db="Reactome" id="R-SCE-9603798" name="Class I peroxisomal membrane protein import"/>
+            <pathway-xref db="Reactome" id="R-SCE-189483" name="Heme degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8184" name="L-isoleucine degradation III (oxidative Stickland reaction)"/>
+            <pathway-xref db="Reactome" id="R-CFA-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-MMU-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6409" name="pyoverdine I biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-422356" name="Regulation of insulin secretion"/>
+            <pathway-xref db="Reactome" id="R-DME-390247" name="Beta-oxidation of very long chain fatty acids"/>
+            <pathway-xref db="Reactome" id="R-CFA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-HSA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-CFA-8856825" name="Cargo recognition for clathrin-mediated endocytosis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6585" name="2-methylketone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5678771" name="Defective ABCB4 causes PFIC3, ICP3 and GBD1"/>
+            <pathway-xref db="Reactome" id="R-DRE-5627083" name="RHO GTPases regulate CFTR trafficking"/>
+            <pathway-xref db="Reactome" id="R-HSA-5684045" name="Defective ABCD1 causes ALD"/>
+            <pathway-xref db="Reactome" id="R-RNO-382556" name="ABC-family proteins mediated transport"/>
+            <pathway-xref db="Reactome" id="R-CEL-2142850" name="Hyaluronan biosynthesis and export"/>
+            <pathway-xref db="MetaCyc" id="PWY-7740" name="beta-D-mannosyl phosphomycoketide biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5627083" name="RHO GTPases regulate CFTR trafficking"/>
+            <pathway-xref db="Reactome" id="R-DDI-193368" name="Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol"/>
+            <pathway-xref db="Reactome" id="R-RNO-422356" name="Regulation of insulin secretion"/>
+            <pathway-xref db="Reactome" id="R-DDI-9603798" name="Class I peroxisomal membrane protein import"/>
+            <pathway-xref db="Reactome" id="R-SCE-1369007" name="Mitochondrial ABC transporters"/>
+            <pathway-xref db="Reactome" id="R-HSA-382556" name="ABC-family proteins mediated transport"/>
+            <pathway-xref db="Reactome" id="R-SCE-8856825" name="Cargo recognition for clathrin-mediated endocytosis"/>
+            <pathway-xref db="Reactome" id="R-DDI-1369062" name="ABC transporters in lipid homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1989781" name="PPARA activates gene expression"/>
+            <pathway-xref db="Reactome" id="R-RNO-8856828" name="Clathrin-mediated endocytosis"/>
+            <pathway-xref db="Reactome" id="R-MMU-189483" name="Heme degradation"/>
+            <pathway-xref db="Reactome" id="R-CEL-196741" name="Cobalamin (Cbl, vitamin B12) transport and metabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-SCE-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-SPO-9646399" name="Aggrephagy"/>
+            <pathway-xref db="Reactome" id="R-CEL-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-MMU-5627083" name="RHO GTPases regulate CFTR trafficking"/>
+            <pathway-xref db="Reactome" id="R-HSA-5678895" name="Defective CFTR causes cystic fibrosis"/>
+            <pathway-xref db="Reactome" id="R-CEL-1369007" name="Mitochondrial ABC transporters"/>
+            <pathway-xref db="Reactome" id="R-DDI-2046106" name="alpha-linolenic acid (ALA) metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-8012" name="mupirocin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-196741" name="Cobalamin (Cbl, vitamin B12) transport and metabolism"/>
+            <pathway-xref db="Reactome" id="R-RNO-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-HSA-2161517" name="Abacavir transmembrane transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-5683177" name="Defective ABCC8 can cause hypo- and hyper-glycemias"/>
+            <pathway-xref db="Reactome" id="R-DME-8856828" name="Clathrin-mediated endocytosis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="MetaCyc" id="PWY-8042" name="acylceramide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-981" name="salicylate biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-SPO-196741" name="Cobalamin (Cbl, vitamin B12) transport and metabolism"/>
+            <pathway-xref db="Reactome" id="R-RNO-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="MetaCyc" id="PWY-8259" name="arsenic detoxification (plants)"/>
+            <pathway-xref db="Reactome" id="R-RNO-1296025" name="ATP sensitive Potassium channels"/>
+            <pathway-xref db="Reactome" id="R-HSA-2564830" name="Cytosolic iron-sulfur cluster assembly"/>
+            <pathway-xref db="MetaCyc" id="PWY-6917" name="vernolate biosynthesis III"/>
+            <pathway-xref db="Reactome" id="R-RNO-390247" name="Beta-oxidation of very long chain fatty acids"/>
+            <pathway-xref db="MetaCyc" id="PWY-6995" name="5-hydroxymethylfurfural degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9603798" name="Class I peroxisomal membrane protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-4621" name="arsenic detoxification (yeast)"/>
+            <pathway-xref db="Reactome" id="R-MMU-193368" name="Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol"/>
+            <pathway-xref db="Reactome" id="R-RNO-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-8856825" name="Cargo recognition for clathrin-mediated endocytosis"/>
+            <pathway-xref db="Reactome" id="R-HSA-159418" name="Recycling of bile acids and salts"/>
+            <pathway-xref db="Reactome" id="R-HSA-1369007" name="Mitochondrial ABC transporters"/>
+            <pathway-xref db="MetaCyc" id="PWY-7007" name="methyl ketone biosynthesis (engineered)"/>
+            <pathway-xref db="Reactome" id="R-MMU-9603798" name="Class I peroxisomal membrane protein import"/>
+            <pathway-xref db="Reactome" id="R-DRE-9013406" name="RHOQ GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-5690338" name="Defective ABCC6 causes PXE"/>
+            <pathway-xref db="MetaCyc" id="PWY-7292" name="oleate beta-oxidation (thioesterase-dependent, yeast)"/>
+            <pathway-xref db="Reactome" id="R-SCE-1369062" name="ABC transporters in lipid homeostasis"/>
+            <pathway-xref db="Reactome" id="R-CFA-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013106" name="RHOC GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-4061" name="glutathione-mediated detoxification I"/>
+            <pathway-xref db="Reactome" id="R-MMU-2142850" name="Hyaluronan biosynthesis and export"/>
+            <pathway-xref db="Reactome" id="R-HSA-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-RNO-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-RNO-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-8856828" name="Clathrin-mediated endocytosis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1296025" name="ATP sensitive Potassium channels"/>
+            <pathway-xref db="Reactome" id="R-SCE-2046105" name="Linoleic acid (LA) metabolism"/>
+            <pathway-xref db="Reactome" id="R-CFA-382556" name="ABC-family proteins mediated transport"/>
+            <pathway-xref db="Reactome" id="R-MMU-1296025" name="ATP sensitive Potassium channels"/>
+            <pathway-xref db="Reactome" id="R-SPO-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-CFA-189483" name="Heme degradation"/>
+            <pathway-xref db="Reactome" id="R-SCE-2046106" name="alpha-linolenic acid (ALA) metabolism"/>
+            <pathway-xref db="Reactome" id="R-DME-9646399" name="Aggrephagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-7733" name="3-hydroxyquinaldate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-DME-9603798" name="Class I peroxisomal membrane protein import"/>
+            <pathway-xref db="Reactome" id="R-HSA-5678520" name="Defective ABCB11 causes PFIC2 and BRIC2"/>
+            <pathway-xref db="Reactome" id="R-SCE-159418" name="Recycling of bile acids and salts"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-1369007" name="Mitochondrial ABC transporters"/>
+            <pathway-xref db="Reactome" id="R-DDI-196741" name="Cobalamin (Cbl, vitamin B12) transport and metabolism"/>
+            <pathway-xref db="Reactome" id="R-DRE-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-RNO-2046106" name="alpha-linolenic acid (ALA) metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7742" name="phenolphthiocerol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6997" name="furfural degradation"/>
+            <pathway-xref db="Reactome" id="R-DDI-1369007" name="Mitochondrial ABC transporters"/>
+            <pathway-xref db="Reactome" id="R-MMU-8856825" name="Cargo recognition for clathrin-mediated endocytosis"/>
+            <pathway-xref db="Reactome" id="R-DME-189483" name="Heme degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-SCE-382556" name="ABC-family proteins mediated transport"/>
+            <pathway-xref db="Reactome" id="R-DRE-2046105" name="Linoleic acid (LA) metabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-5683371" name="Defective ABCB6 causes MCOPCB7"/>
+            <pathway-xref db="Reactome" id="R-CFA-5627083" name="RHO GTPases regulate CFTR trafficking"/>
+            <pathway-xref db="Reactome" id="R-DRE-382556" name="ABC-family proteins mediated transport"/>
+            <pathway-xref db="Reactome" id="R-DME-382556" name="ABC-family proteins mediated transport"/>
+            <pathway-xref db="MetaCyc" id="PWY-7738" name="polyacyltrehalose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-HSA-2142850" name="Hyaluronan biosynthesis and export"/>
+            <pathway-xref db="Reactome" id="R-DDI-2046105" name="Linoleic acid (LA) metabolism"/>
+            <pathway-xref db="Reactome" id="R-MMU-8856828" name="Clathrin-mediated endocytosis"/>
+            <pathway-xref db="Reactome" id="R-RNO-189483" name="Heme degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-1222449" name="Mtb iron assimilation by chelation"/>
+            <pathway-xref db="Reactome" id="R-MMU-382556" name="ABC-family proteins mediated transport"/>
+            <pathway-xref db="Reactome" id="R-RNO-1369062" name="ABC transporters in lipid homeostasis"/>
+            <pathway-xref db="Reactome" id="R-CFA-8856828" name="Clathrin-mediated endocytosis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8058" name="2-deoxy-D-ribose degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7734" name="quinoxaline-2-carboxylate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-2142850" name="Hyaluronan biosynthesis and export"/>
+            <pathway-xref db="Reactome" id="R-MMU-9646399" name="Aggrephagy"/>
+            <pathway-xref db="Reactome" id="R-DDI-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-DDI-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9646399" name="Aggrephagy"/>
+            <pathway-xref db="Reactome" id="R-HSA-2046106" name="alpha-linolenic acid (ALA) metabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-1236974" name="ER-Phagosome pathway"/>
+            <pathway-xref db="Reactome" id="R-RNO-9603798" name="Class I peroxisomal membrane protein import"/>
+            <pathway-xref db="Reactome" id="R-HSA-193368" name="Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol"/>
+            <pathway-xref db="MetaCyc" id="PWY-7741" name="phthiocerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-390247" name="Beta-oxidation of very long chain fatty acids"/>
+            <pathway-xref db="Reactome" id="R-HSA-189483" name="Heme degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7884" name="lipoprotein posttranslational modification"/>
+            <pathway-xref db="Reactome" id="R-MMU-1369062" name="ABC transporters in lipid homeostasis"/>
+            <pathway-xref db="Reactome" id="R-MMU-159418" name="Recycling of bile acids and salts"/>
+            <pathway-xref db="Reactome" id="R-RNO-9646399" name="Aggrephagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-7931" name="brominated pyrroles biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9613829" name="Chaperone Mediated Autophagy"/>
+            <pathway-xref db="Reactome" id="R-RNO-193368" name="Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol"/>
+            <pathway-xref db="Reactome" id="R-MMU-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-HSA-2046105" name="Linoleic acid (LA) metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-8301" name="S-(6-hydroxy-4-methylhexan-4-yl)-L-cysteinylglycine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8210" name="pyrrolomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-1369007" name="Mitochondrial ABC transporters"/>
+            <pathway-xref db="Reactome" id="R-DDI-159418" name="Recycling of bile acids and salts"/>
+            <pathway-xref db="Reactome" id="R-DDI-2142850" name="Hyaluronan biosynthesis and export"/>
+            <pathway-xref db="Reactome" id="R-DRE-2046106" name="alpha-linolenic acid (ALA) metabolism"/>
+            <pathway-xref db="Reactome" id="R-SPO-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-DME-8856825" name="Cargo recognition for clathrin-mediated endocytosis"/>
+            <pathway-xref db="Reactome" id="R-DME-1369007" name="Mitochondrial ABC transporters"/>
+            <pathway-xref db="Reactome" id="R-RNO-9013106" name="RHOC GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-8856825" name="Cargo recognition for clathrin-mediated endocytosis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6972" name="oleandomycin activation/inactivation"/>
+            <pathway-xref db="Reactome" id="R-MMU-2046106" name="alpha-linolenic acid (ALA) metabolism"/>
+            <pathway-xref db="Reactome" id="R-DRE-390247" name="Beta-oxidation of very long chain fatty acids"/>
+            <pathway-xref db="Reactome" id="R-MMU-1236974" name="ER-Phagosome pathway"/>
+            <pathway-xref db="Reactome" id="R-RNO-2046105" name="Linoleic acid (LA) metabolism"/>
+            <pathway-xref db="Reactome" id="R-DRE-1369062" name="ABC transporters in lipid homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013106" name="RHOC GTPase cycle"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF06472</model-ac>
+        <locations>
+          <hmmer3-location env-end="69" env-start="1" post-processed="true" score="55.9" evalue="4.1E-15" hmm-start="115" hmm-end="176" hmm-length="269" hmm-bounds="INCOMPLETE" start="7" end="68">
+            <location-fragments>
+              <hmmer3-location-fragment start="7" end="68" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="1.6E-45" familyName="ABC TRANSPORTER D FAMILY MEMBER 1" score="167.4">
+        <signature ac="PTHR11384:SF56" name="ABC TRANSPORTER D FAMILY MEMBER 1">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR11384:SF56</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="69" hmm-start="837" hmm-end="904" hmm-length="1313" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="68">
+            <location-fragments>
+              <panther-location-fragment start="1" end="68" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="1.6E-45" familyName="ABC TRANSPORTER D FAMILY MEMBER 1" score="167.4">
+        <signature ac="PTHR11384" name="ATP-BINDING CASSETTE, SUB-FAMILY D MEMBER">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR11384</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="69" hmm-start="837" hmm-end="904" hmm-length="1313" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="68">
+            <location-fragments>
+              <panther-location-fragment start="1" end="68" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

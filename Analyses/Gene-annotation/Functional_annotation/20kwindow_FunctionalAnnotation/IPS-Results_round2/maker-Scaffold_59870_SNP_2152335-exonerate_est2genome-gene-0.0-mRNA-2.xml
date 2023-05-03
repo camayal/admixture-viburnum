@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="91b6566596121bd7475e9fa233427180">MLLRSSSTPVLGSLLSSISDSPNHHHHHHQPEVPHTAGHKHPPLPPTIPHCHNKILFHQSGPQNSTTFSFNSSPISSIAEISGTGRSSQNGFRRAQSEGNLESLANASSDIDEFSISNPPKKFSRRPNSSLLQTIPSFSFNNLTSSYEESDDEEEEREDFEENDELLYNNVSRGEERFTAAKVVDLDMKKKNINMGLNEEMMYVNGYGIMGLNEEMRYVNGYKNMSLEEAIERDGPQMYLARGLGVTGVLNIGFGSGGGPNVGGGGGGGYGDEDNNLEEHYKRMVEENPGNPLFFRNYAEFLHQ</sequence>
+    <xref id="maker-Scaffold_59870_SNP_2152335-exonerate_est2genome-gene-0.0-mRNA-2" name="maker-Scaffold_59870_SNP_2152335-exonerate_est2genome-gene-0.0-mRNA-2"/>
+    <matches>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="" start="1" end="52">
+            <location-fragments>
+              <mobidblite-location-fragment start="1" end="52" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="Polar" start="1" end="20">
+            <location-fragments>
+              <mobidblite-location-fragment start="1" end="20" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="Negative Polyelectrolyte" start="147" end="162">
+            <location-fragments>
+              <mobidblite-location-fragment start="147" end="162" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="" start="142" end="162">
+            <location-fragments>
+              <mobidblite-location-fragment start="142" end="162" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <panther-match evalue="7.9E-43" familyName="OSJNBA0004N05.2 PROTEIN" score="159.1">
+        <signature ac="PTHR26312:SF78" name="OSJNBA0004N05.2 PROTEIN">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR26312:SF78</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="304" hmm-start="1" hmm-end="205" hmm-length="312" hmm-bounds="COMPLETE" start="1" end="304">
+            <location-fragments>
+              <panther-location-fragment start="1" end="304" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="7.9E-43" familyName="OSJNBA0004N05.2 PROTEIN" score="159.1">
+        <signature ac="PTHR26312" name="TETRATRICOPEPTIDE REPEAT PROTEIN 5">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR26312</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="304" hmm-start="1" hmm-end="205" hmm-length="312" hmm-bounds="COMPLETE" start="1" end="304">
+            <location-fragments>
+              <panther-location-fragment start="1" end="304" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.56-89.0">
+  <protein>
+    <sequence md5="eceb1a02fa32759f5f4d03d82e2f7c41">MLADNFLNSGCELLFAMWNQSRHRRIPCEIDIYIYIHDAPSSTYEHNGEKKNMAVTQFGPADARRCFPCWDEPACKATFKITLEVPSELVALSNMPVVEEKVDGNLKTVYYMESPIMSTYLVAVVVGLFDYVEDHTPDVSLPCRN</sequence>
+    <xref id="maker-Scaffold_62480_SNP_2374442-exonerate_est2genome-gene-0.0-mRNA-6" name="maker-Scaffold_62480_SNP_2374442-exonerate_est2genome-gene-0.0-mRNA-6"/>
+    <matches>
+      <fingerprints-match evalue="2.8E-10" graphscan="II...">
+        <signature ac="PR00756" desc="Membrane alanyl dipeptidase (M1) family signature" name="ALADIPTASE">
+          <entry ac="IPR001930" desc="Peptidase M1, alanine aminopeptidase/leukotriene A4 hydrolase" name="Peptidase_M1" type="FAMILY">
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0006508" name="proteolysis"/>
+            <pathway-xref db="Reactome" id="R-RNO-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-DDI-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-RNO-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-MMU-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-CEL-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7694" name="zwittermicin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5706" name="alliin metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6710" name="poly-hydroxy fatty acids biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-SCE-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-CEL-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7799" name="Arg/N-end rule pathway (eukaryotic)"/>
+            <pathway-xref db="Reactome" id="R-DDI-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-RNO-2022377" name="Metabolism of Angiotensinogen to Angiotensins"/>
+            <pathway-xref db="Reactome" id="R-CEL-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-RNO-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-SCE-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-6423" name="hemoglobin degradation"/>
+            <pathway-xref db="Reactome" id="R-SPO-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CEL-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CEL-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-SPO-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-RNO-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-HSA-1236977" name="Endosomal/Vacuolar pathway"/>
+            <pathway-xref db="Reactome" id="R-SSC-2022377" name="Metabolism of Angiotensinogen to Angiotensins"/>
+            <pathway-xref db="Reactome" id="R-SCE-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-RNO-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-RNO-1236977" name="Endosomal/Vacuolar pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-1445148" name="Translocation of SLC2A4 (GLUT4) to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-CEL-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DDI-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-DDI-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-DDI-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-2022377" name="Metabolism of Angiotensinogen to Angiotensins"/>
+            <pathway-xref db="Reactome" id="R-HSA-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="MetaCyc" id="PWY-7778" name="2-methylpropene degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-2022377" name="Metabolism of Angiotensinogen to Angiotensins"/>
+            <pathway-xref db="Reactome" id="R-CEL-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-SPO-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-SPO-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-MMU-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-SPO-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5707" name="propanethial S-oxide biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-MMU-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-SCE-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7800" name="Ac/N-end rule pathway"/>
+            <pathway-xref db="Reactome" id="R-DDI-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-CEL-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-MMU-1236977" name="Endosomal/Vacuolar pathway"/>
+            <pathway-xref db="Reactome" id="R-SCE-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7614" name="methiin metabolism"/>
+            <pathway-xref db="Reactome" id="R-DDI-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SCE-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-RNO-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-SPO-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-SPO-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-SCE-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-MMU-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-SPO-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7954" name="tabtoxinine-beta-lactam biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+          </entry>
+          <signature-library-release library="PRINTS" version="42.0"/>
+        </signature>
+        <model-ac>PR00756</model-ac>
+        <locations>
+          <fingerprints-location motifNumber="2" pvalue="1.09E-7" score="44.31" start="111" end="126">
+            <location-fragments>
+              <fingerprints-location-fragment start="111" end="126" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </fingerprints-location>
+          <fingerprints-location motifNumber="1" pvalue="9.64E-10" score="62.72" start="64" end="79">
+            <location-fragments>
+              <fingerprints-location-fragment start="64" end="79" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </fingerprints-location>
+        </locations>
+      </fingerprints-match>
+      <hmmer3-match evalue="1.5E-36" score="128.6">
+        <signature ac="G3DSA:2.60.40.1730" name="tricorn interacting facor f3 domain">
+          <entry ac="IPR042097" desc="Aminopeptidase N-like , N-terminal domain superfamliy" name="Aminopeptidase_N-like_N_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="Reactome" id="R-RNO-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-RNO-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-DME-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-MMU-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-CEL-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7694" name="zwittermicin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-76042" name="RNA Polymerase II Transcription Initiation And Promoter Clearance"/>
+            <pathway-xref db="MetaCyc" id="PWY-5706" name="alliin metabolism"/>
+            <pathway-xref db="Reactome" id="R-SCE-73779" name="RNA Polymerase II Transcription Pre-Initiation And Promoter Opening"/>
+            <pathway-xref db="Reactome" id="R-HSA-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-SCE-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-CEL-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-RNO-2022377" name="Metabolism of Angiotensinogen to Angiotensins"/>
+            <pathway-xref db="Reactome" id="R-RNO-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6423" name="hemoglobin degradation"/>
+            <pathway-xref db="Reactome" id="R-DRE-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-DME-73776" name="RNA Polymerase II Promoter Escape"/>
+            <pathway-xref db="Reactome" id="R-DME-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-DRE-76042" name="RNA Polymerase II Transcription Initiation And Promoter Clearance"/>
+            <pathway-xref db="Reactome" id="R-HSA-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-RNO-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-HSA-1236977" name="Endosomal/Vacuolar pathway"/>
+            <pathway-xref db="Reactome" id="R-RNO-1236977" name="Endosomal/Vacuolar pathway"/>
+            <pathway-xref db="Reactome" id="R-DME-73779" name="RNA Polymerase II Transcription Pre-Initiation And Promoter Opening"/>
+            <pathway-xref db="Reactome" id="R-SCE-75953" name="RNA Polymerase II Transcription Initiation"/>
+            <pathway-xref db="Reactome" id="R-HSA-73776" name="RNA Polymerase II Promoter Escape"/>
+            <pathway-xref db="Reactome" id="R-MMU-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-DDI-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-SPO-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-CEL-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-76042" name="RNA Polymerase II Transcription Initiation And Promoter Clearance"/>
+            <pathway-xref db="Reactome" id="R-SPO-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-SPO-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5707" name="propanethial S-oxide biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7800" name="Ac/N-end rule pathway"/>
+            <pathway-xref db="Reactome" id="R-SPO-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-MMU-1236977" name="Endosomal/Vacuolar pathway"/>
+            <pathway-xref db="Reactome" id="R-SCE-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-SCE-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-DME-75953" name="RNA Polymerase II Transcription Initiation"/>
+            <pathway-xref db="Reactome" id="R-DRE-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-RNO-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-SPO-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-HSA-73779" name="RNA Polymerase II Transcription Pre-Initiation And Promoter Opening"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DRE-73779" name="RNA Polymerase II Transcription Pre-Initiation And Promoter Opening"/>
+            <pathway-xref db="Reactome" id="R-DRE-73776" name="RNA Polymerase II Promoter Escape"/>
+            <pathway-xref db="Reactome" id="R-CEL-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-SCE-73776" name="RNA Polymerase II Promoter Escape"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-SPO-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-CEL-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-CEL-75953" name="RNA Polymerase II Transcription Initiation"/>
+            <pathway-xref db="Reactome" id="R-DDI-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-73776" name="RNA Polymerase II Promoter Escape"/>
+            <pathway-xref db="MetaCyc" id="PWY-6710" name="poly-hydroxy fatty acids biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-SPO-73779" name="RNA Polymerase II Transcription Pre-Initiation And Promoter Opening"/>
+            <pathway-xref db="Reactome" id="R-HSA-167161" name="HIV Transcription Initiation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7799" name="Arg/N-end rule pathway (eukaryotic)"/>
+            <pathway-xref db="Reactome" id="R-MMU-73779" name="RNA Polymerase II Transcription Pre-Initiation And Promoter Opening"/>
+            <pathway-xref db="Reactome" id="R-DDI-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-SCE-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-CEL-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-76042" name="RNA Polymerase II Transcription Initiation And Promoter Clearance"/>
+            <pathway-xref db="Reactome" id="R-SCE-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-SPO-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CEL-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CEL-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-SPO-76042" name="RNA Polymerase II Transcription Initiation And Promoter Clearance"/>
+            <pathway-xref db="Reactome" id="R-SPO-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-75953" name="RNA Polymerase II Transcription Initiation"/>
+            <pathway-xref db="Reactome" id="R-SSC-2022377" name="Metabolism of Angiotensinogen to Angiotensins"/>
+            <pathway-xref db="Reactome" id="R-SCE-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-RNO-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-1445148" name="Translocation of SLC2A4 (GLUT4) to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-CEL-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DDI-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-DRE-75953" name="RNA Polymerase II Transcription Initiation"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-75953" name="RNA Polymerase II Transcription Initiation"/>
+            <pathway-xref db="Reactome" id="R-DDI-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-2022377" name="Metabolism of Angiotensinogen to Angiotensins"/>
+            <pathway-xref db="Reactome" id="R-MMU-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-CEL-73776" name="RNA Polymerase II Promoter Escape"/>
+            <pathway-xref db="Reactome" id="R-HSA-167162" name="RNA Polymerase II HIV Promoter Escape"/>
+            <pathway-xref db="Reactome" id="R-CEL-73779" name="RNA Polymerase II Transcription Pre-Initiation And Promoter Opening"/>
+            <pathway-xref db="Reactome" id="R-SPO-73776" name="RNA Polymerase II Promoter Escape"/>
+            <pathway-xref db="MetaCyc" id="PWY-7778" name="2-methylpropene degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-2022377" name="Metabolism of Angiotensinogen to Angiotensins"/>
+            <pathway-xref db="Reactome" id="R-HSA-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-MMU-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-SCE-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-SCE-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-HSA-167172" name="Transcription of the HIV genome"/>
+            <pathway-xref db="Reactome" id="R-CEL-76042" name="RNA Polymerase II Transcription Initiation And Promoter Clearance"/>
+            <pathway-xref db="Reactome" id="R-SPO-75953" name="RNA Polymerase II Transcription Initiation"/>
+            <pathway-xref db="Reactome" id="R-DDI-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-DME-76042" name="RNA Polymerase II Transcription Initiation And Promoter Clearance"/>
+            <pathway-xref db="Reactome" id="R-CEL-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7614" name="methiin metabolism"/>
+            <pathway-xref db="Reactome" id="R-DDI-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-RNO-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-SCE-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-SPO-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7954" name="tabtoxinine-beta-lactam biosynthesis"/>
+          </entry>
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>4fkeA01</model-ac>
+        <locations>
+          <hmmer3-location env-end="129" env-start="32" post-processed="true" score="128.3" evalue="1.8E-36" hmm-start="129" hmm-end="221" hmm-length="221" hmm-bounds="COMPLETE" start="32" end="129">
+            <location-fragments>
+              <hmmer3-location-fragment start="32" end="129" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="2.4E-29" score="102.8">
+        <signature ac="PF17900" desc="Peptidase M1 N-terminal domain" name="Peptidase_M1_N">
+          <entry ac="IPR045357" desc="Aminopeptidase N-like , N-terminal domain" name="Aminopeptidase_N-like_N" type="DOMAIN">
+            <pathway-xref db="Reactome" id="R-CEL-75953" name="RNA Polymerase II Transcription Initiation"/>
+            <pathway-xref db="Reactome" id="R-RNO-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-DDI-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-RNO-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-MMU-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-CEL-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7694" name="zwittermicin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5706" name="alliin metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6710" name="poly-hydroxy fatty acids biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-SCE-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-CEL-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7799" name="Arg/N-end rule pathway (eukaryotic)"/>
+            <pathway-xref db="Reactome" id="R-DDI-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-RNO-2022377" name="Metabolism of Angiotensinogen to Angiotensins"/>
+            <pathway-xref db="Reactome" id="R-CEL-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-RNO-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-SCE-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-6423" name="hemoglobin degradation"/>
+            <pathway-xref db="Reactome" id="R-SPO-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CEL-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CEL-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-SPO-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-RNO-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-HSA-1236977" name="Endosomal/Vacuolar pathway"/>
+            <pathway-xref db="Reactome" id="R-SSC-2022377" name="Metabolism of Angiotensinogen to Angiotensins"/>
+            <pathway-xref db="Reactome" id="R-SCE-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-RNO-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-RNO-1236977" name="Endosomal/Vacuolar pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-1445148" name="Translocation of SLC2A4 (GLUT4) to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-CEL-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DDI-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-DDI-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-DDI-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-2022377" name="Metabolism of Angiotensinogen to Angiotensins"/>
+            <pathway-xref db="Reactome" id="R-HSA-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-CEL-73776" name="RNA Polymerase II Promoter Escape"/>
+            <pathway-xref db="Reactome" id="R-CEL-73779" name="RNA Polymerase II Transcription Pre-Initiation And Promoter Opening"/>
+            <pathway-xref db="MetaCyc" id="PWY-7778" name="2-methylpropene degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-2022377" name="Metabolism of Angiotensinogen to Angiotensins"/>
+            <pathway-xref db="Reactome" id="R-CEL-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-SPO-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-SPO-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-MMU-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-SPO-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5707" name="propanethial S-oxide biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-MMU-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-SCE-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7800" name="Ac/N-end rule pathway"/>
+            <pathway-xref db="Reactome" id="R-CEL-76042" name="RNA Polymerase II Transcription Initiation And Promoter Clearance"/>
+            <pathway-xref db="Reactome" id="R-DDI-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-CEL-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-MMU-1236977" name="Endosomal/Vacuolar pathway"/>
+            <pathway-xref db="Reactome" id="R-SCE-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7614" name="methiin metabolism"/>
+            <pathway-xref db="Reactome" id="R-DDI-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SCE-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-RNO-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-SPO-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CEL-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-SPO-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-SCE-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-MMU-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-SPO-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7954" name="tabtoxinine-beta-lactam biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF17900</model-ac>
+        <locations>
+          <hmmer3-location env-end="121" env-start="32" post-processed="true" score="102.5" evalue="3.0E-29" hmm-start="105" hmm-end="186" hmm-length="186" hmm-bounds="C_TERMINAL_COMPLETE" start="41" end="121">
+            <location-fragments>
+              <hmmer3-location-fragment start="41" end="121" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="3.8E-51" familyName="AMINOPEPTIDASE" score="185.9">
+        <signature ac="PTHR11533" name="PROTEASE M1 ZINC METALLOPROTEASE">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR11533</model-ac>
+        <locations>
+          <panther-location env-start="35" env-end="142" hmm-start="150" hmm-end="248" hmm-length="904" hmm-bounds="INCOMPLETE" start="41" end="138">
+            <location-fragments>
+              <panther-location-fragment start="41" end="138" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="3.8E-51" familyName="AMINOPEPTIDASE" score="185.9">
+        <signature ac="PTHR11533:SF269" name="AMINOPEPTIDASE">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR11533:SF269</model-ac>
+        <locations>
+          <panther-location env-start="35" env-end="142" hmm-start="150" hmm-end="248" hmm-length="904" hmm-bounds="INCOMPLETE" start="41" end="138">
+            <location-fragments>
+              <panther-location-fragment start="41" end="138" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <superfamilyhmmer3-match evalue="3.01E-34">
+        <signature ac="SSF63737" name="Leukotriene A4 hydrolase N-terminal domain">
+          <entry ac="IPR042097" desc="Aminopeptidase N-like , N-terminal domain superfamliy" name="Aminopeptidase_N-like_N_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="Reactome" id="R-RNO-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-RNO-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-DME-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-MMU-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-CEL-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7694" name="zwittermicin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-76042" name="RNA Polymerase II Transcription Initiation And Promoter Clearance"/>
+            <pathway-xref db="MetaCyc" id="PWY-5706" name="alliin metabolism"/>
+            <pathway-xref db="Reactome" id="R-SCE-73779" name="RNA Polymerase II Transcription Pre-Initiation And Promoter Opening"/>
+            <pathway-xref db="Reactome" id="R-HSA-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-SCE-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-CEL-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-RNO-2022377" name="Metabolism of Angiotensinogen to Angiotensins"/>
+            <pathway-xref db="Reactome" id="R-RNO-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6423" name="hemoglobin degradation"/>
+            <pathway-xref db="Reactome" id="R-DRE-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-DME-73776" name="RNA Polymerase II Promoter Escape"/>
+            <pathway-xref db="Reactome" id="R-DME-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-DRE-76042" name="RNA Polymerase II Transcription Initiation And Promoter Clearance"/>
+            <pathway-xref db="Reactome" id="R-HSA-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-RNO-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-HSA-1236977" name="Endosomal/Vacuolar pathway"/>
+            <pathway-xref db="Reactome" id="R-RNO-1236977" name="Endosomal/Vacuolar pathway"/>
+            <pathway-xref db="Reactome" id="R-DME-73779" name="RNA Polymerase II Transcription Pre-Initiation And Promoter Opening"/>
+            <pathway-xref db="Reactome" id="R-SCE-75953" name="RNA Polymerase II Transcription Initiation"/>
+            <pathway-xref db="Reactome" id="R-HSA-73776" name="RNA Polymerase II Promoter Escape"/>
+            <pathway-xref db="Reactome" id="R-MMU-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-DDI-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-SPO-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-CEL-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-76042" name="RNA Polymerase II Transcription Initiation And Promoter Clearance"/>
+            <pathway-xref db="Reactome" id="R-SPO-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-SPO-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5707" name="propanethial S-oxide biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7800" name="Ac/N-end rule pathway"/>
+            <pathway-xref db="Reactome" id="R-SPO-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-MMU-1236977" name="Endosomal/Vacuolar pathway"/>
+            <pathway-xref db="Reactome" id="R-SCE-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-SCE-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-DME-75953" name="RNA Polymerase II Transcription Initiation"/>
+            <pathway-xref db="Reactome" id="R-DRE-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-RNO-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-SPO-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-HSA-73779" name="RNA Polymerase II Transcription Pre-Initiation And Promoter Opening"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DRE-73779" name="RNA Polymerase II Transcription Pre-Initiation And Promoter Opening"/>
+            <pathway-xref db="Reactome" id="R-DRE-73776" name="RNA Polymerase II Promoter Escape"/>
+            <pathway-xref db="Reactome" id="R-CEL-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-SCE-73776" name="RNA Polymerase II Promoter Escape"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-SPO-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-CEL-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-CEL-75953" name="RNA Polymerase II Transcription Initiation"/>
+            <pathway-xref db="Reactome" id="R-DDI-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-73776" name="RNA Polymerase II Promoter Escape"/>
+            <pathway-xref db="MetaCyc" id="PWY-6710" name="poly-hydroxy fatty acids biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-SPO-73779" name="RNA Polymerase II Transcription Pre-Initiation And Promoter Opening"/>
+            <pathway-xref db="Reactome" id="R-HSA-167161" name="HIV Transcription Initiation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7799" name="Arg/N-end rule pathway (eukaryotic)"/>
+            <pathway-xref db="Reactome" id="R-MMU-73779" name="RNA Polymerase II Transcription Pre-Initiation And Promoter Opening"/>
+            <pathway-xref db="Reactome" id="R-DDI-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-SCE-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-CEL-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-76042" name="RNA Polymerase II Transcription Initiation And Promoter Clearance"/>
+            <pathway-xref db="Reactome" id="R-SCE-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-SPO-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CEL-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CEL-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-SPO-76042" name="RNA Polymerase II Transcription Initiation And Promoter Clearance"/>
+            <pathway-xref db="Reactome" id="R-SPO-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-75953" name="RNA Polymerase II Transcription Initiation"/>
+            <pathway-xref db="Reactome" id="R-SSC-2022377" name="Metabolism of Angiotensinogen to Angiotensins"/>
+            <pathway-xref db="Reactome" id="R-SCE-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-RNO-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-1445148" name="Translocation of SLC2A4 (GLUT4) to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-CEL-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DDI-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-DRE-75953" name="RNA Polymerase II Transcription Initiation"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-75953" name="RNA Polymerase II Transcription Initiation"/>
+            <pathway-xref db="Reactome" id="R-DDI-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-2022377" name="Metabolism of Angiotensinogen to Angiotensins"/>
+            <pathway-xref db="Reactome" id="R-MMU-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-CEL-73776" name="RNA Polymerase II Promoter Escape"/>
+            <pathway-xref db="Reactome" id="R-HSA-167162" name="RNA Polymerase II HIV Promoter Escape"/>
+            <pathway-xref db="Reactome" id="R-CEL-73779" name="RNA Polymerase II Transcription Pre-Initiation And Promoter Opening"/>
+            <pathway-xref db="Reactome" id="R-SPO-73776" name="RNA Polymerase II Promoter Escape"/>
+            <pathway-xref db="MetaCyc" id="PWY-7778" name="2-methylpropene degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-2022377" name="Metabolism of Angiotensinogen to Angiotensins"/>
+            <pathway-xref db="Reactome" id="R-HSA-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-MMU-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-SCE-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="Reactome" id="R-SCE-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-HSA-167172" name="Transcription of the HIV genome"/>
+            <pathway-xref db="Reactome" id="R-CEL-76042" name="RNA Polymerase II Transcription Initiation And Promoter Clearance"/>
+            <pathway-xref db="Reactome" id="R-SPO-75953" name="RNA Polymerase II Transcription Initiation"/>
+            <pathway-xref db="Reactome" id="R-DDI-9018681" name="Biosynthesis of protectins"/>
+            <pathway-xref db="Reactome" id="R-DME-76042" name="RNA Polymerase II Transcription Initiation And Promoter Clearance"/>
+            <pathway-xref db="Reactome" id="R-CEL-2142691" name="Synthesis of Leukotrienes (LT) and Eoxins (EX)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7614" name="methiin metabolism"/>
+            <pathway-xref db="Reactome" id="R-DDI-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-RNO-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-SCE-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-SPO-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7954" name="tabtoxinine-beta-lactam biosynthesis"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0038696</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="208" start="42" end="127">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="42" end="127" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

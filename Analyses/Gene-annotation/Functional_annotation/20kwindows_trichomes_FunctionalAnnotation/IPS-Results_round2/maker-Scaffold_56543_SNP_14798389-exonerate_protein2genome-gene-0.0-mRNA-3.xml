@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.56-89.0">
+  <protein>
+    <sequence md5="662e973e934bea96b3ce1d0b207526e6">MNFKNFVDTSQPEGSGVKPLGNFPLARQSSVYSLTFDELQNTLGGVGKDFGSMNMDELLKSIWTAEETQALASSTGVVGGGSVLGGNLQKQGSLTLPRTLSQKTVDEVWRDLFKENGGSKDGIGSGGLDLQQREPTFGEITLEDFLLRAGVVGEATQPIGRPNNGGFYGEISQPNSNSNGLTFGFQQPAQNHGSMANQIIENNNTVPNLAPNLALNLGGIRSQQQLQQQQQPIFPKQATVAFASPIQLVNNAQLASPGTRGPVVGRTDPSVSTALVQGGAIQGGAMGMSGLGTGATTKVAAGSPTNQLPTSVIPKSNLDTSSLSPSPYAFSEGLRGKKSGGPVEKVVERRRRRMIKNRESASRSRARKQVN</sequence>
+    <xref id="maker-Scaffold_56543_SNP_14798389-exonerate_protein2genome-gene-0.0-mRNA-3" name="maker-Scaffold_56543_SNP_14798389-exonerate_protein2genome-gene-0.0-mRNA-3"/>
+    <matches>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="Polyampholyte" start="338" end="365">
+            <location-fragments>
+              <mobidblite-location-fragment start="338" end="365" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="Polar" start="1" end="16">
+            <location-fragments>
+              <mobidblite-location-fragment start="1" end="16" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="" start="1" end="21">
+            <location-fragments>
+              <mobidblite-location-fragment start="1" end="21" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="Polar" start="298" end="328">
+            <location-fragments>
+              <mobidblite-location-fragment start="298" end="328" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="" start="298" end="371">
+            <location-fragments>
+              <mobidblite-location-fragment start="298" end="371" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <panther-match evalue="7.1E-109" familyName="ABSCISIC ACID-INSENSITIVE 5-LIKE PROTEIN 7" score="376.2">
+        <signature ac="PTHR22952" name="CAMP-RESPONSE ELEMENT BINDING PROTEIN-RELATED">
+          <entry ac="IPR043452" desc="Plant bZIP transcription factors" name="BZIP46-like" type="FAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0003700" name="DNA-binding transcription factor activity"/>
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0045893" name="positive regulation of transcription, DNA-templated"/>
+          </entry>
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR22952</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="371" hmm-start="9" hmm-end="356" hmm-length="413" hmm-bounds="INCOMPLETE" start="5" end="370">
+            <location-fragments>
+              <panther-location-fragment start="5" end="370" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="7.1E-109" familyName="ABSCISIC ACID-INSENSITIVE 5-LIKE PROTEIN 7" score="376.2">
+        <signature ac="PTHR22952:SF445" name="ABSCISIC ACID-INSENSITIVE 5-LIKE PROTEIN 7">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR22952:SF445</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="371" hmm-start="9" hmm-end="356" hmm-length="413" hmm-bounds="INCOMPLETE" start="5" end="370">
+            <location-fragments>
+              <panther-location-fragment start="5" end="370" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

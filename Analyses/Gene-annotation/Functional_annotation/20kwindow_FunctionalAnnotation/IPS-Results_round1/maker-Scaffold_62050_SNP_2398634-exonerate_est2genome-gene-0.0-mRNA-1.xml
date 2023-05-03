@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="bdc7b752cb76816a7468f979db983a2d">MTRNPVFVLSDTLAVEALQKMVQGKFRHLPVVENGEVIALLDIAKCLFDAIARMERAAEKGKAIVAAVEGVEKHWGSSTSGPSTFIETLRERMFKPSLSTIISENLKIVTVSPTDTVVMAAKKMLESRTSSAVVTVDDKPRGILTSKDILMRVISQNLPSESTLVEKVMTPN</sequence>
+    <xref id="maker-Scaffold_62050_SNP_2398634-exonerate_est2genome-gene-0.0-mRNA-1" name="maker-Scaffold_62050_SNP_2398634-exonerate_est2genome-gene-0.0-mRNA-1"/>
+    <matches>
+      <hmmer2-match evalue="5.8E-12" score="55.7">
+        <signature ac="SM00116" name="cbs_1">
+          <entry ac="IPR000644" desc="CBS domain" name="CBS_dom" type="DOMAIN">
+            <pathway-xref db="MetaCyc" id="PWY-7735" name="echinomycin and triostin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7805" name="(aminomethyl)phosphonate degradation"/>
+            <pathway-xref db="Reactome" id="R-BTA-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-SPO-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-801" name="homocysteine and cysteine interconversion"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="Reactome" id="R-SCE-1632852" name="Macroautophagy"/>
+            <pathway-xref db="Reactome" id="R-HSA-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-MMU-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="Reactome" id="R-BTA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-CEL-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-HSA-9613354" name="Lipophagy"/>
+            <pathway-xref db="Reactome" id="R-MMU-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-DRE-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SSC-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6998" name="CDP-D-arabitol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-SPO-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-DDI-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-RNO-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7888" name="tRNA-uridine 2-thiolation (cytoplasmic)"/>
+            <pathway-xref db="Reactome" id="R-SCE-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-CEL-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9619483" name="Activation of AMPK downstream of NMDARs"/>
+            <pathway-xref db="Reactome" id="R-HSA-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-DDI-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-2151209" name="Activation of PPARGC1A (PGC-1alpha) by phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-MMU-1632852" name="Macroautophagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-7904" name="tRNA-uridine 2-thiolation (thermophilic bacteria)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9679191" name="Potential therapeutics for SARS"/>
+            <pathway-xref db="Reactome" id="R-DDI-1632852" name="Macroautophagy"/>
+            <pathway-xref db="Reactome" id="R-MMU-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-DDI-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-DDI-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-7221" name="guanosine ribonucleotides de novo biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-SPO-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1445148" name="Translocation of SLC2A4 (GLUT4) to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-HSA-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="MetaCyc" id="PWY-7674" name="CMP-8-amino-3,8-dideoxy-D-manno-octulosonate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DME-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-RNO-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-5344" name="L-homocysteine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8117" name="colibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-2408508" name="Metabolism of ingested SeMet, Sec, MeSec into H2Se"/>
+            <pathway-xref db="MetaCyc" id="PWY-6596" name="adenosine nucleotides degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-1269" name="CMP-3-deoxy-D-manno-octulosonate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5695" name="inosine 5'-phosphate degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1632852" name="Macroautophagy"/>
+            <pathway-xref db="Reactome" id="R-DME-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-SCE-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8119" name="microcin B17 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-MMU-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6802952" name="Signaling by BRAF and RAF1 fusions"/>
+            <pathway-xref db="MetaCyc" id="PWY-6626" name="cytidine-5'-diphosphate-glycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-DDI-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7737" name="thiocoraline biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-CEL-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-1632852" name="Macroautophagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7977" name="L-methionine biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CFA-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-SCE-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-HSA-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-SPO-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7127" name="CDP-D-mannitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7807" name="glyphosate degradation III"/>
+            <pathway-xref db="Reactome" id="R-SPO-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-SPO-5628897" name="TP53 Regulates Metabolic Genes"/>
+          </entry>
+          <signature-library-release library="SMART" version="7.1"/>
+        </signature>
+        <model-ac>SM00116</model-ac>
+        <locations>
+          <hmmer2-location score="32.9" evalue="4.4E-5" hmm-start="1" hmm-end="47" hmm-length="47" hmm-bounds="COMPLETE" start="107" end="154">
+            <location-fragments>
+              <hmmer2-location-fragment start="107" end="154" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer2-location>
+          <hmmer2-location score="22.9" evalue="0.046" hmm-start="1" hmm-end="47" hmm-length="47" hmm-bounds="COMPLETE" start="4" end="48">
+            <location-fragments>
+              <hmmer2-location-fragment start="4" end="48" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer2-location>
+        </locations>
+      </hmmer2-match>
+      <hmmer3-match evalue="6.3E-17" score="61.8">
+        <signature ac="PF00571" desc="CBS domain" name="CBS">
+          <entry ac="IPR000644" desc="CBS domain" name="CBS_dom" type="DOMAIN">
+            <pathway-xref db="MetaCyc" id="PWY-7735" name="echinomycin and triostin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7805" name="(aminomethyl)phosphonate degradation"/>
+            <pathway-xref db="Reactome" id="R-BTA-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-SPO-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-801" name="homocysteine and cysteine interconversion"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="Reactome" id="R-SCE-1632852" name="Macroautophagy"/>
+            <pathway-xref db="Reactome" id="R-HSA-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-MMU-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="Reactome" id="R-BTA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-CEL-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-HSA-9613354" name="Lipophagy"/>
+            <pathway-xref db="Reactome" id="R-MMU-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-DRE-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SSC-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6998" name="CDP-D-arabitol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-SPO-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-DDI-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-RNO-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7888" name="tRNA-uridine 2-thiolation (cytoplasmic)"/>
+            <pathway-xref db="Reactome" id="R-SCE-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-CEL-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9619483" name="Activation of AMPK downstream of NMDARs"/>
+            <pathway-xref db="Reactome" id="R-HSA-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-DDI-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-2151209" name="Activation of PPARGC1A (PGC-1alpha) by phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-MMU-1632852" name="Macroautophagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-7904" name="tRNA-uridine 2-thiolation (thermophilic bacteria)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9679191" name="Potential therapeutics for SARS"/>
+            <pathway-xref db="Reactome" id="R-DDI-1632852" name="Macroautophagy"/>
+            <pathway-xref db="Reactome" id="R-MMU-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-DDI-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-DDI-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-7221" name="guanosine ribonucleotides de novo biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-SPO-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1445148" name="Translocation of SLC2A4 (GLUT4) to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-HSA-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="MetaCyc" id="PWY-7674" name="CMP-8-amino-3,8-dideoxy-D-manno-octulosonate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DME-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-RNO-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-5344" name="L-homocysteine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8117" name="colibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-2408508" name="Metabolism of ingested SeMet, Sec, MeSec into H2Se"/>
+            <pathway-xref db="MetaCyc" id="PWY-6596" name="adenosine nucleotides degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-1269" name="CMP-3-deoxy-D-manno-octulosonate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5695" name="inosine 5'-phosphate degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1632852" name="Macroautophagy"/>
+            <pathway-xref db="Reactome" id="R-DME-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-SCE-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8119" name="microcin B17 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-MMU-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6802952" name="Signaling by BRAF and RAF1 fusions"/>
+            <pathway-xref db="MetaCyc" id="PWY-6626" name="cytidine-5'-diphosphate-glycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-DDI-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7737" name="thiocoraline biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-CEL-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-1632852" name="Macroautophagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7977" name="L-methionine biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CFA-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-SCE-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-HSA-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-SPO-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7127" name="CDP-D-mannitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7807" name="glyphosate degradation III"/>
+            <pathway-xref db="Reactome" id="R-SPO-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-SPO-5628897" name="TP53 Regulates Metabolic Genes"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF00571</model-ac>
+        <locations>
+          <hmmer3-location env-end="155" env-start="98" post-processed="true" score="33.9" evalue="3.2E-8" hmm-start="8" hmm-end="54" hmm-length="57" hmm-bounds="INCOMPLETE" start="107" end="152">
+            <location-fragments>
+              <hmmer3-location-fragment start="107" end="152" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+          <hmmer3-location env-end="49" env-start="1" post-processed="true" score="27.5" evalue="3.2E-6" hmm-start="5" hmm-end="46" hmm-length="57" hmm-bounds="INCOMPLETE" start="1" end="41">
+            <location-fragments>
+              <hmmer3-location-fragment start="1" end="41" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="8.1E-29" score="102.2">
+        <signature ac="G3DSA:3.10.580.10" name="">
+          <entry ac="IPR046342" desc="CBS domain superfamily" name="CBS_dom_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="MetaCyc" id="PWY-7735" name="echinomycin and triostin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7805" name="(aminomethyl)phosphonate degradation"/>
+            <pathway-xref db="Reactome" id="R-DDI-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-SPO-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6409" name="pyoverdine I biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-801" name="homocysteine and cysteine interconversion"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="Reactome" id="R-SCE-1632852" name="Macroautophagy"/>
+            <pathway-xref db="Reactome" id="R-HSA-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-MMU-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="Reactome" id="R-HSA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-CEL-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-HSA-9613354" name="Lipophagy"/>
+            <pathway-xref db="Reactome" id="R-MMU-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-SSC-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6998" name="CDP-D-arabitol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-SPO-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-DDI-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-RNO-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="MetaCyc" id="PWY-7888" name="tRNA-uridine 2-thiolation (cytoplasmic)"/>
+            <pathway-xref db="Reactome" id="R-SCE-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-HSA-9619483" name="Activation of AMPK downstream of NMDARs"/>
+            <pathway-xref db="Reactome" id="R-HSA-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-DDI-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-2151209" name="Activation of PPARGC1A (PGC-1alpha) by phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-MMU-1632852" name="Macroautophagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-7904" name="tRNA-uridine 2-thiolation (thermophilic bacteria)"/>
+            <pathway-xref db="Reactome" id="R-DDI-1632852" name="Macroautophagy"/>
+            <pathway-xref db="Reactome" id="R-MMU-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-DDI-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-DDI-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-7221" name="guanosine ribonucleotides de novo biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-SPO-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1445148" name="Translocation of SLC2A4 (GLUT4) to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-HSA-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="MetaCyc" id="PWY-7674" name="CMP-8-amino-3,8-dideoxy-D-manno-octulosonate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DME-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SCE-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-RNO-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-5344" name="L-homocysteine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8117" name="colibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-2408508" name="Metabolism of ingested SeMet, Sec, MeSec into H2Se"/>
+            <pathway-xref db="MetaCyc" id="PWY-6596" name="adenosine nucleotides degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-1269" name="CMP-3-deoxy-D-manno-octulosonate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5695" name="inosine 5'-phosphate degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-1632852" name="Macroautophagy"/>
+            <pathway-xref db="Reactome" id="R-DME-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-SCE-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="MetaCyc" id="PWY-8119" name="microcin B17 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-6802952" name="Signaling by BRAF and RAF1 fusions"/>
+            <pathway-xref db="MetaCyc" id="PWY-6626" name="cytidine-5'-diphosphate-glycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-DDI-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7737" name="thiocoraline biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-SPO-1632852" name="Macroautophagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7977" name="L-methionine biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CFA-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-SCE-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-HSA-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-SPO-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7127" name="CDP-D-mannitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7807" name="glyphosate degradation III"/>
+            <pathway-xref db="Reactome" id="R-SPO-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-SPO-5628897" name="TP53 Regulates Metabolic Genes"/>
+          </entry>
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>3fhmA00</model-ac>
+        <locations>
+          <hmmer3-location env-end="67" env-start="1" post-processed="true" score="43.8" evalue="7.2E-11" hmm-start="99" hmm-end="162" hmm-length="165" hmm-bounds="COMPLETE" start="1" end="67">
+            <location-fragments>
+              <hmmer3-location-fragment start="1" end="67" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="1.6E-21" score="77.8">
+        <signature ac="G3DSA:3.90.1280.20" name="">
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>3ghdA00</model-ac>
+        <locations>
+          <hmmer3-location env-end="172" env-start="107" post-processed="true" score="65.9" evalue="8.5E-18" hmm-start="2" hmm-end="66" hmm-length="70" hmm-bounds="COMPLETE" start="107" end="172">
+            <location-fragments>
+              <hmmer3-location-fragment start="107" end="172" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="6.4E-98" familyName="CBS DOMAIN-CONTAINING PROTEIN CBSCBSPB4-RELATED" score="340.5">
+        <signature ac="PTHR13780:SF48" name="CBS DOMAIN-CONTAINING PROTEIN CBSCBSPB4-RELATED">
+          <entry ac="IPR034896" desc="CBS domain-containing protein CBSCBSPB" name="CBSCBSPB" type="FAMILY"/>
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR13780:SF48</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="172" hmm-start="124" hmm-end="295" hmm-length="542" hmm-bounds="COMPLETE" start="1" end="172">
+            <location-fragments>
+              <panther-location-fragment start="1" end="172" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="6.4E-98" familyName="CBS DOMAIN-CONTAINING PROTEIN CBSCBSPB4-RELATED" score="340.5">
+        <signature ac="PTHR13780" name="AMP-ACTIVATED PROTEIN KINASE, GAMMA REGULATORY SUBUNIT">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR13780</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="172" hmm-start="124" hmm-end="295" hmm-length="542" hmm-bounds="COMPLETE" start="1" end="172">
+            <location-fragments>
+              <panther-location-fragment start="1" end="172" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <profilescan-match>
+        <signature ac="PS51371" desc="CBS domain profile." name="CBS">
+          <entry ac="IPR000644" desc="CBS domain" name="CBS_dom" type="DOMAIN">
+            <pathway-xref db="MetaCyc" id="PWY-7735" name="echinomycin and triostin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-CEL-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-HSA-9613354" name="Lipophagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6998" name="CDP-D-arabitol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-RNO-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="MetaCyc" id="PWY-7888" name="tRNA-uridine 2-thiolation (cytoplasmic)"/>
+            <pathway-xref db="Reactome" id="R-SCE-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-HSA-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-DDI-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-1632852" name="Macroautophagy"/>
+            <pathway-xref db="Reactome" id="R-MMU-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-DDI-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-DDI-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-7221" name="guanosine ribonucleotides de novo biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7674" name="CMP-8-amino-3,8-dideoxy-D-manno-octulosonate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-RNO-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="Reactome" id="R-HSA-2408508" name="Metabolism of ingested SeMet, Sec, MeSec into H2Se"/>
+            <pathway-xref db="MetaCyc" id="PWY-6596" name="adenosine nucleotides degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5695" name="inosine 5'-phosphate degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SCE-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7737" name="thiocoraline biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CFA-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7127" name="CDP-D-mannitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7805" name="(aminomethyl)phosphonate degradation"/>
+            <pathway-xref db="Reactome" id="R-BTA-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-SPO-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-801" name="homocysteine and cysteine interconversion"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="Reactome" id="R-SCE-1632852" name="Macroautophagy"/>
+            <pathway-xref db="Reactome" id="R-HSA-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-MMU-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="Reactome" id="R-HSA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-MMU-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-DRE-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SSC-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-SPO-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-DDI-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CEL-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9619483" name="Activation of AMPK downstream of NMDARs"/>
+            <pathway-xref db="Reactome" id="R-HSA-2151209" name="Activation of PPARGC1A (PGC-1alpha) by phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-MMU-1632852" name="Macroautophagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-7904" name="tRNA-uridine 2-thiolation (thermophilic bacteria)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9679191" name="Potential therapeutics for SARS"/>
+            <pathway-xref db="Reactome" id="R-DDI-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-SPO-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1445148" name="Translocation of SLC2A4 (GLUT4) to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-HSA-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DME-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5344" name="L-homocysteine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8117" name="colibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SCE-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-1269" name="CMP-3-deoxy-D-manno-octulosonate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1632852" name="Macroautophagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8119" name="microcin B17 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-6802952" name="Signaling by BRAF and RAF1 fusions"/>
+            <pathway-xref db="MetaCyc" id="PWY-6626" name="cytidine-5'-diphosphate-glycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-DDI-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CEL-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-1632852" name="Macroautophagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-7977" name="L-methionine biosynthesis IV"/>
+            <pathway-xref db="Reactome" id="R-SCE-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="Reactome" id="R-SCE-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-SPO-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="MetaCyc" id="PWY-7807" name="glyphosate degradation III"/>
+            <pathway-xref db="Reactome" id="R-SPO-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-SPO-5628897" name="TP53 Regulates Metabolic Genes"/>
+          </entry>
+          <signature-library-release library="PROSITE_PROFILES" version="2021_01"/>
+        </signature>
+        <model-ac>PS51371</model-ac>
+        <locations>
+          <profilescan-location score="10.087097" start="1" end="59">
+            <location-fragments>
+              <profilescan-location-fragment start="1" end="59" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>MTRNPVFVLSDTLAVEALQKMVQGKFRHLPVVEN-GEVIALLDIAKCLFDAIarMERaAE</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+      <profilescan-match>
+        <signature ac="PS51371" desc="CBS domain profile." name="CBS">
+          <entry ac="IPR000644" desc="CBS domain" name="CBS_dom" type="DOMAIN">
+            <pathway-xref db="MetaCyc" id="PWY-7735" name="echinomycin and triostin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-CEL-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-HSA-9613354" name="Lipophagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6998" name="CDP-D-arabitol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-RNO-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="MetaCyc" id="PWY-7888" name="tRNA-uridine 2-thiolation (cytoplasmic)"/>
+            <pathway-xref db="Reactome" id="R-SCE-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-HSA-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-DDI-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-1632852" name="Macroautophagy"/>
+            <pathway-xref db="Reactome" id="R-MMU-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-DDI-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-DDI-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-7221" name="guanosine ribonucleotides de novo biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7674" name="CMP-8-amino-3,8-dideoxy-D-manno-octulosonate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-RNO-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="Reactome" id="R-HSA-2408508" name="Metabolism of ingested SeMet, Sec, MeSec into H2Se"/>
+            <pathway-xref db="MetaCyc" id="PWY-6596" name="adenosine nucleotides degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5695" name="inosine 5'-phosphate degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SCE-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7737" name="thiocoraline biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CFA-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7127" name="CDP-D-mannitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7805" name="(aminomethyl)phosphonate degradation"/>
+            <pathway-xref db="Reactome" id="R-BTA-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-SPO-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-801" name="homocysteine and cysteine interconversion"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="Reactome" id="R-SCE-1632852" name="Macroautophagy"/>
+            <pathway-xref db="Reactome" id="R-HSA-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-MMU-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="Reactome" id="R-HSA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-MMU-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-DRE-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SSC-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-SPO-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-DDI-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CEL-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9619483" name="Activation of AMPK downstream of NMDARs"/>
+            <pathway-xref db="Reactome" id="R-HSA-2151209" name="Activation of PPARGC1A (PGC-1alpha) by phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-MMU-1632852" name="Macroautophagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-7904" name="tRNA-uridine 2-thiolation (thermophilic bacteria)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9679191" name="Potential therapeutics for SARS"/>
+            <pathway-xref db="Reactome" id="R-DDI-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-SPO-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1445148" name="Translocation of SLC2A4 (GLUT4) to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-HSA-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DME-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5344" name="L-homocysteine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8117" name="colibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SCE-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-1269" name="CMP-3-deoxy-D-manno-octulosonate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1632852" name="Macroautophagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8119" name="microcin B17 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-6802952" name="Signaling by BRAF and RAF1 fusions"/>
+            <pathway-xref db="MetaCyc" id="PWY-6626" name="cytidine-5'-diphosphate-glycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-DDI-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CEL-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-1632852" name="Macroautophagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-7977" name="L-methionine biosynthesis IV"/>
+            <pathway-xref db="Reactome" id="R-SCE-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="Reactome" id="R-SCE-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-SPO-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="MetaCyc" id="PWY-7807" name="glyphosate degradation III"/>
+            <pathway-xref db="Reactome" id="R-SPO-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-SPO-5628897" name="TP53 Regulates Metabolic Genes"/>
+          </entry>
+          <signature-library-release library="PROSITE_PROFILES" version="2021_01"/>
+        </signature>
+        <model-ac>PS51371</model-ac>
+        <locations>
+          <profilescan-location score="11.204008" start="102" end="160">
+            <location-fragments>
+              <profilescan-location-fragment start="102" end="160" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>ISEnlKIVTVSPTDTVVMAAKKMLESRTSSAVVTVD-DKPRGILTSKDILMRVIsQNLPS</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+      <superfamilyhmmer3-match evalue="1.57E-12">
+        <signature ac="SSF54631" name="CBS-domain pair">
+          <entry ac="IPR046342" desc="CBS domain superfamily" name="CBS_dom_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="MetaCyc" id="PWY-7735" name="echinomycin and triostin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-CEL-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-HSA-9613354" name="Lipophagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6998" name="CDP-D-arabitol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-RNO-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="MetaCyc" id="PWY-7888" name="tRNA-uridine 2-thiolation (cytoplasmic)"/>
+            <pathway-xref db="Reactome" id="R-SCE-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-HSA-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-DDI-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-1632852" name="Macroautophagy"/>
+            <pathway-xref db="Reactome" id="R-MMU-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-DDI-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-DDI-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-7221" name="guanosine ribonucleotides de novo biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7674" name="CMP-8-amino-3,8-dideoxy-D-manno-octulosonate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-RNO-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="Reactome" id="R-HSA-2408508" name="Metabolism of ingested SeMet, Sec, MeSec into H2Se"/>
+            <pathway-xref db="MetaCyc" id="PWY-6596" name="adenosine nucleotides degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5695" name="inosine 5'-phosphate degradation"/>
+            <pathway-xref db="Reactome" id="R-DME-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SCE-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="MetaCyc" id="PWY-7737" name="thiocoraline biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CFA-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7127" name="CDP-D-mannitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7805" name="(aminomethyl)phosphonate degradation"/>
+            <pathway-xref db="Reactome" id="R-DDI-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-SPO-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6409" name="pyoverdine I biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-801" name="homocysteine and cysteine interconversion"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="Reactome" id="R-SCE-1632852" name="Macroautophagy"/>
+            <pathway-xref db="Reactome" id="R-HSA-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-MMU-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="Reactome" id="R-HSA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-MMU-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-SSC-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-SPO-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-DDI-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-HSA-9619483" name="Activation of AMPK downstream of NMDARs"/>
+            <pathway-xref db="Reactome" id="R-HSA-2151209" name="Activation of PPARGC1A (PGC-1alpha) by phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-MMU-1632852" name="Macroautophagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-7904" name="tRNA-uridine 2-thiolation (thermophilic bacteria)"/>
+            <pathway-xref db="Reactome" id="R-DDI-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-SPO-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1445148" name="Translocation of SLC2A4 (GLUT4) to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-HSA-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DME-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5344" name="L-homocysteine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8117" name="colibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-1269" name="CMP-3-deoxy-D-manno-octulosonate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1632852" name="Macroautophagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8119" name="microcin B17 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-6802952" name="Signaling by BRAF and RAF1 fusions"/>
+            <pathway-xref db="MetaCyc" id="PWY-6626" name="cytidine-5'-diphosphate-glycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-DDI-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SPO-1632852" name="Macroautophagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-7977" name="L-methionine biosynthesis IV"/>
+            <pathway-xref db="Reactome" id="R-SCE-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="Reactome" id="R-SCE-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-SPO-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="MetaCyc" id="PWY-7807" name="glyphosate degradation III"/>
+            <pathway-xref db="Reactome" id="R-SPO-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-SPO-5628897" name="TP53 Regulates Metabolic Genes"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0054665</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="127" start="102" end="172">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="102" end="172" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+      <superfamilyhmmer3-match evalue="1.28E-8">
+        <signature ac="SSF54631" name="CBS-domain pair">
+          <entry ac="IPR046342" desc="CBS domain superfamily" name="CBS_dom_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="MetaCyc" id="PWY-7735" name="echinomycin and triostin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-CEL-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-HSA-9613354" name="Lipophagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6998" name="CDP-D-arabitol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-RNO-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="MetaCyc" id="PWY-7888" name="tRNA-uridine 2-thiolation (cytoplasmic)"/>
+            <pathway-xref db="Reactome" id="R-SCE-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-HSA-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-DDI-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-1632852" name="Macroautophagy"/>
+            <pathway-xref db="Reactome" id="R-MMU-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-DDI-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-DDI-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-7221" name="guanosine ribonucleotides de novo biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7674" name="CMP-8-amino-3,8-dideoxy-D-manno-octulosonate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-RNO-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="Reactome" id="R-HSA-2408508" name="Metabolism of ingested SeMet, Sec, MeSec into H2Se"/>
+            <pathway-xref db="MetaCyc" id="PWY-6596" name="adenosine nucleotides degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5695" name="inosine 5'-phosphate degradation"/>
+            <pathway-xref db="Reactome" id="R-DME-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SCE-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="MetaCyc" id="PWY-7737" name="thiocoraline biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CFA-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7127" name="CDP-D-mannitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7805" name="(aminomethyl)phosphonate degradation"/>
+            <pathway-xref db="Reactome" id="R-DDI-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-SPO-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6409" name="pyoverdine I biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-801" name="homocysteine and cysteine interconversion"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="Reactome" id="R-SCE-1632852" name="Macroautophagy"/>
+            <pathway-xref db="Reactome" id="R-HSA-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-MMU-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="Reactome" id="R-HSA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-MMU-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-SSC-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-SPO-163680" name="AMPK inhibits chREBP transcriptional activation activity"/>
+            <pathway-xref db="Reactome" id="R-DDI-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-HSA-9619483" name="Activation of AMPK downstream of NMDARs"/>
+            <pathway-xref db="Reactome" id="R-HSA-2151209" name="Activation of PPARGC1A (PGC-1alpha) by phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-MMU-1632852" name="Macroautophagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-7904" name="tRNA-uridine 2-thiolation (thermophilic bacteria)"/>
+            <pathway-xref db="Reactome" id="R-DDI-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-SPO-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1445148" name="Translocation of SLC2A4 (GLUT4) to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-HSA-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DME-73817" name="Purine ribonucleoside monophosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5344" name="L-homocysteine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8117" name="colibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-1269" name="CMP-3-deoxy-D-manno-octulosonate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1632852" name="Macroautophagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8119" name="microcin B17 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-200425" name="Carnitine metabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-6802952" name="Signaling by BRAF and RAF1 fusions"/>
+            <pathway-xref db="MetaCyc" id="PWY-6626" name="cytidine-5'-diphosphate-glycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-DDI-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SPO-1632852" name="Macroautophagy"/>
+            <pathway-xref db="MetaCyc" id="PWY-7977" name="L-methionine biosynthesis IV"/>
+            <pathway-xref db="Reactome" id="R-SCE-1614603" name="Cysteine formation from homocysteine"/>
+            <pathway-xref db="Reactome" id="R-SCE-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="Reactome" id="R-SPO-380972" name="Energy dependent regulation of mTOR by LKB1-AMPK"/>
+            <pathway-xref db="MetaCyc" id="PWY-7807" name="glyphosate degradation III"/>
+            <pathway-xref db="Reactome" id="R-SPO-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-SPO-5628897" name="TP53 Regulates Metabolic Genes"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0054930</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="135" start="1" end="43">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="1" end="43" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

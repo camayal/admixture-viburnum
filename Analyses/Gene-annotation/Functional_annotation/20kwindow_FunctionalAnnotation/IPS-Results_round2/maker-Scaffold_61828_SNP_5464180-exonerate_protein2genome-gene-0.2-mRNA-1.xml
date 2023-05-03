@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="e2e1bfd75be282d649dd92bd3e63141c">MKSKGGRSRSRSPRPRHRDEYRDKDYRRRSRSRSRGRSDRDRHRGKEKDIRHRTRSRSGSPDYGKDRGRGRYDERRSRSVSYGSASPARRSPSPRRSPSPRKSPPSRGRSPAGRNQKERSPIPKSVSPRGRAADSRTPSPRNSDADVSFEPHIHD</sequence>
+    <xref id="maker-Scaffold_61828_SNP_5464180-exonerate_protein2genome-gene-0.2-mRNA-1" name="maker-Scaffold_61828_SNP_5464180-exonerate_protein2genome-gene-0.2-mRNA-1"/>
+    <matches>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="Polyampholyte" start="40" end="78">
+            <location-fragments>
+              <mobidblite-location-fragment start="40" end="78" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="Polyampholyte" start="13" end="27">
+            <location-fragments>
+              <mobidblite-location-fragment start="13" end="27" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="" start="1" end="155">
+            <location-fragments>
+              <mobidblite-location-fragment start="1" end="155" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <panther-match evalue="4.7E-24" familyName="SERINE/ARGININE-RICH SPLICING FACTOR SC35" score="97.0">
+        <signature ac="PTHR23147:SF156" name="SERINE/ARGININE-RICH SPLICING FACTOR SC35">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR23147:SF156</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="147" hmm-start="112" hmm-end="255" hmm-length="256" hmm-bounds="INCOMPLETE" start="4" end="146">
+            <location-fragments>
+              <panther-location-fragment start="4" end="146" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="4.7E-24" familyName="SERINE/ARGININE-RICH SPLICING FACTOR SC35" score="97.0">
+        <signature ac="PTHR23147" name="SERINE/ARGININE RICH SPLICING FACTOR">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR23147</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="147" hmm-start="112" hmm-end="255" hmm-length="256" hmm-bounds="INCOMPLETE" start="4" end="146">
+            <location-fragments>
+              <panther-location-fragment start="4" end="146" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.56-89.0">
+  <protein>
+    <sequence md5="da49f077a601f7a786a76d6a8fa9972e">MLPNGIGQIRFQDTCAEATEFFEERKTMSDEHLACKKLLQIDIKIPPANVKGDRSKSLLFDACKLAKSLQSLDNEENWGKAKRWEMVSDIWVEMLSYAASQCTWNHHAQQLRHGGELLTHIWLLMSHLGLTENFQISQGRARTKLIVE</sequence>
+    <xref id="maker-Scaffold_17057_SNP_457058-exonerate_protein2genome-gene-0.1-mRNA-1" name="maker-Scaffold_17057_SNP_457058-exonerate_protein2genome-gene-0.1-mRNA-1"/>
+    <matches>
+      <hmmer3-match evalue="1.3E-25" score="88.7">
+        <signature ac="PF04578" desc="Protein of unknown function, DUF594" name="DUF594">
+          <entry ac="IPR007658" desc="Protein of unknown function DUF594" name="DUF594" type="FAMILY"/>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF04578</model-ac>
+        <locations>
+          <hmmer3-location env-end="130" env-start="76" post-processed="true" score="88.2" evalue="1.8E-25" hmm-start="3" hmm-end="55" hmm-length="55" hmm-bounds="C_TERMINAL_COMPLETE" start="78" end="130">
+            <location-fragments>
+              <hmmer3-location-fragment start="78" end="130" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="2.4E-36" familyName="SUBFAMILY NOT NAMED" score="137.0">
+        <signature ac="PTHR31325:SF211" name="SUBFAMILY NOT NAMED">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR31325:SF211</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="147" hmm-start="604" hmm-end="742" hmm-length="749" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="141">
+            <location-fragments>
+              <panther-location-fragment start="1" end="141" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="2.4E-36" familyName="SUBFAMILY NOT NAMED" score="137.0">
+        <signature ac="PTHR31325" name="OS01G0798800 PROTEIN-RELATED">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR31325</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="147" hmm-start="604" hmm-end="742" hmm-length="749" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="141">
+            <location-fragments>
+              <panther-location-fragment start="1" end="141" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

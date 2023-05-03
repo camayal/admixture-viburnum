@@ -1,0 +1,1366 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="f13b941fd5f72f757a8693cc861d91ed">MKEVDGAQDLVESLLNAGDKLVVVDFFSPGCGGCKALHPKICQLAEMNPDVQFLQVNYEEHKSMSYTLNVHVLPFFRFYRGAQGRVCSFSCTNATVSFHVLLFIYCLILS</sequence>
+    <xref id="maker-Scaffold_9534_SNP_2850933-exonerate_protein2genome-gene-0.3-mRNA-1" name="maker-Scaffold_9534_SNP_2850933-exonerate_protein2genome-gene-0.3-mRNA-1"/>
+    <matches>
+      <hmmer3-match evalue="2.1E-14" score="53.3">
+        <signature ac="PF00085" desc="Thioredoxin" name="Thioredoxin">
+          <entry ac="IPR013766" desc="Thioredoxin domain" name="Thioredoxin_domain" type="DOMAIN">
+            <pathway-xref db="MetaCyc" id="PWY-8052" name="2-arachidonoylglycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-8964041" name="LDL remodeling"/>
+            <pathway-xref db="Reactome" id="R-HSA-1222538" name="Tolerance by Mtb to nitric oxide produced by macrophages"/>
+            <pathway-xref db="Reactome" id="R-HSA-5358346" name="Hedgehog ligand biogenesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-5676934" name="Protein repair"/>
+            <pathway-xref db="MetaCyc" id="PWY-7053" name="docosahexaenoate biosynthesis I (lower eukaryotes)"/>
+            <pathway-xref db="Reactome" id="R-CEL-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-BTA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7018" name="paromomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="Reactome" id="R-RNO-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="MetaCyc" id="PWY-4081" name="glutathione-peroxide redox reactions"/>
+            <pathway-xref db="Reactome" id="R-DME-432720" name="Lysosome Vesicle Biogenesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5358346" name="Hedgehog ligand biogenesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7878" name="A-factor gamma-butyrolactone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-8862803" name="Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models"/>
+            <pathway-xref db="Reactome" id="R-RNO-901042" name="Calnexin/calreticulin cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-8963888" name="Chylomicron assembly"/>
+            <pathway-xref db="Reactome" id="R-MMU-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-8051" name="anandamide biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7119" name="ceramide and sphingolipid recycling and degradation (yeast)"/>
+            <pathway-xref db="Reactome" id="R-DDI-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-DDI-901042" name="Calnexin/calreticulin cycle"/>
+            <pathway-xref db="Reactome" id="R-CEL-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-MMU-1650814" name="Collagen biosynthesis and modifying enzymes"/>
+            <pathway-xref db="Reactome" id="R-DDI-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-GGA-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="MetaCyc" id="PWY-7417" name="phospholipid remodeling (phosphatidate, yeast)"/>
+            <pathway-xref db="Reactome" id="R-RNO-9696270" name="RND2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="Reactome" id="R-DME-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-BTA-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-9013422" name="RHOBTB1 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-6803" name="phosphatidylcholine acyl editing"/>
+            <pathway-xref db="Reactome" id="R-DME-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SPO-9696273" name="RND1 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-381038" name="XBP1(S) activates chaperone genes"/>
+            <pathway-xref db="Reactome" id="R-MMU-8964041" name="LDL remodeling"/>
+            <pathway-xref db="MetaCyc" id="PWY-4702" name="phytate degradation I"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DME-499943" name="Interconversion of nucleotide di- and triphosphates"/>
+            <pathway-xref db="Reactome" id="R-MMU-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-2559580" name="Oxidative Stress Induced Senescence"/>
+            <pathway-xref db="Reactome" id="R-GGA-499943" name="Interconversion of nucleotide di- and triphosphates"/>
+            <pathway-xref db="Reactome" id="R-SCE-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-RNO-2559580" name="Oxidative Stress Induced Senescence"/>
+            <pathway-xref db="Reactome" id="R-SPO-901042" name="Calnexin/calreticulin cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-9020933" name="Interleukin-23 signaling"/>
+            <pathway-xref db="Reactome" id="R-RNO-9013418" name="RHOBTB2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-CEL-2142770" name="Synthesis of 15-eicosatetraenoic acid derivatives"/>
+            <pathway-xref db="Reactome" id="R-DME-5676934" name="Protein repair"/>
+            <pathway-xref db="MetaCyc" id="PWY-8282" name="adenosylcobinamide-GDP salvage from assorted adenosylcobamides"/>
+            <pathway-xref db="Reactome" id="R-RNO-9696273" name="RND1 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-6365" name="D-myo-inositol (3,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9617629" name="Regulation of FOXO transcriptional activity by acetylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-1222541" name="Cell redox homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7533" name="gliotoxin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-432720" name="Lysosome Vesicle Biogenesis"/>
+            <pathway-xref db="Reactome" id="R-DME-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013422" name="RHOBTB1 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-8053" name="anandamide biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-MMU-2559580" name="Oxidative Stress Induced Senescence"/>
+            <pathway-xref db="Reactome" id="R-HSA-8963888" name="Chylomicron assembly"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013424" name="RHOV GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-DDI-499943" name="Interconversion of nucleotide di- and triphosphates"/>
+            <pathway-xref db="Reactome" id="R-MMU-9696264" name="RND3 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-9696270" name="RND2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013418" name="RHOBTB2 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-5995" name="linoleate biosynthesis I (plants)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9696273" name="RND1 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-BTA-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-RNO-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-GGA-1236974" name="ER-Phagosome pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-6456" name="serinol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013418" name="RHOBTB2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-SPO-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-HSA-5676934" name="Protein repair"/>
+            <pathway-xref db="MetaCyc" id="PWY-7881" name="virginiae butanolide type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-MMU-499943" name="Interconversion of nucleotide di- and triphosphates"/>
+            <pathway-xref db="MetaCyc" id="PWY-7771" name="butachlor degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5368" name="dimorphecolate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SPO-9013420" name="RHOU GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7409" name="phospholipid remodeling (phosphatidylethanolamine, yeast)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013424" name="RHOV GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-6724" name="starch degradation II"/>
+            <pathway-xref db="Reactome" id="R-RNO-9013424" name="RHOV GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-SPO-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-8866423" name="VLDL assembly"/>
+            <pathway-xref db="Reactome" id="R-GGA-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-RNO-5676934" name="Protein repair"/>
+            <pathway-xref db="Reactome" id="R-RNO-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-HSA-901042" name="Calnexin/calreticulin cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5353" name="arachidonate biosynthesis I (6-desaturase, lower eukaryotes)"/>
+            <pathway-xref db="Reactome" id="R-CEL-8964041" name="LDL remodeling"/>
+            <pathway-xref db="Reactome" id="R-BTA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8176" name="geraniol biosynthesis (cytosol)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6932" name="selenate reduction"/>
+            <pathway-xref db="Reactome" id="R-RNO-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="MetaCyc" id="PWY-7863" name="roseoflavin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-114608" name="Platelet degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6368" name="3-phosphoinositide degradation"/>
+            <pathway-xref db="Reactome" id="R-SPO-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="MetaCyc" id="PWY-7416" name="phospholipid remodeling (phosphatidylcholine, yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6958" name="icosapentaenoate biosynthesis I (lower eukaryotes)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6148" name="tetrahydromethanopterin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-CEL-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-HSA-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-GGA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-MMU-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-MMU-8866423" name="VLDL assembly"/>
+            <pathway-xref db="Reactome" id="R-RNO-8866423" name="VLDL assembly"/>
+            <pathway-xref db="Reactome" id="R-CEL-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6366" name="D-myo-inositol (1,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9020591" name="Interleukin-12 signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-5676934" name="Protein repair"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-DDI-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="Reactome" id="R-MMU-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-SSC-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DME-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-CEL-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6352" name="3-phosphoinositide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7882" name="IM-2 type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6990" name="(+)-camphor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6575" name="juvenile hormone III biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-GGA-901042" name="Calnexin/calreticulin cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-432722" name="Golgi Associated Vesicle Biogenesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-901042" name="Calnexin/calreticulin cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-9696270" name="RND2 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7783" name="plasmalogen degradation"/>
+            <pathway-xref db="Reactome" id="R-RNO-9696264" name="RND3 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-9020591" name="Interleukin-12 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-4181" name="glutathione amide metabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-9696264" name="RND3 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-9696273" name="RND1 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-DME-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-DME-8964041" name="LDL remodeling"/>
+            <pathway-xref db="Reactome" id="R-SPO-499943" name="Interconversion of nucleotide di- and triphosphates"/>
+            <pathway-xref db="MetaCyc" id="PWY-7618" name="ricinoleate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7531" name="mannojirimycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-MTU-936721" name="Cysteine synthesis from O-acetylserine"/>
+            <pathway-xref db="Reactome" id="R-MMU-8963888" name="Chylomicron assembly"/>
+            <pathway-xref db="Reactome" id="R-HSA-9660826" name="Purinergic signaling in leishmaniasis infection"/>
+            <pathway-xref db="Reactome" id="R-HSA-432722" name="Golgi Associated Vesicle Biogenesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-1650814" name="Collagen biosynthesis and modifying enzymes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7470" name="phosphatidylcholine biosynthesis VII"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6720" name="toyocamycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-2559580" name="Oxidative Stress Induced Senescence"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013422" name="RHOBTB1 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-499943" name="Interconversion of nucleotide di- and triphosphates"/>
+            <pathway-xref db="Reactome" id="R-HSA-1236974" name="ER-Phagosome pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-SPO-2559580" name="Oxidative Stress Induced Senescence"/>
+            <pathway-xref db="Reactome" id="R-RNO-9013420" name="RHOU GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-BTA-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-RNO-499943" name="Interconversion of nucleotide di- and triphosphates"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013420" name="RHOU GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-9020933" name="Interleukin-23 signaling"/>
+            <pathway-xref db="Reactome" id="R-SPO-9013424" name="RHOV GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-CEL-532668" name="N-glycan trimming in the ER and Calnexin/Calreticulin cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-6433" name="hydroxylated fatty acid biosynthesis (plants)"/>
+            <pathway-xref db="Reactome" id="R-HSA-1222387" name="Tolerance of reactive oxygen produced by macrophages"/>
+            <pathway-xref db="Reactome" id="R-RNO-5358346" name="Hedgehog ligand biogenesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DME-5358346" name="Hedgehog ligand biogenesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-8964041" name="LDL remodeling"/>
+            <pathway-xref db="Reactome" id="R-MMU-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-HSA-1650814" name="Collagen biosynthesis and modifying enzymes"/>
+            <pathway-xref db="Reactome" id="R-HSA-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="MetaCyc" id="PWY-5491" name="diethylphosphate degradation"/>
+            <pathway-xref db="Reactome" id="R-RNO-9020933" name="Interleukin-23 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-8247" name="(Kdo)2-lipid A biosynthesis (P. gingivalis)"/>
+            <pathway-xref db="Reactome" id="R-MMU-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-GGA-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="Reactome" id="R-MMU-901042" name="Calnexin/calreticulin cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-9020591" name="Interleukin-12 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-5292" name="vindoline, vindorosine and vinblastine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7321" name="ecdysteroid metabolism (arthropods)"/>
+            <pathway-xref db="Reactome" id="R-MMU-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-GGA-2559580" name="Oxidative Stress Induced Senescence"/>
+            <pathway-xref db="MetaCyc" id="PWY-6991" name="(-)-camphor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013420" name="RHOU GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-1236974" name="ER-Phagosome pathway"/>
+            <pathway-xref db="Reactome" id="R-BTA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-MMU-432720" name="Lysosome Vesicle Biogenesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6686" name="mannosylglucosylglycerate biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-CEL-2142712" name="Synthesis of 12-eicosatetraenoic acid derivatives"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF00085</model-ac>
+        <locations>
+          <hmmer3-location env-end="98" env-start="4" post-processed="true" score="53.1" evalue="2.6E-14" hmm-start="12" hmm-end="84" hmm-length="103" hmm-bounds="INCOMPLETE" start="13" end="85">
+            <location-fragments>
+              <hmmer3-location-fragment start="13" end="85" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="1.2E-18" score="69.3">
+        <signature ac="G3DSA:3.40.30.10" name="Glutaredoxin">
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>2trcP01</model-ac>
+        <locations>
+          <hmmer3-location env-end="96" env-start="1" post-processed="true" score="69.2" evalue="1.3E-18" hmm-start="19" hmm-end="100" hmm-length="134" hmm-bounds="COMPLETE" start="1" end="96">
+            <location-fragments>
+              <hmmer3-location-fragment start="1" end="96" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="1.8E-70" familyName="THIOREDOXIN-LIKE 1-3, CHLOROPLASTIC" score="249.3">
+        <signature ac="PTHR43601:SF9" name="THIOREDOXIN-LIKE 1-3, CHLOROPLASTIC">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR43601:SF9</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="101" hmm-start="100" hmm-end="196" hmm-length="287" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="97">
+            <location-fragments>
+              <panther-location-fragment start="1" end="97" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="1.8E-70" familyName="THIOREDOXIN-LIKE 1-3, CHLOROPLASTIC" score="249.3">
+        <signature ac="PTHR43601" name="THIOREDOXIN, MITOCHONDRIAL">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR43601</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="101" hmm-start="100" hmm-end="196" hmm-length="287" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="97">
+            <location-fragments>
+              <panther-location-fragment start="1" end="97" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <profilescan-match>
+        <signature ac="PS51352" desc="Thioredoxin domain profile." name="THIOREDOXIN_2">
+          <entry ac="IPR013766" desc="Thioredoxin domain" name="Thioredoxin_domain" type="DOMAIN">
+            <pathway-xref db="MetaCyc" id="PWY-8052" name="2-arachidonoylglycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-8964041" name="LDL remodeling"/>
+            <pathway-xref db="Reactome" id="R-HSA-1222538" name="Tolerance by Mtb to nitric oxide produced by macrophages"/>
+            <pathway-xref db="Reactome" id="R-HSA-5358346" name="Hedgehog ligand biogenesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-5676934" name="Protein repair"/>
+            <pathway-xref db="MetaCyc" id="PWY-7053" name="docosahexaenoate biosynthesis I (lower eukaryotes)"/>
+            <pathway-xref db="Reactome" id="R-CEL-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-BTA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7018" name="paromomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="Reactome" id="R-RNO-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="MetaCyc" id="PWY-4081" name="glutathione-peroxide redox reactions"/>
+            <pathway-xref db="Reactome" id="R-DME-432720" name="Lysosome Vesicle Biogenesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5358346" name="Hedgehog ligand biogenesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7878" name="A-factor gamma-butyrolactone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-8862803" name="Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models"/>
+            <pathway-xref db="Reactome" id="R-RNO-901042" name="Calnexin/calreticulin cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-8963888" name="Chylomicron assembly"/>
+            <pathway-xref db="Reactome" id="R-MMU-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-8051" name="anandamide biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7119" name="ceramide and sphingolipid recycling and degradation (yeast)"/>
+            <pathway-xref db="Reactome" id="R-DDI-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-DDI-901042" name="Calnexin/calreticulin cycle"/>
+            <pathway-xref db="Reactome" id="R-CEL-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-MMU-1650814" name="Collagen biosynthesis and modifying enzymes"/>
+            <pathway-xref db="Reactome" id="R-DDI-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-GGA-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="MetaCyc" id="PWY-7417" name="phospholipid remodeling (phosphatidate, yeast)"/>
+            <pathway-xref db="Reactome" id="R-RNO-9696270" name="RND2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="Reactome" id="R-DME-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-BTA-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-9013422" name="RHOBTB1 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-6803" name="phosphatidylcholine acyl editing"/>
+            <pathway-xref db="Reactome" id="R-DME-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SPO-9696273" name="RND1 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-381038" name="XBP1(S) activates chaperone genes"/>
+            <pathway-xref db="Reactome" id="R-MMU-8964041" name="LDL remodeling"/>
+            <pathway-xref db="MetaCyc" id="PWY-4702" name="phytate degradation I"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DME-499943" name="Interconversion of nucleotide di- and triphosphates"/>
+            <pathway-xref db="Reactome" id="R-MMU-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-2559580" name="Oxidative Stress Induced Senescence"/>
+            <pathway-xref db="Reactome" id="R-GGA-499943" name="Interconversion of nucleotide di- and triphosphates"/>
+            <pathway-xref db="Reactome" id="R-SCE-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-RNO-2559580" name="Oxidative Stress Induced Senescence"/>
+            <pathway-xref db="Reactome" id="R-SPO-901042" name="Calnexin/calreticulin cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-9020933" name="Interleukin-23 signaling"/>
+            <pathway-xref db="Reactome" id="R-RNO-9013418" name="RHOBTB2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-CEL-2142770" name="Synthesis of 15-eicosatetraenoic acid derivatives"/>
+            <pathway-xref db="Reactome" id="R-DME-5676934" name="Protein repair"/>
+            <pathway-xref db="MetaCyc" id="PWY-8282" name="adenosylcobinamide-GDP salvage from assorted adenosylcobamides"/>
+            <pathway-xref db="Reactome" id="R-RNO-9696273" name="RND1 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-6365" name="D-myo-inositol (3,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9617629" name="Regulation of FOXO transcriptional activity by acetylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-1222541" name="Cell redox homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7533" name="gliotoxin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-432720" name="Lysosome Vesicle Biogenesis"/>
+            <pathway-xref db="Reactome" id="R-DME-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013422" name="RHOBTB1 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-8053" name="anandamide biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-MMU-2559580" name="Oxidative Stress Induced Senescence"/>
+            <pathway-xref db="Reactome" id="R-HSA-8963888" name="Chylomicron assembly"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013424" name="RHOV GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-DDI-499943" name="Interconversion of nucleotide di- and triphosphates"/>
+            <pathway-xref db="Reactome" id="R-MMU-9696264" name="RND3 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-9696270" name="RND2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013418" name="RHOBTB2 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-5995" name="linoleate biosynthesis I (plants)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9696273" name="RND1 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-BTA-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-RNO-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-GGA-1236974" name="ER-Phagosome pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-6456" name="serinol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013418" name="RHOBTB2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-SPO-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-HSA-5676934" name="Protein repair"/>
+            <pathway-xref db="MetaCyc" id="PWY-7881" name="virginiae butanolide type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-MMU-499943" name="Interconversion of nucleotide di- and triphosphates"/>
+            <pathway-xref db="MetaCyc" id="PWY-7771" name="butachlor degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5368" name="dimorphecolate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SPO-9013420" name="RHOU GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7409" name="phospholipid remodeling (phosphatidylethanolamine, yeast)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013424" name="RHOV GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-6724" name="starch degradation II"/>
+            <pathway-xref db="Reactome" id="R-RNO-9013424" name="RHOV GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-SPO-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-8866423" name="VLDL assembly"/>
+            <pathway-xref db="Reactome" id="R-GGA-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-RNO-5676934" name="Protein repair"/>
+            <pathway-xref db="Reactome" id="R-RNO-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-HSA-901042" name="Calnexin/calreticulin cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5353" name="arachidonate biosynthesis I (6-desaturase, lower eukaryotes)"/>
+            <pathway-xref db="Reactome" id="R-CEL-8964041" name="LDL remodeling"/>
+            <pathway-xref db="Reactome" id="R-BTA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8176" name="geraniol biosynthesis (cytosol)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6932" name="selenate reduction"/>
+            <pathway-xref db="Reactome" id="R-RNO-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="MetaCyc" id="PWY-7863" name="roseoflavin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-114608" name="Platelet degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6368" name="3-phosphoinositide degradation"/>
+            <pathway-xref db="Reactome" id="R-SPO-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="MetaCyc" id="PWY-7416" name="phospholipid remodeling (phosphatidylcholine, yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6958" name="icosapentaenoate biosynthesis I (lower eukaryotes)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6148" name="tetrahydromethanopterin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-CEL-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-HSA-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-GGA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-MMU-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-MMU-8866423" name="VLDL assembly"/>
+            <pathway-xref db="Reactome" id="R-RNO-8866423" name="VLDL assembly"/>
+            <pathway-xref db="Reactome" id="R-CEL-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6366" name="D-myo-inositol (1,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9020591" name="Interleukin-12 signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-5676934" name="Protein repair"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-DDI-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="Reactome" id="R-MMU-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-SSC-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DME-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-CEL-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6352" name="3-phosphoinositide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7882" name="IM-2 type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6990" name="(+)-camphor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6575" name="juvenile hormone III biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-GGA-901042" name="Calnexin/calreticulin cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-432722" name="Golgi Associated Vesicle Biogenesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-901042" name="Calnexin/calreticulin cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-9696270" name="RND2 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7783" name="plasmalogen degradation"/>
+            <pathway-xref db="Reactome" id="R-RNO-9696264" name="RND3 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-9020591" name="Interleukin-12 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-4181" name="glutathione amide metabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-9696264" name="RND3 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-9696273" name="RND1 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-DME-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-DME-8964041" name="LDL remodeling"/>
+            <pathway-xref db="Reactome" id="R-SPO-499943" name="Interconversion of nucleotide di- and triphosphates"/>
+            <pathway-xref db="MetaCyc" id="PWY-7618" name="ricinoleate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7531" name="mannojirimycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-MTU-936721" name="Cysteine synthesis from O-acetylserine"/>
+            <pathway-xref db="Reactome" id="R-MMU-8963888" name="Chylomicron assembly"/>
+            <pathway-xref db="Reactome" id="R-HSA-9660826" name="Purinergic signaling in leishmaniasis infection"/>
+            <pathway-xref db="Reactome" id="R-HSA-432722" name="Golgi Associated Vesicle Biogenesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-1650814" name="Collagen biosynthesis and modifying enzymes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7470" name="phosphatidylcholine biosynthesis VII"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6720" name="toyocamycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-2559580" name="Oxidative Stress Induced Senescence"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013422" name="RHOBTB1 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-499943" name="Interconversion of nucleotide di- and triphosphates"/>
+            <pathway-xref db="Reactome" id="R-HSA-1236974" name="ER-Phagosome pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-SPO-2559580" name="Oxidative Stress Induced Senescence"/>
+            <pathway-xref db="Reactome" id="R-RNO-9013420" name="RHOU GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-BTA-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="Reactome" id="R-RNO-499943" name="Interconversion of nucleotide di- and triphosphates"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013420" name="RHOU GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-9020933" name="Interleukin-23 signaling"/>
+            <pathway-xref db="Reactome" id="R-SPO-9013424" name="RHOV GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-CEL-532668" name="N-glycan trimming in the ER and Calnexin/Calreticulin cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-6433" name="hydroxylated fatty acid biosynthesis (plants)"/>
+            <pathway-xref db="Reactome" id="R-HSA-1222387" name="Tolerance of reactive oxygen produced by macrophages"/>
+            <pathway-xref db="Reactome" id="R-RNO-5358346" name="Hedgehog ligand biogenesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DME-5358346" name="Hedgehog ligand biogenesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-8964041" name="LDL remodeling"/>
+            <pathway-xref db="Reactome" id="R-MMU-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-HSA-1650814" name="Collagen biosynthesis and modifying enzymes"/>
+            <pathway-xref db="Reactome" id="R-HSA-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="MetaCyc" id="PWY-5491" name="diethylphosphate degradation"/>
+            <pathway-xref db="Reactome" id="R-RNO-9020933" name="Interleukin-23 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-8247" name="(Kdo)2-lipid A biosynthesis (P. gingivalis)"/>
+            <pathway-xref db="Reactome" id="R-MMU-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-GGA-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="Reactome" id="R-MMU-901042" name="Calnexin/calreticulin cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-9020591" name="Interleukin-12 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-5292" name="vindoline, vindorosine and vinblastine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7321" name="ecdysteroid metabolism (arthropods)"/>
+            <pathway-xref db="Reactome" id="R-MMU-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-GGA-2559580" name="Oxidative Stress Induced Senescence"/>
+            <pathway-xref db="MetaCyc" id="PWY-6991" name="(-)-camphor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013420" name="RHOU GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-1236974" name="ER-Phagosome pathway"/>
+            <pathway-xref db="Reactome" id="R-BTA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="Reactome" id="R-MMU-432720" name="Lysosome Vesicle Biogenesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6686" name="mannosylglucosylglycerate biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-CEL-2142712" name="Synthesis of 12-eicosatetraenoic acid derivatives"/>
+          </entry>
+          <signature-library-release library="PROSITE_PROFILES" version="2021_01"/>
+        </signature>
+        <model-ac>PS51352</model-ac>
+        <locations>
+          <profilescan-location score="9.775003" start="1" end="110">
+            <location-fragments>
+              <profilescan-location-fragment start="1" end="110" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>-----------MKEVDGA-----QDLVEsllnaGDKLVVVDFFSPGCGGCKALHPKICQLAEMNPD--VQFLQVNYEEHKSM--SYTLNVHVLPFF-----------RFyrgaqgrvcsfsctnatvsfhvllfiycLILS-----------------------------</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+      <rpsblast-match>
+        <signature ac="cd02947" desc="TRX_family" name="TRX_family">
+          <signature-library-release library="CDD" version="3.18"/>
+        </signature>
+        <model-ac>cd02947</model-ac>
+        <locations>
+          <rpsblast-location evalue="2.11631E-19" score="74.1316" start="17" end="83">
+            <location-fragments>
+              <rpsblast-location-fragment start="17" end="83" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <sites>
+              <rpsblast-site description="catalytic residues" numLocations="2">
+                <site-locations>
+                  <site-location residue="C" start="34" end="34"/>
+                  <site-location residue="C" start="31" end="31"/>
+                </site-locations>
+              </rpsblast-site>
+            </sites>
+          </rpsblast-location>
+        </locations>
+      </rpsblast-match>
+      <superfamilyhmmer3-match evalue="5.5E-21">
+        <signature ac="SSF52833" name="Thioredoxin-like">
+          <entry ac="IPR036249" desc="Thioredoxin-like superfamily" name="Thioredoxin-like_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="MetaCyc" id="PWY-8238" name="24-epi-campesterol, fucosterol, and clionasterol biosynthesis (diatoms)"/>
+            <pathway-xref db="Reactome" id="R-RNO-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-5358346" name="Hedgehog ligand biogenesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-156590" name="Glutathione conjugation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8111" name="carbaryl degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7325" name="salvigenin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7382" name="lipoate biosynthesis and incorporation IV (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5083" name="NAD(P)/NADPH interconversion"/>
+            <pathway-xref db="MetaCyc" id="PWY-8035" name="streptovaricin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7629" name="yatein biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7583" name="arachidonate biosynthesis II (bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6973" name="dTDP-alpha-D-olivose, dTDP-alpha-D-oliose and dTDP-alpha-D-mycarose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7049" name="icosapentaenoate biosynthesis II (6-desaturase, mammals)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9662361" name="Sensory processing of sound by outer hair cells of the cochlea"/>
+            <pathway-xref db="MetaCyc" id="PWY-7757" name="bisphenol A degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-5358346" name="Hedgehog ligand biogenesis"/>
+            <pathway-xref db="Reactome" id="R-DME-156590" name="Glutathione conjugation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7460" name="2-O-acetyl-3-O-trans-coutarate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8100" name="crotonosine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7698" name="2,5-xylenol and 3,5-xylenol degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7631" name="arctigenin and isoarctigenin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8051" name="anandamide biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-2261" name="ascorbate glutathione cycle"/>
+            <pathway-xref db="Reactome" id="R-DDI-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-DRE-5223345" name="Miscellaneous transport and binding events"/>
+            <pathway-xref db="MetaCyc" id="PWY-7163" name="polymethylated kaempferol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7465" name="3,3'-thiodipropanoate degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8044" name="cyclohexane-1-carboxyl-CoA biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="Reactome" id="R-BTA-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-72163" name="mRNA Splicing - Major Pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-6803" name="phosphatidylcholine acyl editing"/>
+            <pathway-xref db="Reactome" id="R-RNO-8980692" name="RHOA GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-5978" name="kanosamine biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-6675" name="sulfur oxidation IV (intracellular sulfur)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8231" name="Escherichia coli serotype O:127 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5826" name="hypoglycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-4702" name="phytate degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7521" name="3-(4-sulfophenyl)butanoate degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="MetaCyc" id="PWY-5883" name="ephedrine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7714" name="harzianum A and trichodermin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6526" name="limonene degradation III (to perillate)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5421" name="dehydroabietic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SSC-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-MMU-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7606" name="docosahexaenoate biosynthesis III (6-desaturase, mammals)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5987" name="sorgoleone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-3061" name="menthol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-9696273" name="RND1 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-81" name="toluene degradation to benzoyl-CoA (anaerobic)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9617629" name="Regulation of FOXO transcriptional activity by acetylation"/>
+            <pathway-xref db="Reactome" id="R-SSC-156590" name="Glutathione conjugation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7532" name="acetylaszonalenin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-9603798" name="Class I peroxisomal membrane protein import"/>
+            <pathway-xref db="Reactome" id="R-HSA-432720" name="Lysosome Vesicle Biogenesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8053" name="anandamide biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7591" name="okenone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8049" name="pederin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6036" name="cardenolide glucosides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-499943" name="Interconversion of nucleotide di- and triphosphates"/>
+            <pathway-xref db="Reactome" id="R-RNO-5389840" name="Mitochondrial translation elongation"/>
+            <pathway-xref db="Reactome" id="R-RNO-5223345" name="Miscellaneous transport and binding events"/>
+            <pathway-xref db="MetaCyc" id="PWY-7612" name="chaetoglobosin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-8951664" name="Neddylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013418" name="RHOBTB2 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7605" name="roquefortine C biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7671" name="saframycin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-6814122" name="Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding"/>
+            <pathway-xref db="MetaCyc" id="PWY-7693" name="guadinomine B biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5802" name="alizarin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013418" name="RHOBTB2 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7523" name="L-arginine degradation XII"/>
+            <pathway-xref db="MetaCyc" id="PWY-8166" name="emodin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7881" name="virginiae butanolide type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-MMU-499943" name="Interconversion of nucleotide di- and triphosphates"/>
+            <pathway-xref db="MetaCyc" id="PWY-7745" name="p-HBAD biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6887" name="kauralexin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8263" name="arsenate detoxification III"/>
+            <pathway-xref db="MetaCyc" id="PWY-7989" name="acinetoferrin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5306" name="superpathway of thiosulfate metabolism (Desulfovibrio sulfodismutans)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7677" name="rosamicin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6511" name="3-methylarginine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8087" name="indole-3-acetate degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7261" name="anthocyanidin 3-malylglucoside biosynthesis (acyl-glucose dependent)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6286" name="spheroidene and spheroidenone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="MetaCyc" id="PWY-7585" name="docosahexaenoate biosynthesis II (bacteria)"/>
+            <pathway-xref db="Reactome" id="R-HSA-8866423" name="VLDL assembly"/>
+            <pathway-xref db="MetaCyc" id="PWY-7695" name="aurofusarin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-RNO-5676934" name="Protein repair"/>
+            <pathway-xref db="MetaCyc" id="PWY-6739" name="pinitol biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-6681" name="neurosporaxanthin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5353" name="arachidonate biosynthesis I (6-desaturase, lower eukaryotes)"/>
+            <pathway-xref db="Reactome" id="R-MMU-156842" name="Eukaryotic Translation Elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6050" name="dimethyl sulfoxide degradation"/>
+            <pathway-xref db="Reactome" id="R-CEL-8964041" name="LDL remodeling"/>
+            <pathway-xref db="MetaCyc" id="PWY-6932" name="selenate reduction"/>
+            <pathway-xref db="MetaCyc" id="PWY-7112" name="4-hydroxy-2-nonenal detoxification"/>
+            <pathway-xref db="MetaCyc" id="PWY-5773" name="gossypol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-6799198" name="Complex I biogenesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7702" name="sch210971 and sch210972 biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5479" name="6-methoxypodophyllotoxin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6368" name="3-phosphoinositide degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-2142712" name="Synthesis of 12-eicosatetraenoic acid derivatives"/>
+            <pathway-xref db="MetaCyc" id="PWY-7668" name="apicidin F biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5422" name="isopimaric acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6154" name="autoinducer AI-2 biosynthesis II (Vibrio)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7416" name="phospholipid remodeling (phosphatidylcholine, yeast)"/>
+            <pathway-xref db="Reactome" id="R-RNO-2142712" name="Synthesis of 12-eicosatetraenoic acid derivatives"/>
+            <pathway-xref db="Reactome" id="R-MMU-8866423" name="VLDL assembly"/>
+            <pathway-xref db="Reactome" id="R-RNO-8866423" name="VLDL assembly"/>
+            <pathway-xref db="Reactome" id="R-HSA-8950505" name="Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-350864" name="Regulation of thyroid hormone activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-6056" name="dimethylsulfoniopropanoate degradation II (cleavage)"/>
+            <pathway-xref db="Reactome" id="R-DRE-2162123" name="Synthesis of Prostaglandins (PG) and Thromboxanes (TX)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9020591" name="Interleukin-12 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-4502" name="wighteone and luteone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7452" name="cyanidin dimalonylglucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7157" name="eupatolitin 3-O-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5419276" name="Mitochondrial translation termination"/>
+            <pathway-xref db="MetaCyc" id="PWY-8032" name="chloramphenicol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-6352" name="3-phosphoinositide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7882" name="IM-2 type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6990" name="(+)-camphor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5176" name="coumarin biosynthesis (via 2-coumarate)"/>
+            <pathway-xref db="Reactome" id="R-GGA-901042" name="Calnexin/calreticulin cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-8038" name="naphthomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7055" name="daphnetin modification"/>
+            <pathway-xref db="MetaCyc" id="PWY-7737" name="thiocoraline biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7085" name="triethylamine degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7458" name="violdelphin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7672" name="fusaric acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7448" name="galloylated catechin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7667" name="apicidin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2142712" name="Synthesis of 12-eicosatetraenoic acid derivatives"/>
+            <pathway-xref db="Reactome" id="R-HSA-9662360" name="Sensory processing of sound by inner hair cells of the cochlea"/>
+            <pathway-xref db="Reactome" id="R-HSA-2162123" name="Synthesis of Prostaglandins (PG) and Thromboxanes (TX)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7543" name="5-N-acetylardeemin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6710" name="poly-hydroxy fatty acids biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7734" name="quinoxaline-2-carboxylate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7430" name="indole degradation to anthranil and anthranilate"/>
+            <pathway-xref db="Reactome" id="R-MTU-936721" name="Cysteine synthesis from O-acetylserine"/>
+            <pathway-xref db="Reactome" id="R-MMU-8963888" name="Chylomicron assembly"/>
+            <pathway-xref db="Reactome" id="R-MMU-2162123" name="Synthesis of Prostaglandins (PG) and Thromboxanes (TX)"/>
+            <pathway-xref db="MetaCyc" id="PWY-2724" name="alkane oxidation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7285" name="methylwyosine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-432722" name="Golgi Associated Vesicle Biogenesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5815" name="rubber biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-8963684" name="Tyrosine catabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-9694548" name="Maturation of spike protein"/>
+            <pathway-xref db="MetaCyc" id="PWY-5679" name="clavulanate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-2559580" name="Oxidative Stress Induced Senescence"/>
+            <pathway-xref db="MetaCyc" id="PWY-7923" name="archaeosine biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-DDI-1362409" name="Mitochondrial iron-sulfur cluster biogenesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="MetaCyc" id="PWY-7741" name="phthiocerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-7987" name="vanchrobactin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7241" name="myo-inositol degradation II"/>
+            <pathway-xref db="Reactome" id="R-RNO-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-HSA-9725370" name="Signaling by ALK fusions and activated point mutants"/>
+            <pathway-xref db="MetaCyc" id="PWY-5103" name="L-isoleucine biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-2467" name="(+)-pisatin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8075" name="(Kdo)2-lipid A biosynthesis (P. putida)"/>
+            <pathway-xref db="Reactome" id="R-CEL-204174" name="Regulation of pyruvate dehydrogenase (PDH) complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-7821" name="tunicamycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-2162123" name="Synthesis of Prostaglandins (PG) and Thromboxanes (TX)"/>
+            <pathway-xref db="MetaCyc" id="PWY-3781" name="aerobic respiration I (cytochrome c)"/>
+            <pathway-xref db="Reactome" id="R-MMU-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-SPO-1362409" name="Mitochondrial iron-sulfur cluster biogenesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6692" name="Fe(II) oxidation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7626" name="bacilysin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7492" name="paspaline biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="MetaCyc" id="PWY-5491" name="diethylphosphate degradation"/>
+            <pathway-xref db="Reactome" id="R-RNO-9020933" name="Interleukin-23 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-8247" name="(Kdo)2-lipid A biosynthesis (P. gingivalis)"/>
+            <pathway-xref db="Reactome" id="R-HSA-5368286" name="Mitochondrial translation initiation"/>
+            <pathway-xref db="Reactome" id="R-MMU-9020591" name="Interleukin-12 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-321" name="cutin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5419276" name="Mitochondrial translation termination"/>
+            <pathway-xref db="Reactome" id="R-SSC-2142712" name="Synthesis of 12-eicosatetraenoic acid derivatives"/>
+            <pathway-xref db="MetaCyc" id="PWY-7547" name="prodigiosin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-1061" name="homogalacturonan biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-5223345" name="Miscellaneous transport and binding events"/>
+            <pathway-xref db="MetaCyc" id="PWY-4202" name="arsenic detoxification (mammals)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7660" name="tryptoquialanine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6686" name="mannosylglucosylglycerate biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8052" name="2-arachidonoylglycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-8964041" name="LDL remodeling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7638" name="echinenone and zeaxanthin biosynthesis (Synechocystis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7265" name="lampranthin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7513" name="flaviolin dimer and mompain biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7752" name="gadusol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7018" name="paromomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="MetaCyc" id="PWY-8104" name="yangonin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-8963684" name="Tyrosine catabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-350864" name="Regulation of thyroid hormone activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-7818" name="type IV lipoteichoic acid biosynthesis (S. pneumoniae)"/>
+            <pathway-xref db="Reactome" id="R-RNO-901042" name="Calnexin/calreticulin cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-156581" name="Methylation"/>
+            <pathway-xref db="Reactome" id="R-MMU-8963684" name="Tyrosine catabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7624" name="nystatin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5871" name="ubiquinol-9 biosynthesis (late decarboxylation)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7044" name="5-nitroanthranilate degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6397" name="mycolyl-arabinogalactan-peptidoglycan complex biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7601" name="arachidonate biosynthesis IV (8-detaturase, lower eukaryotes)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7119" name="ceramide and sphingolipid recycling and degradation (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7950" name="diadinoxanthin and fucoxanthin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-189483" name="Heme degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7930" name="pyoluteorin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7011" name="2-isopropylphenol degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6842" name="glutathione-mediated detoxification II"/>
+            <pathway-xref db="Reactome" id="R-GGA-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="MetaCyc" id="PWY-8212" name="Escherichia coli serotype O:8 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7569" name="arginomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7895" name="ethionamide activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7498" name="phenylpropanoids methylation (ice plant)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7983" name="pseudomonine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-381038" name="XBP1(S) activates chaperone genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-5400" name="amaranthin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7998" name="menaquinol-4 biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-5893" name="tridecaprenyl diphosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5729" name="vestitol and sativan biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5816" name="all trans undecaprenyl diphosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8158" name="ibotenate and muscimol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7817" name="type I lipoteichoic acid biosynthesis (S. aureus)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5710" name="capsaicin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-4361" name="S-methyl-5-thio-alpha-D-ribose 1-phosphate degradation I"/>
+            <pathway-xref db="Reactome" id="R-SPO-901042" name="Calnexin/calreticulin cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-9013418" name="RHOBTB2 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7717" name="3-hydroxy-4-methyl-anthranilate biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-5437" name="L-threonine degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7474" name="avenacin A-2 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-5676934" name="Protein repair"/>
+            <pathway-xref db="MetaCyc" id="PWY-8282" name="adenosylcobinamide-GDP salvage from assorted adenosylcobamides"/>
+            <pathway-xref db="MetaCyc" id="PWY-7655" name="dechlorogriseofulvin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7607" name="meleagrin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7533" name="gliotoxin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6708" name="ubiquinol-8 biosynthesis (early decarboxylation)"/>
+            <pathway-xref db="Reactome" id="R-DME-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-SPO-72165" name="mRNA Splicing - Minor Pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-6503" name="superpathway of ergotamine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5382" name="hydrogen oxidation II (aerobic, NAD)"/>
+            <pathway-xref db="MetaCyc" id="PWY-4302" name="aerobic respiration III (alternative oxidase pathway)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7172" name="flavonol acylglucoside biosynthesis III - quercetin derivatives"/>
+            <pathway-xref db="MetaCyc" id="PWY-6314" name="plumbagin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5995" name="linoleate biosynthesis I (plants)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7765" name="3-hydroxy-4-methyl-anthranilate biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7155" name="7-dehydroporiferasterol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6032" name="digitoxigenin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-6799198" name="Complex I biogenesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6261" name="thyroid hormone metabolism II (via conjugation and/or degradation)"/>
+            <pathway-xref db="Reactome" id="R-HSA-1989781" name="PPARA activates gene expression"/>
+            <pathway-xref db="Reactome" id="R-RNO-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-7473" name="avenacin A-1 biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7739" name="aucuparin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7716" name="penicillin G and penicillin V biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5059" name="pinobanksin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5024" name="L-arginine degradation XI"/>
+            <pathway-xref db="MetaCyc" id="PWY-7771" name="butachlor degradation"/>
+            <pathway-xref db="Reactome" id="R-SSC-350864" name="Regulation of thyroid hormone activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-5368" name="dimorphecolate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5336415" name="Uptake and function of diphtheria toxin"/>
+            <pathway-xref db="MetaCyc" id="PWY-5979" name="3-amino-5-hydroxybenzoate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7977" name="L-methionine biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-7475" name="des-methyl avenacin A-1 biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6320" name="phaselate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6835" name="6-gingerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-PFA-156590" name="Glutathione conjugation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6407" name="yersiniabactin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7170" name="phytochromobilin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6724" name="starch degradation II"/>
+            <pathway-xref db="Reactome" id="R-RNO-156590" name="Glutathione conjugation"/>
+            <pathway-xref db="Reactome" id="R-RNO-9013424" name="RHOV GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-PFA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SPO-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-196836" name="Vitamin C (ascorbate) metabolism"/>
+            <pathway-xref db="Reactome" id="R-BTA-6799198" name="Complex I biogenesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-156590" name="Glutathione conjugation"/>
+            <pathway-xref db="Reactome" id="R-MMU-156581" name="Methylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5975" name="furaneol and mesifurane biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SSC-499943" name="Interconversion of nucleotide di- and triphosphates"/>
+            <pathway-xref db="MetaCyc" id="PWY-7045" name="mithramycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8122" name="mycofactocin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7230" name="ubiquinol-6 biosynthesis from 4-aminobenzoate (yeast)"/>
+            <pathway-xref db="Reactome" id="R-BTA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6197" name="chlorinated phenols degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7415" name="tylosin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9603798" name="Class I peroxisomal membrane protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-4621" name="arsenic detoxification (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7363" name="papaverine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6946" name="cholesterol degradation to androstenedione II (cholesterol dehydrogenase)"/>
+            <pathway-xref db="Reactome" id="R-RNO-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="MetaCyc" id="PWY-7863" name="roseoflavin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-114608" name="Platelet degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7779" name="methyl tert-butyl ether degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-9603798" name="Class I peroxisomal membrane protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-6758" name="hydrogen production II"/>
+            <pathway-xref db="Reactome" id="R-PFA-189483" name="Heme degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8076" name="8-O-methylated benzoxazinoid glucoside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-156842" name="Eukaryotic Translation Elongation"/>
+            <pathway-xref db="Reactome" id="R-SPO-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="MetaCyc" id="PWY-7534" name="gliotoxin inactivation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7043" name="11-cis-3-hydroxyretinal biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7580" name="phycoerythrobilin biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-5473" name="hydroxycinnamic acid serotonin amides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5418" name="phenol degradation I (aerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7079" name="geodin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7643" name="coniferyl alcohol 9-methyl ester biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-114608" name="Platelet degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7439" name="dTDP-beta-L-evernitrose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7186" name="superpathway of scopolin and esculin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7481" name="oryzalide A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5336" name="carbon disulfide oxidation II (aerobic)"/>
+            <pathway-xref db="Reactome" id="R-MMU-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-7906" name="rhizobitoxine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8082" name="glycine lipid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7565" name="aspyridone A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SSC-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7637" name="2,2'-dihydroxyketocarotenoids biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6378" name="putrebactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SSC-156581" name="Methylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6575" name="juvenile hormone III biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-4681" name="kievitone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7058" name="esculetin modification"/>
+            <pathway-xref db="Reactome" id="R-RNO-204174" name="Regulation of pyruvate dehydrogenase (PDH) complex"/>
+            <pathway-xref db="Reactome" id="R-MMU-432722" name="Golgi Associated Vesicle Biogenesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7775" name="propane degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-5903" name="bacillibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-9696264" name="RND3 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7738" name="polyacyltrehalose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SCE-1362409" name="Mitochondrial iron-sulfur cluster biogenesis"/>
+            <pathway-xref db="Reactome" id="R-PFA-2162123" name="Synthesis of Prostaglandins (PG) and Thromboxanes (TX)"/>
+            <pathway-xref db="MetaCyc" id="PWY-4181" name="glutathione amide metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7689" name="8-O-methylfusarubin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-2142688" name="Synthesis of 5-eicosatetraenoic acids"/>
+            <pathway-xref db="Reactome" id="R-RNO-189483" name="Heme degradation"/>
+            <pathway-xref db="Reactome" id="R-DME-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-CEL-156581" name="Methylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-4021" name="beta-alanine betaine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8058" name="2-deoxy-D-ribose degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7618" name="ricinoleate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7649" name="3-hydroxy-L-homotyrosine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7577" name="ferrichrome biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-DRE-156842" name="Eukaryotic Translation Elongation"/>
+            <pathway-xref db="Reactome" id="R-CEL-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-6279" name="myxol-2' fucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8085" name="picolinate degradation"/>
+            <pathway-xref db="Reactome" id="R-DDI-8963684" name="Tyrosine catabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7940" name="lauryl-hydroxychlorobactene glucoside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-72163" name="mRNA Splicing - Major Pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-6039" name="chlorogenic acid biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-6477" name="gibberellin inactivation II (methylation)"/>
+            <pathway-xref db="Reactome" id="R-RNO-9013420" name="RHOU GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7703" name="2,4-xylenol degradation to protocatechuate"/>
+            <pathway-xref db="Reactome" id="R-HSA-2408550" name="Metabolism of ingested H2SeO4 and H2SeO3 into H2Se"/>
+            <pathway-xref db="MetaCyc" id="PWY-6945" name="cholesterol degradation to androstenedione I (cholesterol oxidase)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7464" name="cyanidin 3,7-diglucoside polyacylation biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7726" name="(4Z,7Z,10Z,13Z,16Z)-docosapentaenoate biosynthesis (6-desaturase)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6512" name="hydrogen oxidation III (anaerobic, NADP)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6370" name="ascorbate recycling (cytosolic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6763" name="salicortin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DRE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7812" name="tetracycline and oxytetracycline biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5917" name="phycocyanobilin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-72165" name="mRNA Splicing - Minor Pathway"/>
+            <pathway-xref db="Reactome" id="R-MMU-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="Reactome" id="R-HSA-2142770" name="Synthesis of 15-eicosatetraenoic acid derivatives"/>
+            <pathway-xref db="Reactome" id="R-SCE-8980692" name="RHOA GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-8210" name="pyrrolomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6346" name="staurosporine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2142770" name="Synthesis of 15-eicosatetraenoic acid derivatives"/>
+            <pathway-xref db="MetaCyc" id="PWY-5292" name="vindoline, vindorosine and vinblastine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7440" name="dTDP-beta-L-4-epi-vancosamine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7321" name="ecdysteroid metabolism (arthropods)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7280" name="ternatin C3 biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6027" name="capsiconiate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-432720" name="Lysosome Vesicle Biogenesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5427" name="naphthalene degradation (aerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7907" name="(2S,3E)-2-amino-4-methoxy-but-3-enoate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7555" name="alpha-cyclopiazonate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7954" name="tabtoxinine-beta-lactam biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7608" name="neoxaline biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7735" name="echinomycin and triostin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-5223345" name="Miscellaneous transport and binding events"/>
+            <pathway-xref db="MetaCyc" id="PWY-7154" name="ergosterol biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-CEL-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-DME-5389840" name="Mitochondrial translation elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7621" name="autoinducer CAI-1 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-8951664" name="Neddylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-4081" name="glutathione-peroxide redox reactions"/>
+            <pathway-xref db="Reactome" id="R-DME-432720" name="Lysosome Vesicle Biogenesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5994" name="palmitate biosynthesis I (type I fatty acid synthase)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7878" name="A-factor gamma-butyrolactone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6978" name="plastoquinol-9 biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-6831" name="pyrrolnitrin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8047" name="bryostatin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7711" name="calonectrin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-8963888" name="Chylomicron assembly"/>
+            <pathway-xref db="Reactome" id="R-RNO-8963684" name="Tyrosine catabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7010" name="2-propylphenol degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6948" name="sitosterol degradation to androstenedione"/>
+            <pathway-xref db="MetaCyc" id="PWY-7100" name="spinosyn A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-901042" name="Calnexin/calreticulin cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-9026762" name="Biosynthesis of maresin conjugates in tissue regeneration (MCTR)"/>
+            <pathway-xref db="Reactome" id="R-MMU-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7352" name="daunorubicin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="MetaCyc" id="PWY-7417" name="phospholipid remodeling (phosphatidate, yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8095" name="5-methoxy-6-methylbenzimidazole biosynthesis (anaerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6045" name="methylthiopropanonate degradation II (demethylation)"/>
+            <pathway-xref db="Reactome" id="R-RNO-9696270" name="RND2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-DME-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8077" name="ginkgotoxin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7510" name="rhizocticin A and B biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-9013422" name="RHOBTB1 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-156842" name="Eukaryotic Translation Elongation"/>
+            <pathway-xref db="Reactome" id="R-SPO-9696273" name="RND1 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-CEL-5419276" name="Mitochondrial translation termination"/>
+            <pathway-xref db="Reactome" id="R-MMU-8964041" name="LDL remodeling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7648" name="3-hydroxy-4-methyl-proline biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5882" name="epoxypseudoisoeugenol-2-methylbutanoate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7861" name="N-hydroxy-L-pipecolate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7540" name="aflatrem biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7301" name="dTDP-4-O-demethyl-beta-L-noviose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-156590" name="Glutathione conjugation"/>
+            <pathway-xref db="Reactome" id="R-DME-499943" name="Interconversion of nucleotide di- and triphosphates"/>
+            <pathway-xref db="MetaCyc" id="PWY-8103" name="kavain biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-499943" name="Interconversion of nucleotide di- and triphosphates"/>
+            <pathway-xref db="MetaCyc" id="PWY-5915" name="phycoerythrobilin biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8116" name="ochratoxin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-2559580" name="Oxidative Stress Induced Senescence"/>
+            <pathway-xref db="Reactome" id="R-MMU-9020933" name="Interleukin-23 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7483" name="elloramycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-2142770" name="Synthesis of 15-eicosatetraenoic acid derivatives"/>
+            <pathway-xref db="MetaCyc" id="PWY-8133" name="succinoglycan biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7520" name="terrequinone A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1222541" name="Cell redox homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5414" name="palustric acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7564" name="bacimethrin and bacimethrin pyrophosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8040" name="ansatrienin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8096" name="5-methoxybenzimidazole biosynthesis (anaerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8272" name="Escherichia coli serotype O:49 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7603" name="stephacidin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-1362409" name="Mitochondrial iron-sulfur cluster biogenesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6581" name="spirilloxanthin and 2,2'-diketo-spirilloxanthin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5263617" name="Metabolism of ingested MeSeO2H into MeSeH"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013424" name="RHOV GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-SPO-156842" name="Eukaryotic Translation Elongation"/>
+            <pathway-xref db="Reactome" id="R-MMU-6799198" name="Complex I biogenesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-2421" name="indole-3-acetate degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7615" name="pterocarpan phytoalexins modification (maackiain, medicarpin, pisatin, phaseollin)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7025" name="gentamicin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6795" name="diacylglyceryl-N,N,N-trimethylhomoserine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6373" name="acrylate degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-1381" name="fluorene degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-6765" name="hydrogen production IV"/>
+            <pathway-xref db="Reactome" id="R-DRE-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="MetaCyc" id="PWY-5305" name="bixin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-BTA-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="MetaCyc" id="PWY-6153" name="autoinducer AI-2 biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-GGA-1236974" name="ER-Phagosome pathway"/>
+            <pathway-xref db="Reactome" id="R-MMU-189483" name="Heme degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-7461" name="hydroxycinnamate sugar acid ester biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7727" name="docosahexaenoate biosynthesis IV (4-desaturase, mammals)"/>
+            <pathway-xref db="Reactome" id="R-HSA-5676934" name="Protein repair"/>
+            <pathway-xref db="MetaCyc" id="PWY-6312" name="barbaloin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7653" name="griseofulvin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6321" name="homotaurine degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7614" name="methiin metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7409" name="phospholipid remodeling (phosphatidylethanolamine, yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8012" name="mupirocin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013424" name="RHOV GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-761" name="rhizobactin 1021 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-7673" name="fusarin C biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-4801" name="aloesone biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-5857" name="ubiquinol-10 biosynthesis (early decarboxylation)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7169" name="hyperxanthone E biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-6814122" name="Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding"/>
+            <pathway-xref db="MetaCyc" id="PWY-7171" name="flavonol acylglucoside biosynthesis II - isorhamnetin derivatives"/>
+            <pathway-xref db="Reactome" id="R-HSA-6799198" name="Complex I biogenesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7563" name="bassianin and desmethylbassianin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-3542" name="choline biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-6672" name="cis-geranyl-CoA degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7212" name="baicalein metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7826" name="Amaryllidacea alkaloids biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6722" name="candicidin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="MetaCyc" id="PWY-7161" name="polymethylated quercetin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-901042" name="Calnexin/calreticulin cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-DDI-2162123" name="Synthesis of Prostaglandins (PG) and Thromboxanes (TX)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5706" name="alliin metabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-CEL-8963684" name="Tyrosine catabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-8176" name="geraniol biosynthesis (cytosol)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7679" name="anthocyanidin acylglucoside and acylsambubioside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7462" name="3,3'-disulfanediyldipropannoate degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5412" name="levopimaric acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6659" name="fusicoccin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-HSA-5223345" name="Miscellaneous transport and binding events"/>
+            <pathway-xref db="MetaCyc" id="PWY-6958" name="icosapentaenoate biosynthesis I (lower eukaryotes)"/>
+            <pathway-xref db="Reactome" id="R-XTR-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="MetaCyc" id="PWY-6421" name="arsenate detoxification IV (mycothiol)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6148" name="tetrahydromethanopterin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-HSA-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="MetaCyc" id="PWY-8257" name="Escherichia coli serotype O:52 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5105" name="hesperitin glycoside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-5875" name="staphyloxanthin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-4922" name="6-methoxymellein biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5475" name="pentagalloylglucose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6366" name="D-myo-inositol (1,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7304" name="3-amino-4,7-dihydroxy-coumarin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-196836" name="Vitamin C (ascorbate) metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7729" name="5,6-dimethylbenzimidazole biosynthesis II (anaerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8157" name="avenanthramide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6316" name="aromatic polyketides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7733" name="3-hydroxyquinaldate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5676934" name="Protein repair"/>
+            <pathway-xref db="Reactome" id="R-RNO-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-DDI-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="MetaCyc" id="PWY-5284" name="shisonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7050" name="icosapentaenoate biosynthesis IV (bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5870" name="ubiquinol-8 biosynthesis (late decarboxylation)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7688" name="dTDP-alpha-D-ravidosamine and dTDP-4-acetyl-alpha-D-ravidosamine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWYG-321" name="mycolate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-2083" name="isoflavonoid biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-SPO-8980692" name="RHOA GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7485" name="tetracenomycin C biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6223" name="gentisate degradation I"/>
+            <pathway-xref db="Reactome" id="R-RNO-5419276" name="Mitochondrial translation termination"/>
+            <pathway-xref db="Reactome" id="R-MMU-5223345" name="Miscellaneous transport and binding events"/>
+            <pathway-xref db="MetaCyc" id="PWY-8084" name="daurichromenate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7713" name="nivalenol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-6814122" name="Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding"/>
+            <pathway-xref db="MetaCyc" id="PWY-7412" name="mycinamicin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5434" name="(3E)-4,8-dimethylnona-1,3,7-triene biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-SCE-901042" name="Calnexin/calreticulin cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-5748" name="gamma-coniciene and coniine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7669" name="equisetin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7783" name="plasmalogen degradation"/>
+            <pathway-xref db="Reactome" id="R-RNO-9020591" name="Interleukin-12 signaling"/>
+            <pathway-xref db="Reactome" id="R-BTA-2142712" name="Synthesis of 12-eicosatetraenoic acid derivatives"/>
+            <pathway-xref db="MetaCyc" id="PWY-7691" name="10,13-epoxy-11-methyl-octadecadienoate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8264" name="arsenate detoxification I"/>
+            <pathway-xref db="MetaCyc" id="PWY-6922" name="L-Ndelta-acetylornithine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-499943" name="Interconversion of nucleotide di- and triphosphates"/>
+            <pathway-xref db="MetaCyc" id="PWY-5209" name="methyl-coenzyme M oxidation to CO2"/>
+            <pathway-xref db="MetaCyc" id="PWY-7531" name="mannojirimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5846" name="colchicine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5313" name="superpathway of anthocyanin biosynthesis (from cyanidin and cyanidin 3-O-glucoside)"/>
+            <pathway-xref db="Reactome" id="R-DRE-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="MetaCyc" id="PWY-7814" name="dTDP-L-daunosamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9660826" name="Purinergic signaling in leishmaniasis infection"/>
+            <pathway-xref db="Reactome" id="R-RNO-1650814" name="Collagen biosynthesis and modifying enzymes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7470" name="phosphatidylcholine biosynthesis VII"/>
+            <pathway-xref db="Reactome" id="R-SSC-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7104" name="dTDP-beta-L-megosamine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7708" name="lyngbyatoxin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6944" name="androstenedione degradation I (aerobic)"/>
+            <pathway-xref db="Reactome" id="R-HSA-1236974" name="ER-Phagosome pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-695" name="abscisic acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7561" name="tenellin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7661" name="protein N-glycosylation (Haloferax volcanii)"/>
+            <pathway-xref db="Reactome" id="R-RNO-499943" name="Interconversion of nucleotide di- and triphosphates"/>
+            <pathway-xref db="Reactome" id="R-HSA-9020933" name="Interleukin-23 signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-189483" name="Heme degradation"/>
+            <pathway-xref db="Reactome" id="R-SPO-9013424" name="RHOV GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-CEL-532668" name="N-glycan trimming in the ER and Calnexin/Calreticulin cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-6433" name="hydroxylated fatty acid biosynthesis (plants)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7659" name="viridicatumtoxin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1222387" name="Tolerance of reactive oxygen produced by macrophages"/>
+            <pathway-xref db="MetaCyc" id="PWY-84" name="resveratrol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-5358346" name="Hedgehog ligand biogenesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7937" name="fungal bioluminescence"/>
+            <pathway-xref db="MetaCyc" id="PWY-6427" name="rot-2'-enonate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6682" name="dehydrophos biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-8964041" name="LDL remodeling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7777" name="isoprene degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5413" name="neoabietic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1650814" name="Collagen biosynthesis and modifying enzymes"/>
+            <pathway-xref db="MetaCyc" id="PWY-5872" name="ubiquinol-10 biosynthesis (late decarboxylation)"/>
+            <pathway-xref db="Reactome" id="R-BTA-156590" name="Glutathione conjugation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7728" name="(4Z,7Z,10Z,13Z,16Z)-docosa-4,7,10,13,16-pentaenoate biosynthesis II (4-desaturase)"/>
+            <pathway-xref db="Reactome" id="R-DDI-204174" name="Regulation of pyruvate dehydrogenase (PDH) complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-7029" name="terminal olefins biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7670" name="fusaridione A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6991" name="(-)-camphor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6736" name="sulfur volatiles biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-1236974" name="ER-Phagosome pathway"/>
+            <pathway-xref db="Reactome" id="R-BTA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="MetaCyc" id="PWY-5287" name="sanguinarine and macarpine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7578" name="phycoviolobilin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-2142712" name="Synthesis of 12-eicosatetraenoic acid derivatives"/>
+            <pathway-xref db="MetaCyc" id="PWY-7746" name="mycobacterial sulfolipid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9026762" name="Biosynthesis of maresin conjugates in tissue regeneration (MCTR)"/>
+            <pathway-xref db="Reactome" id="R-HSA-1222538" name="Tolerance by Mtb to nitric oxide produced by macrophages"/>
+            <pathway-xref db="Reactome" id="R-SSC-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-8151" name="cholesterol degradation to androstenedione III (anaerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7694" name="zwittermicin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-8980692" name="RHOA GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-GGA-5676934" name="Protein repair"/>
+            <pathway-xref db="MetaCyc" id="PWY-7053" name="docosahexaenoate biosynthesis I (lower eukaryotes)"/>
+            <pathway-xref db="Reactome" id="R-PFA-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-BTA-6814122" name="Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding"/>
+            <pathway-xref db="MetaCyc" id="PWY-7150" name="polymethylated quercetin glucoside biosynthesis I - quercetin series (Chrysosplenium)"/>
+            <pathway-xref db="Reactome" id="R-HSA-983170" name="Antigen Presentation: Folding, assembly and peptide loading of class I MHC"/>
+            <pathway-xref db="MetaCyc" id="PWY-7751" name="shinorine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9026762" name="Biosynthesis of maresin conjugates in tissue regeneration (MCTR)"/>
+            <pathway-xref db="Reactome" id="R-HSA-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="MetaCyc" id="PWY-5139" name="pelargonidin conjugates biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7949" name="diadinoxanthin and diatoxanthin interconversion"/>
+            <pathway-xref db="Reactome" id="R-HSA-8862803" name="Deregulated CDK5 triggers multiple neurodegenerative pathways in Alzheimer's disease models"/>
+            <pathway-xref db="MetaCyc" id="PWY-7151" name="polymethylated quercetin glucoside biosynthesis II - quercetagetin series (Chrysosplenium)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7442" name="drosopterin and aurodrosopterin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5477" name="gallotannin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-MMU-8980692" name="RHOA GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-DME-196836" name="Vitamin C (ascorbate) metabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-5389840" name="Mitochondrial translation elongation"/>
+            <pathway-xref db="Reactome" id="R-MMU-204174" name="Regulation of pyruvate dehydrogenase (PDH) complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-6936" name="seleno-amino acid biosynthesis (plants)"/>
+            <pathway-xref db="Reactome" id="R-CEL-1614558" name="Degradation of cysteine and homocysteine"/>
+            <pathway-xref db="MetaCyc" id="PWY-6495" name="ergotamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SSC-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-MMU-1650814" name="Collagen biosynthesis and modifying enzymes"/>
+            <pathway-xref db="MetaCyc" id="PWY-8243" name="colanic acid (Escherichia coli K12) biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7599" name="anditomin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7135" name="emetine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="MetaCyc" id="PWY-7401" name="crotonate fermentation (to acetate and cyclohexane carboxylate)"/>
+            <pathway-xref db="Reactome" id="R-HSA-114608" name="Platelet degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7816" name="poly(ribitol phosphate) wall teichoic acid biosynthesis II (S. aureus)"/>
+            <pathway-xref db="Reactome" id="R-DME-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8045" name="cylindrospermopsin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6679" name="jadomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6262" name="demethylmenaquinol-8 biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-BTA-9018676" name="Biosynthesis of D-series resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-8083" name="domoic acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7780" name="butane degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7298" name="nevadensin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-5419276" name="Mitochondrial translation termination"/>
+            <pathway-xref db="MetaCyc" id="PWY-7168" name="flavonol acylglucoside biosynthesis I - kaempferol derivatives"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7690" name="holomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-2559580" name="Oxidative Stress Induced Senescence"/>
+            <pathway-xref db="MetaCyc" id="PWY-5307" name="gentiodelphin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-5660" name="taxol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8036" name="chaxamycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-204174" name="Regulation of pyruvate dehydrogenase (PDH) complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-7743" name="dimycocerosyl triglycosyl phenolphthiocerol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6409" name="pyoverdine I biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6976" name="dTDP-beta-L-mycarose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7696" name="citreoisocoumarin and bikisocoumarin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-9018896" name="Biosynthesis of E-series 18(S)-resolvins"/>
+            <pathway-xref db="Reactome" id="R-RNO-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-7160" name="polymethylated myricetin biosynthesis (tomato)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6365" name="D-myo-inositol (3,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6814122" name="Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding"/>
+            <pathway-xref db="MetaCyc" id="PWY-1186" name="L-homomethionine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7372" name="demethylmenaquinol-6 biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-SSC-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-6971" name="oleandomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013422" name="RHOBTB1 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-DME-156842" name="Eukaryotic Translation Elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7749" name="(-)-4'-demethyl-epipodophyllotoxin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2559580" name="Oxidative Stress Induced Senescence"/>
+            <pathway-xref db="MetaCyc" id="PWY-6340" name="5,5'-dehydrodivanillate degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-8963888" name="Chylomicron assembly"/>
+            <pathway-xref db="Reactome" id="R-MMU-9696264" name="RND3 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-5665" name="vanillin biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-MMU-9696270" name="RND2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-446203" name="Asparagine N-linked glycosylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7604" name="notoamide C and D biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9696273" name="RND1 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-6260" name="thyroid hormone metabolism I (via deiodination)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7592" name="arachidonate biosynthesis III (6-desaturase, mammals)"/>
+            <pathway-xref db="Reactome" id="R-CEL-2162123" name="Synthesis of Prostaglandins (PG) and Thromboxanes (TX)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6456" name="serinol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-1362409" name="Mitochondrial iron-sulfur cluster biogenesis"/>
+            <pathway-xref db="Reactome" id="R-DME-204174" name="Regulation of pyruvate dehydrogenase (PDH) complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-5873" name="ubiquinol-7 biosynthesis (late decarboxylation)"/>
+            <pathway-xref db="Reactome" id="R-DME-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="Reactome" id="R-HSA-156842" name="Eukaryotic Translation Elongation"/>
+            <pathway-xref db="Reactome" id="R-SPO-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-HSA-1362409" name="Mitochondrial iron-sulfur cluster biogenesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-72165" name="mRNA Splicing - Minor Pathway"/>
+            <pathway-xref db="Reactome" id="R-MMU-2672351" name="Stimuli-sensing channels"/>
+            <pathway-xref db="Reactome" id="R-MMU-5389840" name="Mitochondrial translation elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8152" name="androstenedione degradation II (anaerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5765" name="1,3,5-trimethoxybenzene biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-9013420" name="RHOU GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-5048" name="rosmarinic acid biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-361" name="phenylpropanoid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7650" name="echinocandin B biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-114608" name="Platelet degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8055" name="palmitoyl ethanolamide biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-9023661" name="Biosynthesis of E-series 18(R)-resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-6403" name="carrageenan biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8031" name="epiberberine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="MetaCyc" id="PWY-7570" name="blasticidin S biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6442" name="spermidine hydroxycinnamic acid conjugates biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7009" name="2,2'-dihydroxybiphenyl degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5984" name="rifamycin B biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-350864" name="Regulation of thyroid hormone activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-8259" name="arsenic detoxification (plants)"/>
+            <pathway-xref db="Reactome" id="R-RNO-8957275" name="Post-translational protein phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-SSC-2142770" name="Synthesis of 15-eicosatetraenoic acid derivatives"/>
+            <pathway-xref db="MetaCyc" id="PWY-7450" name="anthocyanidin modification (Arabidopsis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8253" name="Escherichia coli serotype O:149/Shigella boydii serotype O1 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7354" name="aclacinomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7517" name="brassicicene C biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6552" name="caffeine degradation I (main, plants)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7530" name="Escherichia coli serotype O:104 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7573" name="GDP-mycosamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-72163" name="mRNA Splicing - Major Pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-5268" name="salvianin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-4061" name="glutathione-mediated detoxification I"/>
+            <pathway-xref db="Reactome" id="R-CEL-196836" name="Vitamin C (ascorbate) metabolism"/>
+            <pathway-xref db="Reactome" id="R-CEL-156590" name="Glutathione conjugation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5855" name="ubiquinol-7 biosynthesis (early decarboxylation)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6673" name="caffeoylglucarate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="MetaCyc" id="PWY-601" name="glucosinolate biosynthesis from tryptophan"/>
+            <pathway-xref db="MetaCyc" id="PWY-6799" name="fatty acid biosynthesis initiation (plant mitochondria)"/>
+            <pathway-xref db="Reactome" id="R-RNO-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-RNO-611105" name="Respiratory electron transport"/>
+            <pathway-xref db="MetaCyc" id="PWY-7656" name="Spodoptera littoralis pheromone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6453" name="stigma estolide biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-189483" name="Heme degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7692" name="bikaverin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7811" name="6-methylpretetramide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7579" name="phycourobilin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6920" name="6-gingerol analog biosynthesis (engineered)"/>
+            <pathway-xref db="Reactome" id="R-CEL-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-CEL-5389840" name="Mitochondrial translation elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7742" name="phenolphthiocerol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7602" name="icosapentaenoate biosynthesis V (8-desaturase, lower eukaryotes)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7988" name="baumannoferrin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8172" name="10-methylstearate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7318" name="dTDP-3-acetamido-3,6-dideoxy-alpha-D-glucose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7986" name="anguibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9696270" name="RND2 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7687" name="stipitatate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6809" name="neoxanthin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6379" name="alcaligin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9696264" name="RND3 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-9696273" name="RND1 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-8951664" name="Neddylation"/>
+            <pathway-xref db="Reactome" id="R-DME-8964041" name="LDL remodeling"/>
+            <pathway-xref db="MetaCyc" id="PWY-1361" name="benzoyl-CoA degradation I (aerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7042" name="the visual cycle (insects)"/>
+            <pathway-xref db="Reactome" id="R-SSC-196836" name="Vitamin C (ascorbate) metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7730" name="T-2 toxin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-156590" name="Glutathione conjugation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5360" name="superpathway of tetrathionate reduction (Salmonella typhimurium)"/>
+            <pathway-xref db="MetaCyc" id="PWY-4161" name="superpathway of benzoxazinoid glucosides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-2142770" name="Synthesis of 15-eicosatetraenoic acid derivatives"/>
+            <pathway-xref db="MetaCyc" id="PWY-7407" name="aurachin A, B, C and D biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6930" name="phenolic malonylglucosides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-196836" name="Vitamin C (ascorbate) metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6720" name="toyocamycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013422" name="RHOBTB1 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-499943" name="Interconversion of nucleotide di- and triphosphates"/>
+            <pathway-xref db="Reactome" id="R-CEL-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8080" name="kainate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6310" name="aloesone biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7405" name="aurachin RE biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-5818" name="validamycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-2559580" name="Oxidative Stress Induced Senescence"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013420" name="RHOU GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7072" name="hopanoid biosynthesis (bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7815" name="poly(ribitol phosphate) wall teichoic acid biosynthesis I (B. subtilis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7493" name="paxilline and diprenylpaxilline biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-5358346" name="Hedgehog ligand biogenesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-156581" name="Methylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5794" name="malonate degradation I (biotin-independent)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6339" name="syringate degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5856" name="ubiquinol-9 biosynthesis (early decarboxylation)"/>
+            <pathway-xref db="Reactome" id="R-BTA-9020265" name="Biosynthesis of aspirin-triggered D-series resolvins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7701" name="4-hydroxy-4-methyl-L-glutamate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5817" name="dodecaprenyl diphosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7076" name="3,5-dimethoxytoluene biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="MetaCyc" id="PWY-7175" name="nostoxanthin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-901042" name="Calnexin/calreticulin cycle"/>
+            <pathway-xref db="Reactome" id="R-DME-2162123" name="Synthesis of Prostaglandins (PG) and Thromboxanes (TX)"/>
+            <pathway-xref db="Reactome" id="R-MMU-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-GGA-2559580" name="Oxidative Stress Induced Senescence"/>
+            <pathway-xref db="MetaCyc" id="PWY-5301" name="ajmaline and sarpagine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8043" name="ophthalmate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013420" name="RHOU GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7984" name="acinetobactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-72165" name="mRNA Splicing - Minor Pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-7572" name="lolitrem B biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-2132295" name="MHC class II antigen presentation"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0045690</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="218" start="2" end="83">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="2" end="83" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.56-89.0">
+  <protein>
+    <sequence md5="1260c2e1b85a051b0a7b2383784d131d">YYGAGATPPFFASTVTSPTPHPYLWGGQHPLMPPYGTPVPYPALYPPGGIYAHPNMTMNPSIASTIVESETKATETKDQTPNKKSKGTSGNTSLIGGKAGESRKAASSSGNDGASQSAESGSDSSSDASDENNNQHEFAARKTGSFHQMLADGASAQNNTAGANLQTSVPGNPVVSIPATNLNIGMDLWYASPSGTGAMKMRPNPSGVLPAAMIGREGMMPDQWVQV</sequence>
+    <xref id="maker-Scaffold_5277_SNP_211152-exonerate_est2genome-gene-0.0-mRNA-1" name="maker-Scaffold_5277_SNP_211152-exonerate_est2genome-gene-0.0-mRNA-1"/>
+    <matches>
+      <hmmer3-match evalue="2.9E-9" score="37.5">
+        <signature ac="PF16596" desc="Disordered region downstream of MFMR" name="MFMR_assoc">
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF16596</model-ac>
+        <locations>
+          <hmmer3-location env-end="197" env-start="78" post-processed="true" score="33.0" evalue="7.0E-8" hmm-start="1" hmm-end="130" hmm-length="136" hmm-bounds="N_TERMINAL_COMPLETE" start="78" end="192">
+            <location-fragments>
+              <hmmer3-location-fragment start="78" end="192" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="1.8E-18" score="66.8">
+        <signature ac="PF07777" desc="G-box binding protein MFMR" name="MFMR">
+          <entry ac="IPR012900" desc="G-box binding protein, multifunctional mosaic region" name="MFMR" type="DOMAIN"/>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF07777</model-ac>
+        <locations>
+          <hmmer3-location env-end="57" env-start="1" post-processed="true" score="66.8" evalue="1.8E-18" hmm-start="40" hmm-end="96" hmm-length="97" hmm-bounds="INCOMPLETE" start="1" end="56">
+            <location-fragments>
+              <hmmer3-location-fragment start="1" end="56" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="" start="69" end="134">
+            <location-fragments>
+              <mobidblite-location-fragment start="69" end="134" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="Polar" start="104" end="134">
+            <location-fragments>
+              <mobidblite-location-fragment start="104" end="134" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <panther-match evalue="1.7E-86" familyName="G-BOX-BINDING FACTOR 1-LIKE ISOFORM X1" score="302.3">
+        <signature ac="PTHR45967" name="G-BOX-BINDING FACTOR 3-RELATED">
+          <entry ac="IPR044827" desc="G-box-binding factor-like" name="GBF-like" type="FAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0043565" name="sequence-specific DNA binding"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0003700" name="DNA-binding transcription factor activity"/>
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0006355" name="regulation of transcription, DNA-templated"/>
+          </entry>
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR45967</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="227" hmm-start="33" hmm-end="247" hmm-length="347" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="226">
+            <location-fragments>
+              <panther-location-fragment start="1" end="226" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="1.7E-86" familyName="G-BOX-BINDING FACTOR 1-LIKE ISOFORM X1" score="302.3">
+        <signature ac="PTHR45967:SF16" name="G-BOX-BINDING FACTOR 1-LIKE ISOFORM X1">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR45967:SF16</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="227" hmm-start="33" hmm-end="247" hmm-length="347" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="226">
+            <location-fragments>
+              <panther-location-fragment start="1" end="226" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="20174bde2285374fc62e19de92f50579">MAGLRSHNTILRTFQTHRPQRSPSLLPFHPQKHPSPP</sequence>
+    <xref id="maker-Scaffold_59695_SNP_80628-exonerate_protein2genome-gene-0.0-mRNA-12" name="maker-Scaffold_59695_SNP_80628-exonerate_protein2genome-gene-0.0-mRNA-12"/>
+    <matches>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="" start="1" end="37">
+            <location-fragments>
+              <mobidblite-location-fragment start="1" end="37" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="Polar" start="8" end="22">
+            <location-fragments>
+              <mobidblite-location-fragment start="8" end="22" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+    </matches>
+  </protein>
+</protein-matches>

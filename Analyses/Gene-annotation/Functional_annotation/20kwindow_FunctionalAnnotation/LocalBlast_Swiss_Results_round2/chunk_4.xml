@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<BlastXML2
+xmlns="http://www.ncbi.nlm.nih.gov"
+xmlns:xi="http://www.w3.org/2003/XInclude"
+xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+xs:schemaLocation="http://www.ncbi.nlm.nih.gov http://www.ncbi.nlm.nih.gov/data_specs/schema_alt/NCBI_BlastOutput2.xsd">
+	<xi:include href="chunk_4_1.xml"/>
+	<xi:include href="chunk_4_2.xml"/>
+	<xi:include href="chunk_4_3.xml"/>
+	<xi:include href="chunk_4_4.xml"/>
+	<xi:include href="chunk_4_5.xml"/>
+	<xi:include href="chunk_4_6.xml"/>
+	<xi:include href="chunk_4_7.xml"/>
+	<xi:include href="chunk_4_8.xml"/>
+	<xi:include href="chunk_4_9.xml"/>
+	<xi:include href="chunk_4_10.xml"/>
+	<xi:include href="chunk_4_11.xml"/>
+	<xi:include href="chunk_4_12.xml"/>
+	<xi:include href="chunk_4_13.xml"/>
+	<xi:include href="chunk_4_14.xml"/>
+	<xi:include href="chunk_4_15.xml"/>
+	<xi:include href="chunk_4_16.xml"/>
+	<xi:include href="chunk_4_17.xml"/>
+	<xi:include href="chunk_4_18.xml"/>
+	<xi:include href="chunk_4_19.xml"/>
+	<xi:include href="chunk_4_20.xml"/>
+</BlastXML2>

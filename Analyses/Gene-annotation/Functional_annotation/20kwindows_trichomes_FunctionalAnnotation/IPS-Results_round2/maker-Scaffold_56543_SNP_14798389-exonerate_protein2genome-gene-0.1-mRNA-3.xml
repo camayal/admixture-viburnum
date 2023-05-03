@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.56-89.0">
+  <protein>
+    <sequence md5="d74f565fb79533424e6e18546515e21b">MGSRDSRSS</sequence>
+    <xref id="maker-Scaffold_56543_SNP_14798389-exonerate_protein2genome-gene-0.1-mRNA-3" name="maker-Scaffold_56543_SNP_14798389-exonerate_protein2genome-gene-0.1-mRNA-3"/>
+    <matches/>
+  </protein>
+</protein-matches>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="30cf8c99228317c959157dd2bc6cdde7">MVSFGNNSKVDGGNLSFLLKDSVWKLGSIPIQVYSTHSLILNVGFVIWNSKYDLLQMIDDGQAVD</sequence>
+    <xref id="maker-Scaffold_52789_SNP_2593286-exonerate_est2genome-gene-0.0-mRNA-1" name="maker-Scaffold_52789_SNP_2593286-exonerate_est2genome-gene-0.0-mRNA-1"/>
+    <matches/>
+  </protein>
+</protein-matches>

@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<BlastOutput2
+    xmlns="http://www.ncbi.nlm.nih.gov"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+    xs:schemaLocation="http://www.ncbi.nlm.nih.gov http://www.ncbi.nlm.nih.gov/data_specs/schema_alt/NCBI_BlastOutput2.xsd"
+>
+  <report>
+    <Report>
+      <program>blastp</program>
+      <version>BLASTP 2.10.0+</version>
+      <reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</reference>
+      <search-target>
+        <Target>
+          <db>C:\CAML\Test_FunctionalAnnotation\swissprot\swissprot</db>
+        </Target>
+      </search-target>
+      <params>
+        <Parameters>
+          <matrix>BLOSUM62</matrix>
+          <expect>1e-05</expect>
+          <gap-open>11</gap-open>
+          <gap-extend>1</gap-extend>
+          <filter>F</filter>
+          <cbs>2</cbs>
+        </Parameters>
+      </params>
+      <results>
+        <Results>
+          <search>
+            <Search>
+              <query-id>Query_4</query-id>
+              <query-title>maker-Scaffold_62189_SNP_1927409-exonerate_est2genome-gene-0.2-mRNA-1</query-title>
+              <query-len>106</query-len>
+              <hits>
+                <Hit>
+                  <num>1</num>
+                  <description>
+                    <HitDescr>
+                      <id>sp|Q94FB9.1|</id>
+                      <accession>Q94FB9</accession>
+                      <title>RecName: Full=ABC transporter D family member 1; Short=ABC transporter ABCD.1; Short=AtABCD1; AltName: Full=Peroxisomal ABC transporter 1; Short=AtPXA1; AltName: Full=Protein ACETATE NON-UTILIZING 2; AltName: Full=Protein COMATOSE; AltName: Full=Protein PEROXISOME DEFECTIVE 3; Short=Ped3p [Arabidopsis thaliana]</title>
+                      <taxid>3702</taxid>
+                    </HitDescr>
+                  </description>
+                  <len>1337</len>
+                  <hsps>
+                    <Hsp>
+                      <num>1</num>
+                      <bit-score>189.119</bit-score>
+                      <score>479</score>
+                      <evalue>5.51783e-56</evalue>
+                      <identity>87</identity>
+                      <positive>101</positive>
+                      <query-from>3</query-from>
+                      <query-to>106</query-to>
+                      <hit-from>976</hit-from>
+                      <hit-to>1079</hit-to>
+                      <align-len>104</align-len>
+                      <gaps>0</gaps>
+                      <qseq>LLDHSTLLLKKKWLFGVLDDFITKQLPHNVTWGLSLLYAMEHKGDRSLSSTQGELAHALRFLASVVSQSFLAFGDILELHRKFLELSGGVNRIFELEELLDAAQ</qseq>
+                      <hseq>LLDHSLMLLRKKWLYGILDDFVTKQLPNNVTWGLSLLYALEHKGDRALVSTQGELAHALRYLASVVSQSFMAFGDILELHKKFLELSGGINRIFELDEFLDASQ</hseq>
+                      <midline>LLDHS +LL+KKWL+G+LDDF+TKQLP+NVTWGLSLLYA+EHKGDR+L STQGELAHALR+LASVVSQSF+AFGDILELH+KFLELSGG+NRIFEL+E LDA+Q</midline>
+                    </Hsp>
+                  </hsps>
+                </Hit>
+              </hits>
+              <stat>
+                <Statistics>
+                  <db-num>478091</db-num>
+                  <db-len>181270864</db-len>
+                  <hsp-len>75</hsp-len>
+                  <eff-space>4507835209</eff-space>
+                  <kappa>0.041</kappa>
+                  <lambda>0.267</lambda>
+                  <entropy>0.14</entropy>
+                </Statistics>
+              </stat>
+            </Search>
+          </search>
+        </Results>
+      </results>
+    </Report>
+  </report>
+</BlastOutput2>

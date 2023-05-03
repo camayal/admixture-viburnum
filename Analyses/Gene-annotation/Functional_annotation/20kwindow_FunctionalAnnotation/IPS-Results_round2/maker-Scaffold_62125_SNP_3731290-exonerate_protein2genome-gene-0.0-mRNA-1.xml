@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="abb7eb2a7ddf330adef4e7f603aa46e1">FVLDVCKRLKEKKSYLVWTAVGCLGVSALSDLVKEVDAIQACGGQKTTDGRRFRTGGGILWNILKVRDPNAYKEIMKKGNEFEKQFKQRNMRQAPAQNKGTSSQGIAIASTDATTGCILDGSQLIPHLQNELEQPNVEQKRPSVHDRIRVPVAYDDDLLGAQDPKDE</sequence>
+    <xref id="maker-Scaffold_62125_SNP_3731290-exonerate_protein2genome-gene-0.0-mRNA-1" name="maker-Scaffold_62125_SNP_3731290-exonerate_protein2genome-gene-0.0-mRNA-1"/>
+    <matches>
+      <hmmer3-match evalue="7.8E-24" score="83.5">
+        <signature ac="PF10258" desc="PHAX RNA-binding domain" name="RNA_GG_bind">
+          <entry ac="IPR019385" desc="Phosphorylated adapter RNA export protein, RNA-binding domain" name="PHAX_RNA-binding_domain" type="DOMAIN">
+            <pathway-xref db="Reactome" id="R-MMU-6807505" name="RNA polymerase II transcribes snRNA genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-191859" name="snRNP Assembly"/>
+            <pathway-xref db="Reactome" id="R-HSA-6807505" name="RNA polymerase II transcribes snRNA genes"/>
+            <pathway-xref db="Reactome" id="R-RNO-6807505" name="RNA polymerase II transcribes snRNA genes"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF10258</model-ac>
+        <locations>
+          <hmmer3-location env-end="81" env-start="1" post-processed="true" score="83.0" evalue="1.1E-23" hmm-start="2" hmm-end="83" hmm-length="84" hmm-bounds="INCOMPLETE" start="2" end="80">
+            <location-fragments>
+              <hmmer3-location-fragment start="2" end="80" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="1.6E-30" score="107.1">
+        <signature ac="G3DSA:1.10.10.1440" name="">
+          <entry ac="IPR038092" desc="Phosphorylated adapter RNA export protein, RNA-binding domain superfamily" name="PHAX_RNA-binding_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="Reactome" id="R-MMU-6807505" name="RNA polymerase II transcribes snRNA genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-191859" name="snRNP Assembly"/>
+            <pathway-xref db="Reactome" id="R-HSA-6807505" name="RNA polymerase II transcribes snRNA genes"/>
+            <pathway-xref db="Reactome" id="R-RNO-6807505" name="RNA polymerase II transcribes snRNA genes"/>
+          </entry>
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>2xc7A00</model-ac>
+        <locations>
+          <hmmer3-location env-end="91" env-start="1" post-processed="true" score="106.7" evalue="2.1E-30" hmm-start="12" hmm-end="101" hmm-length="104" hmm-bounds="COMPLETE" start="1" end="91">
+            <location-fragments>
+              <hmmer3-location-fragment start="1" end="91" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="3.6E-64" familyName="CYTOSOLIC RESINIFERATOXIN BINDING PROTEIN RBP-26" score="229.0">
+        <signature ac="PTHR13135" name="CYTOSOLIC RESINIFERATOXIN BINDING PROTEIN RBP-26">
+          <entry ac="IPR039047" desc="Phosphorylated adapter RNA export protein" name="PHAX" type="FAMILY">
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0006408" name="snRNA export from nucleus"/>
+            <pathway-xref db="Reactome" id="R-MMU-6807505" name="RNA polymerase II transcribes snRNA genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-191859" name="snRNP Assembly"/>
+            <pathway-xref db="Reactome" id="R-HSA-6807505" name="RNA polymerase II transcribes snRNA genes"/>
+            <pathway-xref db="Reactome" id="R-RNO-6807505" name="RNA polymerase II transcribes snRNA genes"/>
+          </entry>
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR13135</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="159" hmm-start="118" hmm-end="279" hmm-length="279" hmm-bounds="COMPLETE" start="1" end="159">
+            <location-fragments>
+              <panther-location-fragment start="1" end="159" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="4b088540eb87108175d1d5137dd01553">MHGLMKENIQLNRKVLSEVSMHEPYSFKALVDISRNAFPGNKKVLPPPKKEGLSILV</sequence>
+    <xref id="maker-Scaffold_63323_SNP_2650799-exonerate_protein2genome-gene-0.1-mRNA-1" name="maker-Scaffold_63323_SNP_2650799-exonerate_protein2genome-gene-0.1-mRNA-1"/>
+    <matches>
+      <hmmer3-match evalue="1.8E-11" score="45.5">
+        <signature ac="G3DSA:1.10.1900.20" name="Ribosomal protein L20">
+          <entry ac="IPR035566" desc="Ribosomal protein L20, C-terminal" name="Ribosomal_protein_L20_C" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="Reactome" id="R-MMU-5389840" name="Mitochondrial translation elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5368286" name="Mitochondrial translation initiation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5419276" name="Mitochondrial translation termination"/>
+            <pathway-xref db="Reactome" id="R-MMU-5419276" name="Mitochondrial translation termination"/>
+            <pathway-xref db="Reactome" id="R-HSA-5389840" name="Mitochondrial translation elongation"/>
+          </entry>
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>1vs9O02</model-ac>
+        <locations>
+          <hmmer3-location env-end="38" env-start="1" post-processed="true" score="45.0" evalue="2.7E-11" hmm-start="24" hmm-end="59" hmm-length="62" hmm-bounds="COMPLETE" start="1" end="38">
+            <location-fragments>
+              <hmmer3-location-fragment start="1" end="38" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="8.6E-23" familyName="50S RIBOSOMAL PROTEIN L20" score="92.2">
+        <signature ac="PTHR10986:SF16" name="50S RIBOSOMAL PROTEIN L20">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR10986:SF16</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="57" hmm-start="69" hmm-end="123" hmm-length="125" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="55">
+            <location-fragments>
+              <panther-location-fragment start="1" end="55" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="8.6E-23" familyName="50S RIBOSOMAL PROTEIN L20" score="92.2">
+        <signature ac="PTHR10986" name="39S RIBOSOMAL PROTEIN L20">
+          <entry ac="IPR005813" desc="Ribosomal protein L20" name="Ribosomal_L20" type="FAMILY">
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0006412" name="translation"/>
+            <go-xref category="CELLULAR_COMPONENT" db="GO" id="GO:0005840" name="ribosome"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0019843" name="rRNA binding"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0003735" name="structural constituent of ribosome"/>
+            <pathway-xref db="Reactome" id="R-MMU-5389840" name="Mitochondrial translation elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5368286" name="Mitochondrial translation initiation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5419276" name="Mitochondrial translation termination"/>
+            <pathway-xref db="Reactome" id="R-MMU-5419276" name="Mitochondrial translation termination"/>
+            <pathway-xref db="Reactome" id="R-HSA-5389840" name="Mitochondrial translation elongation"/>
+          </entry>
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR10986</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="57" hmm-start="69" hmm-end="123" hmm-length="125" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="55">
+            <location-fragments>
+              <panther-location-fragment start="1" end="55" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <superfamilyhmmer3-match evalue="6.02E-10">
+        <signature ac="SSF74731" name="Ribosomal protein L20">
+          <entry ac="IPR035566" desc="Ribosomal protein L20, C-terminal" name="Ribosomal_protein_L20_C" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="Reactome" id="R-MMU-5389840" name="Mitochondrial translation elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5368286" name="Mitochondrial translation initiation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5419276" name="Mitochondrial translation termination"/>
+            <pathway-xref db="Reactome" id="R-MMU-5419276" name="Mitochondrial translation termination"/>
+            <pathway-xref db="Reactome" id="R-HSA-5389840" name="Mitochondrial translation elongation"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0054785</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="117" start="1" end="37">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="1" end="37" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

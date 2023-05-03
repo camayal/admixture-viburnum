@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.56-89.0">
+  <protein>
+    <sequence md5="e02615590ec15c04572a289a22b781d0">MNMDELLKSIWTAEETQALAFSTGVVGGGSVLGGNLQKQGSLTLPRTLSQKTVDEVWRDLFKENGGSKDGIGNGGLDLQQREPTFGEITLEEFL</sequence>
+    <xref id="maker-Scaffold_56543_SNP_14798389-exonerate_protein2genome-gene-0.2-mRNA-1" name="maker-Scaffold_56543_SNP_14798389-exonerate_protein2genome-gene-0.2-mRNA-1"/>
+    <matches>
+      <panther-match evalue="2.7E-33" familyName="ABSCISIC ACID-INSENSITIVE 5-LIKE PROTEIN 7" score="127.7">
+        <signature ac="PTHR22952:SF436" name="ABSCISIC ACID-INSENSITIVE 5-LIKE PROTEIN 7">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR22952:SF436</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="94" hmm-start="47" hmm-end="140" hmm-length="363" hmm-bounds="COMPLETE" start="1" end="94">
+            <location-fragments>
+              <panther-location-fragment start="1" end="94" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="2.7E-33" familyName="ABSCISIC ACID-INSENSITIVE 5-LIKE PROTEIN 7" score="127.7">
+        <signature ac="PTHR22952" name="CAMP-RESPONSE ELEMENT BINDING PROTEIN-RELATED">
+          <entry ac="IPR043452" desc="Plant bZIP transcription factors" name="BZIP46-like" type="FAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0003700" name="DNA-binding transcription factor activity"/>
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0045893" name="positive regulation of transcription, DNA-templated"/>
+          </entry>
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR22952</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="94" hmm-start="47" hmm-end="140" hmm-length="363" hmm-bounds="COMPLETE" start="1" end="94">
+            <location-fragments>
+              <panther-location-fragment start="1" end="94" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

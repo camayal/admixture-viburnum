@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="367a34046d7f1cf9e94f69ecfa9a6030">MSTVKSVLLDAEEQQVTNCAVRDWLQRLKDIVYDVDDMLDEFSTYALRRKLEDNGSMIKEVLYFFTPSNPL</sequence>
+    <xref id="maker-Scaffold_9534_SNP_2850933-exonerate_protein2genome-gene-0.1-mRNA-8" name="maker-Scaffold_9534_SNP_2850933-exonerate_protein2genome-gene-0.1-mRNA-8"/>
+    <matches>
+      <hmmer3-match evalue="7.0E-17" score="61.5">
+        <signature ac="PF18052" desc="Rx N-terminal domain" name="Rx_N">
+          <entry ac="IPR041118" desc="Rx, N-terminal" name="Rx_N" type="DOMAIN"/>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF18052</model-ac>
+        <locations>
+          <hmmer3-location env-end="67" env-start="1" post-processed="true" score="61.3" evalue="8.1E-17" hmm-start="34" hmm-end="86" hmm-length="93" hmm-bounds="INCOMPLETE" start="1" end="53">
+            <location-fragments>
+              <hmmer3-location-fragment start="1" end="53" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="8.0E-14" score="53.6">
+        <signature ac="G3DSA:1.20.5.4130" name="">
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>3qflA00</model-ac>
+        <locations>
+          <hmmer3-location env-end="68" env-start="1" post-processed="true" score="53.5" evalue="8.9E-14" hmm-start="35" hmm-end="97" hmm-length="115" hmm-bounds="COMPLETE" start="1" end="68">
+            <location-fragments>
+              <hmmer3-location-fragment start="1" end="68" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

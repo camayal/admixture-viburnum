@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.56-89.0">
+  <protein>
+    <sequence md5="d075addbec88aeb54077c9b86ea3b703">MDPRESSSVPRDVQIAAVQRSKARAERNYTKADELHKKMTDSGYRVLNIQNEEILARKYRIRLRGIDAPESSMPYGKEAKEELTKIVQGKCLRVLVFAEDRYGRSVGDIYCNGIFVQELMLKKGLAWHYKAYDQRSELEKVTLHSINYQWEKDARAKRIGLWASLNPEKPWEWRKNRRQGK</sequence>
+    <xref id="maker-Scaffold_3589_SNP_9252545-exonerate_protein2genome-gene-0.0-mRNA-1" name="maker-Scaffold_3589_SNP_9252545-exonerate_protein2genome-gene-0.0-mRNA-1"/>
+    <matches>
+      <hmmer2-match evalue="4.2E-26" score="102.7">
+        <signature ac="SM00318" name="SNASE_2">
+          <entry ac="IPR016071" desc="Staphylococcal nuclease (SNase-like), OB-fold" name="Staphylococal_nuclease_OB-fold" type="DOMAIN">
+            <pathway-xref db="Reactome" id="R-HSA-6802952" name="Signaling by BRAF and RAF1 fusions"/>
+          </entry>
+          <signature-library-release library="SMART" version="7.1"/>
+        </signature>
+        <model-ac>SM00318</model-ac>
+        <locations>
+          <hmmer2-location score="102.7" evalue="4.2E-26" hmm-start="1" hmm-end="153" hmm-length="153" hmm-bounds="COMPLETE" start="37" end="164">
+            <location-fragments>
+              <hmmer2-location-fragment start="37" end="164" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer2-location>
+        </locations>
+      </hmmer2-match>
+      <hmmer3-match evalue="3.2E-26" score="91.9">
+        <signature ac="PF00565" desc="Staphylococcal nuclease homologue" name="SNase">
+          <entry ac="IPR016071" desc="Staphylococcal nuclease (SNase-like), OB-fold" name="Staphylococal_nuclease_OB-fold" type="DOMAIN">
+            <pathway-xref db="Reactome" id="R-HSA-6802952" name="Signaling by BRAF and RAF1 fusions"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF00565</model-ac>
+        <locations>
+          <hmmer3-location env-end="164" env-start="60" post-processed="true" score="90.9" evalue="6.6E-26" hmm-start="1" hmm-end="107" hmm-length="108" hmm-bounds="N_TERMINAL_COMPLETE" start="60" end="163">
+            <location-fragments>
+              <hmmer3-location-fragment start="60" end="163" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="1.1E-27" score="98.8">
+        <signature ac="G3DSA:2.40.50.90" name="">
+          <entry ac="IPR035437" desc="SNase-like, OB-fold superfamily" name="SNase_OB-fold_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="Reactome" id="R-MMU-983231" name="Factors involved in megakaryocyte development and platelet production"/>
+            <pathway-xref db="Reactome" id="R-HSA-8949215" name="Mitochondrial calcium ion transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-6802952" name="Signaling by BRAF and RAF1 fusions"/>
+            <pathway-xref db="Reactome" id="R-RNO-983231" name="Factors involved in megakaryocyte development and platelet production"/>
+            <pathway-xref db="Reactome" id="R-HSA-5601884" name="PIWI-interacting RNA (piRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-983231" name="Factors involved in megakaryocyte development and platelet production"/>
+            <pathway-xref db="Reactome" id="R-HSA-983231" name="Factors involved in megakaryocyte development and platelet production"/>
+            <pathway-xref db="Reactome" id="R-DME-983231" name="Factors involved in megakaryocyte development and platelet production"/>
+          </entry>
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>3tmeA00</model-ac>
+        <locations>
+          <hmmer3-location env-end="167" env-start="38" post-processed="true" score="98.1" evalue="1.7E-27" hmm-start="30" hmm-end="136" hmm-length="143" hmm-bounds="COMPLETE" start="38" end="167">
+            <location-fragments>
+              <hmmer3-location-fragment start="38" end="167" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="3.2E-83" familyName="STAPHYLOCOCCAL-LIKE NUCLEASE CAN2" score="291.3">
+        <signature ac="PTHR12302" name="EBNA2 BINDING PROTEIN P100">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR12302</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="179" hmm-start="164" hmm-end="331" hmm-length="332" hmm-bounds="INCOMPLETE" start="2" end="178">
+            <location-fragments>
+              <panther-location-fragment start="2" end="178" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="3.2E-83" familyName="STAPHYLOCOCCAL-LIKE NUCLEASE CAN2" score="291.3">
+        <signature ac="PTHR12302:SF12" name="STAPHYLOCOCCAL-LIKE NUCLEASE CAN2">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR12302:SF12</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="179" hmm-start="164" hmm-end="331" hmm-length="332" hmm-bounds="INCOMPLETE" start="2" end="178">
+            <location-fragments>
+              <panther-location-fragment start="2" end="178" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <profilescan-match>
+        <signature ac="PS50830" desc="Thermonuclease domain profile." name="TNASE_3">
+          <entry ac="IPR016071" desc="Staphylococcal nuclease (SNase-like), OB-fold" name="Staphylococal_nuclease_OB-fold" type="DOMAIN">
+            <pathway-xref db="Reactome" id="R-HSA-6802952" name="Signaling by BRAF and RAF1 fusions"/>
+          </entry>
+          <signature-library-release library="PROSITE_PROFILES" version="2022_01"/>
+        </signature>
+        <model-ac>PS50830</model-ac>
+        <locations>
+          <profilescan-location score="26.175711" start="49" end="164">
+            <location-fragments>
+              <profilescan-location-fragment start="49" end="164" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>----------IQNEEILAR----KYRIRLRGIDAPESS---------MPYGKEAKEELTKIVQGKCLRVLVFAEDRYGRSVGDIYCNGIFVQELMLKKGLAWHYKAYDQRSElekvtLHSINYQWEKDARAKRIGLWAS</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+      <superfamilyhmmer3-match evalue="3.66E-28">
+        <signature ac="SSF50199" name="Staphylococcal nuclease">
+          <entry ac="IPR035437" desc="SNase-like, OB-fold superfamily" name="SNase_OB-fold_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="Reactome" id="R-MMU-983231" name="Factors involved in megakaryocyte development and platelet production"/>
+            <pathway-xref db="Reactome" id="R-HSA-8949215" name="Mitochondrial calcium ion transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-6802952" name="Signaling by BRAF and RAF1 fusions"/>
+            <pathway-xref db="Reactome" id="R-RNO-983231" name="Factors involved in megakaryocyte development and platelet production"/>
+            <pathway-xref db="Reactome" id="R-HSA-5601884" name="PIWI-interacting RNA (piRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-983231" name="Factors involved in megakaryocyte development and platelet production"/>
+            <pathway-xref db="Reactome" id="R-HSA-983231" name="Factors involved in megakaryocyte development and platelet production"/>
+            <pathway-xref db="Reactome" id="R-DME-983231" name="Factors involved in megakaryocyte development and platelet production"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0047647</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="149" start="57" end="171">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="57" end="171" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

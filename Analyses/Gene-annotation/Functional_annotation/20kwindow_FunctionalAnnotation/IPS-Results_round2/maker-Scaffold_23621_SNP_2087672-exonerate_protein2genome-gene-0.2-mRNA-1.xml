@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="cb7e03a9a52db20f724df0e5f1f805b7">MFTSDKWLESSYAQKFEGKVVKRIVINDPNFWPHVAFCIKTDVPLVSVLRVVDSEERPTMGYIYELMDSAKDKIKFNCEGIERKYKPIWKKKNRRKMDSDTSSSLACGWILLKSPMAL</sequence>
+    <xref id="maker-Scaffold_23621_SNP_2087672-exonerate_protein2genome-gene-0.2-mRNA-1" name="maker-Scaffold_23621_SNP_2087672-exonerate_protein2genome-gene-0.2-mRNA-1"/>
+    <matches>
+      <panther-match evalue="2.8E-18" familyName="HAT TRANSPOSON SUPERFAMILY PROTEIN" score="77.4">
+        <signature ac="PTHR32166" name="OSJNBA0013A04.12 PROTEIN">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR32166</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="116" hmm-start="352" hmm-end="443" hmm-length="608" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="94">
+            <location-fragments>
+              <panther-location-fragment start="1" end="94" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="2.8E-18" familyName="HAT TRANSPOSON SUPERFAMILY PROTEIN" score="77.4">
+        <signature ac="PTHR32166:SF63" name="HAT TRANSPOSON SUPERFAMILY PROTEIN">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR32166:SF63</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="116" hmm-start="352" hmm-end="443" hmm-length="608" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="94">
+            <location-fragments>
+              <panther-location-fragment start="1" end="94" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

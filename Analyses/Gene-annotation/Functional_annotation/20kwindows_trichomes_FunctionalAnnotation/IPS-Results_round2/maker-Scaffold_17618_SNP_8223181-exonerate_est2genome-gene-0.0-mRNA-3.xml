@@ -1,0 +1,1227 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.56-89.0">
+  <protein>
+    <sequence md5="9d63f697e8214c41501ce50d0cf533ea">MPNLVYVSREKNRAIPHNFKAGALNVLLRVSASMTNAPIILTLDCDMYSNDPTTPLRALCYFMDPKDSKVAFVQFPQIFHGINQDDIYGTEFKFVFQIDPAGMNGLLGPVHMGTGCFFRRRAFFGGPSSIVAPETPELSRHHLVNNSLQSKEILSMAHHVAGCNFEAQTKWGSEMGYRYGSLVEDVFTGYRLQCQGWRSIFCYPNRAPFLGDVAITLDDWLNQTKRWCMGLADVCLCKYSPIIFGIKFLNIFQTLCYTHYVFWAFWSIPVTIYASVPQLALVNSFPTFPKVCTFLYLSGLYIFFV</sequence>
+    <xref id="maker-Scaffold_17618_SNP_8223181-exonerate_est2genome-gene-0.0-mRNA-3" name="maker-Scaffold_17618_SNP_8223181-exonerate_est2genome-gene-0.0-mRNA-3"/>
+    <matches>
+      <hmmer3-match evalue="1.9E-72" score="244.9">
+        <signature ac="PF03552" desc="Cellulose synthase" name="Cellulose_synt">
+          <entry ac="IPR005150" desc="Cellulose synthase" name="Cellulose_synth" type="FAMILY">
+            <go-xref category="CELLULAR_COMPONENT" db="GO" id="GO:0016020" name="membrane"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0016760" name="cellulose synthase (UDP-forming) activity"/>
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0030244" name="cellulose biosynthetic process"/>
+            <pathway-xref db="MetaCyc" id="PWY-8221" name="Escherichia coli serotype O:111/Salmonella enterica serotype O:35 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5339" name="chalcone 2'-O-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7140" name="myricetin gentiobioside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7212" name="baicalein metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6722" name="candicidin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5975" name="furaneol and mesifurane biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7450" name="anthocyanidin modification (Arabidopsis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7045" name="mithramycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8122" name="mycofactocin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5094" name="naringenin glycoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5926" name="afrormosin conjugates interconversion"/>
+            <pathway-xref db="MetaCyc" id="PWY-8253" name="Escherichia coli serotype O:149/Shigella boydii serotype O1 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7145" name="genistin gentiobioside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6015" name="vitexin and derivatives biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5286" name="anthocyanidin sophoroside metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7921" name="protein O-mannosylation I (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7150" name="polymethylated quercetin glucoside biosynthesis I - quercetin series (Chrysosplenium)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7018" name="paromomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8248" name="lipid A-core biosynthesis (P. gingivalis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7530" name="Escherichia coli serotype O:104 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8205" name="Escherichia coli serotype O:77/Salmonella enterica serotype O:6,14 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7491" name="podophyllotoxin glucosides metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7818" name="type IV lipoteichoic acid biosynthesis (S. pneumoniae)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5139" name="pelargonidin conjugates biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5268" name="salvianin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8224" name="Escherichia coli serotype O:157/Salmonella enterica serotype O:30 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7151" name="polymethylated quercetin glucoside biosynthesis II - quercetagetin series (Chrysosplenium)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5310" name="superpathway of anthocyanin biosynthesis (from delphinidin 3-O-glucoside)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6624" name="salicylate glucosides biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-7819" name="poly(3-O-beta-D-glucopyranosyl-N-acetylgalactosamine 1-phosphate) wall teichoic acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6385" name="peptidoglycan biosynthesis III (mycobacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7468" name="benzoyl-beta-D-glucopyranose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-1001" name="cellulose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6802" name="salidroside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7624" name="nystatin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7463" name="N-methylanthraniloyl-beta-D-glucopyranose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7253" name="apigeninidin 5-O-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7166" name="kaempferide triglycoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6397" name="mycolyl-arabinogalactan-peptidoglycan complex biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6297" name="tuberonate glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7100" name="spinosyn A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8208" name="Salmonella enterica serotype O:6,7 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7658" name="protein N-glycosylation (Methanococcus voltae)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7487" name="(+)-secoisolariciresinol diglucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-4421" name="curcumin glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8257" name="Escherichia coli serotype O:52 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5105" name="hesperitin glycoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5875" name="staphyloxanthin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7352" name="daunorubicin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7824" name="prunasin and amygdalin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5399" name="betacyanin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8234" name="Escherichia coli serotype O:183/Shigella boydii serotype O:10 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7922" name="protein O-mannosylation II (mammals, core M1 and core M2)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8212" name="Escherichia coli serotype O:8 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5161" name="6'-deoxychalcone metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-8243" name="colanic acid (Escherichia coli K12) biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8230" name="Salmonella enterica serotype O:13 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7569" name="arginomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6525" name="stellariose and mediose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7186" name="superpathway of scopolin and esculin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7157" name="eupatolitin 3-O-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5312" name="superpathway of anthocyanin biosynthesis (from pelargonidin 3-O-glucoside)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5284" name="shisonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7859" name="jasmonoyl-L-isoleucine inactivation"/>
+            <pathway-xref db="MetaCyc" id="PWY-641" name="proanthocyanidins biosynthesis from flavanols"/>
+            <pathway-xref db="MetaCyc" id="PWY-8211" name="Escherichia coli serotype O:7 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5774" name="saponin biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-5400" name="amaranthin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7449" name="acylated cyanidin galactoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-83" name="monolignol glucosides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8244" name="Escherichia coli serotype O:177 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8220" name="Escherichia coli serotype O:117 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8241" name="Escherichia coli serotype O:71/Salmonella enterica serotype O:28ac O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7252" name="luteolinidin 5-O-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-822" name="fructan biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8226" name="Escherichia coli serotype O:152 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7055" name="daphnetin modification"/>
+            <pathway-xref db="MetaCyc" id="PWY-7058" name="esculetin modification"/>
+            <pathway-xref db="MetaCyc" id="PWY-5759" name="saponin biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-7458" name="violdelphin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7412" name="mycinamicin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7623" name="astaxanthin dirhamnoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8251" name="Escherichia coli serotype O:2 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5320" name="kaempferol glycoside biosynthesis (Arabidopsis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7820" name="teichuronic acid biosynthesis (B. subtilis 168)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5822" name="trichloroethene degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8232" name="Shigella boydii serotype 6 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7074" name="phenylethanol glycoconjugate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5380" name="A series fagopyritols biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5793" name="maysin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8000" name="vitamin K degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-2902" name="cytokinin-O-glucosides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-1981" name="indole-3-acetate inactivation III"/>
+            <pathway-xref db="MetaCyc" id="PWY-7743" name="dimycocerosyl triglycosyl phenolphthiocerol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8237" name="Escherichia coli serotype O:1B/Salmonella enterica serotype O:42 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7109" name="megalomicin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8133" name="succinoglycan biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6401" name="hispidol and hispidol 4'-O-beta-D-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8228" name="Porphyromonas gingivalis O-LPS antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8204" name="Salmonella enterica serotype O:54 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5379" name="B series fagopyritols biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8081" name="leucine-derived hydroxynitrile glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8218" name="Escherichia coli serotype O:56 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5313" name="superpathway of anthocyanin biosynthesis (from cyanidin and cyanidin 3-O-glucoside)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5797" name="indole-3-acetate inactivation VI"/>
+            <pathway-xref db="MetaCyc" id="PWY-7037" name="protein O-glycosylation (Neisseria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8272" name="Escherichia coli serotype O:49 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7137" name="quercetin gentiotetraside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5338" name="galactosylcyclitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6971" name="oleandomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6279" name="myxol-2' fucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6051" name="2,4,6-trinitrotoluene degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7213" name="wogonin metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-5784" name="indole-3-acetate inactivation VIII"/>
+            <pathway-xref db="MetaCyc" id="PWY-7940" name="lauryl-hydroxychlorobactene glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5342" name="ajugose biosynthesis I (galactinol-dependent)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6239" name="luteolin glycosides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6036" name="cardenolide glucosides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6310" name="aloesone biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7946" name="sarcinaxanthin diglucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5672" name="ginsenosides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7661" name="protein N-glycosylation (Haloferax volcanii)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7139" name="sesaminol glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8209" name="Escherichia coli serotype O:15 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8252" name="Escherichia coli serotype O:50 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7191" name="kaempferol diglycoside biosynthesis (pollen-specific)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6657" name="polyhydroxydecanoate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6024" name="isovitexin glycosides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7697" name="geranyl beta-primeveroside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7464" name="cyanidin 3,7-diglucoside polyacylation biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7740" name="beta-D-mannosyl phosphomycoketide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8242" name="Escherichia coli serotype O:51/Salmonella enterica serotype O:57 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8236" name="Salmonella enterica serotype O:39 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5666" name="alpha-solanine/alpha-chaconine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7821" name="tunicamycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8219" name="Escherichia coli serotype O:107 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5397" name="crocetin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5800" name="xylan biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6763" name="salicortin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8233" name="Escherichia coli serotype O:169 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6546" name="brassinosteroids inactivation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8217" name="Escherichia coli serotype O:55/Salmonella enterica serotype O:50 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-1901" name="aurone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-2901" name="cytokinins 9-N-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5936" name="xyloglucan biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6658" name="acetan biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7143" name="kaempferol gentiobioside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5129" name="sphingolipid biosynthesis (plants)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7838" name="globo-series glycosphingolipids biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7473" name="avenacin A-1 biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7633" name="calycosin 7-O-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8206" name="Salmonella enterica serotype O:18 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7960" name="rhabduscin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6346" name="staurosporine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7129" name="quercetin glucoside biosynthesis (Allium)"/>
+            <pathway-xref db="MetaCyc" id="PWY-1961" name="indole-3-acetate inactivation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8250" name="Escherichia coli serotype O:9 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7192" name="quercetin diglycoside biosynthesis (pollen-specific)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7945" name="2,2'-bis-(4-hydroxy-3-methybut-2-enyl)-beta,beta-carotene monoglucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7981" name="alpha-dystroglycan glycosylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6762" name="salicylate glucosides biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-7745" name="p-HBAD biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7885" name="phosphatidylinositol mannoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-2881" name="cytokinins 7-N-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6655" name="xanthan biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6972" name="oleandomycin activation/inactivation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7071" name="steviol glucoside biosynthesis (rebaudioside A biosynthesis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7897" name="flavonoid di-C-glucosylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5343" name="ajugose biosynthesis II (galactinol-independent)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8222" name="Escherichia coli serotype O:128 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7475" name="des-methyl avenacin A-1 biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5160" name="rose anthocyanin biosynthesis I (via cyanidin 5-O-beta-D-glucoside)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6623" name="salicylate glucosides biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-8039" name="mitomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8207" name="Escherichia coli serotype O:85/Salmonella enterica serotype O:17 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5321" name="quercetin glycoside biosynthesis (Arabidopsis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7677" name="rosamicin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5756" name="saponin biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7171" name="flavonol acylglucoside biosynthesis II - isorhamnetin derivatives"/>
+            <pathway-xref db="MetaCyc" id="PWY-6010" name="apigenin glycosides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8235" name="Escherichia coli serotype O:21/Salmonella enterica serotype O:38 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7570" name="blasticidin S biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-2021" name="indole-3-acetate inactivation IV"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF03552</model-ac>
+        <locations>
+          <hmmer3-location env-end="142" env-start="1" post-processed="true" score="132.8" evalue="1.5E-38" hmm-start="165" hmm-end="291" hmm-length="722" hmm-bounds="INCOMPLETE" start="1" end="126">
+            <location-fragments>
+              <hmmer3-location-fragment start="1" end="126" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+          <hmmer3-location env-end="305" env-start="126" post-processed="true" score="114.8" evalue="4.3E-33" hmm-start="383" hmm-end="526" hmm-length="722" hmm-bounds="INCOMPLETE" start="143" end="285">
+            <location-fragments>
+              <hmmer3-location-fragment start="143" end="285" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="7.6E-20" score="73.0">
+        <signature ac="G3DSA:3.90.550.10" name="Spore Coat Polysaccharide Biosynthesis Protein SpsA; Chain A">
+          <entry ac="IPR029044" desc="Nucleotide-diphospho-sugar transferases" name="Nucleotide-diphossugar_trans" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="MetaCyc" id="PWY-8221" name="Escherichia coli serotype O:111/Salmonella enterica serotype O:35 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7140" name="myricetin gentiobioside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-1650814" name="Collagen biosynthesis and modifying enzymes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7315" name="dTDP-N-acetylthomosamine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7735" name="echinomycin and triostin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9033807" name="ABO blood group biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-162699" name="Synthesis of dolichyl-phosphate mannose"/>
+            <pathway-xref db="MetaCyc" id="PWY-5067" name="glycogen biosynthesis II (from UDP-D-Glucose)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6823" name="molybdopterin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6973" name="dTDP-alpha-D-olivose, dTDP-alpha-D-oliose and dTDP-alpha-D-mycarose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6998" name="CDP-D-arabitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8224" name="Escherichia coli serotype O:157/Salmonella enterica serotype O:30 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5310" name="superpathway of anthocyanin biosynthesis (from delphinidin 3-O-glucoside)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7888" name="tRNA-uridine 2-thiolation (cytoplasmic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6802" name="salidroside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-913709" name="O-linked glycosylation of mucins"/>
+            <pathway-xref db="MetaCyc" id="PWY-6478" name="GDP-D-glycero-alpha-D-manno-heptose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7836" name="ganglio-series glycosphingolipids biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3560783" name="Defective B4GALT7 causes EDS, progeroid type"/>
+            <pathway-xref db="Reactome" id="R-RNO-975578" name="Reactions specific to the complex N-glycan synthesis pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-7100" name="spinosyn A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6808" name="dTDP-alpha-D-forosamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-190372" name="FGFR3c ligand binding and activation"/>
+            <pathway-xref db="Reactome" id="R-CEL-446210" name="Synthesis of UDP-N-acetyl-glucosamine"/>
+            <pathway-xref db="MetaCyc" id="PWY-7352" name="daunorubicin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-162699" name="Synthesis of dolichyl-phosphate mannose"/>
+            <pathway-xref db="MetaCyc" id="PWY-7824" name="prunasin and amygdalin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5083628" name="Defective POMGNT1 causes MDDGA3, MDDGB3 and MDDGC3"/>
+            <pathway-xref db="MetaCyc" id="PWY-8113" name="3PG-factor 420 biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8230" name="Salmonella enterica serotype O:13 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6525" name="stellariose and mediose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7426" name="complex N-linked glycan biosynthesis (vertebrates)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5312" name="superpathway of anthocyanin biosynthesis (from pelargonidin 3-O-glucoside)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7435" name="mucin core 3 and core 4 O-glycosylation"/>
+            <pathway-xref db="Reactome" id="R-SSC-975577" name="N-Glycan antennae elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-641" name="proanthocyanidins biosynthesis from flavanols"/>
+            <pathway-xref db="MetaCyc" id="PWY-8211" name="Escherichia coli serotype O:7 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7449" name="acylated cyanidin galactoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8241" name="Escherichia coli serotype O:71/Salmonella enterica serotype O:28ac O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-822" name="fructan biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-173599" name="Formation of the active cofactor, UDP-glucuronate"/>
+            <pathway-xref db="MetaCyc" id="PWY-7413" name="dTDP-6-deoxy-alpha-D-allose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8231" name="Escherichia coli serotype O:127 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9037629" name="Lewis blood group biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-XTR-1660662" name="Glycosphingolipid metabolism"/>
+            <pathway-xref db="Reactome" id="R-DME-2022928" name="HS-GAG biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7238" name="sucrose biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7301" name="dTDP-4-O-demethyl-beta-L-noviose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-4719377" name="Defective DPM2 causes DPM2-CDG (CDG-1u)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5320" name="kaempferol glycoside biosynthesis (Arabidopsis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8251" name="Escherichia coli serotype O:2 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-964739" name="N-glycan trimming and elongation in the cis-Golgi"/>
+            <pathway-xref db="MetaCyc" id="PWY-7820" name="teichuronic acid biosynthesis (B. subtilis 168)"/>
+            <pathway-xref db="Reactome" id="R-MMU-9033807" name="ABO blood group biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9683686" name="Maturation of spike protein"/>
+            <pathway-xref db="MetaCyc" id="PWY-7657" name="dTDP-beta-L-digitoxose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-975577" name="N-Glycan antennae elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-3881" name="mannitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7831" name="ABH and Lewis epitopes biosynthesis from type 2 precursor disaccharide"/>
+            <pathway-xref db="MetaCyc" id="PWY-8133" name="succinoglycan biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8228" name="Porphyromonas gingivalis O-LPS antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8081" name="leucine-derived hydroxynitrile glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8218" name="Escherichia coli serotype O:56 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-3322077" name="Glycogen synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6527" name="stachyose degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8272" name="Escherichia coli serotype O:49 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7137" name="quercetin gentiotetraside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-901032" name="ER Quality Control Compartment (ERQC)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9683673" name="Maturation of protein 3a"/>
+            <pathway-xref db="MetaCyc" id="PWY-6143" name="CMP-pseudaminate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-1660662" name="Glycosphingolipid metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-8197" name="Salmonella enterica serotype O:9,46 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-480985" name="Synthesis of dolichyl-phosphate-glucose"/>
+            <pathway-xref db="MetaCyc" id="PWY-6036" name="cardenolide glucosides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8195" name="Salmonella enterica serotype O:9 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-162699" name="Synthesis of dolichyl-phosphate mannose"/>
+            <pathway-xref db="MetaCyc" id="PWY-5198" name="factor 420 biosynthesis II (mycobacteria)"/>
+            <pathway-xref db="Reactome" id="R-SCE-70221" name="Glycogen breakdown (glycogenolysis)"/>
+            <pathway-xref db="Reactome" id="R-MMU-2022870" name="Chondroitin sulfate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8252" name="Escherichia coli serotype O:50 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7025" name="gentamicin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-975577" name="N-Glycan antennae elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8236" name="Salmonella enterica serotype O:39 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8219" name="Escherichia coli serotype O:107 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5397" name="crocetin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5800" name="xylan biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-4085001" name="Sialic acid metabolism"/>
+            <pathway-xref db="Reactome" id="R-DME-1971475" name="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-1901" name="aurone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6658" name="acetan biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7143" name="kaempferol gentiobioside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5129" name="sphingolipid biosynthesis (plants)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7434" name="terminal O-glycans residues modification (via type 2 precursor disaccharide)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6981" name="chitin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-913709" name="O-linked glycosylation of mucins"/>
+            <pathway-xref db="MetaCyc" id="PWY-6073" name="alginate biosynthesis I (algal)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-HSA-4717374" name="Defective DPM1 causes DPM1-CDG (CDG-1e)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7945" name="2,2'-bis-(4-hydroxy-3-methybut-2-enyl)-beta,beta-carotene monoglucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7745" name="p-HBAD biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3828062" name="Glycogen storage disease type 0 (muscle GYS1)"/>
+            <pathway-xref db="Reactome" id="R-HSA-4719360" name="Defective DPM3 causes DPM3-CDG (CDG-1o)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7071" name="steviol glucoside biosynthesis (rebaudioside A biosynthesis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5343" name="ajugose biosynthesis II (galactinol-independent)"/>
+            <pathway-xref db="Reactome" id="R-RNO-1971475" name="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5173214" name="O-glycosylation of TSR domain-containing proteins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7677" name="rosamicin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7171" name="flavonol acylglucoside biosynthesis II - isorhamnetin derivatives"/>
+            <pathway-xref db="Reactome" id="R-HSA-446210" name="Synthesis of UDP-N-acetyl-glucosamine"/>
+            <pathway-xref db="MetaCyc" id="PWY-8192" name="Salmonella enterica serotype O:4 O antigen biosynthesis (group B1)"/>
+            <pathway-xref db="Reactome" id="R-MMU-975578" name="Reactions specific to the complex N-glycan synthesis pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-7212" name="baicalein metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6722" name="candicidin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-70221" name="Glycogen breakdown (glycogenolysis)"/>
+            <pathway-xref db="Reactome" id="R-DME-6811436" name="COPI-independent Golgi-to-ER retrograde traffic"/>
+            <pathway-xref db="MetaCyc" id="PWY-5094" name="naringenin glycoside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-162699" name="Synthesis of dolichyl-phosphate mannose"/>
+            <pathway-xref db="MetaCyc" id="PWY-8248" name="lipid A-core biosynthesis (P. gingivalis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7841" name="neolacto-series glycosphingolipids biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3785653" name="Myoclonic epilepsy of Lafora"/>
+            <pathway-xref db="MetaCyc" id="PWY-7468" name="benzoyl-beta-D-glucopyranose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7253" name="apigeninidin 5-O-glucoside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3878781" name="Glycogen storage disease type IV (GBE1)"/>
+            <pathway-xref db="Reactome" id="R-MMU-5173214" name="O-glycosylation of TSR domain-containing proteins"/>
+            <pathway-xref db="Reactome" id="R-SCE-446210" name="Synthesis of UDP-N-acetyl-glucosamine"/>
+            <pathway-xref db="Reactome" id="R-MMU-2142850" name="Hyaluronan biosynthesis and export"/>
+            <pathway-xref db="MetaCyc" id="PWY-6148" name="tetrahydromethanopterin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6558" name="heparan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-72731" name="Recycling of eIF2:GDP"/>
+            <pathway-xref db="Reactome" id="R-HSA-3322077" name="Glycogen synthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-70221" name="Glycogen breakdown (glycogenolysis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7676" name="Kdo8N transfer to lipid IVA"/>
+            <pathway-xref db="MetaCyc" id="PWY-4421" name="curcumin glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7674" name="CMP-8-amino-3,8-dideoxy-D-manno-octulosonate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8257" name="Escherichia coli serotype O:52 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5105" name="hesperitin glycoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5875" name="staphyloxanthin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5399" name="betacyanin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7922" name="protein O-mannosylation II (mammals, core M1 and core M2)"/>
+            <pathway-xref db="Reactome" id="R-RNO-3322077" name="Glycogen synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5964" name="guanylyl molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3595177" name="Defective CHSY1 causes TPBS"/>
+            <pathway-xref db="Reactome" id="R-SCE-72731" name="Recycling of eIF2:GDP"/>
+            <pathway-xref db="MetaCyc" id="PWY-7157" name="eupatolitin 3-O-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5284" name="shisonin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3656253" name="Defective EXT1 causes exostoses 1, TRPS2 and CHDS"/>
+            <pathway-xref db="MetaCyc" id="PWY-7894" name="procollagen hydroxylation and glycosylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7859" name="jasmonoyl-L-isoleucine inactivation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7688" name="dTDP-alpha-D-ravidosamine and dTDP-4-acetyl-alpha-D-ravidosamine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8226" name="Escherichia coli serotype O:152 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7055" name="daphnetin modification"/>
+            <pathway-xref db="MetaCyc" id="PWY-7737" name="thiocoraline biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5759" name="saponin biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-7458" name="violdelphin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-975577" name="N-Glycan antennae elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7412" name="mycinamicin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-190372" name="FGFR3c ligand binding and activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6269" name="superpathway of adenosylcobalamin salvage from cobinamide II"/>
+            <pathway-xref db="Reactome" id="R-MMU-1660662" name="Glycosphingolipid metabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-2142850" name="Hyaluronan biosynthesis and export"/>
+            <pathway-xref db="MetaCyc" id="PWY-5658" name="mannosylglycerate biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-SSC-913709" name="O-linked glycosylation of mucins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7456" name="beta-(1,4)-mannan degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7109" name="megalomicin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5337" name="stachyose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-446203" name="Asparagine N-linked glycosylation"/>
+            <pathway-xref db="Reactome" id="R-RNO-2142850" name="Hyaluronan biosynthesis and export"/>
+            <pathway-xref db="MetaCyc" id="PWY-5313" name="superpathway of anthocyanin biosynthesis (from cyanidin and cyanidin 3-O-glucoside)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7814" name="dTDP-L-daunosamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2534343" name="Interaction With Cumulus Cells And The Zona Pellucida"/>
+            <pathway-xref db="Reactome" id="R-XTR-913709" name="O-linked glycosylation of mucins"/>
+            <pathway-xref db="MetaCyc" id="PWY-5797" name="indole-3-acetate inactivation VI"/>
+            <pathway-xref db="MetaCyc" id="PWY-7433" name="mucin core 1 and core 2 O-glycosylation"/>
+            <pathway-xref db="Reactome" id="R-RNO-1650814" name="Collagen biosynthesis and modifying enzymes"/>
+            <pathway-xref db="MetaCyc" id="PWY-3801" name="sucrose degradation II (sucrose synthase)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7104" name="dTDP-beta-L-megosamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9694548" name="Maturation of spike protein"/>
+            <pathway-xref db="MetaCyc" id="PWY-5784" name="indole-3-acetate inactivation VIII"/>
+            <pathway-xref db="MetaCyc" id="PWY-5342" name="ajugose biosynthesis I (galactinol-dependent)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7946" name="sarcinaxanthin diglucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7904" name="tRNA-uridine 2-thiolation (thermophilic bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7661" name="protein N-glycosylation (Haloferax volcanii)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8209" name="Escherichia coli serotype O:15 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-913709" name="O-linked glycosylation of mucins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7666" name="galactolipid biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-HSA-5083636" name="Defective GALNT12 causes CRCS1"/>
+            <pathway-xref db="MetaCyc" id="PWY-6942" name="dTDP-D-desosamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-173599" name="Formation of the active cofactor, UDP-glucuronate"/>
+            <pathway-xref db="MetaCyc" id="PWY-7884" name="lipoprotein posttranslational modification"/>
+            <pathway-xref db="MetaCyc" id="PWY-6138" name="CMP-N-acetylneuraminate biosynthesis I (eukaryotes)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7821" name="tunicamycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6953" name="dTDP-3-acetamido-alpha-D-fucose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7883" name="anhydromuropeptides recycling II"/>
+            <pathway-xref db="Reactome" id="R-MMU-190372" name="FGFR3c ligand binding and activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8117" name="colibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1650814" name="Collagen biosynthesis and modifying enzymes"/>
+            <pathway-xref db="MetaCyc" id="PWY-622" name="starch biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7960" name="rhabduscin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-1961" name="indole-3-acetate inactivation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8250" name="Escherichia coli serotype O:9 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7920" name="complex N-linked glycan biosynthesis (plants)"/>
+            <pathway-xref db="Reactome" id="R-HSA-2534343" name="Interaction With Cumulus Cells And The Zona Pellucida"/>
+            <pathway-xref db="MetaCyc" id="PWY-7981" name="alpha-dystroglycan glycosylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6557" name="glycosaminoglycan-protein linkage region biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6626" name="cytidine-5'-diphosphate-glycerol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-2881" name="cytokinins 7-N-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-1061" name="homogalacturonan biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6655" name="xanthan biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6685" name="glucosylglycerate biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-8222" name="Escherichia coli serotype O:128 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5160" name="rose anthocyanin biosynthesis I (via cyanidin 5-O-beta-D-glucoside)"/>
+            <pathway-xref db="Reactome" id="R-MMU-3322077" name="Glycogen synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8207" name="Escherichia coli serotype O:85/Salmonella enterica serotype O:17 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5756" name="saponin biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-CEL-1660662" name="Glycosphingolipid metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-5381" name="NAD salvage (plants)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6010" name="apigenin glycosides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6686" name="mannosylglucosylglycerate biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-SCE-173599" name="Formation of the active cofactor, UDP-glucuronate"/>
+            <pathway-xref db="MetaCyc" id="PWY-5339" name="chalcone 2'-O-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5833" name="CDP-4-dehydro-3,6-dideoxy-D-glucose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7560" name="methylerythritol phosphate pathway II"/>
+            <pathway-xref db="Reactome" id="R-HSA-5083625" name="Defective GALNT3 causes HFTC"/>
+            <pathway-xref db="Reactome" id="R-SPO-446210" name="Synthesis of UDP-N-acetyl-glucosamine"/>
+            <pathway-xref db="MetaCyc" id="PWY-6524" name="lychnose and isolychnose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5653890" name="Lactose synthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-9037629" name="Lewis blood group biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7150" name="polymethylated quercetin glucoside biosynthesis I - quercetin series (Chrysosplenium)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7018" name="paromomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-5173105" name="O-linked glycosylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7818" name="type IV lipoteichoic acid biosynthesis (S. pneumoniae)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5139" name="pelargonidin conjugates biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7151" name="polymethylated quercetin glucoside biosynthesis II - quercetagetin series (Chrysosplenium)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7819" name="poly(3-O-beta-D-glucopyranosyl-N-acetylgalactosamine 1-phosphate) wall teichoic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-975577" name="N-Glycan antennae elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7972" name="adenosylcobinamide-GDP salvage from cobinamide II"/>
+            <pathway-xref db="MetaCyc" id="PWY-6385" name="peptidoglycan biosynthesis III (mycobacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-1001" name="cellulose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7624" name="nystatin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8013" name="UDP-N-acetyl-D-galactosamine biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-6397" name="mycolyl-arabinogalactan-peptidoglycan complex biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-70221" name="Glycogen breakdown (glycogenolysis)"/>
+            <pathway-xref db="Reactome" id="R-XTR-2142850" name="Hyaluronan biosynthesis and export"/>
+            <pathway-xref db="MetaCyc" id="PWY-6297" name="tuberonate glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8208" name="Salmonella enterica serotype O:6,7 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7487" name="(+)-secoisolariciresinol diglucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7839" name="lacto-series glycosphingolipids biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-173599" name="Formation of the active cofactor, UDP-glucuronate"/>
+            <pathway-xref db="MetaCyc" id="PWY-5662" name="glucosylglycerate biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-RNO-72731" name="Recycling of eIF2:GDP"/>
+            <pathway-xref db="Reactome" id="R-MMU-1650814" name="Collagen biosynthesis and modifying enzymes"/>
+            <pathway-xref db="Reactome" id="R-BTA-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8212" name="Escherichia coli serotype O:8 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5161" name="6'-deoxychalcone metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-8243" name="colanic acid (Escherichia coli K12) biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7031" name="protein N-glycosylation (bacterial)"/>
+            <pathway-xref db="Reactome" id="R-RNO-913709" name="O-linked glycosylation of mucins"/>
+            <pathway-xref db="Reactome" id="R-CEL-964739" name="N-glycan trimming and elongation in the cis-Golgi"/>
+            <pathway-xref db="MetaCyc" id="PWY-7569" name="arginomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7816" name="poly(ribitol phosphate) wall teichoic acid biosynthesis II (S. aureus)"/>
+            <pathway-xref db="Reactome" id="R-SCE-3322077" name="Glycogen synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5659" name="GDP-mannose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-381038" name="XBP1(S) activates chaperone genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-5774" name="saponin biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-5400" name="amaranthin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3656237" name="Defective EXT2 causes exostoses 2"/>
+            <pathway-xref db="MetaCyc" id="PWY-83" name="monolignol glucosides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8244" name="Escherichia coli serotype O:177 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-3322077" name="Glycogen synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7623" name="astaxanthin dirhamnoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5822" name="trichloroethene degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8232" name="Shigella boydii serotype 6 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7817" name="type I lipoteichoic acid biosynthesis (S. aureus)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7127" name="CDP-D-mannitol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5653890" name="Lactose synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5357609" name="Glycogen storage disease type II (GAA)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5380" name="A series fagopyritols biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5793" name="maysin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8000" name="vitamin K degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-2902" name="cytokinin-O-glucosides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-70221" name="Glycogen breakdown (glycogenolysis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6687" name="mannosylglucosylglycerate biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7743" name="dimycocerosyl triglycosyl phenolphthiocerol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7316" name="dTDP-N-acetylviosamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-1650814" name="Collagen biosynthesis and modifying enzymes"/>
+            <pathway-xref db="MetaCyc" id="PWY-8237" name="Escherichia coli serotype O:1B/Salmonella enterica serotype O:42 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8282" name="adenosylcobinamide-GDP salvage from assorted adenosylcobamides"/>
+            <pathway-xref db="MetaCyc" id="PWY-6976" name="dTDP-beta-L-mycarose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-5653890" name="Lactose synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6401" name="hispidol and hispidol 4'-O-beta-D-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7290" name="Escherichia coli serotype O:86 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-1971475" name="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5379" name="B series fagopyritols biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9694719" name="Maturation of protein 3a"/>
+            <pathway-xref db="Reactome" id="R-HSA-2022928" name="HS-GAG biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8139" name="CDP-6-deoxy-D-gulose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7131" name="CMP-legionaminate biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7037" name="protein O-glycosylation (Neisseria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6971" name="oleandomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SSC-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1660662" name="Glycosphingolipid metabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-72731" name="Recycling of eIF2:GDP"/>
+            <pathway-xref db="Reactome" id="R-CEL-72731" name="Recycling of eIF2:GDP"/>
+            <pathway-xref db="MetaCyc" id="PWY-7697" name="geranyl beta-primeveroside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7740" name="beta-D-mannosyl phosphomycoketide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8199" name="Salmonella enterica serotype O:9,46,27 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6992" name="1,5-anhydrofructose degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-190372" name="FGFR3c ligand binding and activation"/>
+            <pathway-xref db="Reactome" id="R-SPO-480985" name="Synthesis of dolichyl-phosphate-glucose"/>
+            <pathway-xref db="MetaCyc" id="PWY-7343" name="UDP-alpha-D-glucose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-446203" name="Asparagine N-linked glycosylation"/>
+            <pathway-xref db="Reactome" id="R-DRE-2022928" name="HS-GAG biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8233" name="Escherichia coli serotype O:169 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8168" name="bis(guanylyl tungstenpterin) cofactor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6261" name="thyroid hormone metabolism II (via conjugation and/or degradation)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8217" name="Escherichia coli serotype O:55/Salmonella enterica serotype O:50 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7962" name="adenosylcobinamide-GDP biosynthesis from cobyrinate a,c-diamide"/>
+            <pathway-xref db="MetaCyc" id="PWY-7833" name="biosynthesis of Lewis epitopes (H. pylori)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7473" name="avenacin A-1 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-9033807" name="ABO blood group biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8206" name="Salmonella enterica serotype O:18 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-913709" name="O-linked glycosylation of mucins"/>
+            <pathway-xref db="MetaCyc" id="PWY-6974" name="dTDP-beta-L-olivose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7192" name="quercetin diglycoside biosynthesis (pollen-specific)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6762" name="salicylate glucosides biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-7885" name="phosphatidylinositol mannoside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2022928" name="HS-GAG biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7897" name="flavonoid di-C-glucosylation"/>
+            <pathway-xref db="Reactome" id="R-SPO-3322077" name="Glycogen synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1912420" name="Pre-NOTCH Processing in Golgi"/>
+            <pathway-xref db="Reactome" id="R-CEL-6811436" name="COPI-independent Golgi-to-ER retrograde traffic"/>
+            <pathway-xref db="MetaCyc" id="PWY-7475" name="des-methyl avenacin A-1 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1971475" name="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6623" name="salicylate glucosides biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-8193" name="Salmonella enterica serotype O:8 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-4793952" name="Defective MGAT2 causes CDG-2a"/>
+            <pathway-xref db="MetaCyc" id="PWY-7570" name="blasticidin S biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-2021" name="indole-3-acetate inactivation IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-7586" name="beta-1,4-D-mannosyl-N-acetyl-D-glucosamine degradation"/>
+            <pathway-xref db="Reactome" id="R-DRE-913709" name="O-linked glycosylation of mucins"/>
+            <pathway-xref db="MetaCyc" id="PWY-5940" name="streptomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-964739" name="N-glycan trimming and elongation in the cis-Golgi"/>
+            <pathway-xref db="MetaCyc" id="PWY-5975" name="furaneol and mesifurane biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7450" name="anthocyanidin modification (Arabidopsis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7045" name="mithramycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8122" name="mycofactocin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5926" name="afrormosin conjugates interconversion"/>
+            <pathway-xref db="MetaCyc" id="PWY-8253" name="Escherichia coli serotype O:149/Shigella boydii serotype O1 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7145" name="genistin gentiobioside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6015" name="vitexin and derivatives biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5286" name="anthocyanidin sophoroside metabolism"/>
+            <pathway-xref db="Reactome" id="R-MMU-480985" name="Synthesis of dolichyl-phosphate-glucose"/>
+            <pathway-xref db="MetaCyc" id="PWY-7921" name="protein O-mannosylation I (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6313" name="serotonin degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8205" name="Escherichia coli serotype O:77/Salmonella enterica serotype O:6,14 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7530" name="Escherichia coli serotype O:104 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7491" name="podophyllotoxin glucosides metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-5268" name="salvianin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6624" name="salicylate glucosides biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-5656" name="mannosylglycerate biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-MMU-4085001" name="Sialic acid metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7463" name="N-methylanthraniloyl-beta-D-glucopyranose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5173105" name="O-linked glycosylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7166" name="kaempferide triglycoside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-446205" name="Synthesis of GDP-mannose"/>
+            <pathway-xref db="Reactome" id="R-HSA-3656244" name="Defective B4GALT1 causes B4GALT1-CDG (CDG-2d)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7658" name="protein N-glycosylation (Methanococcus voltae)"/>
+            <pathway-xref db="Reactome" id="R-SCE-480985" name="Synthesis of dolichyl-phosphate-glucose"/>
+            <pathway-xref db="Reactome" id="R-MMU-70221" name="Glycogen breakdown (glycogenolysis)"/>
+            <pathway-xref db="Reactome" id="R-CFA-1971475" name="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5874" name="heme degradation I"/>
+            <pathway-xref db="Reactome" id="R-HSA-3560801" name="Defective B3GAT3 causes JDSSDHD"/>
+            <pathway-xref db="Reactome" id="R-DRE-975577" name="N-Glycan antennae elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-975578" name="Reactions specific to the complex N-glycan synthesis pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-8234" name="Escherichia coli serotype O:183/Shigella boydii serotype O:10 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-6811436" name="COPI-independent Golgi-to-ER retrograde traffic"/>
+            <pathway-xref db="MetaCyc" id="PWY-6476" name="cytidylyl molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8112" name="factor 420 biosynthesis I (archaea)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7186" name="superpathway of scopolin and esculin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-162699" name="Synthesis of dolichyl-phosphate mannose"/>
+            <pathway-xref db="Reactome" id="R-HSA-3814836" name="Glycogen storage disease type XV (GYG1)"/>
+            <pathway-xref db="Reactome" id="R-DDI-72731" name="Recycling of eIF2:GDP"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8220" name="Escherichia coli serotype O:117 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6082" name="alginate biosynthesis II (bacterial)"/>
+            <pathway-xref db="Reactome" id="R-HSA-5083627" name="Defective LARGE causes MDDGA6 and MDDGB6"/>
+            <pathway-xref db="MetaCyc" id="PWY-7252" name="luteolinidin 5-O-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7058" name="esculetin modification"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5173105" name="O-linked glycosylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7318" name="dTDP-3-acetamido-3,6-dideoxy-alpha-D-glucose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8198" name="Salmonella enterica serotype O:2 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-4085001" name="Sialic acid metabolism"/>
+            <pathway-xref db="Reactome" id="R-RNO-4085001" name="Sialic acid metabolism"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-480985" name="Synthesis of dolichyl-phosphate-glucose"/>
+            <pathway-xref db="MetaCyc" id="PWY-7971" name="adenosylcobinamide-GDP salvage from cobinamide I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7074" name="phenylethanol glycoconjugate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-913709" name="O-linked glycosylation of mucins"/>
+            <pathway-xref db="Reactome" id="R-RNO-6811436" name="COPI-independent Golgi-to-ER retrograde traffic"/>
+            <pathway-xref db="Reactome" id="R-DDI-480985" name="Synthesis of dolichyl-phosphate-glucose"/>
+            <pathway-xref db="Reactome" id="R-RNO-975577" name="N-Glycan antennae elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-1981" name="indole-3-acetate inactivation III"/>
+            <pathway-xref db="Reactome" id="R-HSA-2022870" name="Chondroitin sulfate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7832" name="ABH and Lewis epitopes biosynthesis from type 1 precursor disaccharide"/>
+            <pathway-xref db="MetaCyc" id="PWY-5514" name="UDP-N-acetyl-D-galactosamine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-8204" name="Salmonella enterica serotype O:54 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7312" name="dTDP-beta-D-fucofuranose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7979" name="protein O-mannosylation III (mammals, core M3)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6566" name="chondroitin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5338" name="galactosylcyclitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6398" name="melatonin degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-6279" name="myxol-2' fucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6051" name="2,4,6-trinitrotoluene degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7213" name="wogonin metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7837" name="i antigen and I antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6720" name="toyocamycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7940" name="lauryl-hydroxychlorobactene glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6239" name="luteolin glycosides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CEL-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6310" name="aloesone biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7902" name="glucosylglycerol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5818" name="validamycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5672" name="ginsenosides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7139" name="sesaminol glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7191" name="kaempferol diglycoside biosynthesis (pollen-specific)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6657" name="polyhydroxydecanoate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6024" name="isovitexin glycosides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7464" name="cyanidin 3,7-diglucoside polyacylation biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8242" name="Escherichia coli serotype O:51/Salmonella enterica serotype O:57 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7815" name="poly(ribitol phosphate) wall teichoic acid biosynthesis I (B. subtilis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5666" name="alpha-solanine/alpha-chaconine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6811436" name="COPI-independent Golgi-to-ER retrograde traffic"/>
+            <pathway-xref db="Reactome" id="R-MMU-964739" name="N-glycan trimming and elongation in the cis-Golgi"/>
+            <pathway-xref db="Reactome" id="R-CEL-1971475" name="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-446210" name="Synthesis of UDP-N-acetyl-glucosamine"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6763" name="salicortin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6664" name="di-myo-inositol phosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6546" name="brassinosteroids inactivation"/>
+            <pathway-xref db="Reactome" id="R-HSA-3858516" name="Glycogen storage disease type 0 (liver GYS2)"/>
+            <pathway-xref db="MetaCyc" id="PWY-2901" name="cytokinins 9-N-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5936" name="xyloglucan biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9037629" name="Lewis blood group biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8196" name="Salmonella enterica serotype O:3,10 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-3861" name="mannitol degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-1269" name="CMP-3-deoxy-D-manno-octulosonate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7838" name="globo-series glycosphingolipids biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-4793953" name="Defective B4GALT1 causes CDG-2d"/>
+            <pathway-xref db="MetaCyc" id="PWY-7633" name="calycosin 7-O-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6346" name="staurosporine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7129" name="quercetin glucoside biosynthesis (Allium)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6139" name="CMP-N-acetylneuraminate biosynthesis II (bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7440" name="dTDP-beta-L-4-epi-vancosamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-5173105" name="O-linked glycosylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6972" name="oleandomycin activation/inactivation"/>
+            <pathway-xref db="Reactome" id="R-DDI-446210" name="Synthesis of UDP-N-acetyl-glucosamine"/>
+            <pathway-xref db="Reactome" id="R-SPO-72731" name="Recycling of eIF2:GDP"/>
+            <pathway-xref db="Reactome" id="R-HSA-5083635" name="Defective B3GALTL causes PpS"/>
+            <pathway-xref db="MetaCyc" id="PWY-8039" name="mitomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5321" name="quercetin glycoside biosynthesis (Arabidopsis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7414" name="dTDP-alpha-D-mycaminose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-173599" name="Formation of the active cofactor, UDP-glucuronate"/>
+            <pathway-xref db="MetaCyc" id="PWY-8235" name="Escherichia coli serotype O:21/Salmonella enterica serotype O:38 O antigen biosynthesis"/>
+          </entry>
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>4p02A02</model-ac>
+        <locations>
+          <hmmer3-location env-end="126" env-start="2" post-processed="true" score="54.5" evalue="3.4E-14" hmm-start="86" hmm-end="201" hmm-length="242" hmm-bounds="COMPLETE" start="2" end="126">
+            <location-fragments>
+              <hmmer3-location-fragment start="2" end="126" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="1.4E-148" familyName="SUBFAMILY NOT NAMED" score="507.8">
+        <signature ac="PTHR13301:SF89" name="SUBFAMILY NOT NAMED">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR13301:SF89</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="305" hmm-start="254" hmm-end="551" hmm-length="719" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="302">
+            <location-fragments>
+              <panther-location-fragment start="1" end="302" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="1.4E-148" familyName="SUBFAMILY NOT NAMED" score="507.8">
+        <signature ac="PTHR13301" name="X-BOX TRANSCRIPTION FACTOR-RELATED">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR13301</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="305" hmm-start="254" hmm-end="551" hmm-length="719" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="302">
+            <location-fragments>
+              <panther-location-fragment start="1" end="302" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <superfamilyhmmer3-match evalue="1.97E-14">
+        <signature ac="SSF53448" name="Nucleotide-diphospho-sugar transferases">
+          <entry ac="IPR029044" desc="Nucleotide-diphospho-sugar transferases" name="Nucleotide-diphossugar_trans" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="MetaCyc" id="PWY-8221" name="Escherichia coli serotype O:111/Salmonella enterica serotype O:35 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7140" name="myricetin gentiobioside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-1650814" name="Collagen biosynthesis and modifying enzymes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7315" name="dTDP-N-acetylthomosamine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7735" name="echinomycin and triostin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9033807" name="ABO blood group biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-162699" name="Synthesis of dolichyl-phosphate mannose"/>
+            <pathway-xref db="MetaCyc" id="PWY-5067" name="glycogen biosynthesis II (from UDP-D-Glucose)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6823" name="molybdopterin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6973" name="dTDP-alpha-D-olivose, dTDP-alpha-D-oliose and dTDP-alpha-D-mycarose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6998" name="CDP-D-arabitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8224" name="Escherichia coli serotype O:157/Salmonella enterica serotype O:30 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5310" name="superpathway of anthocyanin biosynthesis (from delphinidin 3-O-glucoside)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7888" name="tRNA-uridine 2-thiolation (cytoplasmic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6802" name="salidroside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-913709" name="O-linked glycosylation of mucins"/>
+            <pathway-xref db="MetaCyc" id="PWY-6478" name="GDP-D-glycero-alpha-D-manno-heptose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7836" name="ganglio-series glycosphingolipids biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3560783" name="Defective B4GALT7 causes EDS, progeroid type"/>
+            <pathway-xref db="Reactome" id="R-RNO-975578" name="Reactions specific to the complex N-glycan synthesis pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-7100" name="spinosyn A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6808" name="dTDP-alpha-D-forosamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-190372" name="FGFR3c ligand binding and activation"/>
+            <pathway-xref db="Reactome" id="R-CEL-446210" name="Synthesis of UDP-N-acetyl-glucosamine"/>
+            <pathway-xref db="MetaCyc" id="PWY-7352" name="daunorubicin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-162699" name="Synthesis of dolichyl-phosphate mannose"/>
+            <pathway-xref db="MetaCyc" id="PWY-7824" name="prunasin and amygdalin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5083628" name="Defective POMGNT1 causes MDDGA3, MDDGB3 and MDDGC3"/>
+            <pathway-xref db="MetaCyc" id="PWY-8113" name="3PG-factor 420 biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8230" name="Salmonella enterica serotype O:13 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6525" name="stellariose and mediose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7426" name="complex N-linked glycan biosynthesis (vertebrates)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5312" name="superpathway of anthocyanin biosynthesis (from pelargonidin 3-O-glucoside)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7435" name="mucin core 3 and core 4 O-glycosylation"/>
+            <pathway-xref db="Reactome" id="R-SSC-975577" name="N-Glycan antennae elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-641" name="proanthocyanidins biosynthesis from flavanols"/>
+            <pathway-xref db="MetaCyc" id="PWY-8211" name="Escherichia coli serotype O:7 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7449" name="acylated cyanidin galactoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8241" name="Escherichia coli serotype O:71/Salmonella enterica serotype O:28ac O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-822" name="fructan biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-173599" name="Formation of the active cofactor, UDP-glucuronate"/>
+            <pathway-xref db="MetaCyc" id="PWY-7413" name="dTDP-6-deoxy-alpha-D-allose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8231" name="Escherichia coli serotype O:127 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9037629" name="Lewis blood group biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-XTR-1660662" name="Glycosphingolipid metabolism"/>
+            <pathway-xref db="Reactome" id="R-DME-2022928" name="HS-GAG biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7238" name="sucrose biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7301" name="dTDP-4-O-demethyl-beta-L-noviose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-4719377" name="Defective DPM2 causes DPM2-CDG (CDG-1u)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5320" name="kaempferol glycoside biosynthesis (Arabidopsis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8251" name="Escherichia coli serotype O:2 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-964739" name="N-glycan trimming and elongation in the cis-Golgi"/>
+            <pathway-xref db="MetaCyc" id="PWY-7820" name="teichuronic acid biosynthesis (B. subtilis 168)"/>
+            <pathway-xref db="Reactome" id="R-MMU-9033807" name="ABO blood group biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9683686" name="Maturation of spike protein"/>
+            <pathway-xref db="MetaCyc" id="PWY-7657" name="dTDP-beta-L-digitoxose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-975577" name="N-Glycan antennae elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-3881" name="mannitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7831" name="ABH and Lewis epitopes biosynthesis from type 2 precursor disaccharide"/>
+            <pathway-xref db="MetaCyc" id="PWY-8133" name="succinoglycan biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8228" name="Porphyromonas gingivalis O-LPS antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8081" name="leucine-derived hydroxynitrile glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8218" name="Escherichia coli serotype O:56 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-3322077" name="Glycogen synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6527" name="stachyose degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8272" name="Escherichia coli serotype O:49 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7137" name="quercetin gentiotetraside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-901032" name="ER Quality Control Compartment (ERQC)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9683673" name="Maturation of protein 3a"/>
+            <pathway-xref db="MetaCyc" id="PWY-6143" name="CMP-pseudaminate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-1660662" name="Glycosphingolipid metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-8197" name="Salmonella enterica serotype O:9,46 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-480985" name="Synthesis of dolichyl-phosphate-glucose"/>
+            <pathway-xref db="MetaCyc" id="PWY-6036" name="cardenolide glucosides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8195" name="Salmonella enterica serotype O:9 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-162699" name="Synthesis of dolichyl-phosphate mannose"/>
+            <pathway-xref db="MetaCyc" id="PWY-5198" name="factor 420 biosynthesis II (mycobacteria)"/>
+            <pathway-xref db="Reactome" id="R-SCE-70221" name="Glycogen breakdown (glycogenolysis)"/>
+            <pathway-xref db="Reactome" id="R-MMU-2022870" name="Chondroitin sulfate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8252" name="Escherichia coli serotype O:50 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7025" name="gentamicin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-975577" name="N-Glycan antennae elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8236" name="Salmonella enterica serotype O:39 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8219" name="Escherichia coli serotype O:107 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5397" name="crocetin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5800" name="xylan biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-4085001" name="Sialic acid metabolism"/>
+            <pathway-xref db="Reactome" id="R-DME-1971475" name="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-1901" name="aurone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6658" name="acetan biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7143" name="kaempferol gentiobioside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5129" name="sphingolipid biosynthesis (plants)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7434" name="terminal O-glycans residues modification (via type 2 precursor disaccharide)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6981" name="chitin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-913709" name="O-linked glycosylation of mucins"/>
+            <pathway-xref db="MetaCyc" id="PWY-6073" name="alginate biosynthesis I (algal)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-HSA-4717374" name="Defective DPM1 causes DPM1-CDG (CDG-1e)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7945" name="2,2'-bis-(4-hydroxy-3-methybut-2-enyl)-beta,beta-carotene monoglucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7745" name="p-HBAD biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3828062" name="Glycogen storage disease type 0 (muscle GYS1)"/>
+            <pathway-xref db="Reactome" id="R-HSA-4719360" name="Defective DPM3 causes DPM3-CDG (CDG-1o)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7071" name="steviol glucoside biosynthesis (rebaudioside A biosynthesis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5343" name="ajugose biosynthesis II (galactinol-independent)"/>
+            <pathway-xref db="Reactome" id="R-RNO-1971475" name="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5173214" name="O-glycosylation of TSR domain-containing proteins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7677" name="rosamicin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7171" name="flavonol acylglucoside biosynthesis II - isorhamnetin derivatives"/>
+            <pathway-xref db="Reactome" id="R-HSA-446210" name="Synthesis of UDP-N-acetyl-glucosamine"/>
+            <pathway-xref db="MetaCyc" id="PWY-8192" name="Salmonella enterica serotype O:4 O antigen biosynthesis (group B1)"/>
+            <pathway-xref db="Reactome" id="R-MMU-975578" name="Reactions specific to the complex N-glycan synthesis pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-7212" name="baicalein metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6722" name="candicidin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-70221" name="Glycogen breakdown (glycogenolysis)"/>
+            <pathway-xref db="Reactome" id="R-DME-6811436" name="COPI-independent Golgi-to-ER retrograde traffic"/>
+            <pathway-xref db="MetaCyc" id="PWY-5094" name="naringenin glycoside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-162699" name="Synthesis of dolichyl-phosphate mannose"/>
+            <pathway-xref db="MetaCyc" id="PWY-8248" name="lipid A-core biosynthesis (P. gingivalis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7841" name="neolacto-series glycosphingolipids biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3785653" name="Myoclonic epilepsy of Lafora"/>
+            <pathway-xref db="MetaCyc" id="PWY-7468" name="benzoyl-beta-D-glucopyranose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7253" name="apigeninidin 5-O-glucoside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3878781" name="Glycogen storage disease type IV (GBE1)"/>
+            <pathway-xref db="Reactome" id="R-MMU-5173214" name="O-glycosylation of TSR domain-containing proteins"/>
+            <pathway-xref db="Reactome" id="R-SCE-446210" name="Synthesis of UDP-N-acetyl-glucosamine"/>
+            <pathway-xref db="Reactome" id="R-MMU-2142850" name="Hyaluronan biosynthesis and export"/>
+            <pathway-xref db="MetaCyc" id="PWY-6148" name="tetrahydromethanopterin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6558" name="heparan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-72731" name="Recycling of eIF2:GDP"/>
+            <pathway-xref db="Reactome" id="R-HSA-3322077" name="Glycogen synthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-70221" name="Glycogen breakdown (glycogenolysis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7676" name="Kdo8N transfer to lipid IVA"/>
+            <pathway-xref db="MetaCyc" id="PWY-4421" name="curcumin glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7674" name="CMP-8-amino-3,8-dideoxy-D-manno-octulosonate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8257" name="Escherichia coli serotype O:52 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5105" name="hesperitin glycoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5875" name="staphyloxanthin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5399" name="betacyanin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7922" name="protein O-mannosylation II (mammals, core M1 and core M2)"/>
+            <pathway-xref db="Reactome" id="R-RNO-3322077" name="Glycogen synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5964" name="guanylyl molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3595177" name="Defective CHSY1 causes TPBS"/>
+            <pathway-xref db="Reactome" id="R-SCE-72731" name="Recycling of eIF2:GDP"/>
+            <pathway-xref db="MetaCyc" id="PWY-7157" name="eupatolitin 3-O-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5284" name="shisonin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3656253" name="Defective EXT1 causes exostoses 1, TRPS2 and CHDS"/>
+            <pathway-xref db="MetaCyc" id="PWY-7894" name="procollagen hydroxylation and glycosylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7859" name="jasmonoyl-L-isoleucine inactivation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7688" name="dTDP-alpha-D-ravidosamine and dTDP-4-acetyl-alpha-D-ravidosamine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8226" name="Escherichia coli serotype O:152 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7055" name="daphnetin modification"/>
+            <pathway-xref db="MetaCyc" id="PWY-7737" name="thiocoraline biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5759" name="saponin biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-7458" name="violdelphin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-975577" name="N-Glycan antennae elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7412" name="mycinamicin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-190372" name="FGFR3c ligand binding and activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6269" name="superpathway of adenosylcobalamin salvage from cobinamide II"/>
+            <pathway-xref db="Reactome" id="R-MMU-1660662" name="Glycosphingolipid metabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-2142850" name="Hyaluronan biosynthesis and export"/>
+            <pathway-xref db="MetaCyc" id="PWY-5658" name="mannosylglycerate biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-SSC-913709" name="O-linked glycosylation of mucins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7456" name="beta-(1,4)-mannan degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7109" name="megalomicin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5337" name="stachyose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-446203" name="Asparagine N-linked glycosylation"/>
+            <pathway-xref db="Reactome" id="R-RNO-2142850" name="Hyaluronan biosynthesis and export"/>
+            <pathway-xref db="MetaCyc" id="PWY-5313" name="superpathway of anthocyanin biosynthesis (from cyanidin and cyanidin 3-O-glucoside)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7814" name="dTDP-L-daunosamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2534343" name="Interaction With Cumulus Cells And The Zona Pellucida"/>
+            <pathway-xref db="Reactome" id="R-XTR-913709" name="O-linked glycosylation of mucins"/>
+            <pathway-xref db="MetaCyc" id="PWY-5797" name="indole-3-acetate inactivation VI"/>
+            <pathway-xref db="MetaCyc" id="PWY-7433" name="mucin core 1 and core 2 O-glycosylation"/>
+            <pathway-xref db="Reactome" id="R-RNO-1650814" name="Collagen biosynthesis and modifying enzymes"/>
+            <pathway-xref db="MetaCyc" id="PWY-3801" name="sucrose degradation II (sucrose synthase)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7104" name="dTDP-beta-L-megosamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9694548" name="Maturation of spike protein"/>
+            <pathway-xref db="MetaCyc" id="PWY-5784" name="indole-3-acetate inactivation VIII"/>
+            <pathway-xref db="MetaCyc" id="PWY-5342" name="ajugose biosynthesis I (galactinol-dependent)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7946" name="sarcinaxanthin diglucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7904" name="tRNA-uridine 2-thiolation (thermophilic bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7661" name="protein N-glycosylation (Haloferax volcanii)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8209" name="Escherichia coli serotype O:15 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-913709" name="O-linked glycosylation of mucins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7666" name="galactolipid biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-HSA-5083636" name="Defective GALNT12 causes CRCS1"/>
+            <pathway-xref db="MetaCyc" id="PWY-6942" name="dTDP-D-desosamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-173599" name="Formation of the active cofactor, UDP-glucuronate"/>
+            <pathway-xref db="MetaCyc" id="PWY-7884" name="lipoprotein posttranslational modification"/>
+            <pathway-xref db="MetaCyc" id="PWY-6138" name="CMP-N-acetylneuraminate biosynthesis I (eukaryotes)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7821" name="tunicamycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6953" name="dTDP-3-acetamido-alpha-D-fucose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7883" name="anhydromuropeptides recycling II"/>
+            <pathway-xref db="Reactome" id="R-MMU-190372" name="FGFR3c ligand binding and activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8117" name="colibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1650814" name="Collagen biosynthesis and modifying enzymes"/>
+            <pathway-xref db="MetaCyc" id="PWY-622" name="starch biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7960" name="rhabduscin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-1961" name="indole-3-acetate inactivation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8250" name="Escherichia coli serotype O:9 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7920" name="complex N-linked glycan biosynthesis (plants)"/>
+            <pathway-xref db="Reactome" id="R-HSA-2534343" name="Interaction With Cumulus Cells And The Zona Pellucida"/>
+            <pathway-xref db="MetaCyc" id="PWY-7981" name="alpha-dystroglycan glycosylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6557" name="glycosaminoglycan-protein linkage region biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6626" name="cytidine-5'-diphosphate-glycerol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-2881" name="cytokinins 7-N-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-1061" name="homogalacturonan biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6655" name="xanthan biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6685" name="glucosylglycerate biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-8222" name="Escherichia coli serotype O:128 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5160" name="rose anthocyanin biosynthesis I (via cyanidin 5-O-beta-D-glucoside)"/>
+            <pathway-xref db="Reactome" id="R-MMU-3322077" name="Glycogen synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8207" name="Escherichia coli serotype O:85/Salmonella enterica serotype O:17 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5756" name="saponin biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-CEL-1660662" name="Glycosphingolipid metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-5381" name="NAD salvage (plants)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6010" name="apigenin glycosides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6686" name="mannosylglucosylglycerate biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-SCE-173599" name="Formation of the active cofactor, UDP-glucuronate"/>
+            <pathway-xref db="MetaCyc" id="PWY-5339" name="chalcone 2'-O-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5833" name="CDP-4-dehydro-3,6-dideoxy-D-glucose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7560" name="methylerythritol phosphate pathway II"/>
+            <pathway-xref db="Reactome" id="R-HSA-5083625" name="Defective GALNT3 causes HFTC"/>
+            <pathway-xref db="Reactome" id="R-SPO-446210" name="Synthesis of UDP-N-acetyl-glucosamine"/>
+            <pathway-xref db="MetaCyc" id="PWY-6524" name="lychnose and isolychnose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5653890" name="Lactose synthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-9037629" name="Lewis blood group biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7150" name="polymethylated quercetin glucoside biosynthesis I - quercetin series (Chrysosplenium)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7018" name="paromomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-5173105" name="O-linked glycosylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7818" name="type IV lipoteichoic acid biosynthesis (S. pneumoniae)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5139" name="pelargonidin conjugates biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7151" name="polymethylated quercetin glucoside biosynthesis II - quercetagetin series (Chrysosplenium)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7819" name="poly(3-O-beta-D-glucopyranosyl-N-acetylgalactosamine 1-phosphate) wall teichoic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-975577" name="N-Glycan antennae elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7972" name="adenosylcobinamide-GDP salvage from cobinamide II"/>
+            <pathway-xref db="MetaCyc" id="PWY-6385" name="peptidoglycan biosynthesis III (mycobacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-1001" name="cellulose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7624" name="nystatin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8013" name="UDP-N-acetyl-D-galactosamine biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-6397" name="mycolyl-arabinogalactan-peptidoglycan complex biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-70221" name="Glycogen breakdown (glycogenolysis)"/>
+            <pathway-xref db="Reactome" id="R-XTR-2142850" name="Hyaluronan biosynthesis and export"/>
+            <pathway-xref db="MetaCyc" id="PWY-6297" name="tuberonate glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8208" name="Salmonella enterica serotype O:6,7 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7487" name="(+)-secoisolariciresinol diglucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7839" name="lacto-series glycosphingolipids biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-173599" name="Formation of the active cofactor, UDP-glucuronate"/>
+            <pathway-xref db="MetaCyc" id="PWY-5662" name="glucosylglycerate biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-RNO-72731" name="Recycling of eIF2:GDP"/>
+            <pathway-xref db="Reactome" id="R-MMU-1650814" name="Collagen biosynthesis and modifying enzymes"/>
+            <pathway-xref db="Reactome" id="R-BTA-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8212" name="Escherichia coli serotype O:8 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5161" name="6'-deoxychalcone metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-8243" name="colanic acid (Escherichia coli K12) biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7031" name="protein N-glycosylation (bacterial)"/>
+            <pathway-xref db="Reactome" id="R-RNO-913709" name="O-linked glycosylation of mucins"/>
+            <pathway-xref db="Reactome" id="R-CEL-964739" name="N-glycan trimming and elongation in the cis-Golgi"/>
+            <pathway-xref db="MetaCyc" id="PWY-7569" name="arginomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7816" name="poly(ribitol phosphate) wall teichoic acid biosynthesis II (S. aureus)"/>
+            <pathway-xref db="Reactome" id="R-SCE-3322077" name="Glycogen synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5659" name="GDP-mannose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-381038" name="XBP1(S) activates chaperone genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-5774" name="saponin biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-5400" name="amaranthin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3656237" name="Defective EXT2 causes exostoses 2"/>
+            <pathway-xref db="MetaCyc" id="PWY-83" name="monolignol glucosides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8244" name="Escherichia coli serotype O:177 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-3322077" name="Glycogen synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7623" name="astaxanthin dirhamnoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5822" name="trichloroethene degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8232" name="Shigella boydii serotype 6 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7817" name="type I lipoteichoic acid biosynthesis (S. aureus)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7127" name="CDP-D-mannitol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5653890" name="Lactose synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5357609" name="Glycogen storage disease type II (GAA)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5380" name="A series fagopyritols biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5793" name="maysin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8000" name="vitamin K degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-2902" name="cytokinin-O-glucosides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-70221" name="Glycogen breakdown (glycogenolysis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6687" name="mannosylglucosylglycerate biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7743" name="dimycocerosyl triglycosyl phenolphthiocerol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7316" name="dTDP-N-acetylviosamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-1650814" name="Collagen biosynthesis and modifying enzymes"/>
+            <pathway-xref db="MetaCyc" id="PWY-8237" name="Escherichia coli serotype O:1B/Salmonella enterica serotype O:42 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8282" name="adenosylcobinamide-GDP salvage from assorted adenosylcobamides"/>
+            <pathway-xref db="MetaCyc" id="PWY-6976" name="dTDP-beta-L-mycarose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-5653890" name="Lactose synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6401" name="hispidol and hispidol 4'-O-beta-D-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7290" name="Escherichia coli serotype O:86 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-1971475" name="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5379" name="B series fagopyritols biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9694719" name="Maturation of protein 3a"/>
+            <pathway-xref db="Reactome" id="R-HSA-2022928" name="HS-GAG biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8139" name="CDP-6-deoxy-D-gulose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7131" name="CMP-legionaminate biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7037" name="protein O-glycosylation (Neisseria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6971" name="oleandomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SSC-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1660662" name="Glycosphingolipid metabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-72731" name="Recycling of eIF2:GDP"/>
+            <pathway-xref db="Reactome" id="R-CEL-72731" name="Recycling of eIF2:GDP"/>
+            <pathway-xref db="MetaCyc" id="PWY-7697" name="geranyl beta-primeveroside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7740" name="beta-D-mannosyl phosphomycoketide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8199" name="Salmonella enterica serotype O:9,46,27 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6992" name="1,5-anhydrofructose degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-190372" name="FGFR3c ligand binding and activation"/>
+            <pathway-xref db="Reactome" id="R-SPO-480985" name="Synthesis of dolichyl-phosphate-glucose"/>
+            <pathway-xref db="MetaCyc" id="PWY-7343" name="UDP-alpha-D-glucose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-446203" name="Asparagine N-linked glycosylation"/>
+            <pathway-xref db="Reactome" id="R-DRE-2022928" name="HS-GAG biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8233" name="Escherichia coli serotype O:169 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8168" name="bis(guanylyl tungstenpterin) cofactor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6261" name="thyroid hormone metabolism II (via conjugation and/or degradation)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8217" name="Escherichia coli serotype O:55/Salmonella enterica serotype O:50 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7962" name="adenosylcobinamide-GDP biosynthesis from cobyrinate a,c-diamide"/>
+            <pathway-xref db="MetaCyc" id="PWY-7833" name="biosynthesis of Lewis epitopes (H. pylori)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7473" name="avenacin A-1 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-9033807" name="ABO blood group biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8206" name="Salmonella enterica serotype O:18 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-913709" name="O-linked glycosylation of mucins"/>
+            <pathway-xref db="MetaCyc" id="PWY-6974" name="dTDP-beta-L-olivose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7192" name="quercetin diglycoside biosynthesis (pollen-specific)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6762" name="salicylate glucosides biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-7885" name="phosphatidylinositol mannoside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2022928" name="HS-GAG biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7897" name="flavonoid di-C-glucosylation"/>
+            <pathway-xref db="Reactome" id="R-SPO-3322077" name="Glycogen synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1912420" name="Pre-NOTCH Processing in Golgi"/>
+            <pathway-xref db="Reactome" id="R-CEL-6811436" name="COPI-independent Golgi-to-ER retrograde traffic"/>
+            <pathway-xref db="MetaCyc" id="PWY-7475" name="des-methyl avenacin A-1 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1971475" name="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6623" name="salicylate glucosides biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-8193" name="Salmonella enterica serotype O:8 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-4793952" name="Defective MGAT2 causes CDG-2a"/>
+            <pathway-xref db="MetaCyc" id="PWY-7570" name="blasticidin S biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-2021" name="indole-3-acetate inactivation IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-7586" name="beta-1,4-D-mannosyl-N-acetyl-D-glucosamine degradation"/>
+            <pathway-xref db="Reactome" id="R-DRE-913709" name="O-linked glycosylation of mucins"/>
+            <pathway-xref db="MetaCyc" id="PWY-5940" name="streptomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-964739" name="N-glycan trimming and elongation in the cis-Golgi"/>
+            <pathway-xref db="MetaCyc" id="PWY-5975" name="furaneol and mesifurane biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7450" name="anthocyanidin modification (Arabidopsis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7045" name="mithramycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8122" name="mycofactocin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5926" name="afrormosin conjugates interconversion"/>
+            <pathway-xref db="MetaCyc" id="PWY-8253" name="Escherichia coli serotype O:149/Shigella boydii serotype O1 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7145" name="genistin gentiobioside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6015" name="vitexin and derivatives biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5286" name="anthocyanidin sophoroside metabolism"/>
+            <pathway-xref db="Reactome" id="R-MMU-480985" name="Synthesis of dolichyl-phosphate-glucose"/>
+            <pathway-xref db="MetaCyc" id="PWY-7921" name="protein O-mannosylation I (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6313" name="serotonin degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8205" name="Escherichia coli serotype O:77/Salmonella enterica serotype O:6,14 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7530" name="Escherichia coli serotype O:104 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7491" name="podophyllotoxin glucosides metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-5268" name="salvianin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6624" name="salicylate glucosides biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-5656" name="mannosylglycerate biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-MMU-4085001" name="Sialic acid metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7463" name="N-methylanthraniloyl-beta-D-glucopyranose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5173105" name="O-linked glycosylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7166" name="kaempferide triglycoside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-446205" name="Synthesis of GDP-mannose"/>
+            <pathway-xref db="Reactome" id="R-HSA-3656244" name="Defective B4GALT1 causes B4GALT1-CDG (CDG-2d)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7658" name="protein N-glycosylation (Methanococcus voltae)"/>
+            <pathway-xref db="Reactome" id="R-SCE-480985" name="Synthesis of dolichyl-phosphate-glucose"/>
+            <pathway-xref db="Reactome" id="R-MMU-70221" name="Glycogen breakdown (glycogenolysis)"/>
+            <pathway-xref db="Reactome" id="R-CFA-1971475" name="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5874" name="heme degradation I"/>
+            <pathway-xref db="Reactome" id="R-HSA-3560801" name="Defective B3GAT3 causes JDSSDHD"/>
+            <pathway-xref db="Reactome" id="R-DRE-975577" name="N-Glycan antennae elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-975578" name="Reactions specific to the complex N-glycan synthesis pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-8234" name="Escherichia coli serotype O:183/Shigella boydii serotype O:10 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-6811436" name="COPI-independent Golgi-to-ER retrograde traffic"/>
+            <pathway-xref db="MetaCyc" id="PWY-6476" name="cytidylyl molybdenum cofactor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8112" name="factor 420 biosynthesis I (archaea)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7186" name="superpathway of scopolin and esculin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-162699" name="Synthesis of dolichyl-phosphate mannose"/>
+            <pathway-xref db="Reactome" id="R-HSA-3814836" name="Glycogen storage disease type XV (GYG1)"/>
+            <pathway-xref db="Reactome" id="R-DDI-72731" name="Recycling of eIF2:GDP"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8220" name="Escherichia coli serotype O:117 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6082" name="alginate biosynthesis II (bacterial)"/>
+            <pathway-xref db="Reactome" id="R-HSA-5083627" name="Defective LARGE causes MDDGA6 and MDDGB6"/>
+            <pathway-xref db="MetaCyc" id="PWY-7252" name="luteolinidin 5-O-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7058" name="esculetin modification"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5173105" name="O-linked glycosylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7318" name="dTDP-3-acetamido-3,6-dideoxy-alpha-D-glucose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8198" name="Salmonella enterica serotype O:2 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-4085001" name="Sialic acid metabolism"/>
+            <pathway-xref db="Reactome" id="R-RNO-4085001" name="Sialic acid metabolism"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-480985" name="Synthesis of dolichyl-phosphate-glucose"/>
+            <pathway-xref db="MetaCyc" id="PWY-7971" name="adenosylcobinamide-GDP salvage from cobinamide I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7074" name="phenylethanol glycoconjugate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-913709" name="O-linked glycosylation of mucins"/>
+            <pathway-xref db="Reactome" id="R-RNO-6811436" name="COPI-independent Golgi-to-ER retrograde traffic"/>
+            <pathway-xref db="Reactome" id="R-DDI-480985" name="Synthesis of dolichyl-phosphate-glucose"/>
+            <pathway-xref db="Reactome" id="R-RNO-975577" name="N-Glycan antennae elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-1981" name="indole-3-acetate inactivation III"/>
+            <pathway-xref db="Reactome" id="R-HSA-2022870" name="Chondroitin sulfate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7832" name="ABH and Lewis epitopes biosynthesis from type 1 precursor disaccharide"/>
+            <pathway-xref db="MetaCyc" id="PWY-5514" name="UDP-N-acetyl-D-galactosamine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-8204" name="Salmonella enterica serotype O:54 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7312" name="dTDP-beta-D-fucofuranose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7979" name="protein O-mannosylation III (mammals, core M3)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6566" name="chondroitin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5338" name="galactosylcyclitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6398" name="melatonin degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-6279" name="myxol-2' fucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6051" name="2,4,6-trinitrotoluene degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7213" name="wogonin metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7837" name="i antigen and I antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6720" name="toyocamycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7940" name="lauryl-hydroxychlorobactene glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6239" name="luteolin glycosides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CEL-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6310" name="aloesone biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7902" name="glucosylglycerol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5818" name="validamycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5672" name="ginsenosides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7139" name="sesaminol glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7191" name="kaempferol diglycoside biosynthesis (pollen-specific)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6657" name="polyhydroxydecanoate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6024" name="isovitexin glycosides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7464" name="cyanidin 3,7-diglucoside polyacylation biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8242" name="Escherichia coli serotype O:51/Salmonella enterica serotype O:57 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7815" name="poly(ribitol phosphate) wall teichoic acid biosynthesis I (B. subtilis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5666" name="alpha-solanine/alpha-chaconine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6811436" name="COPI-independent Golgi-to-ER retrograde traffic"/>
+            <pathway-xref db="Reactome" id="R-MMU-964739" name="N-glycan trimming and elongation in the cis-Golgi"/>
+            <pathway-xref db="Reactome" id="R-CEL-1971475" name="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-446210" name="Synthesis of UDP-N-acetyl-glucosamine"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6763" name="salicortin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6664" name="di-myo-inositol phosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6546" name="brassinosteroids inactivation"/>
+            <pathway-xref db="Reactome" id="R-HSA-3858516" name="Glycogen storage disease type 0 (liver GYS2)"/>
+            <pathway-xref db="MetaCyc" id="PWY-2901" name="cytokinins 9-N-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5936" name="xyloglucan biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9037629" name="Lewis blood group biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8196" name="Salmonella enterica serotype O:3,10 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-3861" name="mannitol degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-1269" name="CMP-3-deoxy-D-manno-octulosonate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7838" name="globo-series glycosphingolipids biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-4793953" name="Defective B4GALT1 causes CDG-2d"/>
+            <pathway-xref db="MetaCyc" id="PWY-7633" name="calycosin 7-O-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6346" name="staurosporine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7129" name="quercetin glucoside biosynthesis (Allium)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6139" name="CMP-N-acetylneuraminate biosynthesis II (bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7440" name="dTDP-beta-L-4-epi-vancosamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-5173105" name="O-linked glycosylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6972" name="oleandomycin activation/inactivation"/>
+            <pathway-xref db="Reactome" id="R-DDI-446210" name="Synthesis of UDP-N-acetyl-glucosamine"/>
+            <pathway-xref db="Reactome" id="R-SPO-72731" name="Recycling of eIF2:GDP"/>
+            <pathway-xref db="Reactome" id="R-HSA-5083635" name="Defective B3GALTL causes PpS"/>
+            <pathway-xref db="MetaCyc" id="PWY-8039" name="mitomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5321" name="quercetin glycoside biosynthesis (Arabidopsis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7414" name="dTDP-alpha-D-mycaminose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-173599" name="Formation of the active cofactor, UDP-glucuronate"/>
+            <pathway-xref db="MetaCyc" id="PWY-8235" name="Escherichia coli serotype O:21/Salmonella enterica serotype O:38 O antigen biosynthesis"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0046833</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="343" start="2" end="264">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="175" end="264" dc-status="N_TERMINAL_DISC"/>
+              <superfamilyhmmer3-location-fragment start="2" end="125" dc-status="C_TERMINAL_DISC"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

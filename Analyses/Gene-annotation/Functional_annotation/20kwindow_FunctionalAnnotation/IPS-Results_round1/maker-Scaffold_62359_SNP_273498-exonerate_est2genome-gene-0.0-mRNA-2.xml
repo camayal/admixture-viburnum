@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="2d537162d1737732ebf5300f74267c18">MDDEYEKFIRRMNPPRVVIDNESCKNATVIQVDSANKHGILLEVVQVLTDLKLIITKAYISSDGGWFMDVFNVTDQDGNKITEEEVLNYIQKALGPDSNFTSSMRSVGVTSSTDYTSIELIGSDRPGLLSEVSAVLTNLKCNVVNAEVWTHNTRAAAVMQVTDKETGAAITDPERLSMVKKLLCNVLNGSNKSRAAKTVVSHGSTHTERRLHQMMFADRDYERVSEGSSDERQRPNVNIVNWYDRDYSVVTIRCKDRPKLLFDIICTLTDMQYVVFHGNVDAEGPEAHQEYCVRHVDGSPVKSDAERQRVIQCLEAAIERRVSEGLKLELCTTDRVGLLSDVTRIFRENSLTVTRAEVTTRGGKAVNTFYVRDASGYPVNSKIIDSIRDVIGQTILQVKGSPEELNQVPQESPTRFLFGGLFKSRSFCNFGLVRSYS</sequence>
+    <xref id="maker-Scaffold_62359_SNP_273498-exonerate_est2genome-gene-0.0-mRNA-2" name="maker-Scaffold_62359_SNP_273498-exonerate_est2genome-gene-0.0-mRNA-2"/>
+    <matches>
+      <hmmer3-match evalue="1.3E-31" score="108.0">
+        <signature ac="PF01842" desc="ACT domain" name="ACT">
+          <entry ac="IPR002912" desc="ACT domain" name="ACT_dom" type="DOMAIN">
+            <pathway-xref db="MetaCyc" id="PWY-7158" name="L-phenylalanine degradation V"/>
+            <pathway-xref db="MetaCyc" id="PWY-3462" name="L-phenylalanine biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-RNO-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7909" name="formaldehyde oxidation VII (THF pathway)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7366" name="phosphatidylglycerol degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7303" name="4-hydroxy-3-prenylbenzoate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5104" name="L-isoleucine biosynthesis IV"/>
+            <pathway-xref db="Reactome" id="R-MMU-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-2201" name="folate transformations I"/>
+            <pathway-xref db="Reactome" id="R-HSA-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8190" name="L-glutamate degradation XI (reductive Stickland reaction)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6689" name="tRNA splicing I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7118" name="chitin deacetylation"/>
+            <pathway-xref db="Reactome" id="R-DDI-209905" name="Catecholamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6134" name="L-tyrosine biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-7111" name="pyruvate fermentation to isobutanol (engineered)"/>
+            <pathway-xref db="MetaCyc" id="PWY-2942" name="L-lysine biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-5938" name="pyruvate fermentation to (R)-acetoin I"/>
+            <pathway-xref db="Reactome" id="R-RNO-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="Reactome" id="R-DME-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7686" name="L-malate degradation II"/>
+            <pathway-xref db="Reactome" id="R-HSA-9031628" name="NGF-stimulated transcription"/>
+            <pathway-xref db="MetaCyc" id="PWY-5497" name="purine nucleobases degradation II (anaerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7119" name="ceramide and sphingolipid recycling and degradation (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6559" name="spermidine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7153" name="grixazone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6120" name="L-tyrosine biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-5103" name="L-isoleucine biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-6030" name="serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5097" name="L-lysine biosynthesis VI"/>
+            <pathway-xref db="MetaCyc" id="PWY-2941" name="L-lysine biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-DDI-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8088" name="dipicolinate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8296" name="cremeomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6129" name="dolichol and dolichyl phosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7626" name="bacilysin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8010" name="L-cysteine biosynthesis IX (Trichomonas vaginalis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5101" name="L-isoleucine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-6160" name="3-dehydroquinate biosynthesis II (archaea)"/>
+            <pathway-xref db="Reactome" id="R-CEL-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7384" name="anaerobic energy metabolism (invertebrates, mitochondrial)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6389" name="pyruvate fermentation to (S)-acetoin"/>
+            <pathway-xref db="MetaCyc" id="PWY-6562" name="norspermidine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-3461" name="L-tyrosine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-5978" name="kanosamine biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-HSA-2160456" name="Phenylketonuria"/>
+            <pathway-xref db="MetaCyc" id="PWY-5939" name="pyruvate fermentation to (R)-acetoin II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7977" name="L-methionine biosynthesis IV"/>
+            <pathway-xref db="Reactome" id="R-MMU-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7115" name="C4 photosynthetic carbon assimilation cycle, NAD-ME type"/>
+            <pathway-xref db="MetaCyc" id="PWY-7432" name="L-phenylalanine biosynthesis III (cytosolic, plants)"/>
+            <pathway-xref db="MetaCyc" id="PWY-3641" name="L-carnitine degradation II"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF01842</model-ac>
+        <locations>
+          <hmmer3-location env-end="90" env-start="28" post-processed="true" score="28.6" evalue="8.9E-7" hmm-start="1" hmm-end="61" hmm-length="66" hmm-bounds="N_TERMINAL_COMPLETE" start="28" end="86">
+            <location-fragments>
+              <hmmer3-location-fragment start="28" end="86" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+          <hmmer3-location env-end="392" env-start="328" post-processed="true" score="27.2" evalue="2.4E-6" hmm-start="8" hmm-end="63" hmm-length="66" hmm-bounds="INCOMPLETE" start="333" end="389">
+            <location-fragments>
+              <hmmer3-location-fragment start="333" end="389" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+          <hmmer3-location env-end="174" env-start="116" post-processed="true" score="29.2" evalue="5.8E-7" hmm-start="1" hmm-end="40" hmm-length="66" hmm-bounds="N_TERMINAL_COMPLETE" start="116" end="156">
+            <location-fragments>
+              <hmmer3-location-fragment start="116" end="156" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="1.8E-25" score="90.9">
+        <signature ac="G3DSA:3.30.70.260" name="">
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>3ibwA00</model-ac>
+        <locations>
+          <hmmer3-location env-end="398" env-start="326" post-processed="true" score="25.0" evalue="6.5E-5" hmm-start="7" hmm-end="52" hmm-length="88" hmm-bounds="COMPLETE" start="326" end="398">
+            <location-fragments>
+              <hmmer3-location-fragment start="326" end="398" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+          <hmmer3-location env-end="188" env-start="115" post-processed="true" score="41.9" evalue="3.6E-10" hmm-start="6" hmm-end="62" hmm-length="88" hmm-bounds="COMPLETE" start="115" end="188">
+            <location-fragments>
+              <hmmer3-location-fragment start="115" end="188" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="9.3E-267" familyName="ACT DOMAIN-CONTAINING PROTEIN ACR4-LIKE ISOFORM X1" score="896.4">
+        <signature ac="PTHR31096:SF77" name="ACT DOMAIN-CONTAINING PROTEIN ACR4-LIKE ISOFORM X1">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR31096:SF77</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="437" hmm-start="11" hmm-end="446" hmm-length="448" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="435">
+            <location-fragments>
+              <panther-location-fragment start="1" end="435" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="9.3E-267" familyName="ACT DOMAIN-CONTAINING PROTEIN ACR4-LIKE ISOFORM X1" score="896.4">
+        <signature ac="PTHR31096" name="ACT DOMAIN-CONTAINING PROTEIN ACR4-RELATED">
+          <entry ac="IPR040217" desc="ACT domain-containing protein ACR1-12" name="ACR1-12" type="FAMILY"/>
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR31096</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="437" hmm-start="11" hmm-end="446" hmm-length="448" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="435">
+            <location-fragments>
+              <panther-location-fragment start="1" end="435" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <profilescan-match>
+        <signature ac="PS51671" desc="ACT domain profile." name="ACT">
+          <entry ac="IPR002912" desc="ACT domain" name="ACT_dom" type="DOMAIN">
+            <pathway-xref db="MetaCyc" id="PWY-3462" name="L-phenylalanine biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-RNO-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7909" name="formaldehyde oxidation VII (THF pathway)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7303" name="4-hydroxy-3-prenylbenzoate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6689" name="tRNA splicing I"/>
+            <pathway-xref db="MetaCyc" id="PWY-6134" name="L-tyrosine biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-2942" name="L-lysine biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-5938" name="pyruvate fermentation to (R)-acetoin I"/>
+            <pathway-xref db="Reactome" id="R-RNO-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7686" name="L-malate degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-5497" name="purine nucleobases degradation II (anaerobic)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9031628" name="NGF-stimulated transcription"/>
+            <pathway-xref db="MetaCyc" id="PWY-7119" name="ceramide and sphingolipid recycling and degradation (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7153" name="grixazone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6120" name="L-tyrosine biosynthesis III"/>
+            <pathway-xref db="Reactome" id="R-DDI-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-2941" name="L-lysine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-8088" name="dipicolinate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8296" name="cremeomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6129" name="dolichol and dolichyl phosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8010" name="L-cysteine biosynthesis IX (Trichomonas vaginalis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5101" name="L-isoleucine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-6160" name="3-dehydroquinate biosynthesis II (archaea)"/>
+            <pathway-xref db="Reactome" id="R-CEL-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6389" name="pyruvate fermentation to (S)-acetoin"/>
+            <pathway-xref db="MetaCyc" id="PWY-3461" name="L-tyrosine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-5978" name="kanosamine biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-HSA-2160456" name="Phenylketonuria"/>
+            <pathway-xref db="Reactome" id="R-MMU-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7158" name="L-phenylalanine degradation V"/>
+            <pathway-xref db="MetaCyc" id="PWY-7366" name="phosphatidylglycerol degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5104" name="L-isoleucine biosynthesis IV"/>
+            <pathway-xref db="Reactome" id="R-MMU-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-2201" name="folate transformations I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8190" name="L-glutamate degradation XI (reductive Stickland reaction)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7118" name="chitin deacetylation"/>
+            <pathway-xref db="Reactome" id="R-DDI-209905" name="Catecholamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7111" name="pyruvate fermentation to isobutanol (engineered)"/>
+            <pathway-xref db="Reactome" id="R-DME-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6559" name="spermidine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-5103" name="L-isoleucine biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-6030" name="serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5097" name="L-lysine biosynthesis VI"/>
+            <pathway-xref db="MetaCyc" id="PWY-7626" name="bacilysin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7384" name="anaerobic energy metabolism (invertebrates, mitochondrial)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6562" name="norspermidine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5939" name="pyruvate fermentation to (R)-acetoin II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7977" name="L-methionine biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-7115" name="C4 photosynthetic carbon assimilation cycle, NAD-ME type"/>
+            <pathway-xref db="MetaCyc" id="PWY-7432" name="L-phenylalanine biosynthesis III (cytosolic, plants)"/>
+            <pathway-xref db="MetaCyc" id="PWY-3641" name="L-carnitine degradation II"/>
+          </entry>
+          <signature-library-release library="PROSITE_PROFILES" version="2021_01"/>
+        </signature>
+        <model-ac>PS51671</model-ac>
+        <locations>
+          <profilescan-location score="12.520414" start="327" end="403">
+            <location-fragments>
+              <profilescan-location-fragment start="327" end="403" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>KLELCTTDRVGLLSDVTRIFRENSLTVTRAEVTT-RGGKAVNTFYVRDA-SGYPVNSKIIDSIRDVIGqtILQVKGSPE</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+      <profilescan-match>
+        <signature ac="PS51671" desc="ACT domain profile." name="ACT">
+          <entry ac="IPR002912" desc="ACT domain" name="ACT_dom" type="DOMAIN">
+            <pathway-xref db="MetaCyc" id="PWY-3462" name="L-phenylalanine biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-RNO-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7909" name="formaldehyde oxidation VII (THF pathway)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7303" name="4-hydroxy-3-prenylbenzoate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6689" name="tRNA splicing I"/>
+            <pathway-xref db="MetaCyc" id="PWY-6134" name="L-tyrosine biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-2942" name="L-lysine biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-5938" name="pyruvate fermentation to (R)-acetoin I"/>
+            <pathway-xref db="Reactome" id="R-RNO-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7686" name="L-malate degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-5497" name="purine nucleobases degradation II (anaerobic)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9031628" name="NGF-stimulated transcription"/>
+            <pathway-xref db="MetaCyc" id="PWY-7119" name="ceramide and sphingolipid recycling and degradation (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7153" name="grixazone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6120" name="L-tyrosine biosynthesis III"/>
+            <pathway-xref db="Reactome" id="R-DDI-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-2941" name="L-lysine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-8088" name="dipicolinate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8296" name="cremeomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6129" name="dolichol and dolichyl phosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8010" name="L-cysteine biosynthesis IX (Trichomonas vaginalis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5101" name="L-isoleucine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-6160" name="3-dehydroquinate biosynthesis II (archaea)"/>
+            <pathway-xref db="Reactome" id="R-CEL-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6389" name="pyruvate fermentation to (S)-acetoin"/>
+            <pathway-xref db="MetaCyc" id="PWY-3461" name="L-tyrosine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-5978" name="kanosamine biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-HSA-2160456" name="Phenylketonuria"/>
+            <pathway-xref db="Reactome" id="R-MMU-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7158" name="L-phenylalanine degradation V"/>
+            <pathway-xref db="MetaCyc" id="PWY-7366" name="phosphatidylglycerol degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5104" name="L-isoleucine biosynthesis IV"/>
+            <pathway-xref db="Reactome" id="R-MMU-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-2201" name="folate transformations I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8190" name="L-glutamate degradation XI (reductive Stickland reaction)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7118" name="chitin deacetylation"/>
+            <pathway-xref db="Reactome" id="R-DDI-209905" name="Catecholamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7111" name="pyruvate fermentation to isobutanol (engineered)"/>
+            <pathway-xref db="Reactome" id="R-DME-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6559" name="spermidine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-5103" name="L-isoleucine biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-6030" name="serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5097" name="L-lysine biosynthesis VI"/>
+            <pathway-xref db="MetaCyc" id="PWY-7626" name="bacilysin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7384" name="anaerobic energy metabolism (invertebrates, mitochondrial)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6562" name="norspermidine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5939" name="pyruvate fermentation to (R)-acetoin II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7977" name="L-methionine biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-7115" name="C4 photosynthetic carbon assimilation cycle, NAD-ME type"/>
+            <pathway-xref db="MetaCyc" id="PWY-7432" name="L-phenylalanine biosynthesis III (cytosolic, plants)"/>
+            <pathway-xref db="MetaCyc" id="PWY-3641" name="L-carnitine degradation II"/>
+          </entry>
+          <signature-library-release library="PROSITE_PROFILES" version="2021_01"/>
+        </signature>
+        <model-ac>PS51671</model-ac>
+        <locations>
+          <profilescan-location score="10.478106" start="29" end="105">
+            <location-fragments>
+              <profilescan-location-fragment start="29" end="105" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>VIQVDSANKHGILLEVVQVLTDLKLIITKAYISSD-GGWFMDVFNVTDQDGNKITEEEVLNYIQKALGpDSNFTSSMR</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+      <profilescan-match>
+        <signature ac="PS51671" desc="ACT domain profile." name="ACT">
+          <entry ac="IPR002912" desc="ACT domain" name="ACT_dom" type="DOMAIN">
+            <pathway-xref db="MetaCyc" id="PWY-3462" name="L-phenylalanine biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-RNO-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7909" name="formaldehyde oxidation VII (THF pathway)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7303" name="4-hydroxy-3-prenylbenzoate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6689" name="tRNA splicing I"/>
+            <pathway-xref db="MetaCyc" id="PWY-6134" name="L-tyrosine biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-2942" name="L-lysine biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-5938" name="pyruvate fermentation to (R)-acetoin I"/>
+            <pathway-xref db="Reactome" id="R-RNO-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7686" name="L-malate degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-5497" name="purine nucleobases degradation II (anaerobic)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9031628" name="NGF-stimulated transcription"/>
+            <pathway-xref db="MetaCyc" id="PWY-7119" name="ceramide and sphingolipid recycling and degradation (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7153" name="grixazone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6120" name="L-tyrosine biosynthesis III"/>
+            <pathway-xref db="Reactome" id="R-DDI-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-2941" name="L-lysine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-8088" name="dipicolinate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8296" name="cremeomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6129" name="dolichol and dolichyl phosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8010" name="L-cysteine biosynthesis IX (Trichomonas vaginalis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5101" name="L-isoleucine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-6160" name="3-dehydroquinate biosynthesis II (archaea)"/>
+            <pathway-xref db="Reactome" id="R-CEL-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6389" name="pyruvate fermentation to (S)-acetoin"/>
+            <pathway-xref db="MetaCyc" id="PWY-3461" name="L-tyrosine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-5978" name="kanosamine biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-HSA-2160456" name="Phenylketonuria"/>
+            <pathway-xref db="Reactome" id="R-MMU-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7158" name="L-phenylalanine degradation V"/>
+            <pathway-xref db="MetaCyc" id="PWY-7366" name="phosphatidylglycerol degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5104" name="L-isoleucine biosynthesis IV"/>
+            <pathway-xref db="Reactome" id="R-MMU-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-2201" name="folate transformations I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8190" name="L-glutamate degradation XI (reductive Stickland reaction)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7118" name="chitin deacetylation"/>
+            <pathway-xref db="Reactome" id="R-DDI-209905" name="Catecholamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7111" name="pyruvate fermentation to isobutanol (engineered)"/>
+            <pathway-xref db="Reactome" id="R-DME-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6559" name="spermidine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-5103" name="L-isoleucine biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-6030" name="serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5097" name="L-lysine biosynthesis VI"/>
+            <pathway-xref db="MetaCyc" id="PWY-7626" name="bacilysin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7384" name="anaerobic energy metabolism (invertebrates, mitochondrial)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6562" name="norspermidine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5939" name="pyruvate fermentation to (R)-acetoin II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7977" name="L-methionine biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-7115" name="C4 photosynthetic carbon assimilation cycle, NAD-ME type"/>
+            <pathway-xref db="MetaCyc" id="PWY-7432" name="L-phenylalanine biosynthesis III (cytosolic, plants)"/>
+            <pathway-xref db="MetaCyc" id="PWY-3641" name="L-carnitine degradation II"/>
+          </entry>
+          <signature-library-release library="PROSITE_PROFILES" version="2021_01"/>
+        </signature>
+        <model-ac>PS51671</model-ac>
+        <locations>
+          <profilescan-location score="11.747856" start="117" end="204">
+            <location-fragments>
+              <profilescan-location-fragment start="117" end="204" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>SIELIGSDRPGLLSEVSAVLTNLKCNVVNAEVWT-HNTRAAAVMQVTDKEtgaaiTDPERLSMVKKLLCNVLNgsnksraAKTVVSHGS</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+      <rpsblast-match>
+        <signature ac="cd04897" desc="ACT_ACR_3" name="ACT_ACR_3">
+          <signature-library-release library="CDD" version="3.18"/>
+        </signature>
+        <model-ac>cd04897</model-ac>
+        <locations>
+          <rpsblast-location evalue="7.87284E-41" score="138.323" start="247" end="321">
+            <location-fragments>
+              <rpsblast-location-fragment start="247" end="321" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <sites/>
+          </rpsblast-location>
+        </locations>
+      </rpsblast-match>
+      <rpsblast-match>
+        <signature ac="cd04925" desc="ACT_ACR_2" name="ACT_ACR_2">
+          <signature-library-release library="CDD" version="3.18"/>
+        </signature>
+        <model-ac>cd04925</model-ac>
+        <locations>
+          <rpsblast-location evalue="9.4049E-35" score="122.154" start="116" end="189">
+            <location-fragments>
+              <rpsblast-location-fragment start="116" end="189" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <sites/>
+          </rpsblast-location>
+        </locations>
+      </rpsblast-match>
+      <rpsblast-match>
+        <signature ac="cd04895" desc="ACT_ACR_1" name="ACT_ACR_1">
+          <signature-library-release library="CDD" version="3.18"/>
+        </signature>
+        <model-ac>cd04895</model-ac>
+        <locations>
+          <rpsblast-location evalue="1.61648E-37" score="129.111" start="27" end="96">
+            <location-fragments>
+              <rpsblast-location-fragment start="27" end="96" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <sites/>
+          </rpsblast-location>
+        </locations>
+      </rpsblast-match>
+      <superfamilyhmmer3-match evalue="1.09E-12">
+        <signature ac="SSF55021" name="ACT-like">
+          <entry ac="IPR045865" desc="ACT-like domain" name="ACT-like_dom_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="MetaCyc" id="PWY-3462" name="L-phenylalanine biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-RNO-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-209905" name="Catecholamine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7909" name="formaldehyde oxidation VII (THF pathway)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7303" name="4-hydroxy-3-prenylbenzoate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6689" name="tRNA splicing I"/>
+            <pathway-xref db="MetaCyc" id="PWY-6134" name="L-tyrosine biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-2942" name="L-lysine biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-5938" name="pyruvate fermentation to (R)-acetoin I"/>
+            <pathway-xref db="Reactome" id="R-RNO-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-5497" name="purine nucleobases degradation II (anaerobic)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9031628" name="NGF-stimulated transcription"/>
+            <pathway-xref db="MetaCyc" id="PWY-6133" name="(S)-reticuline biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7119" name="ceramide and sphingolipid recycling and degradation (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7153" name="grixazone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-XTR-9639288" name="Amino acids regulate mTORC1"/>
+            <pathway-xref db="Reactome" id="R-DDI-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6120" name="L-tyrosine biosynthesis III"/>
+            <pathway-xref db="Reactome" id="R-DDI-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-2941" name="L-lysine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-8088" name="dipicolinate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8296" name="cremeomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6129" name="dolichol and dolichyl phosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8010" name="L-cysteine biosynthesis IX (Trichomonas vaginalis)"/>
+            <pathway-xref db="Reactome" id="R-RNO-209905" name="Catecholamine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5101" name="L-isoleucine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-6160" name="3-dehydroquinate biosynthesis II (archaea)"/>
+            <pathway-xref db="Reactome" id="R-CEL-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6389" name="pyruvate fermentation to (S)-acetoin"/>
+            <pathway-xref db="MetaCyc" id="PWY-3461" name="L-tyrosine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-5978" name="kanosamine biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-HSA-2160456" name="Phenylketonuria"/>
+            <pathway-xref db="MetaCyc" id="PWY-5394" name="betalamic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-9639288" name="Amino acids regulate mTORC1"/>
+            <pathway-xref db="Reactome" id="R-HSA-9639288" name="Amino acids regulate mTORC1"/>
+            <pathway-xref db="MetaCyc" id="PWY-5049" name="rosmarinic acid biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7158" name="L-phenylalanine degradation V"/>
+            <pathway-xref db="MetaCyc" id="PWY-3581" name="(S)-reticuline biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7366" name="phosphatidylglycerol degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5104" name="L-isoleucine biosynthesis IV"/>
+            <pathway-xref db="Reactome" id="R-MMU-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-2201" name="folate transformations I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8190" name="L-glutamate degradation XI (reductive Stickland reaction)"/>
+            <pathway-xref db="Reactome" id="R-DDI-209905" name="Catecholamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-209905" name="Catecholamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7111" name="pyruvate fermentation to isobutanol (engineered)"/>
+            <pathway-xref db="Reactome" id="R-DME-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6559" name="spermidine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-5103" name="L-isoleucine biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-6030" name="serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5097" name="L-lysine biosynthesis VI"/>
+            <pathway-xref db="Reactome" id="R-MMU-9639288" name="Amino acids regulate mTORC1"/>
+            <pathway-xref db="MetaCyc" id="PWY-7626" name="bacilysin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-209905" name="Catecholamine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6562" name="norspermidine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5939" name="pyruvate fermentation to (R)-acetoin II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7977" name="L-methionine biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-7432" name="L-phenylalanine biosynthesis III (cytosolic, plants)"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0044223</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="86" start="24" end="92">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="24" end="92" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+      <superfamilyhmmer3-match evalue="2.82E-11">
+        <signature ac="SSF55021" name="ACT-like">
+          <entry ac="IPR045865" desc="ACT-like domain" name="ACT-like_dom_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="MetaCyc" id="PWY-3462" name="L-phenylalanine biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-RNO-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-209905" name="Catecholamine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7909" name="formaldehyde oxidation VII (THF pathway)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7303" name="4-hydroxy-3-prenylbenzoate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6689" name="tRNA splicing I"/>
+            <pathway-xref db="MetaCyc" id="PWY-6134" name="L-tyrosine biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-2942" name="L-lysine biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-5938" name="pyruvate fermentation to (R)-acetoin I"/>
+            <pathway-xref db="Reactome" id="R-RNO-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-5497" name="purine nucleobases degradation II (anaerobic)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9031628" name="NGF-stimulated transcription"/>
+            <pathway-xref db="MetaCyc" id="PWY-6133" name="(S)-reticuline biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7119" name="ceramide and sphingolipid recycling and degradation (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7153" name="grixazone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-XTR-9639288" name="Amino acids regulate mTORC1"/>
+            <pathway-xref db="Reactome" id="R-DDI-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6120" name="L-tyrosine biosynthesis III"/>
+            <pathway-xref db="Reactome" id="R-DDI-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-2941" name="L-lysine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-8088" name="dipicolinate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8296" name="cremeomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6129" name="dolichol and dolichyl phosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8010" name="L-cysteine biosynthesis IX (Trichomonas vaginalis)"/>
+            <pathway-xref db="Reactome" id="R-RNO-209905" name="Catecholamine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5101" name="L-isoleucine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-6160" name="3-dehydroquinate biosynthesis II (archaea)"/>
+            <pathway-xref db="Reactome" id="R-CEL-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6389" name="pyruvate fermentation to (S)-acetoin"/>
+            <pathway-xref db="MetaCyc" id="PWY-3461" name="L-tyrosine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-5978" name="kanosamine biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-HSA-2160456" name="Phenylketonuria"/>
+            <pathway-xref db="MetaCyc" id="PWY-5394" name="betalamic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-9639288" name="Amino acids regulate mTORC1"/>
+            <pathway-xref db="Reactome" id="R-HSA-9639288" name="Amino acids regulate mTORC1"/>
+            <pathway-xref db="MetaCyc" id="PWY-5049" name="rosmarinic acid biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7158" name="L-phenylalanine degradation V"/>
+            <pathway-xref db="MetaCyc" id="PWY-3581" name="(S)-reticuline biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7366" name="phosphatidylglycerol degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5104" name="L-isoleucine biosynthesis IV"/>
+            <pathway-xref db="Reactome" id="R-MMU-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-2201" name="folate transformations I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8190" name="L-glutamate degradation XI (reductive Stickland reaction)"/>
+            <pathway-xref db="Reactome" id="R-DDI-209905" name="Catecholamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-209905" name="Catecholamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7111" name="pyruvate fermentation to isobutanol (engineered)"/>
+            <pathway-xref db="Reactome" id="R-DME-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6559" name="spermidine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-5103" name="L-isoleucine biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-6030" name="serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5097" name="L-lysine biosynthesis VI"/>
+            <pathway-xref db="Reactome" id="R-MMU-9639288" name="Amino acids regulate mTORC1"/>
+            <pathway-xref db="MetaCyc" id="PWY-7626" name="bacilysin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-209905" name="Catecholamine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6562" name="norspermidine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5939" name="pyruvate fermentation to (R)-acetoin II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7977" name="L-methionine biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-7432" name="L-phenylalanine biosynthesis III (cytosolic, plants)"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0044223</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="86" start="323" end="391">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="323" end="391" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+      <superfamilyhmmer3-match evalue="5.99E-14">
+        <signature ac="SSF55021" name="ACT-like">
+          <entry ac="IPR045865" desc="ACT-like domain" name="ACT-like_dom_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="MetaCyc" id="PWY-3462" name="L-phenylalanine biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-RNO-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-209905" name="Catecholamine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7909" name="formaldehyde oxidation VII (THF pathway)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7303" name="4-hydroxy-3-prenylbenzoate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6689" name="tRNA splicing I"/>
+            <pathway-xref db="MetaCyc" id="PWY-6134" name="L-tyrosine biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-2942" name="L-lysine biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-5938" name="pyruvate fermentation to (R)-acetoin I"/>
+            <pathway-xref db="Reactome" id="R-RNO-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-5497" name="purine nucleobases degradation II (anaerobic)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9031628" name="NGF-stimulated transcription"/>
+            <pathway-xref db="MetaCyc" id="PWY-6133" name="(S)-reticuline biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7119" name="ceramide and sphingolipid recycling and degradation (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7153" name="grixazone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-XTR-9639288" name="Amino acids regulate mTORC1"/>
+            <pathway-xref db="Reactome" id="R-DDI-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6120" name="L-tyrosine biosynthesis III"/>
+            <pathway-xref db="Reactome" id="R-DDI-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-2941" name="L-lysine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-8088" name="dipicolinate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8296" name="cremeomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6129" name="dolichol and dolichyl phosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8010" name="L-cysteine biosynthesis IX (Trichomonas vaginalis)"/>
+            <pathway-xref db="Reactome" id="R-RNO-209905" name="Catecholamine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5101" name="L-isoleucine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-6160" name="3-dehydroquinate biosynthesis II (archaea)"/>
+            <pathway-xref db="Reactome" id="R-CEL-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6389" name="pyruvate fermentation to (S)-acetoin"/>
+            <pathway-xref db="MetaCyc" id="PWY-3461" name="L-tyrosine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-5978" name="kanosamine biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-HSA-2160456" name="Phenylketonuria"/>
+            <pathway-xref db="MetaCyc" id="PWY-5394" name="betalamic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-209931" name="Serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-9639288" name="Amino acids regulate mTORC1"/>
+            <pathway-xref db="Reactome" id="R-HSA-9639288" name="Amino acids regulate mTORC1"/>
+            <pathway-xref db="MetaCyc" id="PWY-5049" name="rosmarinic acid biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7158" name="L-phenylalanine degradation V"/>
+            <pathway-xref db="MetaCyc" id="PWY-3581" name="(S)-reticuline biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7366" name="phosphatidylglycerol degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5104" name="L-isoleucine biosynthesis IV"/>
+            <pathway-xref db="Reactome" id="R-MMU-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-2201" name="folate transformations I"/>
+            <pathway-xref db="MetaCyc" id="PWY-8190" name="L-glutamate degradation XI (reductive Stickland reaction)"/>
+            <pathway-xref db="Reactome" id="R-DDI-209905" name="Catecholamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-209905" name="Catecholamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7111" name="pyruvate fermentation to isobutanol (engineered)"/>
+            <pathway-xref db="Reactome" id="R-DME-8964208" name="Phenylalanine metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6559" name="spermidine biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-5103" name="L-isoleucine biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-6030" name="serotonin and melatonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5097" name="L-lysine biosynthesis VI"/>
+            <pathway-xref db="Reactome" id="R-MMU-9639288" name="Amino acids regulate mTORC1"/>
+            <pathway-xref db="MetaCyc" id="PWY-7626" name="bacilysin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-209905" name="Catecholamine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6562" name="norspermidine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5939" name="pyruvate fermentation to (R)-acetoin II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7977" name="L-methionine biosynthesis IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-7432" name="L-phenylalanine biosynthesis III (cytosolic, plants)"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0044223</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="86" start="112" end="188">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="112" end="188" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

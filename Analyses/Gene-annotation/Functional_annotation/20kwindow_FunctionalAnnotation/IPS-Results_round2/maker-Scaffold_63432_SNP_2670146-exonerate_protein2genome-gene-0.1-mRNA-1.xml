@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="1937198bd3fbf002fe410a816c0eb933">MQETFAEYTARTAFERPLLSGVAYAQRVVDSEREEFEKQHGWTIRTMEREPSPFSDEYAPVIFSQETVSYIESLDMMSGEVNFFLGYCKII</sequence>
+    <xref id="maker-Scaffold_63432_SNP_2670146-exonerate_protein2genome-gene-0.1-mRNA-1" name="maker-Scaffold_63432_SNP_2670146-exonerate_protein2genome-gene-0.1-mRNA-1"/>
+    <matches>
+      <hmmer3-match evalue="1.1E-22" score="82.6">
+        <signature ac="G3DSA:3.30.450.350" name="CHASE domain">
+          <entry ac="IPR042240" desc="CHASE domain superfamily" name="CHASE_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="Reactome" id="R-DDI-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+          </entry>
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>3t4lA02</model-ac>
+        <locations>
+          <hmmer3-location env-end="83" env-start="1" post-processed="true" score="82.4" evalue="1.2E-22" hmm-start="3" hmm-end="83" hmm-length="217" hmm-bounds="COMPLETE" start="1" end="83">
+            <location-fragments>
+              <hmmer3-location-fragment start="1" end="83" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="9.8E-12" score="45.2">
+        <signature ac="PF03924" desc="CHASE domain" name="CHASE">
+          <entry ac="IPR006189" desc="CHASE domain" name="CHASE_dom" type="DOMAIN">
+            <pathway-xref db="Reactome" id="R-DDI-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-5837" name="2-carboxy-1,4-naphthoquinol biosynthesis"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF03924</model-ac>
+        <locations>
+          <hmmer3-location env-end="84" env-start="1" post-processed="true" score="45.0" evalue="1.1E-11" hmm-start="5" hmm-end="88" hmm-length="188" hmm-bounds="INCOMPLETE" start="2" end="81">
+            <location-fragments>
+              <hmmer3-location-fragment start="2" end="81" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="2.5E-39" familyName="HISTIDINE KINASE 4" score="146.6">
+        <signature ac="PTHR43719:SF51" name="HISTIDINE KINASE 4">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR43719:SF51</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="82" hmm-start="112" hmm-end="189" hmm-length="998" hmm-bounds="INCOMPLETE" start="2" end="79">
+            <location-fragments>
+              <panther-location-fragment start="2" end="79" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="2.5E-39" familyName="HISTIDINE KINASE 4" score="146.6">
+        <signature ac="PTHR43719" name="TWO-COMPONENT HISTIDINE KINASE">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR43719</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="82" hmm-start="112" hmm-end="189" hmm-length="998" hmm-bounds="INCOMPLETE" start="2" end="79">
+            <location-fragments>
+              <panther-location-fragment start="2" end="79" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <profilescan-match>
+        <signature ac="PS50839" desc="CHASE domain profile." name="CHASE">
+          <entry ac="IPR006189" desc="CHASE domain" name="CHASE_dom" type="DOMAIN">
+            <pathway-xref db="Reactome" id="R-DDI-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-5837" name="2-carboxy-1,4-naphthoquinol biosynthesis"/>
+          </entry>
+          <signature-library-release library="PROSITE_PROFILES" version="2021_01"/>
+        </signature>
+        <model-ac>PS50839</model-ac>
+        <locations>
+          <profilescan-location score="14.415128" start="1" end="80">
+            <location-fragments>
+              <profilescan-location-fragment start="1" end="80" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>-----MQETFAEYTARTAFERPLLSGVAYAQRVVDSEREEFEKQHGWTIRTMERE----------PSPFSDEYAPVIFSQE--TVSYIESLDMMSGE-----------------------------------------------------------------------------------------------------------------------------</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+    </matches>
+  </protein>
+</protein-matches>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.56-89.0">
+  <protein>
+    <sequence md5="3ea72b4ea1aa464bc78c54f61045014d">MRNIGRMGIHYMHKLNAANVPTDLLEKGQNRVMEASLTLIRERAKLKGELVRALGGAVASSSLLGVPLGHNSSFLQG</sequence>
+    <xref id="maker-Scaffold_63514_SNP_229274-exonerate_est2genome-gene-0.0-mRNA-1" name="maker-Scaffold_63514_SNP_229274-exonerate_est2genome-gene-0.0-mRNA-1"/>
+    <matches>
+      <panther-match evalue="3.9E-23" familyName="ARGINASE 2, CHLOROPLASTIC/MITOCHONDRIAL" score="93.6">
+        <signature ac="PTHR11358" name="ARGINASE/AGMATINASE">
+          <entry ac="IPR006035" desc="Ureohydrolase" name="Ureohydrolase" type="FAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0046872" name="metal ion binding"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7274" name="D-cycloserine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-4984" name="urea cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-46" name="putrescine biosynthesis III"/>
+            <pathway-xref db="Reactome" id="R-SCE-70635" name="Urea cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-351143" name="Agmatine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6922" name="L-Ndelta-acetylornithine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5742" name="L-arginine degradation IX (arginine:pyruvate transaminase pathway)"/>
+            <pathway-xref db="Reactome" id="R-BTA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6834" name="spermidine biosynthesis III"/>
+            <pathway-xref db="MetaCyc" id="PWY-7523" name="L-arginine degradation XII"/>
+            <pathway-xref db="MetaCyc" id="PWY-31" name="canavanine degradation"/>
+            <pathway-xref db="Reactome" id="R-SSC-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-70635" name="Urea cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-5024" name="L-arginine degradation XI"/>
+            <pathway-xref db="MetaCyc" id="PWY-5679" name="clavulanate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-40" name="putrescine biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SPO-70635" name="Urea cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-70635" name="Urea cycle"/>
+            <pathway-xref db="Reactome" id="R-SSC-70635" name="Urea cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-351143" name="Agmatine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-70635" name="Urea cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-351143" name="Agmatine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-70635" name="Urea cycle"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+          </entry>
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR11358</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="77" hmm-start="6" hmm-end="79" hmm-length="340" hmm-bounds="C_TERMINAL_COMPLETE" start="4" end="77">
+            <location-fragments>
+              <panther-location-fragment start="4" end="77" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="3.9E-23" familyName="ARGINASE 2, CHLOROPLASTIC/MITOCHONDRIAL" score="93.6">
+        <signature ac="PTHR11358:SF32" name="ARGINASE 2, CHLOROPLASTIC/MITOCHONDRIAL">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR11358:SF32</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="77" hmm-start="6" hmm-end="79" hmm-length="340" hmm-bounds="C_TERMINAL_COMPLETE" start="4" end="77">
+            <location-fragments>
+              <panther-location-fragment start="4" end="77" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

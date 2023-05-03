@@ -1,0 +1,1839 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="1ced9604fb59e82a403f96bf41794412">MWRRLTSLPEKGISGLTSLRTLLISNCWELTSLPEGIQHLTKLRKLEIIFCPKLLSLPSGMRYLTALEHLRIKRCEVLKVSDEDFQGLSSLKFLYLESLPRLVSLPKGLQHAAAATLTHMEIVYCLRLRMLLESLSNFRSLRTLVIVYCPDLLYLPEGMQHLTALQSLSIHYCPHISIRCRREGQDWSKIAHVPHLAIGH</sequence>
+    <xref id="maker-Scaffold_9534_SNP_2850933-exonerate_protein2genome-gene-0.1-mRNA-4" name="maker-Scaffold_9534_SNP_2850933-exonerate_protein2genome-gene-0.1-mRNA-4"/>
+    <matches>
+      <hmmer3-match evalue="2.4E-38" score="133.4">
+        <signature ac="G3DSA:3.80.10.10" name="Ribonuclease Inhibitor">
+          <entry ac="IPR032675" desc="Leucine-rich repeat domain superfamily" name="LRR_dom_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="Reactome" id="R-MMU-1474228" name="Degradation of the extracellular matrix"/>
+            <pathway-xref db="Reactome" id="R-HSA-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="Reactome" id="R-HSA-5673001" name="RAF/MAP kinase cascade"/>
+            <pathway-xref db="Reactome" id="R-HSA-187042" name="TRKA activation by NGF"/>
+            <pathway-xref db="Reactome" id="R-MMU-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-MMU-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-7049" name="icosapentaenoate biosynthesis II (6-desaturase, mammals)"/>
+            <pathway-xref db="Reactome" id="R-HSA-1474228" name="Degradation of the extracellular matrix"/>
+            <pathway-xref db="Reactome" id="R-HSA-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-DME-193634" name="Axonal growth inhibition (RHOA activation)"/>
+            <pathway-xref db="Reactome" id="R-RNO-163210" name="Formation of ATP by chemiosmotic coupling"/>
+            <pathway-xref db="MetaCyc" id="PWY-8143" name="L-ascorbate biosynthesis VII (plants, D-galacturonate pathway)"/>
+            <pathway-xref db="Reactome" id="R-RNO-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="Reactome" id="R-RNO-6794361" name="Neurexins and neuroligins"/>
+            <pathway-xref db="Reactome" id="R-RNO-76009" name="Platelet Aggregation (Plug Formation)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7465" name="3,3'-thiodipropanoate degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-72163" name="mRNA Splicing - Major Pathway"/>
+            <pathway-xref db="Reactome" id="R-DDI-1660517" name="Synthesis of PIPs at the late endosome membrane"/>
+            <pathway-xref db="Reactome" id="R-HSA-9617324" name="Negative regulation of NMDA receptor-mediated neuronal transmission"/>
+            <pathway-xref db="Reactome" id="R-MMU-9706019" name="RHOBTB3 ATPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7521" name="3-(4-sulfophenyl)butanoate degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-390471" name="Association of TriC/CCT with target proteins during biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7714" name="harzianum A and trichodermin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7606" name="docosahexaenoate biosynthesis III (6-desaturase, mammals)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5987" name="sorgoleone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-8854050" name="FBXL7 down-regulates AURKA during mitotic entry and in early mitosis"/>
+            <pathway-xref db="Reactome" id="R-DRE-3134975" name="Regulation of innate immune responses to cytosolic DNA"/>
+            <pathway-xref db="Reactome" id="R-MMU-9615933" name="Postmitotic nuclear pore complex (NPC) reformation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9034864" name="Activated NTRK3 signals through RAS"/>
+            <pathway-xref db="Reactome" id="R-MMU-8854050" name="FBXL7 down-regulates AURKA during mitotic entry and in early mitosis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8053" name="anandamide biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-8049" name="pederin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-170984" name="ARMS-mediated activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-76009" name="Platelet Aggregation (Plug Formation)"/>
+            <pathway-xref db="Reactome" id="R-MMU-68877" name="Mitotic Prometaphase"/>
+            <pathway-xref db="Reactome" id="R-RNO-5223345" name="Miscellaneous transport and binding events"/>
+            <pathway-xref db="MetaCyc" id="PWY-7612" name="chaetoglobosin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-8951664" name="Neddylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9026357" name="NTF4 activates NTRK2 (TRKB) signaling"/>
+            <pathway-xref db="Reactome" id="R-RNO-159230" name="Transport of the SLBP Dependant Mature mRNA"/>
+            <pathway-xref db="Reactome" id="R-CEL-9010553" name="Regulation of expression of SLITs and ROBOs"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-MMU-5673001" name="RAF/MAP kinase cascade"/>
+            <pathway-xref db="Reactome" id="R-CEL-5673000" name="RAF activation"/>
+            <pathway-xref db="Reactome" id="R-MMU-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7585" name="docosahexaenoate biosynthesis II (bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7695" name="aurofusarin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-170968" name="Frs2-mediated activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5353" name="arachidonate biosynthesis I (6-desaturase, lower eukaryotes)"/>
+            <pathway-xref db="Reactome" id="R-DME-199418" name="Negative regulation of the PI3K/AKT network"/>
+            <pathway-xref db="Reactome" id="R-HSA-4420332" name="Defective B3GALT6 causes EDSP2 and SEMDJL1"/>
+            <pathway-xref db="Reactome" id="R-MMU-168138" name="Toll Like Receptor 9 (TLR9) Cascade"/>
+            <pathway-xref db="Reactome" id="R-MMU-6803205" name="TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-XTR-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-8876198" name="RAB GEFs exchange GTP for GDP on RABs"/>
+            <pathway-xref db="MetaCyc" id="PWY-8032" name="chloramphenicol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-170968" name="Frs2-mediated activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6841" name="homophytochelatin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-9013424" name="RHOV GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-5682910" name="LGI-ADAM interactions"/>
+            <pathway-xref db="Reactome" id="R-GGA-75892" name="Platelet Adhesion to exposed collagen"/>
+            <pathway-xref db="Reactome" id="R-HSA-159236" name="Transport of Mature mRNA derived from an Intron-Containing Transcript"/>
+            <pathway-xref db="MetaCyc" id="PWY-7448" name="galloylated catechin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5655302" name="Signaling by FGFR1 in disease"/>
+            <pathway-xref db="Reactome" id="R-MMU-159231" name="Transport of Mature mRNA Derived from an Intronless Transcript"/>
+            <pathway-xref db="Reactome" id="R-HSA-388844" name="Receptor-type tyrosine-protein phosphatases"/>
+            <pathway-xref db="MetaCyc" id="PWY-7543" name="5-N-acetylardeemin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-442982" name="Ras activation upon Ca2+ influx through NMDA receptor"/>
+            <pathway-xref db="Reactome" id="R-HSA-9679191" name="Potential therapeutics for SARS"/>
+            <pathway-xref db="Reactome" id="R-DRE-76009" name="Platelet Aggregation (Plug Formation)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7987" name="vanchrobactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-390522" name="Striated Muscle Contraction"/>
+            <pathway-xref db="Reactome" id="R-HSA-5682910" name="LGI-ADAM interactions"/>
+            <pathway-xref db="Reactome" id="R-BTA-2022857" name="Keratan sulfate degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-6803205" name="TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain"/>
+            <pathway-xref db="MetaCyc" id="PWY-8247" name="(Kdo)2-lipid A biosynthesis (P. gingivalis)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9665247" name="Resistance of ERBB2 KD mutants to osimertinib"/>
+            <pathway-xref db="Reactome" id="R-MMU-844455" name="The NLRP1 inflammasome"/>
+            <pathway-xref db="Reactome" id="R-RNO-177504" name="Retrograde neurotrophin signalling"/>
+            <pathway-xref db="Reactome" id="R-HSA-429947" name="Deadenylation of mRNA"/>
+            <pathway-xref db="MetaCyc" id="PWY-7547" name="prodigiosin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8106" name="queuosine biosynthesis III (queuosine salvage)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7660" name="tryptoquialanine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-936964" name="Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon"/>
+            <pathway-xref db="Reactome" id="R-MMU-376176" name="Signaling by ROBO receptors"/>
+            <pathway-xref db="Reactome" id="R-CEL-72163" name="mRNA Splicing - Major Pathway"/>
+            <pathway-xref db="Reactome" id="R-CFA-8951664" name="Neddylation"/>
+            <pathway-xref db="Reactome" id="R-XTR-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-BTA-2024101" name="CS/DS degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-187577" name="SCF(Skp2)-mediated degradation of p27/p21"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-8949613" name="Cristae formation"/>
+            <pathway-xref db="Reactome" id="R-RNO-9013149" name="RAC1 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-140534" name="Caspase activation via Death Receptors in the presence of ligand"/>
+            <pathway-xref db="Reactome" id="R-HSA-9726842" name="Gain-of-function MRAS complexes activate RAF signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7950" name="diadinoxanthin and fucoxanthin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9707616" name="Heme signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-450520" name="HuR (ELAVL1) binds and stabilizes mRNA"/>
+            <pathway-xref db="MetaCyc" id="PWY-7930" name="pyoluteorin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6842" name="glutathione-mediated detoxification II"/>
+            <pathway-xref db="Reactome" id="R-MMU-937041" name="IKK complex recruitment mediated by RIP1"/>
+            <pathway-xref db="Reactome" id="R-HSA-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-XTR-8951664" name="Neddylation"/>
+            <pathway-xref db="Reactome" id="R-MMU-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-4641263" name="Regulation of FZD by ubiquitination"/>
+            <pathway-xref db="Reactome" id="R-RNO-9032759" name="NTRK2 activates RAC1"/>
+            <pathway-xref db="MetaCyc" id="PWY-7982" name="pinoresinol degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-168638" name="NOD1/2 Signaling Pathway"/>
+            <pathway-xref db="Reactome" id="R-MMU-3108232" name="SUMO E3 ligases SUMOylate target proteins"/>
+            <pathway-xref db="Reactome" id="R-DDI-5213460" name="RIPK1-mediated regulated necrosis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6463" name="peptidoglycan cross-bridge biosynthesis IV (Weissella viridescens)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9014325" name="TICAM1,TRAF6-dependent induction of TAK1 complex"/>
+            <pathway-xref db="Reactome" id="R-HSA-177504" name="Retrograde neurotrophin signalling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7817" name="type I lipoteichoic acid biosynthesis (S. aureus)"/>
+            <pathway-xref db="Reactome" id="R-DME-450520" name="HuR (ELAVL1) binds and stabilizes mRNA"/>
+            <pathway-xref db="Reactome" id="R-MMU-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-MMU-428890" name="Role of ABL in ROBO-SLIT signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-68877" name="Mitotic Prometaphase"/>
+            <pathway-xref db="Reactome" id="R-SPO-8949613" name="Cristae formation"/>
+            <pathway-xref db="Reactome" id="R-MMU-983231" name="Factors involved in megakaryocyte development and platelet production"/>
+            <pathway-xref db="Reactome" id="R-HSA-165054" name="Rev-mediated nuclear export of HIV RNA"/>
+            <pathway-xref db="Reactome" id="R-CFA-1474228" name="Degradation of the extracellular matrix"/>
+            <pathway-xref db="Reactome" id="R-HSA-390522" name="Striated Muscle Contraction"/>
+            <pathway-xref db="Reactome" id="R-RNO-390522" name="Striated Muscle Contraction"/>
+            <pathway-xref db="Reactome" id="R-HSA-445355" name="Smooth Muscle Contraction"/>
+            <pathway-xref db="Reactome" id="R-HSA-5686938" name="Regulation of TLR by endogenous ligand"/>
+            <pathway-xref db="Reactome" id="R-MMU-168181" name="Toll Like Receptor 7/8 (TLR7/8) Cascade"/>
+            <pathway-xref db="Reactome" id="R-RNO-198203" name="PI3K/AKT activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9665244" name="Resistance of ERBB2 KD mutants to sapitinib"/>
+            <pathway-xref db="Reactome" id="R-MMU-68949" name="Orc1 removal from chromatin"/>
+            <pathway-xref db="Reactome" id="R-HSA-3108232" name="SUMO E3 ligases SUMOylate target proteins"/>
+            <pathway-xref db="Reactome" id="R-HSA-8876493" name="InlA-mediated entry of Listeria monocytogenes into host cells"/>
+            <pathway-xref db="Reactome" id="R-DRE-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="MetaCyc" id="PWY-7887" name="protein SAMPylation and SAMP-mediated thiolation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9707616" name="Heme signaling"/>
+            <pathway-xref db="Reactome" id="R-RNO-8873719" name="RAB geranylgeranylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6320" name="phaselate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6407" name="yersiniabactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5686938" name="Regulation of TLR by endogenous ligand"/>
+            <pathway-xref db="Reactome" id="R-GGA-9026527" name="Activated NTRK2 signals through PLCG1"/>
+            <pathway-xref db="Reactome" id="R-HSA-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5975" name="furaneol and mesifurane biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-214863" name="Adaptor protein complex binds to TL receptor at the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-MMU-5663220" name="RHO GTPases Activate Formins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7415" name="tylosin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5602571" name="TRAF3 deficiency - HSE"/>
+            <pathway-xref db="MetaCyc" id="PWY-6946" name="cholesterol degradation to androstenedione II (cholesterol dehydrogenase)"/>
+            <pathway-xref db="Reactome" id="R-RNO-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="Reactome" id="R-HSA-5663220" name="RHO GTPases Activate Formins"/>
+            <pathway-xref db="Reactome" id="R-MMU-76009" name="Platelet Aggregation (Plug Formation)"/>
+            <pathway-xref db="Reactome" id="R-MMU-9708530" name="Regulation of BACH1 activity"/>
+            <pathway-xref db="Reactome" id="R-HSA-9024909" name="BDNF activates NTRK2 (TRKB) signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-438066" name="Unblocking of NMDA receptors, glutamate binding and activation"/>
+            <pathway-xref db="Reactome" id="R-CFA-1971475" name="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-163210" name="Formation of ATP by chemiosmotic coupling"/>
+            <pathway-xref db="Reactome" id="R-MMU-177929" name="Signaling by EGFR"/>
+            <pathway-xref db="MetaCyc" id="PWY-1921" name="indole-3-acetate activation II"/>
+            <pathway-xref db="Reactome" id="R-DRE-5673000" name="RAF activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8082" name="glycine lipid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-975138" name="TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7565" name="aspyridone A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-XTR-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-428890" name="Role of ABL in ROBO-SLIT signaling"/>
+            <pathway-xref db="Reactome" id="R-RNO-9603381" name="Activated NTRK3 signals through PI3K"/>
+            <pathway-xref db="Reactome" id="R-HSA-199418" name="Negative regulation of the PI3K/AKT network"/>
+            <pathway-xref db="Reactome" id="R-HSA-9708530" name="Regulation of BACH1 activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-7445" name="luteolin triglucuronide degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-444821" name="Relaxin receptors"/>
+            <pathway-xref db="MetaCyc" id="PWY-5903" name="bacillibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="MetaCyc" id="PWY-7689" name="8-O-methylfusarubin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9706019" name="RHOBTB3 ATPase cycle"/>
+            <pathway-xref db="Reactome" id="R-DME-209442" name="Formation of the trans-membrane 'signalling complex'"/>
+            <pathway-xref db="Reactome" id="R-RNO-9013423" name="RAC3 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-170984" name="ARMS-mediated activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-1679131" name="Trafficking and processing of endosomal TLR"/>
+            <pathway-xref db="MetaCyc" id="PWY-6945" name="cholesterol degradation to androstenedione I (cholesterol oxidase)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7464" name="cyanidin 3,7-diglucoside polyacylation biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-8941413" name="Events associated with phagocytolytic activity of PMN cells"/>
+            <pathway-xref db="MetaCyc" id="PWY-7726" name="(4Z,7Z,10Z,13Z,16Z)-docosapentaenoate biosynthesis (6-desaturase)"/>
+            <pathway-xref db="Reactome" id="R-MMU-430116" name="GP1b-IX-V activation signalling"/>
+            <pathway-xref db="Reactome" id="R-BTA-450520" name="HuR (ELAVL1) binds and stabilizes mRNA"/>
+            <pathway-xref db="MetaCyc" id="PWY-7280" name="ternatin C3 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-5673000" name="RAF activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9665249" name="Resistance of ERBB2 KD mutants to afatinib"/>
+            <pathway-xref db="Reactome" id="R-MMU-937072" name="TRAF6-mediated induction of TAK1 complex within TLR4 complex"/>
+            <pathway-xref db="Reactome" id="R-MMU-1679131" name="Trafficking and processing of endosomal TLR"/>
+            <pathway-xref db="MetaCyc" id="PWY-6027" name="capsiconiate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-2022857" name="Keratan sulfate degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7954" name="tabtoxinine-beta-lactam biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5673000" name="RAF activation"/>
+            <pathway-xref db="Reactome" id="R-MMU-375281" name="Hormone ligand-binding receptors"/>
+            <pathway-xref db="Reactome" id="R-HSA-445989" name="TAK1 activates NFkB by phosphorylation and activation of IKKs complex"/>
+            <pathway-xref db="Reactome" id="R-MMU-8873719" name="RAB geranylgeranylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6998" name="CDP-D-arabitol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-450321" name="JNK (c-Jun kinases) phosphorylation and activation mediated by activated human TAK1"/>
+            <pathway-xref db="Reactome" id="R-HSA-9010553" name="Regulation of expression of SLITs and ROBOs"/>
+            <pathway-xref db="Reactome" id="R-DRE-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-DDI-3295583" name="TRP channels"/>
+            <pathway-xref db="MetaCyc" id="PWY-7352" name="daunorubicin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-214862" name="Activated PLL kinase is autophosphorylated in the TL receptor 'signalling complex'"/>
+            <pathway-xref db="Reactome" id="R-MMU-9034793" name="Activated NTRK3 signals through PLCG1"/>
+            <pathway-xref db="Reactome" id="R-HSA-2022857" name="Keratan sulfate degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-936440" name="Negative regulators of DDX58/IFIH1 signaling"/>
+            <pathway-xref db="Reactome" id="R-RNO-9696270" name="RND2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-SPO-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-2681" name="trans-zeatin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-159230" name="Transport of the SLBP Dependant Mature mRNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-9665233" name="Resistance of ERBB2 KD mutants to trastuzumab"/>
+            <pathway-xref db="Reactome" id="R-MMU-159230" name="Transport of the SLBP Dependant Mature mRNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-430116" name="GP1b-IX-V activation signalling"/>
+            <pathway-xref db="Reactome" id="R-HSA-936440" name="Negative regulators of DDX58/IFIH1 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-8116" name="ochratoxin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-975110" name="TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-975155" name="MyD88 dependent cascade initiated on endosome"/>
+            <pathway-xref db="Reactome" id="R-BTA-1474228" name="Degradation of the extracellular matrix"/>
+            <pathway-xref db="Reactome" id="R-HSA-5602498" name="MyD88 deficiency (TLR2/4)"/>
+            <pathway-xref db="Reactome" id="R-XTR-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-6373" name="acrylate degradation I"/>
+            <pathway-xref db="Reactome" id="R-DRE-9696270" name="RND2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-5602415" name="UNC93B1 deficiency - HSE"/>
+            <pathway-xref db="Reactome" id="R-MMU-8939902" name="Regulation of RUNX2 expression and activity"/>
+            <pathway-xref db="Reactome" id="R-HSA-2500257" name="Resolution of Sister Chromatid Cohesion"/>
+            <pathway-xref db="Reactome" id="R-HSA-9032845" name="Activated NTRK2 signals through CDK5"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013404" name="RAC2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-9673221" name="Defective F9 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7461" name="hydroxycinnamate sugar acid ester biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-193634" name="Axonal growth inhibition (RHOA activation)"/>
+            <pathway-xref db="Reactome" id="R-HSA-168179" name="Toll Like Receptor TLR1:TLR2 Cascade"/>
+            <pathway-xref db="Reactome" id="R-HSA-450321" name="JNK (c-Jun kinases) phosphorylation and activation mediated by activated human TAK1"/>
+            <pathway-xref db="MetaCyc" id="PWY-7653" name="griseofulvin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-381676" name="Glucagon-like Peptide-1 (GLP1) regulates insulin secretion"/>
+            <pathway-xref db="MetaCyc" id="PWY-8012" name="mupirocin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013424" name="RHOV GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-9687136" name="Aberrant regulation of mitotic exit in cancer due to RB1 defects"/>
+            <pathway-xref db="MetaCyc" id="PWY-4801" name="aloesone biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-HSA-167021" name="PLC-gamma1 signalling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7171" name="flavonol acylglucoside biosynthesis II - isorhamnetin derivatives"/>
+            <pathway-xref db="Reactome" id="R-SCE-9615933" name="Postmitotic nuclear pore complex (NPC) reformation"/>
+            <pathway-xref db="Reactome" id="R-RNO-187042" name="TRKA activation by NGF"/>
+            <pathway-xref db="Reactome" id="R-HSA-5620916" name="VxPx cargo-targeting to cilium"/>
+            <pathway-xref db="Reactome" id="R-CFA-2022870" name="Chondroitin sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-1461957" name="Beta defensins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7679" name="anthocyanidin acylglucoside and acylsambubioside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9652282" name="Drug-mediated inhibition of ERBB2 signaling"/>
+            <pathway-xref db="Reactome" id="R-RNO-6803205" name="TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain"/>
+            <pathway-xref db="MetaCyc" id="PWY-6958" name="icosapentaenoate biosynthesis I (lower eukaryotes)"/>
+            <pathway-xref db="Reactome" id="R-HSA-5602410" name="TLR3 deficiency - HSE"/>
+            <pathway-xref db="Reactome" id="R-XTR-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DDI-1632852" name="Macroautophagy"/>
+            <pathway-xref db="Reactome" id="R-HSA-373752" name="Netrin-1 signaling"/>
+            <pathway-xref db="Reactome" id="R-CEL-159227" name="Transport of the SLBP independent Mature mRNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-166020" name="Transfer of LPS from LBP carrier to CD14"/>
+            <pathway-xref db="Reactome" id="R-DRE-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-5475" name="pentagalloylglucose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-DRE-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7688" name="dTDP-alpha-D-ravidosamine and dTDP-4-acetyl-alpha-D-ravidosamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9634285" name="Constitutive Signaling by Overexpressed ERBB2"/>
+            <pathway-xref db="Reactome" id="R-MMU-5223345" name="Miscellaneous transport and binding events"/>
+            <pathway-xref db="MetaCyc" id="PWY-7713" name="nivalenol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7412" name="mycinamicin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-141444" name="Amplification of signal from unattached kinetochores via a MAD2 inhibitory signal"/>
+            <pathway-xref db="MetaCyc" id="PWY-7669" name="equisetin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-SCE-3108232" name="SUMO E3 ligases SUMOylate target proteins"/>
+            <pathway-xref db="Reactome" id="R-HSA-8985586" name="SLIT2:ROBO1 increases RHOA activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-7470" name="phosphatidylcholine biosynthesis VII"/>
+            <pathway-xref db="Reactome" id="R-MMU-5654687" name="Downstream signaling of activated FGFR1"/>
+            <pathway-xref db="Reactome" id="R-DDI-5675482" name="Regulation of necroptotic cell death"/>
+            <pathway-xref db="MetaCyc" id="PWY-6944" name="androstenedione degradation I (aerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7561" name="tenellin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7904" name="tRNA-uridine 2-thiolation (thermophilic bacteria)"/>
+            <pathway-xref db="Reactome" id="R-GGA-430116" name="GP1b-IX-V activation signalling"/>
+            <pathway-xref db="Reactome" id="R-DME-214869" name="Phosphorylated CACT, DL and DIF homodimers dissociate from the TL receptor 'signalling complex'"/>
+            <pathway-xref db="MetaCyc" id="PWY-7884" name="lipoprotein posttranslational modification"/>
+            <pathway-xref db="MetaCyc" id="PWY-7659" name="viridicatumtoxin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-84" name="resveratrol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7250" name="[2Fe-2S] iron-sulfur cluster biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6682" name="dehydrophos biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2243919" name="Crosslinking of collagen fibrils"/>
+            <pathway-xref db="Reactome" id="R-HSA-168164" name="Toll Like Receptor 3 (TLR3) Cascade"/>
+            <pathway-xref db="Reactome" id="R-XTR-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="Reactome" id="R-HSA-166016" name="Toll Like Receptor 4 (TLR4) Cascade"/>
+            <pathway-xref db="Reactome" id="R-MMU-445989" name="TAK1 activates NFkB by phosphorylation and activation of IKKs complex"/>
+            <pathway-xref db="Reactome" id="R-MMU-163210" name="Formation of ATP by chemiosmotic coupling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7728" name="(4Z,7Z,10Z,13Z,16Z)-docosa-4,7,10,13,16-pentaenoate biosynthesis II (4-desaturase)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6626" name="cytidine-5'-diphosphate-glycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-140534" name="Caspase activation via Death Receptors in the presence of ligand"/>
+            <pathway-xref db="Reactome" id="R-CEL-3108232" name="SUMO E3 ligases SUMOylate target proteins"/>
+            <pathway-xref db="Reactome" id="R-DME-159231" name="Transport of Mature mRNA Derived from an Intronless Transcript"/>
+            <pathway-xref db="Reactome" id="R-CEL-209968" name="Thyroxine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-438066" name="Unblocking of NMDA receptors, glutamate binding and activation"/>
+            <pathway-xref db="Reactome" id="R-SCE-6803207" name="TP53 Regulates Transcription of Caspase Activators and Caspases"/>
+            <pathway-xref db="MetaCyc" id="PWY-5381" name="NAD salvage (plants)"/>
+            <pathway-xref db="Reactome" id="R-DDI-171007" name="p38MAPK events"/>
+            <pathway-xref db="MetaCyc" id="PWY-7746" name="mycobacterial sulfolipid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-187024" name="NGF-independant TRKA activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8151" name="cholesterol degradation to androstenedione III (anaerobic)"/>
+            <pathway-xref db="Reactome" id="R-HSA-8980692" name="RHOA GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-166020" name="Transfer of LPS from LBP carrier to CD14"/>
+            <pathway-xref db="MetaCyc" id="PWY-7002" name="4-hydroxyacetophenone degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7053" name="docosahexaenoate biosynthesis I (lower eukaryotes)"/>
+            <pathway-xref db="Reactome" id="R-MMU-166016" name="Toll Like Receptor 4 (TLR4) Cascade"/>
+            <pathway-xref db="Reactome" id="R-RNO-5654687" name="Downstream signaling of activated FGFR1"/>
+            <pathway-xref db="Reactome" id="R-HSA-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="Reactome" id="R-HSA-170968" name="Frs2-mediated activation"/>
+            <pathway-xref db="Reactome" id="R-MMU-1227986" name="Signaling by ERBB2"/>
+            <pathway-xref db="Reactome" id="R-MMU-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-159231" name="Transport of Mature mRNA Derived from an Intronless Transcript"/>
+            <pathway-xref db="Reactome" id="R-HSA-450302" name="activated TAK1 mediates p38 MAPK activation"/>
+            <pathway-xref db="Reactome" id="R-MMU-174178" name="APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1"/>
+            <pathway-xref db="Reactome" id="R-BTA-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8243" name="colanic acid (Escherichia coli K12) biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="Reactome" id="R-HSA-198203" name="PI3K/AKT activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-199418" name="Negative regulation of the PI3K/AKT network"/>
+            <pathway-xref db="MetaCyc" id="PWY-7816" name="poly(ribitol phosphate) wall teichoic acid biosynthesis II (S. aureus)"/>
+            <pathway-xref db="Reactome" id="R-HSA-428540" name="Activation of RAC1"/>
+            <pathway-xref db="MetaCyc" id="PWY-8045" name="cylindrospermopsin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-168142" name="Toll Like Receptor 10 (TLR10) Cascade"/>
+            <pathway-xref db="Reactome" id="R-HSA-198745" name="Signalling to STAT3"/>
+            <pathway-xref db="Reactome" id="R-MMU-450302" name="activated TAK1 mediates p38 MAPK activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7690" name="holomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-5223345" name="Miscellaneous transport and binding events"/>
+            <pathway-xref db="Reactome" id="R-HSA-9648025" name="EML4 and NUDC in mitotic spindle formation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5660" name="taxol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2024101" name="CS/DS degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-430116" name="GP1b-IX-V activation signalling"/>
+            <pathway-xref db="Reactome" id="R-HSA-5689901" name="Metalloprotease DUBs"/>
+            <pathway-xref db="MetaCyc" id="PWY-7696" name="citreoisocoumarin and bikisocoumarin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7342" name="superpathway of nicotine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-68949" name="Orc1 removal from chromatin"/>
+            <pathway-xref db="Reactome" id="R-DRE-9013409" name="RHOJ GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013026" name="RHOB GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-BTA-3000178" name="ECM proteoglycans"/>
+            <pathway-xref db="Reactome" id="R-HSA-937072" name="TRAF6-mediated induction of TAK1 complex within TLR4 complex"/>
+            <pathway-xref db="Reactome" id="R-HSA-187706" name="Signalling to p38 via RIT and RIN"/>
+            <pathway-xref db="Reactome" id="R-CEL-8951664" name="Neddylation"/>
+            <pathway-xref db="Reactome" id="R-DDI-1660499" name="Synthesis of PIPs at the plasma membrane"/>
+            <pathway-xref db="MetaCyc" id="PWY-7592" name="arachidonate biosynthesis III (6-desaturase, mammals)"/>
+            <pathway-xref db="Reactome" id="R-HSA-8849932" name="Synaptic adhesion-like molecules"/>
+            <pathway-xref db="Reactome" id="R-HSA-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-HSA-9660821" name="ADORA2B mediated anti-inflammatory cytokines production"/>
+            <pathway-xref db="MetaCyc" id="PWY-8152" name="androstenedione degradation II (anaerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-361" name="phenylpropanoid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9664565" name="Signaling by ERBB2 KD Mutants"/>
+            <pathway-xref db="Reactome" id="R-HSA-1971475" name="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5617472" name="Activation of anterior HOX genes in hindbrain development during early embryogenesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5984" name="rifamycin B biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6442" name="spermidine hydroxycinnamic acid conjugates biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-159227" name="Transport of the SLBP independent Mature mRNA"/>
+            <pathway-xref db="MetaCyc" id="PWY-7530" name="Escherichia coli serotype O:104 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9609736" name="Assembly and cell surface presentation of NMDA receptors"/>
+            <pathway-xref db="Reactome" id="R-RNO-450520" name="HuR (ELAVL1) binds and stabilizes mRNA"/>
+            <pathway-xref db="Reactome" id="R-MMU-5689896" name="Ovarian tumor domain proteases"/>
+            <pathway-xref db="Reactome" id="R-MMU-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="MetaCyc" id="PWY-6673" name="caffeoylglucarate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="MetaCyc" id="PWY-6799" name="fatty acid biosynthesis initiation (plant mitochondria)"/>
+            <pathway-xref db="Reactome" id="R-RNO-2022870" name="Chondroitin sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-389977" name="Post-chaperonin tubulin folding pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-9603381" name="Activated NTRK3 signals through PI3K"/>
+            <pathway-xref db="Reactome" id="R-HSA-9034013" name="NTF3 activates NTRK3 signaling"/>
+            <pathway-xref db="Reactome" id="R-SPO-6803207" name="TP53 Regulates Transcription of Caspase Activators and Caspases"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7318" name="dTDP-3-acetamido-3,6-dideoxy-alpha-D-glucose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="MetaCyc" id="PWY-7986" name="anguibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9696270" name="RND2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-3214842" name="HDMs demethylate histones"/>
+            <pathway-xref db="Reactome" id="R-SCE-163210" name="Formation of ATP by chemiosmotic coupling"/>
+            <pathway-xref db="Reactome" id="R-DRE-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="Reactome" id="R-DME-214874" name="PLL kinase binds to TUB in the TL receptor 'signalling complex'"/>
+            <pathway-xref db="Reactome" id="R-HSA-9696264" name="RND3 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-9028731" name="Activated NTRK2 signals through FRS2 and FRS3"/>
+            <pathway-xref db="MetaCyc" id="PWY-7407" name="aurachin A, B, C and D biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-141444" name="Amplification of signal from unattached kinetochores via a MAD2 inhibitory signal"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013149" name="RAC1 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-9615933" name="Postmitotic nuclear pore complex (NPC) reformation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013423" name="RAC3 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-6310" name="aloesone biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-HSA-428542" name="Regulation of commissural axon pathfinding by SLIT and ROBO"/>
+            <pathway-xref db="Reactome" id="R-DME-4615885" name="SUMOylation of DNA replication proteins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7815" name="poly(ribitol phosphate) wall teichoic acid biosynthesis I (B. subtilis)"/>
+            <pathway-xref db="Reactome" id="R-RNO-159236" name="Transport of Mature mRNA derived from an Intron-Containing Transcript"/>
+            <pathway-xref db="MetaCyc" id="PWY-5794" name="malonate degradation I (biotin-independent)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9020702" name="Interleukin-1 signaling"/>
+            <pathway-xref db="Reactome" id="R-DRE-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7712" name="deoxynivalenol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-193634" name="Axonal growth inhibition (RHOA activation)"/>
+            <pathway-xref db="Reactome" id="R-XTR-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-DDI-430116" name="GP1b-IX-V activation signalling"/>
+            <pathway-xref db="Reactome" id="R-MMU-187577" name="SCF(Skp2)-mediated degradation of p27/p21"/>
+            <pathway-xref db="Reactome" id="R-MMU-6794361" name="Neurexins and neuroligins"/>
+            <pathway-xref db="MetaCyc" id="PWY-5466" name="matairesinol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-390522" name="Striated Muscle Contraction"/>
+            <pathway-xref db="MetaCyc" id="PWY-5461" name="betanidin degradation"/>
+            <pathway-xref db="Reactome" id="R-SPO-163210" name="Formation of ATP by chemiosmotic coupling"/>
+            <pathway-xref db="Reactome" id="R-HSA-844623" name="The IPAF inflammasome"/>
+            <pathway-xref db="Reactome" id="R-HSA-6803207" name="TP53 Regulates Transcription of Caspase Activators and Caspases"/>
+            <pathway-xref db="Reactome" id="R-HSA-4615885" name="SUMOylation of DNA replication proteins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7382" name="lipoate biosynthesis and incorporation IV (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8035" name="streptovaricin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-6803207" name="TP53 Regulates Transcription of Caspase Activators and Caspases"/>
+            <pathway-xref db="MetaCyc" id="PWY-7583" name="arachidonate biosynthesis II (bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7460" name="2-O-acetyl-3-O-trans-coutarate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6807004" name="Negative regulation of MET activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-7888" name="tRNA-uridine 2-thiolation (cytoplasmic)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9032759" name="NTRK2 activates RAC1"/>
+            <pathway-xref db="Reactome" id="R-HSA-877300" name="Interferon gamma signaling"/>
+            <pathway-xref db="Reactome" id="R-DDI-9013149" name="RAC1 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-8863795" name="Downregulation of ERBB2 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-8051" name="anandamide biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-HSA-75892" name="Platelet Adhesion to exposed collagen"/>
+            <pathway-xref db="Reactome" id="R-MMU-4615885" name="SUMOylation of DNA replication proteins"/>
+            <pathway-xref db="Reactome" id="R-MMU-8857538" name="PTK6 promotes HIF1A stabilization"/>
+            <pathway-xref db="Reactome" id="R-HSA-9620244" name="Long-term potentiation"/>
+            <pathway-xref db="Reactome" id="R-CEL-2243919" name="Crosslinking of collagen fibrils"/>
+            <pathway-xref db="Reactome" id="R-RNO-444821" name="Relaxin receptors"/>
+            <pathway-xref db="Reactome" id="R-HSA-400253" name="Circadian Clock"/>
+            <pathway-xref db="Reactome" id="R-DDI-168638" name="NOD1/2 Signaling Pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-3656225" name="Defective CHST6 causes MCDC1"/>
+            <pathway-xref db="Reactome" id="R-HSA-8875360" name="InlB-mediated entry of Listeria monocytogenes into host cell"/>
+            <pathway-xref db="Reactome" id="R-HSA-1606341" name="IRF3 mediated activation of type 1 IFN"/>
+            <pathway-xref db="Reactome" id="R-SSC-375281" name="Hormone ligand-binding receptors"/>
+            <pathway-xref db="Reactome" id="R-HSA-8863795" name="Downregulation of ERBB2 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-8231" name="Escherichia coli serotype O:127 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-167044" name="Signalling to RAS"/>
+            <pathway-xref db="Reactome" id="R-MMU-8949613" name="Cristae formation"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013409" name="RHOJ GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-438066" name="Unblocking of NMDA receptors, glutamate binding and activation"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013408" name="RHOG GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-SPO-9615933" name="Postmitotic nuclear pore complex (NPC) reformation"/>
+            <pathway-xref db="Reactome" id="R-MMU-6807004" name="Negative regulation of MET activity"/>
+            <pathway-xref db="Reactome" id="R-HSA-9603505" name="NTRK3 as a dependence receptor"/>
+            <pathway-xref db="Reactome" id="R-MMU-187042" name="TRKA activation by NGF"/>
+            <pathway-xref db="Reactome" id="R-HSA-8857538" name="PTK6 promotes HIF1A stabilization"/>
+            <pathway-xref db="Reactome" id="R-HSA-3595172" name="Defective CHST3 causes SEDCJD"/>
+            <pathway-xref db="Reactome" id="R-RNO-8849932" name="Synaptic adhesion-like molecules"/>
+            <pathway-xref db="Reactome" id="R-HSA-9665251" name="Resistance of ERBB2 KD mutants to lapatinib"/>
+            <pathway-xref db="MetaCyc" id="PWY-81" name="toluene degradation to benzoyl-CoA (anaerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7532" name="acetylaszonalenin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-XTR-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="MetaCyc" id="PWY-5835" name="geranyl acetate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6036" name="cardenolide glucosides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1839117" name="Signaling by cytosolic FGFR1 fusion mutants"/>
+            <pathway-xref db="Reactome" id="R-MMU-2022870" name="Chondroitin sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CFA-3000178" name="ECM proteoglycans"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013418" name="RHOBTB2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-9665348" name="Signaling by ERBB2 ECD mutants"/>
+            <pathway-xref db="MetaCyc" id="PWY-7671" name="saframycin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-5689901" name="Metalloprotease DUBs"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013408" name="RHOG GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7693" name="guadinomine B biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-936964" name="Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon"/>
+            <pathway-xref db="Reactome" id="R-HSA-9665246" name="Resistance of ERBB2 KD mutants to neratinib"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013418" name="RHOBTB2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-844455" name="The NLRP1 inflammasome"/>
+            <pathway-xref db="MetaCyc" id="PWY-8166" name="emodin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-375281" name="Hormone ligand-binding receptors"/>
+            <pathway-xref db="Reactome" id="R-HSA-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-BTA-2022923" name="Dermatan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-72163" name="mRNA Splicing - Major Pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-7989" name="acinetoferrin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7677" name="rosamicin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7261" name="anthocyanidin 3-malylglucoside biosynthesis (acyl-glucose dependent)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9032500" name="Activated NTRK2 signals through FYN"/>
+            <pathway-xref db="Reactome" id="R-MMU-69231" name="Cyclin D associated events in G1"/>
+            <pathway-xref db="Reactome" id="R-HSA-9665250" name="Resistance of ERBB2 KD mutants to AEE788"/>
+            <pathway-xref db="MetaCyc" id="PWY-7702" name="sch210971 and sch210972 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-5682910" name="LGI-ADAM interactions"/>
+            <pathway-xref db="Reactome" id="R-HSA-9028335" name="Activated NTRK2 signals through PI3K"/>
+            <pathway-xref db="Reactome" id="R-CFA-109704" name="PI3K Cascade"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013148" name="CDC42 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-6558" name="heparan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-168176" name="Toll Like Receptor 5 (TLR5) Cascade"/>
+            <pathway-xref db="Reactome" id="R-MMU-75892" name="Platelet Adhesion to exposed collagen"/>
+            <pathway-xref db="Reactome" id="R-HSA-8950505" name="Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6056" name="dimethylsulfoniopropanoate degradation II (cleavage)"/>
+            <pathway-xref db="Reactome" id="R-HSA-168928" name="DDX58/IFIH1-mediated induction of interferon-alpha/beta"/>
+            <pathway-xref db="Reactome" id="R-HSA-166058" name="MyD88:MAL(TIRAP) cascade initiated on plasma membrane"/>
+            <pathway-xref db="MetaCyc" id="PWY-7452" name="cyanidin dimalonylglucoside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-168138" name="Toll Like Receptor 9 (TLR9) Cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-8038" name="naphthomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7737" name="thiocoraline biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013148" name="CDC42 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7458" name="violdelphin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7672" name="fusaric acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9726840" name="SHOC2 M1731 mutant abolishes MRAS complex function"/>
+            <pathway-xref db="Reactome" id="R-HSA-8985801" name="Regulation of cortical dendrite branching"/>
+            <pathway-xref db="Reactome" id="R-HSA-9662360" name="Sensory processing of sound by inner hair cells of the cochlea"/>
+            <pathway-xref db="Reactome" id="R-CEL-376176" name="Signaling by ROBO receptors"/>
+            <pathway-xref db="Reactome" id="R-HSA-4641263" name="Regulation of FZD by ubiquitination"/>
+            <pathway-xref db="MetaCyc" id="PWY-5679" name="clavulanate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013409" name="RHOJ GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7511" name="protein ubiquitination"/>
+            <pathway-xref db="MetaCyc" id="PWY-8075" name="(Kdo)2-lipid A biosynthesis (P. putida)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7821" name="tunicamycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-450520" name="HuR (ELAVL1) binds and stabilizes mRNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-8949613" name="Cristae formation"/>
+            <pathway-xref db="Reactome" id="R-DME-159230" name="Transport of the SLBP Dependant Mature mRNA"/>
+            <pathway-xref db="MetaCyc" id="PWY-6289" name="petrobactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-428890" name="Role of ABL in ROBO-SLIT signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-4641263" name="Regulation of FZD by ubiquitination"/>
+            <pathway-xref db="Reactome" id="R-MMU-9032759" name="NTRK2 activates RAC1"/>
+            <pathway-xref db="Reactome" id="R-RNO-936440" name="Negative regulators of DDX58/IFIH1 signaling"/>
+            <pathway-xref db="Reactome" id="R-DDI-1169092" name="Activation of RAS in B cells"/>
+            <pathway-xref db="Reactome" id="R-RNO-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="Reactome" id="R-MMU-3000178" name="ECM proteoglycans"/>
+            <pathway-xref db="Reactome" id="R-RNO-9034793" name="Activated NTRK3 signals through PLCG1"/>
+            <pathway-xref db="MetaCyc" id="PWY-7265" name="lampranthin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-198203" name="PI3K/AKT activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013406" name="RHOQ GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7818" name="type IV lipoteichoic acid biosynthesis (S. pneumoniae)"/>
+            <pathway-xref db="Reactome" id="R-GGA-177504" name="Retrograde neurotrophin signalling"/>
+            <pathway-xref db="Reactome" id="R-GGA-517856" name="TLR2 subfamily cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-7624" name="nystatin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6397" name="mycolyl-arabinogalactan-peptidoglycan complex biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-446388" name="Regulation of cytoskeletal remodeling and cell spreading by IPP complex components"/>
+            <pathway-xref db="MetaCyc" id="PWY-7601" name="arachidonate biosynthesis IV (8-detaturase, lower eukaryotes)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8249" name="xanthommatin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2467813" name="Separation of Sister Chromatids"/>
+            <pathway-xref db="Reactome" id="R-DRE-8854050" name="FBXL7 down-regulates AURKA during mitotic entry and in early mitosis"/>
+            <pathway-xref db="Reactome" id="R-RNO-8951664" name="Neddylation"/>
+            <pathway-xref db="Reactome" id="R-DME-214842" name="DL and DIF homodimers bind to TUB and phosphorylated PLL in the TL receptor 'signalling complex'"/>
+            <pathway-xref db="Reactome" id="R-HSA-2467813" name="Separation of Sister Chromatids"/>
+            <pathway-xref db="Reactome" id="R-MMU-445355" name="Smooth Muscle Contraction"/>
+            <pathway-xref db="Reactome" id="R-HSA-8936459" name="RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function"/>
+            <pathway-xref db="MetaCyc" id="PWY-7983" name="pseudomonine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-MMU-388844" name="Receptor-type tyrosine-protein phosphatases"/>
+            <pathway-xref db="MetaCyc" id="PWY-5400" name="amaranthin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="Reactome" id="R-MMU-977606" name="Regulation of Complement cascade"/>
+            <pathway-xref db="Reactome" id="R-HSA-168181" name="Toll Like Receptor 7/8 (TLR7/8) Cascade"/>
+            <pathway-xref db="Reactome" id="R-HSA-9026527" name="Activated NTRK2 signals through PLCG1"/>
+            <pathway-xref db="Reactome" id="R-MMU-170968" name="Frs2-mediated activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-69231" name="Cyclin D associated events in G1"/>
+            <pathway-xref db="MetaCyc" id="PWY-5710" name="capsaicin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-DRE-9696264" name="RND3 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-5437" name="L-threonine degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7474" name="avenacin A-2 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9034015" name="Signaling by NTRK3 (TRKC)"/>
+            <pathway-xref db="Reactome" id="R-SCE-8949613" name="Cristae formation"/>
+            <pathway-xref db="Reactome" id="R-MMU-2562578" name="TRIF-mediated programmed cell death"/>
+            <pathway-xref db="Reactome" id="R-HSA-2562578" name="TRIF-mediated programmed cell death"/>
+            <pathway-xref db="Reactome" id="R-DDI-5621575" name="CD209 (DC-SIGN) signaling"/>
+            <pathway-xref db="Reactome" id="R-RNO-844455" name="The NLRP1 inflammasome"/>
+            <pathway-xref db="Reactome" id="R-DME-376176" name="Signaling by ROBO receptors"/>
+            <pathway-xref db="Reactome" id="R-MMU-159227" name="Transport of the SLBP independent Mature mRNA"/>
+            <pathway-xref db="Reactome" id="R-MMU-159236" name="Transport of Mature mRNA derived from an Intron-Containing Transcript"/>
+            <pathway-xref db="MetaCyc" id="PWY-7172" name="flavonol acylglucoside biosynthesis III - quercetin derivatives"/>
+            <pathway-xref db="MetaCyc" id="PWY-6314" name="plumbagin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-174178" name="APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1"/>
+            <pathway-xref db="Reactome" id="R-HSA-376176" name="Signaling by ROBO receptors"/>
+            <pathway-xref db="Reactome" id="R-GGA-451514" name="MyD88:TIRAP-dependent cascade initiated on plasma membrane"/>
+            <pathway-xref db="MetaCyc" id="PWY-6032" name="digitoxigenin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CFA-418555" name="G alpha (s) signalling events"/>
+            <pathway-xref db="Reactome" id="R-DRE-8951664" name="Neddylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7473" name="avenacin A-1 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-388844" name="Receptor-type tyrosine-protein phosphatases"/>
+            <pathway-xref db="Reactome" id="R-HSA-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="MetaCyc" id="PWY-7716" name="penicillin G and penicillin V biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-1483248" name="Synthesis of PIPs at the ER membrane"/>
+            <pathway-xref db="Reactome" id="R-GGA-170984" name="ARMS-mediated activation"/>
+            <pathway-xref db="Reactome" id="R-CEL-159230" name="Transport of the SLBP Dependant Mature mRNA"/>
+            <pathway-xref db="MetaCyc" id="PWY-6190" name="2,4-dichlorotoluene degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7475" name="des-methyl avenacin A-1 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-977606" name="Regulation of Complement cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-7045" name="mithramycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-9034013" name="NTF3 activates NTRK3 signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013106" name="RHOC GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-216083" name="Integrin cell surface interactions"/>
+            <pathway-xref db="Reactome" id="R-HSA-2022923" name="Dermatan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-8941413" name="Events associated with phagocytolytic activity of PMN cells"/>
+            <pathway-xref db="Reactome" id="R-DME-159236" name="Transport of Mature mRNA derived from an Intron-Containing Transcript"/>
+            <pathway-xref db="Reactome" id="R-DDI-193648" name="NRAGE signals death through JNK"/>
+            <pathway-xref db="Reactome" id="R-GGA-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-1971475" name="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3656244" name="Defective B4GALT1 causes B4GALT1-CDG (CDG-2d)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5473" name="hydroxycinnamic acid serotonin amides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-109704" name="PI3K Cascade"/>
+            <pathway-xref db="Reactome" id="R-GGA-76009" name="Platelet Aggregation (Plug Formation)"/>
+            <pathway-xref db="Reactome" id="R-HSA-3134975" name="Regulation of innate immune responses to cytosolic DNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-159231" name="Transport of Mature mRNA Derived from an Intronless Transcript"/>
+            <pathway-xref db="Reactome" id="R-HSA-3270619" name="IRF3-mediated induction of type I IFN"/>
+            <pathway-xref db="Reactome" id="R-DDI-354192" name="Integrin signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-975871" name="MyD88 cascade initiated on plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-MMU-3134975" name="Regulation of innate immune responses to cytosolic DNA"/>
+            <pathway-xref db="MetaCyc" id="PWY-6378" name="putrebactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-8849932" name="Synaptic adhesion-like molecules"/>
+            <pathway-xref db="Reactome" id="R-MMU-166020" name="Transfer of LPS from LBP carrier to CD14"/>
+            <pathway-xref db="Reactome" id="R-DRE-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="Reactome" id="R-HSA-8955332" name="Carboxyterminal post-translational modifications of tubulin"/>
+            <pathway-xref db="Reactome" id="R-HSA-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="Reactome" id="R-HSA-975163" name="IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-9696264" name="RND3 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-GGA-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7738" name="polyacyltrehalose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CFA-168138" name="Toll Like Receptor 9 (TLR9) Cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-6462" name="peptidoglycan cross-bridge biosynthesis III (Enterococcus faecalis)"/>
+            <pathway-xref db="Reactome" id="R-RNO-429947" name="Deadenylation of mRNA"/>
+            <pathway-xref db="Reactome" id="R-DDI-392517" name="Rap1 signalling"/>
+            <pathway-xref db="Reactome" id="R-HSA-2022870" name="Chondroitin sulfate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8058" name="2-deoxy-D-ribose degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7577" name="ferrichrome biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7940" name="lauryl-hydroxychlorobactene glucoside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9026519" name="Activated NTRK2 signals through RAS"/>
+            <pathway-xref db="Reactome" id="R-MMU-9026527" name="Activated NTRK2 signals through PLCG1"/>
+            <pathway-xref db="Reactome" id="R-MMU-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="MetaCyc" id="PWY-6039" name="chlorogenic acid biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-SPO-3108232" name="SUMO E3 ligases SUMOylate target proteins"/>
+            <pathway-xref db="Reactome" id="R-XTR-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-DME-159227" name="Transport of the SLBP independent Mature mRNA"/>
+            <pathway-xref db="Reactome" id="R-DME-388844" name="Receptor-type tyrosine-protein phosphatases"/>
+            <pathway-xref db="Reactome" id="R-MMU-9028731" name="Activated NTRK2 signals through FRS2 and FRS3"/>
+            <pathway-xref db="MetaCyc" id="PWY-8210" name="pyrrolomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9028731" name="Activated NTRK2 signals through FRS2 and FRS3"/>
+            <pathway-xref db="MetaCyc" id="PWY-5292" name="vindoline, vindorosine and vinblastine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-3270619" name="IRF3-mediated induction of type I IFN"/>
+            <pathway-xref db="MetaCyc" id="PWY-7367" name="phosphatidylcholine resynthesis via glycerophosphocholine"/>
+            <pathway-xref db="Reactome" id="R-MMU-2022923" name="Dermatan sulfate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7907" name="(2S,3E)-2-amino-4-methoxy-but-3-enoate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9665737" name="Drug resistance in ERBB2 TMD/JMD mutants"/>
+            <pathway-xref db="MetaCyc" id="PWY-7555" name="alpha-cyclopiazonate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3000178" name="ECM proteoglycans"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013106" name="RHOC GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-5673000" name="RAF activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7735" name="echinomycin and triostin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7621" name="autoinducer CAI-1 biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5994" name="palmitate biosynthesis I (type I fatty acid synthase)"/>
+            <pathway-xref db="Reactome" id="R-CEL-159236" name="Transport of Mature mRNA derived from an Intron-Containing Transcript"/>
+            <pathway-xref db="Reactome" id="R-RNO-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8047" name="bryostatin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7711" name="calonectrin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3560783" name="Defective B4GALT7 causes EDS, progeroid type"/>
+            <pathway-xref db="MetaCyc" id="PWY-6948" name="sitosterol degradation to androstenedione"/>
+            <pathway-xref db="MetaCyc" id="PWY-7100" name="spinosyn A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CFA-2024101" name="CS/DS degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5602680" name="MyD88 deficiency (TLR5)"/>
+            <pathway-xref db="Reactome" id="R-HSA-375281" name="Hormone ligand-binding receptors"/>
+            <pathway-xref db="Reactome" id="R-DDI-199418" name="Negative regulation of the PI3K/AKT network"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9665245" name="Resistance of ERBB2 KD mutants to tesevatinib"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013404" name="RAC2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-XTR-5223345" name="Miscellaneous transport and binding events"/>
+            <pathway-xref db="Reactome" id="R-DRE-450520" name="HuR (ELAVL1) binds and stabilizes mRNA"/>
+            <pathway-xref db="Reactome" id="R-XTR-3214842" name="HDMs demethylate histones"/>
+            <pathway-xref db="Reactome" id="R-MMU-9010553" name="Regulation of expression of SLITs and ROBOs"/>
+            <pathway-xref db="Reactome" id="R-XTR-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-RNO-9026527" name="Activated NTRK2 signals through PLCG1"/>
+            <pathway-xref db="Reactome" id="R-RNO-2024101" name="CS/DS degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-8985586" name="SLIT2:ROBO1 increases RHOA activity"/>
+            <pathway-xref db="Reactome" id="R-DRE-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8133" name="succinoglycan biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-177929" name="Signaling by EGFR"/>
+            <pathway-xref db="Reactome" id="R-GGA-9028731" name="Activated NTRK2 signals through FRS2 and FRS3"/>
+            <pathway-xref db="MetaCyc" id="PWY-7564" name="bacimethrin and bacimethrin pyrophosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8040" name="ansatrienin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-433822" name="NFkB and MAPK activation mediated by TRAF6"/>
+            <pathway-xref db="MetaCyc" id="PWY-8272" name="Escherichia coli serotype O:49 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013424" name="RHOV GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-5686938" name="Regulation of TLR by endogenous ligand"/>
+            <pathway-xref db="Reactome" id="R-MMU-2022857" name="Keratan sulfate degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5316" name="nicotine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-429947" name="Deadenylation of mRNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-9665686" name="Signaling by ERBB2 TMD/JMD mutants"/>
+            <pathway-xref db="Reactome" id="R-MMU-2500257" name="Resolution of Sister Chromatid Cohesion"/>
+            <pathway-xref db="Reactome" id="R-HSA-9034793" name="Activated NTRK3 signals through PLCG1"/>
+            <pathway-xref db="Reactome" id="R-CEL-9615933" name="Postmitotic nuclear pore complex (NPC) reformation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013957" name="TLR3-mediated TICAM1-dependent programmed cell death"/>
+            <pathway-xref db="MetaCyc" id="PWY-7727" name="docosahexaenoate biosynthesis IV (4-desaturase, mammals)"/>
+            <pathway-xref db="Reactome" id="R-HSA-8873719" name="RAB geranylgeranylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6312" name="barbaloin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-5674135" name="MAP2K and MAPK activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-216083" name="Integrin cell surface interactions"/>
+            <pathway-xref db="Reactome" id="R-HSA-8939902" name="Regulation of RUNX2 expression and activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-761" name="rhizobactin 1021 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-1971475" name="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7673" name="fusarin C biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-159231" name="Transport of Mature mRNA Derived from an Intronless Transcript"/>
+            <pathway-xref db="Reactome" id="R-DME-209968" name="Thyroxine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7563" name="bassianin and desmethylbassianin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7214" name="baicalein degradation (hydrogen peroxide detoxification)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6672" name="cis-geranyl-CoA degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-9652282" name="Drug-mediated inhibition of ERBB2 signaling"/>
+            <pathway-xref db="Reactome" id="R-SSC-168138" name="Toll Like Receptor 9 (TLR9) Cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-6722" name="candicidin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-2022870" name="Chondroitin sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-HSA-418555" name="G alpha (s) signalling events"/>
+            <pathway-xref db="Reactome" id="R-DRE-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-DRE-9013406" name="RHOQ GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-1461957" name="Beta defensins"/>
+            <pathway-xref db="Reactome" id="R-HSA-5223345" name="Miscellaneous transport and binding events"/>
+            <pathway-xref db="Reactome" id="R-HSA-444821" name="Relaxin receptors"/>
+            <pathway-xref db="Reactome" id="R-HSA-168188" name="Toll Like Receptor TLR6:TLR2 Cascade"/>
+            <pathway-xref db="Reactome" id="R-HSA-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-9637628" name="Modulation by Mtb of host immune system"/>
+            <pathway-xref db="Reactome" id="R-HSA-166166" name="MyD88-independent TLR4 cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-5875" name="staphyloxanthin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-4922" name="6-methoxymellein biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3595177" name="Defective CHSY1 causes TPBS"/>
+            <pathway-xref db="MetaCyc" id="PWY-8157" name="avenanthramide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6316" name="aromatic polyketides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5284" name="shisonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6848" name="rutin degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7050" name="icosapentaenoate biosynthesis IV (bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWYG-321" name="mycolate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8084" name="daurichromenate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-170984" name="ARMS-mediated activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-2243919" name="Crosslinking of collagen fibrils"/>
+            <pathway-xref db="Reactome" id="R-DRE-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-3595174" name="Defective CHST14 causes EDS, musculocontractural type"/>
+            <pathway-xref db="MetaCyc" id="PWY-6922" name="L-Ndelta-acetylornithine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5846" name="colchicine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5313" name="superpathway of anthocyanin biosynthesis (from cyanidin and cyanidin 3-O-glucoside)"/>
+            <pathway-xref db="Reactome" id="R-HSA-3656243" name="Defective ST3GAL3 causes MCT12 and EIEE15"/>
+            <pathway-xref db="Reactome" id="R-DME-168142" name="Toll Like Receptor 10 (TLR10) Cascade"/>
+            <pathway-xref db="Reactome" id="R-DRE-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="Reactome" id="R-HSA-9660826" name="Purinergic signaling in leishmaniasis infection"/>
+            <pathway-xref db="MetaCyc" id="PWY-7708" name="lyngbyatoxin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CFA-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-1236974" name="ER-Phagosome pathway"/>
+            <pathway-xref db="Reactome" id="R-DRE-430116" name="GP1b-IX-V activation signalling"/>
+            <pathway-xref db="Reactome" id="R-DRE-9013148" name="CDC42 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-8117" name="colibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-6803207" name="TP53 Regulates Transcription of Caspase Activators and Caspases"/>
+            <pathway-xref db="Reactome" id="R-RNO-1474228" name="Degradation of the extracellular matrix"/>
+            <pathway-xref db="MetaCyc" id="PWY-7029" name="terminal olefins biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7670" name="fusaridione A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-159231" name="Transport of Mature mRNA Derived from an Intronless Transcript"/>
+            <pathway-xref db="Reactome" id="R-DDI-5673001" name="RAF/MAP kinase cascade"/>
+            <pathway-xref db="Reactome" id="R-HSA-5654687" name="Downstream signaling of activated FGFR1"/>
+            <pathway-xref db="Reactome" id="R-MMU-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="Reactome" id="R-HSA-428543" name="Inactivation of CDC42 and RAC1"/>
+            <pathway-xref db="Reactome" id="R-HSA-6794361" name="Neurexins and neuroligins"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013973" name="TICAM1-dependent activation of IRF3/IRF7"/>
+            <pathway-xref db="MetaCyc" id="PWY-7694" name="zwittermicin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-159227" name="Transport of the SLBP independent Mature mRNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-1227986" name="Signaling by ERBB2"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013406" name="RHOQ GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-SPO-159236" name="Transport of Mature mRNA derived from an Intron-Containing Transcript"/>
+            <pathway-xref db="Reactome" id="R-HSA-4608870" name="Asymmetric localization of PCP proteins"/>
+            <pathway-xref db="Reactome" id="R-DRE-3270619" name="IRF3-mediated induction of type I IFN"/>
+            <pathway-xref db="MetaCyc" id="PWY-5139" name="pelargonidin conjugates biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6824" name="justicidin B biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-983231" name="Factors involved in megakaryocyte development and platelet production"/>
+            <pathway-xref db="MetaCyc" id="PWY-5477" name="gallotannin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9648025" name="EML4 and NUDC in mitotic spindle formation"/>
+            <pathway-xref db="Reactome" id="R-MMU-8980692" name="RHOA GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-977606" name="Regulation of Complement cascade"/>
+            <pathway-xref db="Reactome" id="R-MMU-8849932" name="Synaptic adhesion-like molecules"/>
+            <pathway-xref db="MetaCyc" id="PWY-7599" name="anditomin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-177504" name="Retrograde neurotrophin signalling"/>
+            <pathway-xref db="Reactome" id="R-RNO-5673001" name="RAF/MAP kinase cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-7401" name="crotonate fermentation (to acetate and cyclohexane carboxylate)"/>
+            <pathway-xref db="Reactome" id="R-DDI-1660516" name="Synthesis of PIPs at the early endosome membrane"/>
+            <pathway-xref db="MetaCyc" id="PWY-6415" name="L-ascorbate biosynthesis V (euglena, D-galacturonate pathway)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6679" name="jadomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-CFA-375281" name="Hormone ligand-binding receptors"/>
+            <pathway-xref db="Reactome" id="R-HSA-5603041" name="IRAK4 deficiency (TLR2/4)"/>
+            <pathway-xref db="Reactome" id="R-MMU-9020702" name="Interleukin-1 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7168" name="flavonol acylglucoside biosynthesis I - kaempferol derivatives"/>
+            <pathway-xref db="Reactome" id="R-DME-214844" name="DL and DIF homodimers complexed with CACT are all phosphorylated in the TL receptor 'signalling complex'"/>
+            <pathway-xref db="MetaCyc" id="PWY-7127" name="CDP-D-mannitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5307" name="gentiodelphin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-2022857" name="Keratan sulfate degradation"/>
+            <pathway-xref db="Reactome" id="R-RNO-216083" name="Integrin cell surface interactions"/>
+            <pathway-xref db="Reactome" id="R-RNO-199418" name="Negative regulation of the PI3K/AKT network"/>
+            <pathway-xref db="MetaCyc" id="PWY-8036" name="chaxamycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-937041" name="IKK complex recruitment mediated by RIP1"/>
+            <pathway-xref db="Reactome" id="R-HSA-2024101" name="CS/DS degradation"/>
+            <pathway-xref db="Reactome" id="R-DME-2243919" name="Crosslinking of collagen fibrils"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013026" name="RHOB GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-1971475" name="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-DDI-9013148" name="CDC42 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-5689901" name="Metalloprotease DUBs"/>
+            <pathway-xref db="MetaCyc" id="PWY-6971" name="oleandomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-9034013" name="NTF3 activates NTRK3 signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-429947" name="Deadenylation of mRNA"/>
+            <pathway-xref db="Reactome" id="R-MMU-9696264" name="RND3 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-9696270" name="RND2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-GGA-9032759" name="NTRK2 activates RAC1"/>
+            <pathway-xref db="Reactome" id="R-HSA-168927" name="TICAM1, RIP1-mediated IKK complex recruitment"/>
+            <pathway-xref db="Reactome" id="R-MMU-109704" name="PI3K Cascade"/>
+            <pathway-xref db="Reactome" id="R-RNO-388844" name="Receptor-type tyrosine-protein phosphatases"/>
+            <pathway-xref db="MetaCyc" id="PWY-5048" name="rosmarinic acid biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-BTA-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="MetaCyc" id="PWY-8055" name="palmitoyl ethanolamide biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-2022857" name="Keratan sulfate degradation"/>
+            <pathway-xref db="Reactome" id="R-DDI-983231" name="Factors involved in megakaryocyte development and platelet production"/>
+            <pathway-xref db="Reactome" id="R-HSA-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7450" name="anthocyanidin modification (Arabidopsis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5469" name="sesamin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7354" name="aclacinomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-975163" name="IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-72163" name="mRNA Splicing - Major Pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-3214842" name="HDMs demethylate histones"/>
+            <pathway-xref db="MetaCyc" id="PWY-5268" name="salvianin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-2022923" name="Dermatan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1810476" name="RIP-mediated NFkB activation via ZBP1"/>
+            <pathway-xref db="Reactome" id="R-DRE-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-7656" name="Spodoptera littoralis pheromone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6453" name="stigma estolide biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3560801" name="Defective B3GAT3 causes JDSSDHD"/>
+            <pathway-xref db="MetaCyc" id="PWY-7692" name="bikaverin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7811" name="6-methylpretetramide biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SSC-418555" name="G alpha (s) signalling events"/>
+            <pathway-xref db="MetaCyc" id="PWY-6920" name="6-gingerol analog biosynthesis (engineered)"/>
+            <pathway-xref db="Reactome" id="R-HSA-5602566" name="TICAM1 deficiency - HSE"/>
+            <pathway-xref db="MetaCyc" id="PWY-7602" name="icosapentaenoate biosynthesis V (8-desaturase, lower eukaryotes)"/>
+            <pathway-xref db="Reactome" id="R-CFA-2022923" name="Dermatan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-168638" name="NOD1/2 Signaling Pathway"/>
+            <pathway-xref db="Reactome" id="R-SSC-1679131" name="Trafficking and processing of endosomal TLR"/>
+            <pathway-xref db="MetaCyc" id="PWY-7988" name="baumannoferrin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SSC-109704" name="PI3K Cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-7687" name="stipitatate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6379" name="alcaligin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CFA-1679131" name="Trafficking and processing of endosomal TLR"/>
+            <pathway-xref db="Reactome" id="R-RNO-159227" name="Transport of the SLBP independent Mature mRNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-8951664" name="Neddylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7730" name="T-2 toxin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-5673000" name="RAF activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5603037" name="IRAK4 deficiency (TLR5)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6930" name="phenolic malonylglucosides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="Reactome" id="R-DRE-75892" name="Platelet Adhesion to exposed collagen"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CEL-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-445355" name="Smooth Muscle Contraction"/>
+            <pathway-xref db="MetaCyc" id="PWY-7405" name="aurachin RE biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-XTR-5654687" name="Downstream signaling of activated FGFR1"/>
+            <pathway-xref db="Reactome" id="R-XTR-2243919" name="Crosslinking of collagen fibrils"/>
+            <pathway-xref db="Reactome" id="R-HSA-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-HSA-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9025046" name="NTF3 activates NTRK2 (TRKB) signaling"/>
+            <pathway-xref db="Reactome" id="R-RNO-3000178" name="ECM proteoglycans"/>
+            <pathway-xref db="Reactome" id="R-HSA-446388" name="Regulation of cytoskeletal remodeling and cell spreading by IPP complex components"/>
+            <pathway-xref db="Reactome" id="R-MMU-166166" name="MyD88-independent TLR4 cascade"/>
+            <pathway-xref db="Reactome" id="R-MMU-9603381" name="Activated NTRK3 signals through PI3K"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013423" name="RAC3 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-9706019" name="RHOBTB3 ATPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013149" name="RAC1 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7984" name="acinetobactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5689896" name="Ovarian tumor domain proteases"/>
+            <pathway-xref db="Reactome" id="R-MMU-418555" name="G alpha (s) signalling events"/>
+          </entry>
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>4fcgA00</model-ac>
+        <locations>
+          <hmmer3-location env-end="116" env-start="2" post-processed="true" score="83.2" evalue="4.7E-23" hmm-start="178" hmm-end="283" hmm-length="312" hmm-bounds="N_TERMINAL_COMPLETE" start="2" end="112">
+            <location-fragments>
+              <hmmer3-location-fragment start="2" end="112" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="1.4E-23" score="85.0">
+        <signature ac="G3DSA:3.80.10.10" name="Ribonuclease Inhibitor">
+          <entry ac="IPR032675" desc="Leucine-rich repeat domain superfamily" name="LRR_dom_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="Reactome" id="R-MMU-1474228" name="Degradation of the extracellular matrix"/>
+            <pathway-xref db="Reactome" id="R-HSA-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="Reactome" id="R-HSA-5673001" name="RAF/MAP kinase cascade"/>
+            <pathway-xref db="Reactome" id="R-HSA-187042" name="TRKA activation by NGF"/>
+            <pathway-xref db="Reactome" id="R-MMU-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-MMU-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-7049" name="icosapentaenoate biosynthesis II (6-desaturase, mammals)"/>
+            <pathway-xref db="Reactome" id="R-HSA-1474228" name="Degradation of the extracellular matrix"/>
+            <pathway-xref db="Reactome" id="R-HSA-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-DME-193634" name="Axonal growth inhibition (RHOA activation)"/>
+            <pathway-xref db="Reactome" id="R-RNO-163210" name="Formation of ATP by chemiosmotic coupling"/>
+            <pathway-xref db="MetaCyc" id="PWY-8143" name="L-ascorbate biosynthesis VII (plants, D-galacturonate pathway)"/>
+            <pathway-xref db="Reactome" id="R-RNO-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="Reactome" id="R-RNO-6794361" name="Neurexins and neuroligins"/>
+            <pathway-xref db="Reactome" id="R-RNO-76009" name="Platelet Aggregation (Plug Formation)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7465" name="3,3'-thiodipropanoate degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-72163" name="mRNA Splicing - Major Pathway"/>
+            <pathway-xref db="Reactome" id="R-DDI-1660517" name="Synthesis of PIPs at the late endosome membrane"/>
+            <pathway-xref db="Reactome" id="R-HSA-9617324" name="Negative regulation of NMDA receptor-mediated neuronal transmission"/>
+            <pathway-xref db="Reactome" id="R-MMU-9706019" name="RHOBTB3 ATPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7521" name="3-(4-sulfophenyl)butanoate degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-390471" name="Association of TriC/CCT with target proteins during biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7714" name="harzianum A and trichodermin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7606" name="docosahexaenoate biosynthesis III (6-desaturase, mammals)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5987" name="sorgoleone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-8854050" name="FBXL7 down-regulates AURKA during mitotic entry and in early mitosis"/>
+            <pathway-xref db="Reactome" id="R-DRE-3134975" name="Regulation of innate immune responses to cytosolic DNA"/>
+            <pathway-xref db="Reactome" id="R-MMU-9615933" name="Postmitotic nuclear pore complex (NPC) reformation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9034864" name="Activated NTRK3 signals through RAS"/>
+            <pathway-xref db="Reactome" id="R-MMU-8854050" name="FBXL7 down-regulates AURKA during mitotic entry and in early mitosis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8053" name="anandamide biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-8049" name="pederin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-170984" name="ARMS-mediated activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-76009" name="Platelet Aggregation (Plug Formation)"/>
+            <pathway-xref db="Reactome" id="R-MMU-68877" name="Mitotic Prometaphase"/>
+            <pathway-xref db="Reactome" id="R-RNO-5223345" name="Miscellaneous transport and binding events"/>
+            <pathway-xref db="MetaCyc" id="PWY-7612" name="chaetoglobosin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-8951664" name="Neddylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9026357" name="NTF4 activates NTRK2 (TRKB) signaling"/>
+            <pathway-xref db="Reactome" id="R-RNO-159230" name="Transport of the SLBP Dependant Mature mRNA"/>
+            <pathway-xref db="Reactome" id="R-CEL-9010553" name="Regulation of expression of SLITs and ROBOs"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-MMU-5673001" name="RAF/MAP kinase cascade"/>
+            <pathway-xref db="Reactome" id="R-CEL-5673000" name="RAF activation"/>
+            <pathway-xref db="Reactome" id="R-MMU-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7585" name="docosahexaenoate biosynthesis II (bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7695" name="aurofusarin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-170968" name="Frs2-mediated activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5353" name="arachidonate biosynthesis I (6-desaturase, lower eukaryotes)"/>
+            <pathway-xref db="Reactome" id="R-DME-199418" name="Negative regulation of the PI3K/AKT network"/>
+            <pathway-xref db="Reactome" id="R-HSA-4420332" name="Defective B3GALT6 causes EDSP2 and SEMDJL1"/>
+            <pathway-xref db="Reactome" id="R-MMU-168138" name="Toll Like Receptor 9 (TLR9) Cascade"/>
+            <pathway-xref db="Reactome" id="R-MMU-6803205" name="TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-XTR-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-8876198" name="RAB GEFs exchange GTP for GDP on RABs"/>
+            <pathway-xref db="MetaCyc" id="PWY-8032" name="chloramphenicol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-170968" name="Frs2-mediated activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6841" name="homophytochelatin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-9013424" name="RHOV GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-5682910" name="LGI-ADAM interactions"/>
+            <pathway-xref db="Reactome" id="R-GGA-75892" name="Platelet Adhesion to exposed collagen"/>
+            <pathway-xref db="Reactome" id="R-HSA-159236" name="Transport of Mature mRNA derived from an Intron-Containing Transcript"/>
+            <pathway-xref db="MetaCyc" id="PWY-7448" name="galloylated catechin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5655302" name="Signaling by FGFR1 in disease"/>
+            <pathway-xref db="Reactome" id="R-MMU-159231" name="Transport of Mature mRNA Derived from an Intronless Transcript"/>
+            <pathway-xref db="Reactome" id="R-HSA-388844" name="Receptor-type tyrosine-protein phosphatases"/>
+            <pathway-xref db="MetaCyc" id="PWY-7543" name="5-N-acetylardeemin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-442982" name="Ras activation upon Ca2+ influx through NMDA receptor"/>
+            <pathway-xref db="Reactome" id="R-HSA-9679191" name="Potential therapeutics for SARS"/>
+            <pathway-xref db="Reactome" id="R-DRE-76009" name="Platelet Aggregation (Plug Formation)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7987" name="vanchrobactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-390522" name="Striated Muscle Contraction"/>
+            <pathway-xref db="Reactome" id="R-HSA-5682910" name="LGI-ADAM interactions"/>
+            <pathway-xref db="Reactome" id="R-BTA-2022857" name="Keratan sulfate degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-6803205" name="TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain"/>
+            <pathway-xref db="MetaCyc" id="PWY-8247" name="(Kdo)2-lipid A biosynthesis (P. gingivalis)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9665247" name="Resistance of ERBB2 KD mutants to osimertinib"/>
+            <pathway-xref db="Reactome" id="R-MMU-844455" name="The NLRP1 inflammasome"/>
+            <pathway-xref db="Reactome" id="R-RNO-177504" name="Retrograde neurotrophin signalling"/>
+            <pathway-xref db="Reactome" id="R-HSA-429947" name="Deadenylation of mRNA"/>
+            <pathway-xref db="MetaCyc" id="PWY-7547" name="prodigiosin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8106" name="queuosine biosynthesis III (queuosine salvage)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7660" name="tryptoquialanine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-936964" name="Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon"/>
+            <pathway-xref db="Reactome" id="R-MMU-376176" name="Signaling by ROBO receptors"/>
+            <pathway-xref db="Reactome" id="R-CEL-72163" name="mRNA Splicing - Major Pathway"/>
+            <pathway-xref db="Reactome" id="R-CFA-8951664" name="Neddylation"/>
+            <pathway-xref db="Reactome" id="R-XTR-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-BTA-2024101" name="CS/DS degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-187577" name="SCF(Skp2)-mediated degradation of p27/p21"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-8949613" name="Cristae formation"/>
+            <pathway-xref db="Reactome" id="R-RNO-9013149" name="RAC1 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-140534" name="Caspase activation via Death Receptors in the presence of ligand"/>
+            <pathway-xref db="Reactome" id="R-HSA-9726842" name="Gain-of-function MRAS complexes activate RAF signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7950" name="diadinoxanthin and fucoxanthin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9707616" name="Heme signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-450520" name="HuR (ELAVL1) binds and stabilizes mRNA"/>
+            <pathway-xref db="MetaCyc" id="PWY-7930" name="pyoluteorin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6842" name="glutathione-mediated detoxification II"/>
+            <pathway-xref db="Reactome" id="R-MMU-937041" name="IKK complex recruitment mediated by RIP1"/>
+            <pathway-xref db="Reactome" id="R-HSA-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-XTR-8951664" name="Neddylation"/>
+            <pathway-xref db="Reactome" id="R-MMU-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-4641263" name="Regulation of FZD by ubiquitination"/>
+            <pathway-xref db="Reactome" id="R-RNO-9032759" name="NTRK2 activates RAC1"/>
+            <pathway-xref db="MetaCyc" id="PWY-7982" name="pinoresinol degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-168638" name="NOD1/2 Signaling Pathway"/>
+            <pathway-xref db="Reactome" id="R-MMU-3108232" name="SUMO E3 ligases SUMOylate target proteins"/>
+            <pathway-xref db="Reactome" id="R-DDI-5213460" name="RIPK1-mediated regulated necrosis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6463" name="peptidoglycan cross-bridge biosynthesis IV (Weissella viridescens)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9014325" name="TICAM1,TRAF6-dependent induction of TAK1 complex"/>
+            <pathway-xref db="Reactome" id="R-HSA-177504" name="Retrograde neurotrophin signalling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7817" name="type I lipoteichoic acid biosynthesis (S. aureus)"/>
+            <pathway-xref db="Reactome" id="R-DME-450520" name="HuR (ELAVL1) binds and stabilizes mRNA"/>
+            <pathway-xref db="Reactome" id="R-MMU-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-MMU-428890" name="Role of ABL in ROBO-SLIT signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-68877" name="Mitotic Prometaphase"/>
+            <pathway-xref db="Reactome" id="R-SPO-8949613" name="Cristae formation"/>
+            <pathway-xref db="Reactome" id="R-MMU-983231" name="Factors involved in megakaryocyte development and platelet production"/>
+            <pathway-xref db="Reactome" id="R-HSA-165054" name="Rev-mediated nuclear export of HIV RNA"/>
+            <pathway-xref db="Reactome" id="R-CFA-1474228" name="Degradation of the extracellular matrix"/>
+            <pathway-xref db="Reactome" id="R-HSA-390522" name="Striated Muscle Contraction"/>
+            <pathway-xref db="Reactome" id="R-RNO-390522" name="Striated Muscle Contraction"/>
+            <pathway-xref db="Reactome" id="R-HSA-445355" name="Smooth Muscle Contraction"/>
+            <pathway-xref db="Reactome" id="R-HSA-5686938" name="Regulation of TLR by endogenous ligand"/>
+            <pathway-xref db="Reactome" id="R-MMU-168181" name="Toll Like Receptor 7/8 (TLR7/8) Cascade"/>
+            <pathway-xref db="Reactome" id="R-RNO-198203" name="PI3K/AKT activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9665244" name="Resistance of ERBB2 KD mutants to sapitinib"/>
+            <pathway-xref db="Reactome" id="R-MMU-68949" name="Orc1 removal from chromatin"/>
+            <pathway-xref db="Reactome" id="R-HSA-3108232" name="SUMO E3 ligases SUMOylate target proteins"/>
+            <pathway-xref db="Reactome" id="R-HSA-8876493" name="InlA-mediated entry of Listeria monocytogenes into host cells"/>
+            <pathway-xref db="Reactome" id="R-DRE-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="MetaCyc" id="PWY-7887" name="protein SAMPylation and SAMP-mediated thiolation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9707616" name="Heme signaling"/>
+            <pathway-xref db="Reactome" id="R-RNO-8873719" name="RAB geranylgeranylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6320" name="phaselate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6407" name="yersiniabactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5686938" name="Regulation of TLR by endogenous ligand"/>
+            <pathway-xref db="Reactome" id="R-GGA-9026527" name="Activated NTRK2 signals through PLCG1"/>
+            <pathway-xref db="Reactome" id="R-HSA-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5975" name="furaneol and mesifurane biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-214863" name="Adaptor protein complex binds to TL receptor at the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-MMU-5663220" name="RHO GTPases Activate Formins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7415" name="tylosin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5602571" name="TRAF3 deficiency - HSE"/>
+            <pathway-xref db="MetaCyc" id="PWY-6946" name="cholesterol degradation to androstenedione II (cholesterol dehydrogenase)"/>
+            <pathway-xref db="Reactome" id="R-RNO-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="Reactome" id="R-HSA-5663220" name="RHO GTPases Activate Formins"/>
+            <pathway-xref db="Reactome" id="R-MMU-76009" name="Platelet Aggregation (Plug Formation)"/>
+            <pathway-xref db="Reactome" id="R-MMU-9708530" name="Regulation of BACH1 activity"/>
+            <pathway-xref db="Reactome" id="R-HSA-9024909" name="BDNF activates NTRK2 (TRKB) signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-438066" name="Unblocking of NMDA receptors, glutamate binding and activation"/>
+            <pathway-xref db="Reactome" id="R-CFA-1971475" name="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-163210" name="Formation of ATP by chemiosmotic coupling"/>
+            <pathway-xref db="Reactome" id="R-MMU-177929" name="Signaling by EGFR"/>
+            <pathway-xref db="MetaCyc" id="PWY-1921" name="indole-3-acetate activation II"/>
+            <pathway-xref db="Reactome" id="R-DRE-5673000" name="RAF activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8082" name="glycine lipid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-975138" name="TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7565" name="aspyridone A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-XTR-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-428890" name="Role of ABL in ROBO-SLIT signaling"/>
+            <pathway-xref db="Reactome" id="R-RNO-9603381" name="Activated NTRK3 signals through PI3K"/>
+            <pathway-xref db="Reactome" id="R-HSA-199418" name="Negative regulation of the PI3K/AKT network"/>
+            <pathway-xref db="Reactome" id="R-HSA-9708530" name="Regulation of BACH1 activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-7445" name="luteolin triglucuronide degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-444821" name="Relaxin receptors"/>
+            <pathway-xref db="MetaCyc" id="PWY-5903" name="bacillibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="MetaCyc" id="PWY-7689" name="8-O-methylfusarubin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9706019" name="RHOBTB3 ATPase cycle"/>
+            <pathway-xref db="Reactome" id="R-DME-209442" name="Formation of the trans-membrane 'signalling complex'"/>
+            <pathway-xref db="Reactome" id="R-RNO-9013423" name="RAC3 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-170984" name="ARMS-mediated activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-1679131" name="Trafficking and processing of endosomal TLR"/>
+            <pathway-xref db="MetaCyc" id="PWY-6945" name="cholesterol degradation to androstenedione I (cholesterol oxidase)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7464" name="cyanidin 3,7-diglucoside polyacylation biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-8941413" name="Events associated with phagocytolytic activity of PMN cells"/>
+            <pathway-xref db="MetaCyc" id="PWY-7726" name="(4Z,7Z,10Z,13Z,16Z)-docosapentaenoate biosynthesis (6-desaturase)"/>
+            <pathway-xref db="Reactome" id="R-MMU-430116" name="GP1b-IX-V activation signalling"/>
+            <pathway-xref db="Reactome" id="R-BTA-450520" name="HuR (ELAVL1) binds and stabilizes mRNA"/>
+            <pathway-xref db="MetaCyc" id="PWY-7280" name="ternatin C3 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-5673000" name="RAF activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9665249" name="Resistance of ERBB2 KD mutants to afatinib"/>
+            <pathway-xref db="Reactome" id="R-MMU-937072" name="TRAF6-mediated induction of TAK1 complex within TLR4 complex"/>
+            <pathway-xref db="Reactome" id="R-MMU-1679131" name="Trafficking and processing of endosomal TLR"/>
+            <pathway-xref db="MetaCyc" id="PWY-6027" name="capsiconiate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-2022857" name="Keratan sulfate degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7954" name="tabtoxinine-beta-lactam biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5673000" name="RAF activation"/>
+            <pathway-xref db="Reactome" id="R-MMU-375281" name="Hormone ligand-binding receptors"/>
+            <pathway-xref db="Reactome" id="R-HSA-445989" name="TAK1 activates NFkB by phosphorylation and activation of IKKs complex"/>
+            <pathway-xref db="Reactome" id="R-MMU-8873719" name="RAB geranylgeranylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6998" name="CDP-D-arabitol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-450321" name="JNK (c-Jun kinases) phosphorylation and activation mediated by activated human TAK1"/>
+            <pathway-xref db="Reactome" id="R-HSA-9010553" name="Regulation of expression of SLITs and ROBOs"/>
+            <pathway-xref db="Reactome" id="R-DRE-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-DDI-3295583" name="TRP channels"/>
+            <pathway-xref db="MetaCyc" id="PWY-7352" name="daunorubicin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-214862" name="Activated PLL kinase is autophosphorylated in the TL receptor 'signalling complex'"/>
+            <pathway-xref db="Reactome" id="R-MMU-9034793" name="Activated NTRK3 signals through PLCG1"/>
+            <pathway-xref db="Reactome" id="R-HSA-2022857" name="Keratan sulfate degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-936440" name="Negative regulators of DDX58/IFIH1 signaling"/>
+            <pathway-xref db="Reactome" id="R-RNO-9696270" name="RND2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-SPO-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-2681" name="trans-zeatin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-159230" name="Transport of the SLBP Dependant Mature mRNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-9665233" name="Resistance of ERBB2 KD mutants to trastuzumab"/>
+            <pathway-xref db="Reactome" id="R-MMU-159230" name="Transport of the SLBP Dependant Mature mRNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-430116" name="GP1b-IX-V activation signalling"/>
+            <pathway-xref db="Reactome" id="R-HSA-936440" name="Negative regulators of DDX58/IFIH1 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-8116" name="ochratoxin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-975110" name="TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-975155" name="MyD88 dependent cascade initiated on endosome"/>
+            <pathway-xref db="Reactome" id="R-BTA-1474228" name="Degradation of the extracellular matrix"/>
+            <pathway-xref db="Reactome" id="R-HSA-5602498" name="MyD88 deficiency (TLR2/4)"/>
+            <pathway-xref db="Reactome" id="R-XTR-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-6373" name="acrylate degradation I"/>
+            <pathway-xref db="Reactome" id="R-DRE-9696270" name="RND2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-5602415" name="UNC93B1 deficiency - HSE"/>
+            <pathway-xref db="Reactome" id="R-MMU-8939902" name="Regulation of RUNX2 expression and activity"/>
+            <pathway-xref db="Reactome" id="R-HSA-2500257" name="Resolution of Sister Chromatid Cohesion"/>
+            <pathway-xref db="Reactome" id="R-HSA-9032845" name="Activated NTRK2 signals through CDK5"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013404" name="RAC2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-9673221" name="Defective F9 activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7461" name="hydroxycinnamate sugar acid ester biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-193634" name="Axonal growth inhibition (RHOA activation)"/>
+            <pathway-xref db="Reactome" id="R-HSA-168179" name="Toll Like Receptor TLR1:TLR2 Cascade"/>
+            <pathway-xref db="Reactome" id="R-HSA-450321" name="JNK (c-Jun kinases) phosphorylation and activation mediated by activated human TAK1"/>
+            <pathway-xref db="MetaCyc" id="PWY-7653" name="griseofulvin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-381676" name="Glucagon-like Peptide-1 (GLP1) regulates insulin secretion"/>
+            <pathway-xref db="MetaCyc" id="PWY-8012" name="mupirocin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013424" name="RHOV GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-9687136" name="Aberrant regulation of mitotic exit in cancer due to RB1 defects"/>
+            <pathway-xref db="MetaCyc" id="PWY-4801" name="aloesone biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-HSA-167021" name="PLC-gamma1 signalling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7171" name="flavonol acylglucoside biosynthesis II - isorhamnetin derivatives"/>
+            <pathway-xref db="Reactome" id="R-SCE-9615933" name="Postmitotic nuclear pore complex (NPC) reformation"/>
+            <pathway-xref db="Reactome" id="R-RNO-187042" name="TRKA activation by NGF"/>
+            <pathway-xref db="Reactome" id="R-HSA-5620916" name="VxPx cargo-targeting to cilium"/>
+            <pathway-xref db="Reactome" id="R-CFA-2022870" name="Chondroitin sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-1461957" name="Beta defensins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7679" name="anthocyanidin acylglucoside and acylsambubioside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9652282" name="Drug-mediated inhibition of ERBB2 signaling"/>
+            <pathway-xref db="Reactome" id="R-RNO-6803205" name="TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain"/>
+            <pathway-xref db="MetaCyc" id="PWY-6958" name="icosapentaenoate biosynthesis I (lower eukaryotes)"/>
+            <pathway-xref db="Reactome" id="R-HSA-5602410" name="TLR3 deficiency - HSE"/>
+            <pathway-xref db="Reactome" id="R-XTR-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DDI-1632852" name="Macroautophagy"/>
+            <pathway-xref db="Reactome" id="R-HSA-373752" name="Netrin-1 signaling"/>
+            <pathway-xref db="Reactome" id="R-CEL-159227" name="Transport of the SLBP independent Mature mRNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-166020" name="Transfer of LPS from LBP carrier to CD14"/>
+            <pathway-xref db="Reactome" id="R-DRE-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-5475" name="pentagalloylglucose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-DRE-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7688" name="dTDP-alpha-D-ravidosamine and dTDP-4-acetyl-alpha-D-ravidosamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9634285" name="Constitutive Signaling by Overexpressed ERBB2"/>
+            <pathway-xref db="Reactome" id="R-MMU-5223345" name="Miscellaneous transport and binding events"/>
+            <pathway-xref db="MetaCyc" id="PWY-7713" name="nivalenol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7412" name="mycinamicin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-141444" name="Amplification of signal from unattached kinetochores via a MAD2 inhibitory signal"/>
+            <pathway-xref db="MetaCyc" id="PWY-7669" name="equisetin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-SCE-3108232" name="SUMO E3 ligases SUMOylate target proteins"/>
+            <pathway-xref db="Reactome" id="R-HSA-8985586" name="SLIT2:ROBO1 increases RHOA activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-7470" name="phosphatidylcholine biosynthesis VII"/>
+            <pathway-xref db="Reactome" id="R-MMU-5654687" name="Downstream signaling of activated FGFR1"/>
+            <pathway-xref db="Reactome" id="R-DDI-5675482" name="Regulation of necroptotic cell death"/>
+            <pathway-xref db="MetaCyc" id="PWY-6944" name="androstenedione degradation I (aerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7561" name="tenellin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7904" name="tRNA-uridine 2-thiolation (thermophilic bacteria)"/>
+            <pathway-xref db="Reactome" id="R-GGA-430116" name="GP1b-IX-V activation signalling"/>
+            <pathway-xref db="Reactome" id="R-DME-214869" name="Phosphorylated CACT, DL and DIF homodimers dissociate from the TL receptor 'signalling complex'"/>
+            <pathway-xref db="MetaCyc" id="PWY-7884" name="lipoprotein posttranslational modification"/>
+            <pathway-xref db="MetaCyc" id="PWY-7659" name="viridicatumtoxin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-84" name="resveratrol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7250" name="[2Fe-2S] iron-sulfur cluster biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6682" name="dehydrophos biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2243919" name="Crosslinking of collagen fibrils"/>
+            <pathway-xref db="Reactome" id="R-HSA-168164" name="Toll Like Receptor 3 (TLR3) Cascade"/>
+            <pathway-xref db="Reactome" id="R-XTR-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="Reactome" id="R-HSA-166016" name="Toll Like Receptor 4 (TLR4) Cascade"/>
+            <pathway-xref db="Reactome" id="R-MMU-445989" name="TAK1 activates NFkB by phosphorylation and activation of IKKs complex"/>
+            <pathway-xref db="Reactome" id="R-MMU-163210" name="Formation of ATP by chemiosmotic coupling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7728" name="(4Z,7Z,10Z,13Z,16Z)-docosa-4,7,10,13,16-pentaenoate biosynthesis II (4-desaturase)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6626" name="cytidine-5'-diphosphate-glycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-140534" name="Caspase activation via Death Receptors in the presence of ligand"/>
+            <pathway-xref db="Reactome" id="R-CEL-3108232" name="SUMO E3 ligases SUMOylate target proteins"/>
+            <pathway-xref db="Reactome" id="R-DME-159231" name="Transport of Mature mRNA Derived from an Intronless Transcript"/>
+            <pathway-xref db="Reactome" id="R-CEL-209968" name="Thyroxine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-438066" name="Unblocking of NMDA receptors, glutamate binding and activation"/>
+            <pathway-xref db="Reactome" id="R-SCE-6803207" name="TP53 Regulates Transcription of Caspase Activators and Caspases"/>
+            <pathway-xref db="MetaCyc" id="PWY-5381" name="NAD salvage (plants)"/>
+            <pathway-xref db="Reactome" id="R-DDI-171007" name="p38MAPK events"/>
+            <pathway-xref db="MetaCyc" id="PWY-7746" name="mycobacterial sulfolipid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-187024" name="NGF-independant TRKA activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8151" name="cholesterol degradation to androstenedione III (anaerobic)"/>
+            <pathway-xref db="Reactome" id="R-HSA-8980692" name="RHOA GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-166020" name="Transfer of LPS from LBP carrier to CD14"/>
+            <pathway-xref db="MetaCyc" id="PWY-7002" name="4-hydroxyacetophenone degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7053" name="docosahexaenoate biosynthesis I (lower eukaryotes)"/>
+            <pathway-xref db="Reactome" id="R-MMU-166016" name="Toll Like Receptor 4 (TLR4) Cascade"/>
+            <pathway-xref db="Reactome" id="R-RNO-5654687" name="Downstream signaling of activated FGFR1"/>
+            <pathway-xref db="Reactome" id="R-HSA-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="Reactome" id="R-HSA-170968" name="Frs2-mediated activation"/>
+            <pathway-xref db="Reactome" id="R-MMU-1227986" name="Signaling by ERBB2"/>
+            <pathway-xref db="Reactome" id="R-MMU-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-159231" name="Transport of Mature mRNA Derived from an Intronless Transcript"/>
+            <pathway-xref db="Reactome" id="R-HSA-450302" name="activated TAK1 mediates p38 MAPK activation"/>
+            <pathway-xref db="Reactome" id="R-MMU-174178" name="APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1"/>
+            <pathway-xref db="Reactome" id="R-BTA-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8243" name="colanic acid (Escherichia coli K12) biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-844456" name="The NLRP3 inflammasome"/>
+            <pathway-xref db="Reactome" id="R-HSA-198203" name="PI3K/AKT activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-199418" name="Negative regulation of the PI3K/AKT network"/>
+            <pathway-xref db="MetaCyc" id="PWY-7816" name="poly(ribitol phosphate) wall teichoic acid biosynthesis II (S. aureus)"/>
+            <pathway-xref db="Reactome" id="R-HSA-428540" name="Activation of RAC1"/>
+            <pathway-xref db="MetaCyc" id="PWY-8045" name="cylindrospermopsin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-168142" name="Toll Like Receptor 10 (TLR10) Cascade"/>
+            <pathway-xref db="Reactome" id="R-HSA-198745" name="Signalling to STAT3"/>
+            <pathway-xref db="Reactome" id="R-MMU-450302" name="activated TAK1 mediates p38 MAPK activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7690" name="holomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-5223345" name="Miscellaneous transport and binding events"/>
+            <pathway-xref db="Reactome" id="R-HSA-9648025" name="EML4 and NUDC in mitotic spindle formation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5660" name="taxol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2024101" name="CS/DS degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-430116" name="GP1b-IX-V activation signalling"/>
+            <pathway-xref db="Reactome" id="R-HSA-5689901" name="Metalloprotease DUBs"/>
+            <pathway-xref db="MetaCyc" id="PWY-7696" name="citreoisocoumarin and bikisocoumarin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7342" name="superpathway of nicotine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-68949" name="Orc1 removal from chromatin"/>
+            <pathway-xref db="Reactome" id="R-DRE-9013409" name="RHOJ GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013026" name="RHOB GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-BTA-3000178" name="ECM proteoglycans"/>
+            <pathway-xref db="Reactome" id="R-HSA-937072" name="TRAF6-mediated induction of TAK1 complex within TLR4 complex"/>
+            <pathway-xref db="Reactome" id="R-HSA-187706" name="Signalling to p38 via RIT and RIN"/>
+            <pathway-xref db="Reactome" id="R-CEL-8951664" name="Neddylation"/>
+            <pathway-xref db="Reactome" id="R-DDI-1660499" name="Synthesis of PIPs at the plasma membrane"/>
+            <pathway-xref db="MetaCyc" id="PWY-7592" name="arachidonate biosynthesis III (6-desaturase, mammals)"/>
+            <pathway-xref db="Reactome" id="R-HSA-8849932" name="Synaptic adhesion-like molecules"/>
+            <pathway-xref db="Reactome" id="R-HSA-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-HSA-9660821" name="ADORA2B mediated anti-inflammatory cytokines production"/>
+            <pathway-xref db="MetaCyc" id="PWY-8152" name="androstenedione degradation II (anaerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-361" name="phenylpropanoid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9664565" name="Signaling by ERBB2 KD Mutants"/>
+            <pathway-xref db="Reactome" id="R-HSA-1971475" name="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5617472" name="Activation of anterior HOX genes in hindbrain development during early embryogenesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5984" name="rifamycin B biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6442" name="spermidine hydroxycinnamic acid conjugates biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-159227" name="Transport of the SLBP independent Mature mRNA"/>
+            <pathway-xref db="MetaCyc" id="PWY-7530" name="Escherichia coli serotype O:104 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9609736" name="Assembly and cell surface presentation of NMDA receptors"/>
+            <pathway-xref db="Reactome" id="R-RNO-450520" name="HuR (ELAVL1) binds and stabilizes mRNA"/>
+            <pathway-xref db="Reactome" id="R-MMU-5689896" name="Ovarian tumor domain proteases"/>
+            <pathway-xref db="Reactome" id="R-MMU-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="MetaCyc" id="PWY-6673" name="caffeoylglucarate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9707564" name="Cytoprotection by HMOX1"/>
+            <pathway-xref db="MetaCyc" id="PWY-6799" name="fatty acid biosynthesis initiation (plant mitochondria)"/>
+            <pathway-xref db="Reactome" id="R-RNO-2022870" name="Chondroitin sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-389977" name="Post-chaperonin tubulin folding pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-9603381" name="Activated NTRK3 signals through PI3K"/>
+            <pathway-xref db="Reactome" id="R-HSA-9034013" name="NTF3 activates NTRK3 signaling"/>
+            <pathway-xref db="Reactome" id="R-SPO-6803207" name="TP53 Regulates Transcription of Caspase Activators and Caspases"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7318" name="dTDP-3-acetamido-3,6-dideoxy-alpha-D-glucose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="MetaCyc" id="PWY-7986" name="anguibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9696270" name="RND2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-3214842" name="HDMs demethylate histones"/>
+            <pathway-xref db="Reactome" id="R-SCE-163210" name="Formation of ATP by chemiosmotic coupling"/>
+            <pathway-xref db="Reactome" id="R-DRE-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="Reactome" id="R-DME-214874" name="PLL kinase binds to TUB in the TL receptor 'signalling complex'"/>
+            <pathway-xref db="Reactome" id="R-HSA-9696264" name="RND3 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-9028731" name="Activated NTRK2 signals through FRS2 and FRS3"/>
+            <pathway-xref db="MetaCyc" id="PWY-7407" name="aurachin A, B, C and D biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-141444" name="Amplification of signal from unattached kinetochores via a MAD2 inhibitory signal"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013149" name="RAC1 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-9615933" name="Postmitotic nuclear pore complex (NPC) reformation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013423" name="RAC3 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-6310" name="aloesone biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-HSA-428542" name="Regulation of commissural axon pathfinding by SLIT and ROBO"/>
+            <pathway-xref db="Reactome" id="R-DME-4615885" name="SUMOylation of DNA replication proteins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7815" name="poly(ribitol phosphate) wall teichoic acid biosynthesis I (B. subtilis)"/>
+            <pathway-xref db="Reactome" id="R-RNO-159236" name="Transport of Mature mRNA derived from an Intron-Containing Transcript"/>
+            <pathway-xref db="MetaCyc" id="PWY-5794" name="malonate degradation I (biotin-independent)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9020702" name="Interleukin-1 signaling"/>
+            <pathway-xref db="Reactome" id="R-DRE-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7712" name="deoxynivalenol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-193634" name="Axonal growth inhibition (RHOA activation)"/>
+            <pathway-xref db="Reactome" id="R-XTR-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-DDI-430116" name="GP1b-IX-V activation signalling"/>
+            <pathway-xref db="Reactome" id="R-MMU-187577" name="SCF(Skp2)-mediated degradation of p27/p21"/>
+            <pathway-xref db="Reactome" id="R-MMU-6794361" name="Neurexins and neuroligins"/>
+            <pathway-xref db="MetaCyc" id="PWY-5466" name="matairesinol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-390522" name="Striated Muscle Contraction"/>
+            <pathway-xref db="MetaCyc" id="PWY-5461" name="betanidin degradation"/>
+            <pathway-xref db="Reactome" id="R-SPO-163210" name="Formation of ATP by chemiosmotic coupling"/>
+            <pathway-xref db="Reactome" id="R-HSA-844623" name="The IPAF inflammasome"/>
+            <pathway-xref db="Reactome" id="R-HSA-6803207" name="TP53 Regulates Transcription of Caspase Activators and Caspases"/>
+            <pathway-xref db="Reactome" id="R-HSA-4615885" name="SUMOylation of DNA replication proteins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7382" name="lipoate biosynthesis and incorporation IV (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8035" name="streptovaricin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-6803207" name="TP53 Regulates Transcription of Caspase Activators and Caspases"/>
+            <pathway-xref db="MetaCyc" id="PWY-7583" name="arachidonate biosynthesis II (bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7460" name="2-O-acetyl-3-O-trans-coutarate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6807004" name="Negative regulation of MET activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-7888" name="tRNA-uridine 2-thiolation (cytoplasmic)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9032759" name="NTRK2 activates RAC1"/>
+            <pathway-xref db="Reactome" id="R-HSA-877300" name="Interferon gamma signaling"/>
+            <pathway-xref db="Reactome" id="R-DDI-9013149" name="RAC1 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-8863795" name="Downregulation of ERBB2 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-8051" name="anandamide biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-HSA-75892" name="Platelet Adhesion to exposed collagen"/>
+            <pathway-xref db="Reactome" id="R-MMU-4615885" name="SUMOylation of DNA replication proteins"/>
+            <pathway-xref db="Reactome" id="R-MMU-8857538" name="PTK6 promotes HIF1A stabilization"/>
+            <pathway-xref db="Reactome" id="R-HSA-9620244" name="Long-term potentiation"/>
+            <pathway-xref db="Reactome" id="R-CEL-2243919" name="Crosslinking of collagen fibrils"/>
+            <pathway-xref db="Reactome" id="R-RNO-444821" name="Relaxin receptors"/>
+            <pathway-xref db="Reactome" id="R-HSA-400253" name="Circadian Clock"/>
+            <pathway-xref db="Reactome" id="R-DDI-168638" name="NOD1/2 Signaling Pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-3656225" name="Defective CHST6 causes MCDC1"/>
+            <pathway-xref db="Reactome" id="R-HSA-8875360" name="InlB-mediated entry of Listeria monocytogenes into host cell"/>
+            <pathway-xref db="Reactome" id="R-HSA-1606341" name="IRF3 mediated activation of type 1 IFN"/>
+            <pathway-xref db="Reactome" id="R-SSC-375281" name="Hormone ligand-binding receptors"/>
+            <pathway-xref db="Reactome" id="R-HSA-8863795" name="Downregulation of ERBB2 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-8231" name="Escherichia coli serotype O:127 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-167044" name="Signalling to RAS"/>
+            <pathway-xref db="Reactome" id="R-MMU-8949613" name="Cristae formation"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013409" name="RHOJ GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-438066" name="Unblocking of NMDA receptors, glutamate binding and activation"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013408" name="RHOG GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-SPO-9615933" name="Postmitotic nuclear pore complex (NPC) reformation"/>
+            <pathway-xref db="Reactome" id="R-MMU-6807004" name="Negative regulation of MET activity"/>
+            <pathway-xref db="Reactome" id="R-HSA-9603505" name="NTRK3 as a dependence receptor"/>
+            <pathway-xref db="Reactome" id="R-MMU-187042" name="TRKA activation by NGF"/>
+            <pathway-xref db="Reactome" id="R-HSA-8857538" name="PTK6 promotes HIF1A stabilization"/>
+            <pathway-xref db="Reactome" id="R-HSA-3595172" name="Defective CHST3 causes SEDCJD"/>
+            <pathway-xref db="Reactome" id="R-RNO-8849932" name="Synaptic adhesion-like molecules"/>
+            <pathway-xref db="Reactome" id="R-HSA-9665251" name="Resistance of ERBB2 KD mutants to lapatinib"/>
+            <pathway-xref db="MetaCyc" id="PWY-81" name="toluene degradation to benzoyl-CoA (anaerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7532" name="acetylaszonalenin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-XTR-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="MetaCyc" id="PWY-5835" name="geranyl acetate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6036" name="cardenolide glucosides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1839117" name="Signaling by cytosolic FGFR1 fusion mutants"/>
+            <pathway-xref db="Reactome" id="R-MMU-2022870" name="Chondroitin sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CFA-3000178" name="ECM proteoglycans"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013418" name="RHOBTB2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-9665348" name="Signaling by ERBB2 ECD mutants"/>
+            <pathway-xref db="MetaCyc" id="PWY-7671" name="saframycin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-5689901" name="Metalloprotease DUBs"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013408" name="RHOG GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7693" name="guadinomine B biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-936964" name="Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon"/>
+            <pathway-xref db="Reactome" id="R-HSA-9665246" name="Resistance of ERBB2 KD mutants to neratinib"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013418" name="RHOBTB2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-844455" name="The NLRP1 inflammasome"/>
+            <pathway-xref db="MetaCyc" id="PWY-8166" name="emodin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-375281" name="Hormone ligand-binding receptors"/>
+            <pathway-xref db="Reactome" id="R-HSA-381426" name="Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)"/>
+            <pathway-xref db="Reactome" id="R-BTA-2022923" name="Dermatan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-72163" name="mRNA Splicing - Major Pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-7989" name="acinetoferrin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7677" name="rosamicin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7261" name="anthocyanidin 3-malylglucoside biosynthesis (acyl-glucose dependent)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9032500" name="Activated NTRK2 signals through FYN"/>
+            <pathway-xref db="Reactome" id="R-MMU-69231" name="Cyclin D associated events in G1"/>
+            <pathway-xref db="Reactome" id="R-HSA-9665250" name="Resistance of ERBB2 KD mutants to AEE788"/>
+            <pathway-xref db="MetaCyc" id="PWY-7702" name="sch210971 and sch210972 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-5682910" name="LGI-ADAM interactions"/>
+            <pathway-xref db="Reactome" id="R-HSA-9028335" name="Activated NTRK2 signals through PI3K"/>
+            <pathway-xref db="Reactome" id="R-CFA-109704" name="PI3K Cascade"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013148" name="CDC42 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-6558" name="heparan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-168176" name="Toll Like Receptor 5 (TLR5) Cascade"/>
+            <pathway-xref db="Reactome" id="R-MMU-75892" name="Platelet Adhesion to exposed collagen"/>
+            <pathway-xref db="Reactome" id="R-HSA-8950505" name="Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6056" name="dimethylsulfoniopropanoate degradation II (cleavage)"/>
+            <pathway-xref db="Reactome" id="R-HSA-168928" name="DDX58/IFIH1-mediated induction of interferon-alpha/beta"/>
+            <pathway-xref db="Reactome" id="R-HSA-166058" name="MyD88:MAL(TIRAP) cascade initiated on plasma membrane"/>
+            <pathway-xref db="MetaCyc" id="PWY-7452" name="cyanidin dimalonylglucoside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-168138" name="Toll Like Receptor 9 (TLR9) Cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-8038" name="naphthomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7737" name="thiocoraline biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013148" name="CDC42 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7458" name="violdelphin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7672" name="fusaric acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9726840" name="SHOC2 M1731 mutant abolishes MRAS complex function"/>
+            <pathway-xref db="Reactome" id="R-HSA-8985801" name="Regulation of cortical dendrite branching"/>
+            <pathway-xref db="Reactome" id="R-HSA-9662360" name="Sensory processing of sound by inner hair cells of the cochlea"/>
+            <pathway-xref db="Reactome" id="R-CEL-376176" name="Signaling by ROBO receptors"/>
+            <pathway-xref db="Reactome" id="R-HSA-4641263" name="Regulation of FZD by ubiquitination"/>
+            <pathway-xref db="MetaCyc" id="PWY-5679" name="clavulanate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013409" name="RHOJ GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7511" name="protein ubiquitination"/>
+            <pathway-xref db="MetaCyc" id="PWY-8075" name="(Kdo)2-lipid A biosynthesis (P. putida)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7821" name="tunicamycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-450520" name="HuR (ELAVL1) binds and stabilizes mRNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-8949613" name="Cristae formation"/>
+            <pathway-xref db="Reactome" id="R-DME-159230" name="Transport of the SLBP Dependant Mature mRNA"/>
+            <pathway-xref db="MetaCyc" id="PWY-6289" name="petrobactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-428890" name="Role of ABL in ROBO-SLIT signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-4641263" name="Regulation of FZD by ubiquitination"/>
+            <pathway-xref db="Reactome" id="R-MMU-9032759" name="NTRK2 activates RAC1"/>
+            <pathway-xref db="Reactome" id="R-RNO-936440" name="Negative regulators of DDX58/IFIH1 signaling"/>
+            <pathway-xref db="Reactome" id="R-DDI-1169092" name="Activation of RAS in B cells"/>
+            <pathway-xref db="Reactome" id="R-RNO-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="Reactome" id="R-MMU-3000178" name="ECM proteoglycans"/>
+            <pathway-xref db="Reactome" id="R-RNO-9034793" name="Activated NTRK3 signals through PLCG1"/>
+            <pathway-xref db="MetaCyc" id="PWY-7265" name="lampranthin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-198203" name="PI3K/AKT activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013406" name="RHOQ GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7818" name="type IV lipoteichoic acid biosynthesis (S. pneumoniae)"/>
+            <pathway-xref db="Reactome" id="R-GGA-177504" name="Retrograde neurotrophin signalling"/>
+            <pathway-xref db="Reactome" id="R-GGA-517856" name="TLR2 subfamily cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-7624" name="nystatin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6397" name="mycolyl-arabinogalactan-peptidoglycan complex biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-446388" name="Regulation of cytoskeletal remodeling and cell spreading by IPP complex components"/>
+            <pathway-xref db="MetaCyc" id="PWY-7601" name="arachidonate biosynthesis IV (8-detaturase, lower eukaryotes)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8249" name="xanthommatin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2467813" name="Separation of Sister Chromatids"/>
+            <pathway-xref db="Reactome" id="R-DRE-8854050" name="FBXL7 down-regulates AURKA during mitotic entry and in early mitosis"/>
+            <pathway-xref db="Reactome" id="R-RNO-8951664" name="Neddylation"/>
+            <pathway-xref db="Reactome" id="R-DME-214842" name="DL and DIF homodimers bind to TUB and phosphorylated PLL in the TL receptor 'signalling complex'"/>
+            <pathway-xref db="Reactome" id="R-HSA-2467813" name="Separation of Sister Chromatids"/>
+            <pathway-xref db="Reactome" id="R-MMU-445355" name="Smooth Muscle Contraction"/>
+            <pathway-xref db="Reactome" id="R-HSA-8936459" name="RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function"/>
+            <pathway-xref db="MetaCyc" id="PWY-7983" name="pseudomonine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-202670" name="ERKs are inactivated"/>
+            <pathway-xref db="Reactome" id="R-MMU-388844" name="Receptor-type tyrosine-protein phosphatases"/>
+            <pathway-xref db="MetaCyc" id="PWY-5400" name="amaranthin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="Reactome" id="R-MMU-977606" name="Regulation of Complement cascade"/>
+            <pathway-xref db="Reactome" id="R-HSA-168181" name="Toll Like Receptor 7/8 (TLR7/8) Cascade"/>
+            <pathway-xref db="Reactome" id="R-HSA-9026527" name="Activated NTRK2 signals through PLCG1"/>
+            <pathway-xref db="Reactome" id="R-MMU-170968" name="Frs2-mediated activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-69231" name="Cyclin D associated events in G1"/>
+            <pathway-xref db="MetaCyc" id="PWY-5710" name="capsaicin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-DRE-9696264" name="RND3 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-5437" name="L-threonine degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7474" name="avenacin A-2 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9034015" name="Signaling by NTRK3 (TRKC)"/>
+            <pathway-xref db="Reactome" id="R-SCE-8949613" name="Cristae formation"/>
+            <pathway-xref db="Reactome" id="R-MMU-2562578" name="TRIF-mediated programmed cell death"/>
+            <pathway-xref db="Reactome" id="R-HSA-2562578" name="TRIF-mediated programmed cell death"/>
+            <pathway-xref db="Reactome" id="R-DDI-5621575" name="CD209 (DC-SIGN) signaling"/>
+            <pathway-xref db="Reactome" id="R-RNO-844455" name="The NLRP1 inflammasome"/>
+            <pathway-xref db="Reactome" id="R-DME-376176" name="Signaling by ROBO receptors"/>
+            <pathway-xref db="Reactome" id="R-MMU-159227" name="Transport of the SLBP independent Mature mRNA"/>
+            <pathway-xref db="Reactome" id="R-MMU-159236" name="Transport of Mature mRNA derived from an Intron-Containing Transcript"/>
+            <pathway-xref db="MetaCyc" id="PWY-7172" name="flavonol acylglucoside biosynthesis III - quercetin derivatives"/>
+            <pathway-xref db="MetaCyc" id="PWY-6314" name="plumbagin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-174178" name="APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1"/>
+            <pathway-xref db="Reactome" id="R-HSA-376176" name="Signaling by ROBO receptors"/>
+            <pathway-xref db="Reactome" id="R-GGA-451514" name="MyD88:TIRAP-dependent cascade initiated on plasma membrane"/>
+            <pathway-xref db="MetaCyc" id="PWY-6032" name="digitoxigenin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CFA-418555" name="G alpha (s) signalling events"/>
+            <pathway-xref db="Reactome" id="R-DRE-8951664" name="Neddylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7473" name="avenacin A-1 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-388844" name="Receptor-type tyrosine-protein phosphatases"/>
+            <pathway-xref db="Reactome" id="R-HSA-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="MetaCyc" id="PWY-7716" name="penicillin G and penicillin V biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-1483248" name="Synthesis of PIPs at the ER membrane"/>
+            <pathway-xref db="Reactome" id="R-GGA-170984" name="ARMS-mediated activation"/>
+            <pathway-xref db="Reactome" id="R-CEL-159230" name="Transport of the SLBP Dependant Mature mRNA"/>
+            <pathway-xref db="MetaCyc" id="PWY-6190" name="2,4-dichlorotoluene degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7475" name="des-methyl avenacin A-1 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-977606" name="Regulation of Complement cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-7045" name="mithramycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-9034013" name="NTF3 activates NTRK3 signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013106" name="RHOC GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-216083" name="Integrin cell surface interactions"/>
+            <pathway-xref db="Reactome" id="R-HSA-2022923" name="Dermatan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-8941413" name="Events associated with phagocytolytic activity of PMN cells"/>
+            <pathway-xref db="Reactome" id="R-DME-159236" name="Transport of Mature mRNA derived from an Intron-Containing Transcript"/>
+            <pathway-xref db="Reactome" id="R-DDI-193648" name="NRAGE signals death through JNK"/>
+            <pathway-xref db="Reactome" id="R-GGA-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-1971475" name="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3656244" name="Defective B4GALT1 causes B4GALT1-CDG (CDG-2d)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5473" name="hydroxycinnamic acid serotonin amides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-109704" name="PI3K Cascade"/>
+            <pathway-xref db="Reactome" id="R-GGA-76009" name="Platelet Aggregation (Plug Formation)"/>
+            <pathway-xref db="Reactome" id="R-HSA-3134975" name="Regulation of innate immune responses to cytosolic DNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-159231" name="Transport of Mature mRNA Derived from an Intronless Transcript"/>
+            <pathway-xref db="Reactome" id="R-HSA-3270619" name="IRF3-mediated induction of type I IFN"/>
+            <pathway-xref db="Reactome" id="R-DDI-354192" name="Integrin signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-975871" name="MyD88 cascade initiated on plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-MMU-3134975" name="Regulation of innate immune responses to cytosolic DNA"/>
+            <pathway-xref db="MetaCyc" id="PWY-6378" name="putrebactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-8849932" name="Synaptic adhesion-like molecules"/>
+            <pathway-xref db="Reactome" id="R-MMU-166020" name="Transfer of LPS from LBP carrier to CD14"/>
+            <pathway-xref db="Reactome" id="R-DRE-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="Reactome" id="R-HSA-8955332" name="Carboxyterminal post-translational modifications of tubulin"/>
+            <pathway-xref db="Reactome" id="R-HSA-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="Reactome" id="R-HSA-975163" name="IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-9696264" name="RND3 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-GGA-140837" name="Intrinsic Pathway of Fibrin Clot Formation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7738" name="polyacyltrehalose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CFA-168138" name="Toll Like Receptor 9 (TLR9) Cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-6462" name="peptidoglycan cross-bridge biosynthesis III (Enterococcus faecalis)"/>
+            <pathway-xref db="Reactome" id="R-RNO-429947" name="Deadenylation of mRNA"/>
+            <pathway-xref db="Reactome" id="R-DDI-392517" name="Rap1 signalling"/>
+            <pathway-xref db="Reactome" id="R-HSA-2022870" name="Chondroitin sulfate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8058" name="2-deoxy-D-ribose degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7577" name="ferrichrome biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7940" name="lauryl-hydroxychlorobactene glucoside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9026519" name="Activated NTRK2 signals through RAS"/>
+            <pathway-xref db="Reactome" id="R-MMU-9026527" name="Activated NTRK2 signals through PLCG1"/>
+            <pathway-xref db="Reactome" id="R-MMU-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="MetaCyc" id="PWY-6039" name="chlorogenic acid biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-SPO-3108232" name="SUMO E3 ligases SUMOylate target proteins"/>
+            <pathway-xref db="Reactome" id="R-XTR-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="Reactome" id="R-DME-159227" name="Transport of the SLBP independent Mature mRNA"/>
+            <pathway-xref db="Reactome" id="R-DME-388844" name="Receptor-type tyrosine-protein phosphatases"/>
+            <pathway-xref db="Reactome" id="R-MMU-9028731" name="Activated NTRK2 signals through FRS2 and FRS3"/>
+            <pathway-xref db="MetaCyc" id="PWY-8210" name="pyrrolomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9028731" name="Activated NTRK2 signals through FRS2 and FRS3"/>
+            <pathway-xref db="MetaCyc" id="PWY-5292" name="vindoline, vindorosine and vinblastine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-3270619" name="IRF3-mediated induction of type I IFN"/>
+            <pathway-xref db="MetaCyc" id="PWY-7367" name="phosphatidylcholine resynthesis via glycerophosphocholine"/>
+            <pathway-xref db="Reactome" id="R-MMU-2022923" name="Dermatan sulfate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7907" name="(2S,3E)-2-amino-4-methoxy-but-3-enoate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9665737" name="Drug resistance in ERBB2 TMD/JMD mutants"/>
+            <pathway-xref db="MetaCyc" id="PWY-7555" name="alpha-cyclopiazonate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3000178" name="ECM proteoglycans"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013106" name="RHOC GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-5673000" name="RAF activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7735" name="echinomycin and triostin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7621" name="autoinducer CAI-1 biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5994" name="palmitate biosynthesis I (type I fatty acid synthase)"/>
+            <pathway-xref db="Reactome" id="R-CEL-159236" name="Transport of Mature mRNA derived from an Intron-Containing Transcript"/>
+            <pathway-xref db="Reactome" id="R-RNO-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8047" name="bryostatin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7711" name="calonectrin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3560783" name="Defective B4GALT7 causes EDS, progeroid type"/>
+            <pathway-xref db="MetaCyc" id="PWY-6948" name="sitosterol degradation to androstenedione"/>
+            <pathway-xref db="MetaCyc" id="PWY-7100" name="spinosyn A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CFA-2024101" name="CS/DS degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5602680" name="MyD88 deficiency (TLR5)"/>
+            <pathway-xref db="Reactome" id="R-HSA-375281" name="Hormone ligand-binding receptors"/>
+            <pathway-xref db="Reactome" id="R-DDI-199418" name="Negative regulation of the PI3K/AKT network"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9665245" name="Resistance of ERBB2 KD mutants to tesevatinib"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013404" name="RAC2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-XTR-5223345" name="Miscellaneous transport and binding events"/>
+            <pathway-xref db="Reactome" id="R-DRE-450520" name="HuR (ELAVL1) binds and stabilizes mRNA"/>
+            <pathway-xref db="Reactome" id="R-XTR-3214842" name="HDMs demethylate histones"/>
+            <pathway-xref db="Reactome" id="R-MMU-9010553" name="Regulation of expression of SLITs and ROBOs"/>
+            <pathway-xref db="Reactome" id="R-XTR-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-RNO-9026527" name="Activated NTRK2 signals through PLCG1"/>
+            <pathway-xref db="Reactome" id="R-RNO-2024101" name="CS/DS degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-8985586" name="SLIT2:ROBO1 increases RHOA activity"/>
+            <pathway-xref db="Reactome" id="R-DRE-2022854" name="Keratan sulfate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8133" name="succinoglycan biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-177929" name="Signaling by EGFR"/>
+            <pathway-xref db="Reactome" id="R-GGA-9028731" name="Activated NTRK2 signals through FRS2 and FRS3"/>
+            <pathway-xref db="MetaCyc" id="PWY-7564" name="bacimethrin and bacimethrin pyrophosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8040" name="ansatrienin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-433822" name="NFkB and MAPK activation mediated by TRAF6"/>
+            <pathway-xref db="MetaCyc" id="PWY-8272" name="Escherichia coli serotype O:49 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013424" name="RHOV GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-5686938" name="Regulation of TLR by endogenous ligand"/>
+            <pathway-xref db="Reactome" id="R-MMU-2022857" name="Keratan sulfate degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5316" name="nicotine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-429947" name="Deadenylation of mRNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-9665686" name="Signaling by ERBB2 TMD/JMD mutants"/>
+            <pathway-xref db="Reactome" id="R-MMU-2500257" name="Resolution of Sister Chromatid Cohesion"/>
+            <pathway-xref db="Reactome" id="R-HSA-9034793" name="Activated NTRK3 signals through PLCG1"/>
+            <pathway-xref db="Reactome" id="R-CEL-9615933" name="Postmitotic nuclear pore complex (NPC) reformation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013957" name="TLR3-mediated TICAM1-dependent programmed cell death"/>
+            <pathway-xref db="MetaCyc" id="PWY-7727" name="docosahexaenoate biosynthesis IV (4-desaturase, mammals)"/>
+            <pathway-xref db="Reactome" id="R-HSA-8873719" name="RAB geranylgeranylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6312" name="barbaloin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-5674135" name="MAP2K and MAPK activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-216083" name="Integrin cell surface interactions"/>
+            <pathway-xref db="Reactome" id="R-HSA-8939902" name="Regulation of RUNX2 expression and activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-761" name="rhizobactin 1021 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-1971475" name="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7673" name="fusarin C biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-159231" name="Transport of Mature mRNA Derived from an Intronless Transcript"/>
+            <pathway-xref db="Reactome" id="R-DME-209968" name="Thyroxine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7563" name="bassianin and desmethylbassianin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7214" name="baicalein degradation (hydrogen peroxide detoxification)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6672" name="cis-geranyl-CoA degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-9652282" name="Drug-mediated inhibition of ERBB2 signaling"/>
+            <pathway-xref db="Reactome" id="R-SSC-168138" name="Toll Like Receptor 9 (TLR9) Cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-6722" name="candicidin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-2022870" name="Chondroitin sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-380259" name="Loss of Nlp from mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-HSA-418555" name="G alpha (s) signalling events"/>
+            <pathway-xref db="Reactome" id="R-DRE-5620912" name="Anchoring of the basal body to the plasma membrane"/>
+            <pathway-xref db="Reactome" id="R-DRE-9013406" name="RHOQ GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-1461957" name="Beta defensins"/>
+            <pathway-xref db="Reactome" id="R-HSA-5223345" name="Miscellaneous transport and binding events"/>
+            <pathway-xref db="Reactome" id="R-HSA-444821" name="Relaxin receptors"/>
+            <pathway-xref db="Reactome" id="R-HSA-168188" name="Toll Like Receptor TLR6:TLR2 Cascade"/>
+            <pathway-xref db="Reactome" id="R-HSA-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-9637628" name="Modulation by Mtb of host immune system"/>
+            <pathway-xref db="Reactome" id="R-HSA-166166" name="MyD88-independent TLR4 cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-5875" name="staphyloxanthin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-4922" name="6-methoxymellein biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3595177" name="Defective CHSY1 causes TPBS"/>
+            <pathway-xref db="MetaCyc" id="PWY-8157" name="avenanthramide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6316" name="aromatic polyketides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5284" name="shisonin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6848" name="rutin degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7050" name="icosapentaenoate biosynthesis IV (bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWYG-321" name="mycolate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8084" name="daurichromenate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-170984" name="ARMS-mediated activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-2243919" name="Crosslinking of collagen fibrils"/>
+            <pathway-xref db="Reactome" id="R-DRE-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-HSA-3595174" name="Defective CHST14 causes EDS, musculocontractural type"/>
+            <pathway-xref db="MetaCyc" id="PWY-6922" name="L-Ndelta-acetylornithine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5846" name="colchicine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5313" name="superpathway of anthocyanin biosynthesis (from cyanidin and cyanidin 3-O-glucoside)"/>
+            <pathway-xref db="Reactome" id="R-HSA-3656243" name="Defective ST3GAL3 causes MCT12 and EIEE15"/>
+            <pathway-xref db="Reactome" id="R-DME-168142" name="Toll Like Receptor 10 (TLR10) Cascade"/>
+            <pathway-xref db="Reactome" id="R-DRE-8854518" name="AURKA Activation by TPX2"/>
+            <pathway-xref db="Reactome" id="R-HSA-9660826" name="Purinergic signaling in leishmaniasis infection"/>
+            <pathway-xref db="MetaCyc" id="PWY-7708" name="lyngbyatoxin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CFA-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-1236974" name="ER-Phagosome pathway"/>
+            <pathway-xref db="Reactome" id="R-DRE-430116" name="GP1b-IX-V activation signalling"/>
+            <pathway-xref db="Reactome" id="R-DRE-9013148" name="CDC42 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-8117" name="colibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-6803207" name="TP53 Regulates Transcription of Caspase Activators and Caspases"/>
+            <pathway-xref db="Reactome" id="R-RNO-1474228" name="Degradation of the extracellular matrix"/>
+            <pathway-xref db="MetaCyc" id="PWY-7029" name="terminal olefins biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7670" name="fusaridione A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-159231" name="Transport of Mature mRNA Derived from an Intronless Transcript"/>
+            <pathway-xref db="Reactome" id="R-DDI-5673001" name="RAF/MAP kinase cascade"/>
+            <pathway-xref db="Reactome" id="R-HSA-5654687" name="Downstream signaling of activated FGFR1"/>
+            <pathway-xref db="Reactome" id="R-MMU-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="Reactome" id="R-HSA-428543" name="Inactivation of CDC42 and RAC1"/>
+            <pathway-xref db="Reactome" id="R-HSA-6794361" name="Neurexins and neuroligins"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013973" name="TICAM1-dependent activation of IRF3/IRF7"/>
+            <pathway-xref db="MetaCyc" id="PWY-7694" name="zwittermicin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-159227" name="Transport of the SLBP independent Mature mRNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-1227986" name="Signaling by ERBB2"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013406" name="RHOQ GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-SPO-159236" name="Transport of Mature mRNA derived from an Intron-Containing Transcript"/>
+            <pathway-xref db="Reactome" id="R-HSA-4608870" name="Asymmetric localization of PCP proteins"/>
+            <pathway-xref db="Reactome" id="R-DRE-3270619" name="IRF3-mediated induction of type I IFN"/>
+            <pathway-xref db="MetaCyc" id="PWY-5139" name="pelargonidin conjugates biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6824" name="justicidin B biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-983231" name="Factors involved in megakaryocyte development and platelet production"/>
+            <pathway-xref db="MetaCyc" id="PWY-5477" name="gallotannin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9648025" name="EML4 and NUDC in mitotic spindle formation"/>
+            <pathway-xref db="Reactome" id="R-MMU-8980692" name="RHOA GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-977606" name="Regulation of Complement cascade"/>
+            <pathway-xref db="Reactome" id="R-MMU-8849932" name="Synaptic adhesion-like molecules"/>
+            <pathway-xref db="MetaCyc" id="PWY-7599" name="anditomin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-177504" name="Retrograde neurotrophin signalling"/>
+            <pathway-xref db="Reactome" id="R-RNO-5673001" name="RAF/MAP kinase cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-7401" name="crotonate fermentation (to acetate and cyclohexane carboxylate)"/>
+            <pathway-xref db="Reactome" id="R-DDI-1660516" name="Synthesis of PIPs at the early endosome membrane"/>
+            <pathway-xref db="MetaCyc" id="PWY-6415" name="L-ascorbate biosynthesis V (euglena, D-galacturonate pathway)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6679" name="jadomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5689880" name="Ub-specific processing proteases"/>
+            <pathway-xref db="Reactome" id="R-CFA-375281" name="Hormone ligand-binding receptors"/>
+            <pathway-xref db="Reactome" id="R-HSA-5603041" name="IRAK4 deficiency (TLR2/4)"/>
+            <pathway-xref db="Reactome" id="R-MMU-9020702" name="Interleukin-1 signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7168" name="flavonol acylglucoside biosynthesis I - kaempferol derivatives"/>
+            <pathway-xref db="Reactome" id="R-DME-214844" name="DL and DIF homodimers complexed with CACT are all phosphorylated in the TL receptor 'signalling complex'"/>
+            <pathway-xref db="MetaCyc" id="PWY-7127" name="CDP-D-mannitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5307" name="gentiodelphin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-2022857" name="Keratan sulfate degradation"/>
+            <pathway-xref db="Reactome" id="R-RNO-216083" name="Integrin cell surface interactions"/>
+            <pathway-xref db="Reactome" id="R-RNO-199418" name="Negative regulation of the PI3K/AKT network"/>
+            <pathway-xref db="MetaCyc" id="PWY-8036" name="chaxamycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-937041" name="IKK complex recruitment mediated by RIP1"/>
+            <pathway-xref db="Reactome" id="R-HSA-2024101" name="CS/DS degradation"/>
+            <pathway-xref db="Reactome" id="R-DME-2243919" name="Crosslinking of collagen fibrils"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013026" name="RHOB GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-1971475" name="A tetrasaccharide linker sequence is required for GAG synthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-DDI-9013148" name="CDC42 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-5689901" name="Metalloprotease DUBs"/>
+            <pathway-xref db="MetaCyc" id="PWY-6971" name="oleandomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-9034013" name="NTF3 activates NTRK3 signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-429947" name="Deadenylation of mRNA"/>
+            <pathway-xref db="Reactome" id="R-MMU-9696264" name="RND3 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-9696270" name="RND2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-GGA-9032759" name="NTRK2 activates RAC1"/>
+            <pathway-xref db="Reactome" id="R-HSA-168927" name="TICAM1, RIP1-mediated IKK complex recruitment"/>
+            <pathway-xref db="Reactome" id="R-MMU-109704" name="PI3K Cascade"/>
+            <pathway-xref db="Reactome" id="R-RNO-388844" name="Receptor-type tyrosine-protein phosphatases"/>
+            <pathway-xref db="MetaCyc" id="PWY-5048" name="rosmarinic acid biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-BTA-114608" name="Platelet degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-380284" name="Loss of proteins required for interphase microtubule organization from the centrosome"/>
+            <pathway-xref db="MetaCyc" id="PWY-8055" name="palmitoyl ethanolamide biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-2022857" name="Keratan sulfate degradation"/>
+            <pathway-xref db="Reactome" id="R-DDI-983231" name="Factors involved in megakaryocyte development and platelet production"/>
+            <pathway-xref db="Reactome" id="R-HSA-380270" name="Recruitment of mitotic centrosome proteins and complexes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7450" name="anthocyanidin modification (Arabidopsis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5469" name="sesamin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7354" name="aclacinomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-975163" name="IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-72163" name="mRNA Splicing - Major Pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-3214842" name="HDMs demethylate histones"/>
+            <pathway-xref db="MetaCyc" id="PWY-5268" name="salvianin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-2022923" name="Dermatan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1810476" name="RIP-mediated NFkB activation via ZBP1"/>
+            <pathway-xref db="Reactome" id="R-DRE-2565942" name="Regulation of PLK1 Activity at G2/M Transition"/>
+            <pathway-xref db="MetaCyc" id="PWY-7656" name="Spodoptera littoralis pheromone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6453" name="stigma estolide biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3560801" name="Defective B3GAT3 causes JDSSDHD"/>
+            <pathway-xref db="MetaCyc" id="PWY-7692" name="bikaverin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7811" name="6-methylpretetramide biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SSC-418555" name="G alpha (s) signalling events"/>
+            <pathway-xref db="MetaCyc" id="PWY-6920" name="6-gingerol analog biosynthesis (engineered)"/>
+            <pathway-xref db="Reactome" id="R-HSA-5602566" name="TICAM1 deficiency - HSE"/>
+            <pathway-xref db="MetaCyc" id="PWY-7602" name="icosapentaenoate biosynthesis V (8-desaturase, lower eukaryotes)"/>
+            <pathway-xref db="Reactome" id="R-CFA-2022923" name="Dermatan sulfate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-168638" name="NOD1/2 Signaling Pathway"/>
+            <pathway-xref db="Reactome" id="R-SSC-1679131" name="Trafficking and processing of endosomal TLR"/>
+            <pathway-xref db="MetaCyc" id="PWY-7988" name="baumannoferrin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SSC-109704" name="PI3K Cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-7687" name="stipitatate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6379" name="alcaligin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CFA-1679131" name="Trafficking and processing of endosomal TLR"/>
+            <pathway-xref db="Reactome" id="R-RNO-159227" name="Transport of the SLBP independent Mature mRNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-8951664" name="Neddylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7730" name="T-2 toxin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-5673000" name="RAF activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5603037" name="IRAK4 deficiency (TLR5)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6930" name="phenolic malonylglucosides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-5675221" name="Negative regulation of MAPK pathway"/>
+            <pathway-xref db="Reactome" id="R-DRE-75892" name="Platelet Adhesion to exposed collagen"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CEL-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-RNO-445355" name="Smooth Muscle Contraction"/>
+            <pathway-xref db="MetaCyc" id="PWY-7405" name="aurachin RE biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-XTR-5654687" name="Downstream signaling of activated FGFR1"/>
+            <pathway-xref db="Reactome" id="R-XTR-2243919" name="Crosslinking of collagen fibrils"/>
+            <pathway-xref db="Reactome" id="R-HSA-380320" name="Recruitment of NuMA to mitotic centrosomes"/>
+            <pathway-xref db="Reactome" id="R-HSA-983168" name="Antigen processing: Ubiquitination &amp; Proteasome degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9025046" name="NTF3 activates NTRK2 (TRKB) signaling"/>
+            <pathway-xref db="Reactome" id="R-RNO-3000178" name="ECM proteoglycans"/>
+            <pathway-xref db="Reactome" id="R-HSA-446388" name="Regulation of cytoskeletal remodeling and cell spreading by IPP complex components"/>
+            <pathway-xref db="Reactome" id="R-MMU-166166" name="MyD88-independent TLR4 cascade"/>
+            <pathway-xref db="Reactome" id="R-MMU-9603381" name="Activated NTRK3 signals through PI3K"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013423" name="RAC3 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-9706019" name="RHOBTB3 ATPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-917937" name="Iron uptake and transport"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013149" name="RAC1 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-7984" name="acinetobactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5689896" name="Ovarian tumor domain proteases"/>
+            <pathway-xref db="Reactome" id="R-MMU-418555" name="G alpha (s) signalling events"/>
+          </entry>
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>4ecnA03</model-ac>
+        <locations>
+          <hmmer3-location env-end="196" env-start="109" post-processed="true" score="31.3" evalue="2.5E-7" hmm-start="208" hmm-end="267" hmm-length="613" hmm-bounds="C_TERMINAL_COMPLETE" start="113" end="196">
+            <location-fragments>
+              <hmmer3-location-fragment start="113" end="196" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="1.5E-34" familyName="DISEASE RESISTANCE PROTEIN TAO1-LIKE" score="131.5">
+        <signature ac="PTHR45752" name="LEUCINE-RICH REPEAT-CONTAINING">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR45752</model-ac>
+        <locations>
+          <panther-location env-start="109" env-end="200" hmm-start="132" hmm-end="215" hmm-length="222" hmm-bounds="INCOMPLETE" start="115" end="198">
+            <location-fragments>
+              <panther-location-fragment start="115" end="198" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="1.5E-34" familyName="DISEASE RESISTANCE PROTEIN TAO1-LIKE" score="131.5">
+        <signature ac="PTHR45752" name="LEUCINE-RICH REPEAT-CONTAINING">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR45752</model-ac>
+        <locations>
+          <panther-location env-start="15" env-end="65" hmm-start="132" hmm-end="175" hmm-length="222" hmm-bounds="INCOMPLETE" start="17" end="59">
+            <location-fragments>
+              <panther-location-fragment start="17" end="59" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+          <panther-location env-start="36" env-end="115" hmm-start="98" hmm-end="180" hmm-length="222" hmm-bounds="N_TERMINAL_COMPLETE" start="36" end="111">
+            <location-fragments>
+              <panther-location-fragment start="36" end="111" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="1.5E-34" familyName="DISEASE RESISTANCE PROTEIN TAO1-LIKE" score="131.5">
+        <signature ac="PTHR45752:SF108" name="DISEASE RESISTANCE PROTEIN TAO1-LIKE">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR45752:SF108</model-ac>
+        <locations>
+          <panther-location env-start="15" env-end="65" hmm-start="132" hmm-end="175" hmm-length="222" hmm-bounds="INCOMPLETE" start="17" end="59">
+            <location-fragments>
+              <panther-location-fragment start="17" end="59" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+          <panther-location env-start="36" env-end="115" hmm-start="98" hmm-end="180" hmm-length="222" hmm-bounds="N_TERMINAL_COMPLETE" start="36" end="111">
+            <location-fragments>
+              <panther-location-fragment start="36" end="111" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+          <panther-location env-start="109" env-end="200" hmm-start="132" hmm-end="215" hmm-length="222" hmm-bounds="INCOMPLETE" start="115" end="198">
+            <location-fragments>
+              <panther-location-fragment start="115" end="198" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <superfamilyhmmer3-match evalue="3.14E-26">
+        <signature ac="SSF52047" name="RNI-like">
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0052014</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="456" start="5" end="185">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="5" end="185" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

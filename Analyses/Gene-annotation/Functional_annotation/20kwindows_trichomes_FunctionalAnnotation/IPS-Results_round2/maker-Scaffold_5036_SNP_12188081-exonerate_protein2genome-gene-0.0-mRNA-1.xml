@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.56-89.0">
+  <protein>
+    <sequence md5="08e9cc5162c808b368dbcda4e7787214">MNYFLNAWIIYKIILTISVMVASAKRSFLKLELIKFYFQSAMSQERLNELGMLSIEKDLLKRFDFHDLINTFTTKNERIHFQKKKIGTIFV</sequence>
+    <xref id="maker-Scaffold_5036_SNP_12188081-exonerate_protein2genome-gene-0.0-mRNA-1" name="maker-Scaffold_5036_SNP_12188081-exonerate_protein2genome-gene-0.0-mRNA-1"/>
+    <matches>
+      <hmmer3-match evalue="1.9E-8" score="34.0">
+        <signature ac="PF05699" desc="hAT family C-terminal dimerisation region" name="Dimer_Tnp_hAT">
+          <entry ac="IPR008906" desc="HAT, C-terminal dimerisation domain" name="HATC_C_dom" type="DOMAIN">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0046983" name="protein dimerization activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-6462" name="peptidoglycan cross-bridge biosynthesis III (Enterococcus faecalis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6682" name="dehydrophos biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6463" name="peptidoglycan cross-bridge biosynthesis IV (Weissella viridescens)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7816" name="poly(ribitol phosphate) wall teichoic acid biosynthesis II (S. aureus)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7817" name="type I lipoteichoic acid biosynthesis (S. aureus)"/>
+            <pathway-xref db="Reactome" id="R-HSA-4551638" name="SUMOylation of chromatin organization proteins"/>
+            <pathway-xref db="MetaCyc" id="PWY-7887" name="protein SAMPylation and SAMP-mediated thiolation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6289" name="petrobactin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7815" name="poly(ribitol phosphate) wall teichoic acid biosynthesis I (B. subtilis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6841" name="homophytochelatin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7818" name="type IV lipoteichoic acid biosynthesis (S. pneumoniae)"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF05699</model-ac>
+        <locations>
+          <hmmer3-location env-end="59" env-start="2" post-processed="true" score="33.5" evalue="2.6E-8" hmm-start="33" hmm-end="86" hmm-length="86" hmm-bounds="C_TERMINAL_COMPLETE" start="4" end="59">
+            <location-fragments>
+              <hmmer3-location-fragment start="4" end="59" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="3.5E-21" familyName="AC-LIKE TRANSPOSASE" score="87.0">
+        <signature ac="PTHR45749:SF9" name="AC-LIKE TRANSPOSASE">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR45749:SF9</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="83" hmm-start="501" hmm-end="580" hmm-length="582" hmm-bounds="INCOMPLETE" start="3" end="81">
+            <location-fragments>
+              <panther-location-fragment start="3" end="81" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="3.5E-21" familyName="AC-LIKE TRANSPOSASE" score="87.0">
+        <signature ac="PTHR45749" name="FAMILY NOT NAMED">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR45749</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="83" hmm-start="501" hmm-end="580" hmm-length="582" hmm-bounds="INCOMPLETE" start="3" end="81">
+            <location-fragments>
+              <panther-location-fragment start="3" end="81" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

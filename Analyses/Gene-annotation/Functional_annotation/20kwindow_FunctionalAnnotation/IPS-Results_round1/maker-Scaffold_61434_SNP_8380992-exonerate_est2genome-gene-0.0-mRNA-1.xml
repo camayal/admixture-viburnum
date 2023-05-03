@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="503adf3e6c8d4664149c356bad22264f">MELYPRIGKNFDIKVFTNCRFGMMSWAVLAVTYCIKQYEANGRVADSMLVNTALMLAYVTKFFWWEAGYWNTMDIAHDRAGFYICWGCLVWVPSIYTSPGMFLVNHPINLGAQLAIYILVAGILSIYINYDCDRQRQEFRRTNGKCMIWGKAPSKIVASYTTSSGETKNSLLLTSGWWGLSRHFHYVPEISAAFFWTVPALFNHFLPYFYVVFLTILLLDRAQRDDDRCRSKYGKYWKLYCEKVPYRIIPGIY</sequence>
+    <xref id="maker-Scaffold_61434_SNP_8380992-exonerate_est2genome-gene-0.0-mRNA-1" name="maker-Scaffold_61434_SNP_8380992-exonerate_est2genome-gene-0.0-mRNA-1"/>
+    <matches>
+      <hmmer3-match evalue="4.7E-18" score="67.6">
+        <signature ac="G3DSA:1.20.120.1630" name="">
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>4a2nB00</model-ac>
+        <locations>
+          <hmmer3-location env-end="252" env-start="43" post-processed="true" score="67.5" evalue="5.1E-18" hmm-start="27" hmm-end="193" hmm-length="194" hmm-bounds="COMPLETE" start="43" end="252">
+            <location-fragments>
+              <hmmer3-location-fragment start="43" end="252" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="1.4E-63" score="215.2">
+        <signature ac="PF01222" desc="Ergosterol biosynthesis ERG4/ERG24 family" name="ERG4_ERG24">
+          <entry ac="IPR001171" desc="Sterol biosynthesis ERG24/DHCR-like" name="ERG24_DHCR-like" type="FAMILY">
+            <go-xref category="CELLULAR_COMPONENT" db="GO" id="GO:0016020" name="membrane"/>
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0016126" name="sterol biosynthetic process"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0016628" name="oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor"/>
+            <pathway-xref db="MetaCyc" id="PWY-8238" name="24-epi-campesterol, fucosterol, and clionasterol biosynthesis (diatoms)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5984" name="rifamycin B biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-XTR-6807047" name="Cholesterol biosynthesis via desmosterol"/>
+            <pathway-xref db="MetaCyc" id="PWY-7826" name="Amaryllidacea alkaloids biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-699" name="brassinosteroid biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-SCE-9013106" name="RHOC GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-8239" name="cholesterol biosynthesis (diatoms)"/>
+            <pathway-xref db="Reactome" id="R-SCE-9013405" name="RHOD GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-8980692" name="RHOA GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-191273" name="Cholesterol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7154" name="ergosterol biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-SPO-9013106" name="RHOC GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-2582" name="brassinosteroid biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7655" name="dechlorogriseofulvin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-6807047" name="Cholesterol biosynthesis via desmosterol"/>
+            <pathway-xref db="MetaCyc" id="PWY-5972" name="stearate biosynthesis I (animals)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7846" name="heme degradation V"/>
+            <pathway-xref db="Reactome" id="R-RNO-6807047" name="Cholesterol biosynthesis via desmosterol"/>
+            <pathway-xref db="MetaCyc" id="PWY-7770" name="indolmycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013149" name="RAC1 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-6824" name="justicidin B biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6309" name="L-tryptophan degradation XI (mammalian, via kynurenine)"/>
+            <pathway-xref db="Reactome" id="R-XTR-6807062" name="Cholesterol biosynthesis via lathosterol"/>
+            <pathway-xref db="Reactome" id="R-HSA-2426168" name="Activation of gene expression by SREBF (SREBP)"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013106" name="RHOC GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-9022692" name="Regulation of MECP2 expression and activity"/>
+            <pathway-xref db="Reactome" id="R-SCE-191273" name="Cholesterol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6944" name="androstenedione degradation I (aerobic)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013423" name="RAC3 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-SPO-191273" name="Cholesterol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8191" name="cholesterol biosynthesis (algae, late side-chain reductase)"/>
+            <pathway-xref db="Reactome" id="R-MMU-6807062" name="Cholesterol biosynthesis via lathosterol"/>
+            <pathway-xref db="MetaCyc" id="PWY-5818" name="validamycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-8980692" name="RHOA GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013148" name="CDC42 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013405" name="RHOD GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-6075" name="ergosterol biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-DME-191273" name="Cholesterol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2995383" name="Initiation of Nuclear Envelope (NE) Reformation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7096" name="triclosan resistance"/>
+            <pathway-xref db="Reactome" id="R-MMU-6807047" name="Cholesterol biosynthesis via desmosterol"/>
+            <pathway-xref db="MetaCyc" id="PWY-6074" name="zymosterol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5393" name="raspberry ketone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7155" name="7-dehydroporiferasterol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6032" name="digitoxigenin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6807047" name="Cholesterol biosynthesis via desmosterol"/>
+            <pathway-xref db="MetaCyc" id="PWY-5367" name="petroselinate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8044" name="cyclohexane-1-carboxyl-CoA biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-2541" name="phytosterol biosynthesis (plants)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013408" name="RHOG GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-6088" name="3-chlorobenzoate degradation I (via chlorocatechol)"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013404" name="RAC2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-DRE-6807062" name="Cholesterol biosynthesis via lathosterol"/>
+            <pathway-xref db="Reactome" id="R-SPO-2995383" name="Initiation of Nuclear Envelope (NE) Reformation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6786" name="detoxification of reactive carbonyls in chloroplasts"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013423" name="RAC3 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-6332" name="coumestrol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013404" name="RAC2 GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-SCE-2995383" name="Initiation of Nuclear Envelope (NE) Reformation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5292" name="vindoline, vindorosine and vinblastine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-6807062" name="Cholesterol biosynthesis via lathosterol"/>
+            <pathway-xref db="MetaCyc" id="PWY-7881" name="virginiae butanolide type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8026" name="sterol biosynthesis (methylotrophs)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5301" name="ajmaline and sarpagine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7653" name="griseofulvin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6807062" name="Cholesterol biosynthesis via lathosterol"/>
+            <pathway-xref db="Reactome" id="R-SPO-9013405" name="RHOD GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-8152" name="androstenedione degradation II (anaerobic)"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013405" name="RHOD GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013148" name="CDC42 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-5729" name="vestitol and sativan biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9022692" name="Regulation of MECP2 expression and activity"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013149" name="RAC1 GTPase cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-8172" name="10-methylstearate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5956" name="sterigmatocystin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7300" name="ecdysone and 20-hydroxyecdysone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8103" name="kavain biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-2995383" name="Initiation of Nuclear Envelope (NE) Reformation"/>
+            <pathway-xref db="Reactome" id="R-MMU-9013408" name="RHOG GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-DDI-191273" name="Cholesterol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-191273" name="Cholesterol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6996" name="daidzin and daidzein degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9013106" name="RHOC GTPase cycle"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF01222</model-ac>
+        <locations>
+          <hmmer3-location env-end="253" env-start="1" post-processed="true" score="215.1" evalue="1.5E-63" hmm-start="191" hmm-end="432" hmm-length="432" hmm-bounds="C_TERMINAL_COMPLETE" start="2" end="253">
+            <location-fragments>
+              <hmmer3-location-fragment start="2" end="253" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="8.4E-160" familyName="7-DEHYDROCHOLESTEROL REDUCTASE" score="544.0">
+        <signature ac="PTHR21257" name="DELTA(14)-STEROL REDUCTASE">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR21257</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="253" hmm-start="182" hmm-end="434" hmm-length="434" hmm-bounds="COMPLETE" start="1" end="253">
+            <location-fragments>
+              <panther-location-fragment start="1" end="253" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="8.4E-160" familyName="7-DEHYDROCHOLESTEROL REDUCTASE" score="544.0">
+        <signature ac="PTHR21257:SF53" name="7-DEHYDROCHOLESTEROL REDUCTASE">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR21257:SF53</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="253" hmm-start="182" hmm-end="434" hmm-length="434" hmm-bounds="COMPLETE" start="1" end="253">
+            <location-fragments>
+              <panther-location-fragment start="1" end="253" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

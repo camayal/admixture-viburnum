@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="d0eec39c46ccb0e9b4d8c298a5d4750c">MYGHMEGLARRMKKGEDRVNGVEEVLYRIPETLSSEILEEMRVPPKGDEISVISAEELVVADGLLFGFPTRDGCMKAQMKAFFWFEGAIVEGAKARW</sequence>
+    <xref id="maker-Scaffold_59870_SNP_8709701-exonerate_protein2genome-gene-0.0-mRNA-1" name="maker-Scaffold_59870_SNP_8709701-exonerate_protein2genome-gene-0.0-mRNA-1"/>
+    <matches>
+      <hmmer3-match evalue="3.2E-18" score="68.2">
+        <signature ac="G3DSA:3.40.50.360" name="">
+          <entry ac="IPR029039" desc="Flavoprotein-like superfamily" name="Flavoprotein-like_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="MetaCyc" id="PWY-699" name="brassinosteroid biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7999" name="vitamin K-epoxide cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-203615" name="eNOS activation"/>
+            <pathway-xref db="Reactome" id="R-DDI-9009391" name="Extra-nuclear estrogen signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7325" name="salvigenin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7070" name="steviol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-1474151" name="Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6683" name="assimilatory sulfate reduction III"/>
+            <pathway-xref db="Reactome" id="R-RNO-203754" name="NOSIP mediated eNOS trafficking"/>
+            <pathway-xref db="Reactome" id="R-MMU-211945" name="Phase I - Functionalization of compounds"/>
+            <pathway-xref db="Reactome" id="R-SCE-1474151" name="Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-681" name="dibenzothiophene desulfurization"/>
+            <pathway-xref db="Reactome" id="R-SPO-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="Reactome" id="R-RNO-156581" name="Methylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5523" name="5,6-dimethylbenzimidazole biosynthesis I (aerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7711" name="calonectrin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-350562" name="Regulation of ornithine decarboxylase (ODC)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7640" name="abscisic acid degradation to neophaseic acid"/>
+            <pathway-xref db="Reactome" id="R-HSA-211945" name="Phase I - Functionalization of compounds"/>
+            <pathway-xref db="MetaCyc" id="PWY-2261" name="ascorbate glutathione cycle"/>
+            <pathway-xref db="Reactome" id="R-DME-392154" name="Nitric oxide stimulates guanylate cyclase"/>
+            <pathway-xref db="Reactome" id="R-SPO-203615" name="eNOS activation"/>
+            <pathway-xref db="Reactome" id="R-SCE-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-5161" name="6'-deoxychalcone metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-5487" name="4-nitrophenol degradation I"/>
+            <pathway-xref db="Reactome" id="R-CEL-1614635" name="Sulfur amino acid metabolism"/>
+            <pathway-xref db="Reactome" id="R-MMU-196741" name="Cobalamin (Cbl, vitamin B12) transport and metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7542" name="fumiquinazoline D biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5218920" name="VEGFR2 mediated vascular permeability"/>
+            <pathway-xref db="MetaCyc" id="PWY-7466" name="acetone degradation III (to propane-1,2-diol)"/>
+            <pathway-xref db="Reactome" id="R-DME-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-2681" name="trans-zeatin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8083" name="domoic acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5061" name="6,7,4'-trihydroxyisoflavone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-203641" name="NOSTRIN mediated eNOS trafficking"/>
+            <pathway-xref db="Reactome" id="R-SCE-9009391" name="Extra-nuclear estrogen signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7540" name="aflatrem biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-196741" name="Cobalamin (Cbl, vitamin B12) transport and metabolism"/>
+            <pathway-xref db="Reactome" id="R-DME-5218920" name="VEGFR2 mediated vascular permeability"/>
+            <pathway-xref db="MetaCyc" id="PWY-6005" name="marneral biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5168" name="ferulate and sinapate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7714" name="harzianum A and trichodermin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5660" name="taxol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-5955" name="versicolorin B biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-203754" name="NOSIP mediated eNOS trafficking"/>
+            <pathway-xref db="MetaCyc" id="PWY-7035" name="(9Z)-tricosene biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9009391" name="Extra-nuclear estrogen signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-4983" name="nitric oxide biosynthesis II (mammals)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7342" name="superpathway of nicotine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-DDI-1474151" name="Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-1222556" name="ROS and RNS production in phagocytes"/>
+            <pathway-xref db="Reactome" id="R-RNO-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-7607" name="meleagrin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9009391" name="Extra-nuclear estrogen signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-1222556" name="ROS and RNS production in phagocytes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7533" name="gliotoxin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7642" name="abscisic acid degradation to 7'-hydroxyabscisate"/>
+            <pathway-xref db="Reactome" id="R-RNO-5218920" name="VEGFR2 mediated vascular permeability"/>
+            <pathway-xref db="MetaCyc" id="PWY-7065" name="2alpha,7beta-dihydroxylation of taxusin"/>
+            <pathway-xref db="MetaCyc" id="PWY-7723" name="bacterial bioluminescence"/>
+            <pathway-xref db="MetaCyc" id="PWY-7926" name="carbon disulfide oxidation III (metazoa)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6036" name="cardenolide glucosides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-203754" name="NOSIP mediated eNOS trafficking"/>
+            <pathway-xref db="MetaCyc" id="PWY-8019" name="2-hydroxyparaconate and itatartarate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7615" name="pterocarpan phytoalexins modification (maackiain, medicarpin, pisatin, phaseollin)"/>
+            <pathway-xref db="Reactome" id="R-DME-9009391" name="Extra-nuclear estrogen signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-203641" name="NOSTRIN mediated eNOS trafficking"/>
+            <pathway-xref db="Reactome" id="R-MMU-392154" name="Nitric oxide stimulates guanylate cyclase"/>
+            <pathway-xref db="MetaCyc" id="PWY-5665" name="vanillin biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-6992" name="1,5-anhydrofructose degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7612" name="chaetoglobosin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5316" name="nicotine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6032" name="digitoxigenin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5218920" name="VEGFR2 mediated vascular permeability"/>
+            <pathway-xref db="Reactome" id="R-HSA-211897" name="Cytochrome P450 - arranged by substrate type"/>
+            <pathway-xref db="MetaCyc" id="PWY-2229" name="superpathway of pterocarpan biosynthesis (via formononetin)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7473" name="avenacin A-1 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-196741" name="Cobalamin (Cbl, vitamin B12) transport and metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7739" name="aucuparin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="Reactome" id="R-MMU-203615" name="eNOS activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7682" name="arabidopyrone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-1222556" name="ROS and RNS production in phagocytes"/>
+            <pathway-xref db="Reactome" id="R-RNO-9009391" name="Extra-nuclear estrogen signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-5488" name="4-nitrophenol degradation II"/>
+            <pathway-xref db="Reactome" id="R-HSA-350562" name="Regulation of ornithine decarboxylase (ODC)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5048" name="rosmarinic acid biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-6970" name="pyruvate decarboxylation to acetyl CoA II"/>
+            <pathway-xref db="MetaCyc" id="PWY-361" name="phenylpropanoid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-196741" name="Cobalamin (Cbl, vitamin B12) transport and metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7300" name="ecdysone and 20-hydroxyecdysone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-1222556" name="ROS and RNS production in phagocytes"/>
+            <pathway-xref db="Reactome" id="R-DDI-203615" name="eNOS activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-1121" name="suberin monomers biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7736" name="stellatic acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-981" name="salicylate biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-6494" name="gibberellin inactivation III (epoxidation)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7558" name="alpha-cyclopiazonate detoxification"/>
+            <pathway-xref db="MetaCyc" id="PWY-6442" name="spermidine hydroxycinnamic acid conjugates biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-1474151" name="Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7826" name="Amaryllidacea alkaloids biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614635" name="Sulfur amino acid metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7478" name="oryzalexin D and E biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-156581" name="Methylation"/>
+            <pathway-xref db="Reactome" id="R-DDI-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-MMU-1614635" name="Sulfur amino acid metabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-1474151" name="Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"/>
+            <pathway-xref db="Reactome" id="R-DDI-392154" name="Nitric oxide stimulates guanylate cyclase"/>
+            <pathway-xref db="MetaCyc" id="PWY-2582" name="brassinosteroid biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-HSA-2564830" name="Cytosolic iron-sulfur cluster assembly"/>
+            <pathway-xref db="Reactome" id="R-MMU-203754" name="NOSIP mediated eNOS trafficking"/>
+            <pathway-xref db="MetaCyc" id="PWY-7517" name="brassicicene C biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7363" name="papaverine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-5773" name="gossypol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3359467" name="Defective MTRR causes HMAE"/>
+            <pathway-xref db="Reactome" id="R-HSA-9636249" name="Inhibition of nitric oxide production"/>
+            <pathway-xref db="Reactome" id="R-SCE-203615" name="eNOS activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5479" name="6-methoxypodophyllotoxin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5422" name="isopimaric acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-211945" name="Phase I - Functionalization of compounds"/>
+            <pathway-xref db="Reactome" id="R-SPO-392154" name="Nitric oxide stimulates guanylate cyclase"/>
+            <pathway-xref db="Reactome" id="R-SCE-5218920" name="VEGFR2 mediated vascular permeability"/>
+            <pathway-xref db="MetaCyc" id="PWY-6326" name="camptothecin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-601" name="glucosinolate biosynthesis from tryptophan"/>
+            <pathway-xref db="Reactome" id="R-RNO-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5473" name="hydroxycinnamic acid serotonin amides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-392154" name="Nitric oxide stimulates guanylate cyclase"/>
+            <pathway-xref db="Reactome" id="R-DME-1474151" name="Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7995" name="tricin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5047" name="gibberellin biosynthesis IV (Gibberella fujikuroi)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5035" name="gibberellin biosynthesis III (early C-13 hydroxylation)"/>
+            <pathway-xref db="Reactome" id="R-HSA-203754" name="NOSIP mediated eNOS trafficking"/>
+            <pathway-xref db="Reactome" id="R-MMU-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-7157" name="eupatolitin 3-O-glucoside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-1614635" name="Sulfur amino acid metabolism"/>
+            <pathway-xref db="Reactome" id="R-RNO-1474151" name="Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"/>
+            <pathway-xref db="Reactome" id="R-SCE-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5759" name="saponin biosynthesis III"/>
+            <pathway-xref db="Reactome" id="R-HSA-6782861" name="Synthesis of wybutosine at G37 of tRNA(Phe)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7713" name="nivalenol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5531" name="3,8-divinyl-chlorophyllide a biosynthesis II (anaerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5956" name="sterigmatocystin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-1222556" name="ROS and RNS production in phagocytes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7687" name="stipitatate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5992" name="thalianol and derivatives biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6200" name="2,4,5-trichlorophenoxyacetate degradation"/>
+            <pathway-xref db="Reactome" id="R-RNO-350562" name="Regulation of ornithine decarboxylase (ODC)"/>
+            <pathway-xref db="Reactome" id="R-CEL-156581" name="Methylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6544" name="superpathway of C28 brassinosteroid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-9009391" name="Extra-nuclear estrogen signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-6710" name="poly-hydroxy fatty acids biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7398" name="coumarins biosynthesis (engineered)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7730" name="T-2 toxin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5451" name="acetone degradation I (to methylglyoxal)"/>
+            <pathway-xref db="MetaCyc" id="PWY-2724" name="alkane oxidation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7285" name="methylwyosine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6398" name="melatonin degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7484" name="phytocassanes biosynthesis, shared reactions"/>
+            <pathway-xref db="MetaCyc" id="PWY-6820" name="diphyllin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7974" name="cobalamin salvage (eukaryotic)"/>
+            <pathway-xref db="Reactome" id="R-DME-203615" name="eNOS activation"/>
+            <pathway-xref db="Reactome" id="R-SCE-392154" name="Nitric oxide stimulates guanylate cyclase"/>
+            <pathway-xref db="MetaCyc" id="PWY-7286" name="7-(3-amino-3-carboxypropyl)-wyosine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7561" name="tenellin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-1222556" name="ROS and RNS production in phagocytes"/>
+            <pathway-xref db="Reactome" id="R-SPO-1222556" name="ROS and RNS production in phagocytes"/>
+            <pathway-xref db="MetaCyc" id="PWY-2467" name="(+)-pisatin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6370" name="ascorbate recycling (cytosolic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7493" name="paxilline and diprenylpaxilline biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-156581" name="Methylation"/>
+            <pathway-xref db="Reactome" id="R-SPO-5218920" name="VEGFR2 mediated vascular permeability"/>
+            <pathway-xref db="MetaCyc" id="PWY-6546" name="brassinosteroids inactivation"/>
+            <pathway-xref db="Reactome" id="R-HSA-3359469" name="Defective MTR causes HMAG"/>
+            <pathway-xref db="MetaCyc" id="PWY-7477" name="momilactone A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-203641" name="NOSTRIN mediated eNOS trafficking"/>
+            <pathway-xref db="MetaCyc" id="PWY-2181" name="free phenylpropanoid acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7731" name="superpathway of photosynthetic hydrogen production"/>
+            <pathway-xref db="MetaCyc" id="PWY-7490" name="patulin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7321" name="ecdysteroid metabolism (arthropods)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7507" name="chelerythrine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7712" name="deoxynivalenol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7066" name="glycyrrhetinate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5203" name="soybean saponin I biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-392154" name="Nitric oxide stimulates guanylate cyclase"/>
+            <pathway-xref db="Reactome" id="R-DDI-5218920" name="VEGFR2 mediated vascular permeability"/>
+            <pathway-xref db="Reactome" id="R-SPO-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7497" name="3beta-hydroxysesquiterpene lactone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5287" name="sanguinarine and macarpine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7634" name="vernolate biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-HSA-6785807" name="Interleukin-4 and Interleukin-13 signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-203615" name="eNOS activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7572" name="lolitrem B biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7608" name="neoxaline biosynthesis"/>
+          </entry>
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>5mp4A00</model-ac>
+        <locations>
+          <hmmer3-location env-end="93" env-start="1" post-processed="true" score="68.0" evalue="3.5E-18" hmm-start="11" hmm-end="91" hmm-length="198" hmm-bounds="COMPLETE" start="1" end="93">
+            <location-fragments>
+              <hmmer3-location-fragment start="1" end="93" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="2.8E-37" familyName="NAD(P)H DEHYDROGENASE (QUINONE) FQR1-LIKE 2-RELATED" score="140.1">
+        <signature ac="PTHR30546:SF3" name="NAD(P)H DEHYDROGENASE (QUINONE) FQR1-LIKE 2-RELATED">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR30546:SF3</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="95" hmm-start="65" hmm-end="149" hmm-length="256" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="85">
+            <location-fragments>
+              <panther-location-fragment start="1" end="85" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="2.8E-37" familyName="NAD(P)H DEHYDROGENASE (QUINONE) FQR1-LIKE 2-RELATED" score="140.1">
+        <signature ac="PTHR30546" name="FLAVODOXIN-RELATED PROTEIN WRBA-RELATED">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR30546</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="95" hmm-start="65" hmm-end="149" hmm-length="256" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="85">
+            <location-fragments>
+              <panther-location-fragment start="1" end="85" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <profilescan-match>
+        <signature ac="PS50902" desc="Flavodoxin-like domain profile." name="FLAVODOXIN_LIKE">
+          <entry ac="IPR008254" desc="Flavodoxin/nitric oxide synthase" name="Flavodoxin/NO_synth" type="DOMAIN">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0010181" name="FMN binding"/>
+            <pathway-xref db="MetaCyc" id="PWY-6442" name="spermidine hydroxycinnamic acid conjugates biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-1474151" name="Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7478" name="oryzalexin D and E biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7826" name="Amaryllidacea alkaloids biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614635" name="Sulfur amino acid metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-699" name="brassinosteroid biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-DDI-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-MMU-156581" name="Methylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7999" name="vitamin K-epoxide cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-1474151" name="Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-1614635" name="Sulfur amino acid metabolism"/>
+            <pathway-xref db="Reactome" id="R-RNO-203615" name="eNOS activation"/>
+            <pathway-xref db="Reactome" id="R-DDI-9009391" name="Extra-nuclear estrogen signaling"/>
+            <pathway-xref db="Reactome" id="R-DDI-392154" name="Nitric oxide stimulates guanylate cyclase"/>
+            <pathway-xref db="MetaCyc" id="PWY-7325" name="salvigenin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-2564830" name="Cytosolic iron-sulfur cluster assembly"/>
+            <pathway-xref db="MetaCyc" id="PWY-2582" name="brassinosteroid biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7070" name="steviol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-203754" name="NOSIP mediated eNOS trafficking"/>
+            <pathway-xref db="MetaCyc" id="PWY-7517" name="brassicicene C biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7363" name="papaverine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-5773" name="gossypol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3359467" name="Defective MTRR causes HMAE"/>
+            <pathway-xref db="Reactome" id="R-HSA-9636249" name="Inhibition of nitric oxide production"/>
+            <pathway-xref db="Reactome" id="R-SPO-1474151" name="Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6683" name="assimilatory sulfate reduction III"/>
+            <pathway-xref db="Reactome" id="R-RNO-203754" name="NOSIP mediated eNOS trafficking"/>
+            <pathway-xref db="Reactome" id="R-SCE-1474151" name="Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"/>
+            <pathway-xref db="Reactome" id="R-SCE-203615" name="eNOS activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5479" name="6-methoxypodophyllotoxin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="Reactome" id="R-RNO-156581" name="Methylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5422" name="isopimaric acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-392154" name="Nitric oxide stimulates guanylate cyclase"/>
+            <pathway-xref db="MetaCyc" id="PWY-7711" name="calonectrin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7640" name="abscisic acid degradation to neophaseic acid"/>
+            <pathway-xref db="Reactome" id="R-SCE-5218920" name="VEGFR2 mediated vascular permeability"/>
+            <pathway-xref db="MetaCyc" id="PWY-6326" name="camptothecin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-601" name="glucosinolate biosynthesis from tryptophan"/>
+            <pathway-xref db="Reactome" id="R-RNO-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-DME-392154" name="Nitric oxide stimulates guanylate cyclase"/>
+            <pathway-xref db="MetaCyc" id="PWY-5473" name="hydroxycinnamic acid serotonin amides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-203615" name="eNOS activation"/>
+            <pathway-xref db="Reactome" id="R-SCE-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="Reactome" id="R-RNO-392154" name="Nitric oxide stimulates guanylate cyclase"/>
+            <pathway-xref db="Reactome" id="R-DME-1474151" name="Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7995" name="tricin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5161" name="6'-deoxychalcone metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-5487" name="4-nitrophenol degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-5047" name="gibberellin biosynthesis IV (Gibberella fujikuroi)"/>
+            <pathway-xref db="Reactome" id="R-CEL-1614635" name="Sulfur amino acid metabolism"/>
+            <pathway-xref db="Reactome" id="R-MMU-196741" name="Cobalamin (Cbl, vitamin B12) transport and metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7542" name="fumiquinazoline D biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5035" name="gibberellin biosynthesis III (early C-13 hydroxylation)"/>
+            <pathway-xref db="Reactome" id="R-HSA-203754" name="NOSIP mediated eNOS trafficking"/>
+            <pathway-xref db="Reactome" id="R-MMU-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-7157" name="eupatolitin 3-O-glucoside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5218920" name="VEGFR2 mediated vascular permeability"/>
+            <pathway-xref db="MetaCyc" id="PWY-7466" name="acetone degradation III (to propane-1,2-diol)"/>
+            <pathway-xref db="Reactome" id="R-DME-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-2681" name="trans-zeatin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-1614635" name="Sulfur amino acid metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-8083" name="domoic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-1474151" name="Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"/>
+            <pathway-xref db="Reactome" id="R-SCE-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5061" name="6,7,4'-trihydroxyisoflavone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-203641" name="NOSTRIN mediated eNOS trafficking"/>
+            <pathway-xref db="Reactome" id="R-SCE-9009391" name="Extra-nuclear estrogen signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-5759" name="saponin biosynthesis III"/>
+            <pathway-xref db="Reactome" id="R-HSA-6782861" name="Synthesis of wybutosine at G37 of tRNA(Phe)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7713" name="nivalenol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7540" name="aflatrem biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5531" name="3,8-divinyl-chlorophyllide a biosynthesis II (anaerobic)"/>
+            <pathway-xref db="Reactome" id="R-DDI-1222556" name="ROS and RNS production in phagocytes"/>
+            <pathway-xref db="Reactome" id="R-HSA-196741" name="Cobalamin (Cbl, vitamin B12) transport and metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-5956" name="sterigmatocystin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6005" name="marneral biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-5218920" name="VEGFR2 mediated vascular permeability"/>
+            <pathway-xref db="MetaCyc" id="PWY-5168" name="ferulate and sinapate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5992" name="thalianol and derivatives biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7687" name="stipitatate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7714" name="harzianum A and trichodermin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6200" name="2,4,5-trichlorophenoxyacetate degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5660" name="taxol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-5955" name="versicolorin B biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-203754" name="NOSIP mediated eNOS trafficking"/>
+            <pathway-xref db="MetaCyc" id="PWY-7035" name="(9Z)-tricosene biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-156581" name="Methylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6544" name="superpathway of C28 brassinosteroid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9009391" name="Extra-nuclear estrogen signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-4983" name="nitric oxide biosynthesis II (mammals)"/>
+            <pathway-xref db="Reactome" id="R-SPO-9009391" name="Extra-nuclear estrogen signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-6710" name="poly-hydroxy fatty acids biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7398" name="coumarins biosynthesis (engineered)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7730" name="T-2 toxin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7342" name="superpathway of nicotine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-DDI-1474151" name="Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-1222556" name="ROS and RNS production in phagocytes"/>
+            <pathway-xref db="Reactome" id="R-RNO-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-5451" name="acetone degradation I (to methylglyoxal)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7607" name="meleagrin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-1222556" name="ROS and RNS production in phagocytes"/>
+            <pathway-xref db="Reactome" id="R-HSA-9009391" name="Extra-nuclear estrogen signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7533" name="gliotoxin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7642" name="abscisic acid degradation to 7'-hydroxyabscisate"/>
+            <pathway-xref db="Reactome" id="R-RNO-5218920" name="VEGFR2 mediated vascular permeability"/>
+            <pathway-xref db="MetaCyc" id="PWY-2724" name="alkane oxidation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7285" name="methylwyosine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6398" name="melatonin degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7065" name="2alpha,7beta-dihydroxylation of taxusin"/>
+            <pathway-xref db="MetaCyc" id="PWY-7484" name="phytocassanes biosynthesis, shared reactions"/>
+            <pathway-xref db="MetaCyc" id="PWY-6820" name="diphyllin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7974" name="cobalamin salvage (eukaryotic)"/>
+            <pathway-xref db="Reactome" id="R-DME-203615" name="eNOS activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7926" name="carbon disulfide oxidation III (metazoa)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6036" name="cardenolide glucosides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-392154" name="Nitric oxide stimulates guanylate cyclase"/>
+            <pathway-xref db="MetaCyc" id="PWY-7286" name="7-(3-amino-3-carboxypropyl)-wyosine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7561" name="tenellin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-203754" name="NOSIP mediated eNOS trafficking"/>
+            <pathway-xref db="MetaCyc" id="PWY-8019" name="2-hydroxyparaconate and itatartarate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7615" name="pterocarpan phytoalexins modification (maackiain, medicarpin, pisatin, phaseollin)"/>
+            <pathway-xref db="Reactome" id="R-MMU-203641" name="NOSTRIN mediated eNOS trafficking"/>
+            <pathway-xref db="Reactome" id="R-DME-9009391" name="Extra-nuclear estrogen signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-392154" name="Nitric oxide stimulates guanylate cyclase"/>
+            <pathway-xref db="MetaCyc" id="PWY-5665" name="vanillin biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-SCE-1222556" name="ROS and RNS production in phagocytes"/>
+            <pathway-xref db="Reactome" id="R-SPO-1222556" name="ROS and RNS production in phagocytes"/>
+            <pathway-xref db="MetaCyc" id="PWY-6992" name="1,5-anhydrofructose degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7612" name="chaetoglobosin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-2467" name="(+)-pisatin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5316" name="nicotine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7493" name="paxilline and diprenylpaxilline biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-156581" name="Methylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6032" name="digitoxigenin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-5218920" name="VEGFR2 mediated vascular permeability"/>
+            <pathway-xref db="MetaCyc" id="PWY-6546" name="brassinosteroids inactivation"/>
+            <pathway-xref db="Reactome" id="R-HSA-3359469" name="Defective MTR causes HMAG"/>
+            <pathway-xref db="Reactome" id="R-MMU-5218920" name="VEGFR2 mediated vascular permeability"/>
+            <pathway-xref db="Reactome" id="R-HSA-211897" name="Cytochrome P450 - arranged by substrate type"/>
+            <pathway-xref db="MetaCyc" id="PWY-7477" name="momilactone A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-203641" name="NOSTRIN mediated eNOS trafficking"/>
+            <pathway-xref db="MetaCyc" id="PWY-2229" name="superpathway of pterocarpan biosynthesis (via formononetin)"/>
+            <pathway-xref db="MetaCyc" id="PWY-2181" name="free phenylpropanoid acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7473" name="avenacin A-1 biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7731" name="superpathway of photosynthetic hydrogen production"/>
+            <pathway-xref db="Reactome" id="R-CEL-196741" name="Cobalamin (Cbl, vitamin B12) transport and metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7739" name="aucuparin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-203615" name="eNOS activation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-7490" name="patulin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7321" name="ecdysteroid metabolism (arthropods)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7682" name="arabidopyrone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-1222556" name="ROS and RNS production in phagocytes"/>
+            <pathway-xref db="Reactome" id="R-RNO-9009391" name="Extra-nuclear estrogen signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7507" name="chelerythrine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7712" name="deoxynivalenol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7066" name="glycyrrhetinate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5203" name="soybean saponin I biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-392154" name="Nitric oxide stimulates guanylate cyclase"/>
+            <pathway-xref db="MetaCyc" id="PWY-5048" name="rosmarinic acid biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-6970" name="pyruvate decarboxylation to acetyl CoA II"/>
+            <pathway-xref db="MetaCyc" id="PWY-361" name="phenylpropanoid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-196741" name="Cobalamin (Cbl, vitamin B12) transport and metabolism"/>
+            <pathway-xref db="Reactome" id="R-DDI-5218920" name="VEGFR2 mediated vascular permeability"/>
+            <pathway-xref db="Reactome" id="R-SPO-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7300" name="ecdysone and 20-hydroxyecdysone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-1222556" name="ROS and RNS production in phagocytes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7497" name="3beta-hydroxysesquiterpene lactone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-203615" name="eNOS activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5287" name="sanguinarine and macarpine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7634" name="vernolate biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-HSA-6785807" name="Interleukin-4 and Interleukin-13 signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-203615" name="eNOS activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7572" name="lolitrem B biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-1121" name="suberin monomers biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7736" name="stellatic acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-981" name="salicylate biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7608" name="neoxaline biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6494" name="gibberellin inactivation III (epoxidation)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7558" name="alpha-cyclopiazonate detoxification"/>
+          </entry>
+          <signature-library-release library="PROSITE_PROFILES" version="2021_01"/>
+        </signature>
+        <model-ac>PS50902</model-ac>
+        <locations>
+          <profilescan-location score="9.614004" start="1" end="97">
+            <location-fragments>
+              <profilescan-location-fragment start="1" end="97" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>-------MYGHMEGLARRMKKGEDRVnGVEEVLYRIPETLSSEILEemrvppkgdeisvisaeelVVADGLLFGFPTRDGCMKA-QMKAFFWFegaivegakARW---------------------------------------------------------------------</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+      <superfamilyhmmer3-match evalue="6.83E-12">
+        <signature ac="SSF52218" name="Flavoproteins">
+          <entry ac="IPR029039" desc="Flavoprotein-like superfamily" name="Flavoprotein-like_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="MetaCyc" id="PWY-699" name="brassinosteroid biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7999" name="vitamin K-epoxide cycle"/>
+            <pathway-xref db="Reactome" id="R-RNO-203615" name="eNOS activation"/>
+            <pathway-xref db="Reactome" id="R-DDI-9009391" name="Extra-nuclear estrogen signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7325" name="salvigenin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7070" name="steviol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-1474151" name="Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6683" name="assimilatory sulfate reduction III"/>
+            <pathway-xref db="Reactome" id="R-RNO-203754" name="NOSIP mediated eNOS trafficking"/>
+            <pathway-xref db="Reactome" id="R-MMU-211945" name="Phase I - Functionalization of compounds"/>
+            <pathway-xref db="Reactome" id="R-SCE-1474151" name="Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-681" name="dibenzothiophene desulfurization"/>
+            <pathway-xref db="Reactome" id="R-SPO-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="Reactome" id="R-RNO-156581" name="Methylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5523" name="5,6-dimethylbenzimidazole biosynthesis I (aerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7711" name="calonectrin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-350562" name="Regulation of ornithine decarboxylase (ODC)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7640" name="abscisic acid degradation to neophaseic acid"/>
+            <pathway-xref db="Reactome" id="R-HSA-211945" name="Phase I - Functionalization of compounds"/>
+            <pathway-xref db="MetaCyc" id="PWY-2261" name="ascorbate glutathione cycle"/>
+            <pathway-xref db="Reactome" id="R-DME-392154" name="Nitric oxide stimulates guanylate cyclase"/>
+            <pathway-xref db="Reactome" id="R-SPO-203615" name="eNOS activation"/>
+            <pathway-xref db="Reactome" id="R-SCE-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-5161" name="6'-deoxychalcone metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-5487" name="4-nitrophenol degradation I"/>
+            <pathway-xref db="Reactome" id="R-CEL-1614635" name="Sulfur amino acid metabolism"/>
+            <pathway-xref db="Reactome" id="R-MMU-196741" name="Cobalamin (Cbl, vitamin B12) transport and metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7542" name="fumiquinazoline D biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5218920" name="VEGFR2 mediated vascular permeability"/>
+            <pathway-xref db="MetaCyc" id="PWY-7466" name="acetone degradation III (to propane-1,2-diol)"/>
+            <pathway-xref db="Reactome" id="R-DME-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-2681" name="trans-zeatin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8083" name="domoic acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5061" name="6,7,4'-trihydroxyisoflavone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-203641" name="NOSTRIN mediated eNOS trafficking"/>
+            <pathway-xref db="Reactome" id="R-SCE-9009391" name="Extra-nuclear estrogen signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7540" name="aflatrem biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-196741" name="Cobalamin (Cbl, vitamin B12) transport and metabolism"/>
+            <pathway-xref db="Reactome" id="R-DME-5218920" name="VEGFR2 mediated vascular permeability"/>
+            <pathway-xref db="MetaCyc" id="PWY-6005" name="marneral biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5168" name="ferulate and sinapate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7714" name="harzianum A and trichodermin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5660" name="taxol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-5955" name="versicolorin B biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-203754" name="NOSIP mediated eNOS trafficking"/>
+            <pathway-xref db="MetaCyc" id="PWY-7035" name="(9Z)-tricosene biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-MMU-9009391" name="Extra-nuclear estrogen signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-4983" name="nitric oxide biosynthesis II (mammals)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7342" name="superpathway of nicotine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-DDI-1474151" name="Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-1222556" name="ROS and RNS production in phagocytes"/>
+            <pathway-xref db="Reactome" id="R-RNO-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-7607" name="meleagrin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9009391" name="Extra-nuclear estrogen signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-1222556" name="ROS and RNS production in phagocytes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7533" name="gliotoxin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7642" name="abscisic acid degradation to 7'-hydroxyabscisate"/>
+            <pathway-xref db="Reactome" id="R-RNO-5218920" name="VEGFR2 mediated vascular permeability"/>
+            <pathway-xref db="MetaCyc" id="PWY-7065" name="2alpha,7beta-dihydroxylation of taxusin"/>
+            <pathway-xref db="MetaCyc" id="PWY-7723" name="bacterial bioluminescence"/>
+            <pathway-xref db="MetaCyc" id="PWY-7926" name="carbon disulfide oxidation III (metazoa)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6036" name="cardenolide glucosides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-203754" name="NOSIP mediated eNOS trafficking"/>
+            <pathway-xref db="MetaCyc" id="PWY-8019" name="2-hydroxyparaconate and itatartarate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7615" name="pterocarpan phytoalexins modification (maackiain, medicarpin, pisatin, phaseollin)"/>
+            <pathway-xref db="Reactome" id="R-DME-9009391" name="Extra-nuclear estrogen signaling"/>
+            <pathway-xref db="Reactome" id="R-MMU-203641" name="NOSTRIN mediated eNOS trafficking"/>
+            <pathway-xref db="Reactome" id="R-MMU-392154" name="Nitric oxide stimulates guanylate cyclase"/>
+            <pathway-xref db="MetaCyc" id="PWY-5665" name="vanillin biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-6992" name="1,5-anhydrofructose degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7612" name="chaetoglobosin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5316" name="nicotine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6032" name="digitoxigenin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5218920" name="VEGFR2 mediated vascular permeability"/>
+            <pathway-xref db="Reactome" id="R-HSA-211897" name="Cytochrome P450 - arranged by substrate type"/>
+            <pathway-xref db="MetaCyc" id="PWY-2229" name="superpathway of pterocarpan biosynthesis (via formononetin)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7473" name="avenacin A-1 biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-196741" name="Cobalamin (Cbl, vitamin B12) transport and metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7739" name="aucuparin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="Reactome" id="R-MMU-203615" name="eNOS activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7682" name="arabidopyrone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-1222556" name="ROS and RNS production in phagocytes"/>
+            <pathway-xref db="Reactome" id="R-RNO-9009391" name="Extra-nuclear estrogen signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-5488" name="4-nitrophenol degradation II"/>
+            <pathway-xref db="Reactome" id="R-HSA-350562" name="Regulation of ornithine decarboxylase (ODC)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5048" name="rosmarinic acid biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-6970" name="pyruvate decarboxylation to acetyl CoA II"/>
+            <pathway-xref db="MetaCyc" id="PWY-361" name="phenylpropanoid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-196741" name="Cobalamin (Cbl, vitamin B12) transport and metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7300" name="ecdysone and 20-hydroxyecdysone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-1222556" name="ROS and RNS production in phagocytes"/>
+            <pathway-xref db="Reactome" id="R-DDI-203615" name="eNOS activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-1121" name="suberin monomers biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7736" name="stellatic acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-981" name="salicylate biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-6494" name="gibberellin inactivation III (epoxidation)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7558" name="alpha-cyclopiazonate detoxification"/>
+            <pathway-xref db="MetaCyc" id="PWY-6442" name="spermidine hydroxycinnamic acid conjugates biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-1474151" name="Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7826" name="Amaryllidacea alkaloids biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1614635" name="Sulfur amino acid metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7478" name="oryzalexin D and E biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-156581" name="Methylation"/>
+            <pathway-xref db="Reactome" id="R-DDI-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-MMU-1614635" name="Sulfur amino acid metabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-1474151" name="Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"/>
+            <pathway-xref db="Reactome" id="R-DDI-392154" name="Nitric oxide stimulates guanylate cyclase"/>
+            <pathway-xref db="MetaCyc" id="PWY-2582" name="brassinosteroid biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-HSA-2564830" name="Cytosolic iron-sulfur cluster assembly"/>
+            <pathway-xref db="Reactome" id="R-MMU-203754" name="NOSIP mediated eNOS trafficking"/>
+            <pathway-xref db="MetaCyc" id="PWY-7517" name="brassicicene C biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7363" name="papaverine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-5773" name="gossypol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3359467" name="Defective MTRR causes HMAE"/>
+            <pathway-xref db="Reactome" id="R-HSA-9636249" name="Inhibition of nitric oxide production"/>
+            <pathway-xref db="Reactome" id="R-SCE-203615" name="eNOS activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5479" name="6-methoxypodophyllotoxin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5422" name="isopimaric acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-211945" name="Phase I - Functionalization of compounds"/>
+            <pathway-xref db="Reactome" id="R-SPO-392154" name="Nitric oxide stimulates guanylate cyclase"/>
+            <pathway-xref db="Reactome" id="R-SCE-5218920" name="VEGFR2 mediated vascular permeability"/>
+            <pathway-xref db="MetaCyc" id="PWY-6326" name="camptothecin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-601" name="glucosinolate biosynthesis from tryptophan"/>
+            <pathway-xref db="Reactome" id="R-RNO-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5473" name="hydroxycinnamic acid serotonin amides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-392154" name="Nitric oxide stimulates guanylate cyclase"/>
+            <pathway-xref db="Reactome" id="R-DME-1474151" name="Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7995" name="tricin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5047" name="gibberellin biosynthesis IV (Gibberella fujikuroi)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5035" name="gibberellin biosynthesis III (early C-13 hydroxylation)"/>
+            <pathway-xref db="Reactome" id="R-HSA-203754" name="NOSIP mediated eNOS trafficking"/>
+            <pathway-xref db="Reactome" id="R-MMU-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-7157" name="eupatolitin 3-O-glucoside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-1614635" name="Sulfur amino acid metabolism"/>
+            <pathway-xref db="Reactome" id="R-RNO-1474151" name="Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"/>
+            <pathway-xref db="Reactome" id="R-SCE-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5759" name="saponin biosynthesis III"/>
+            <pathway-xref db="Reactome" id="R-HSA-6782861" name="Synthesis of wybutosine at G37 of tRNA(Phe)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7713" name="nivalenol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5531" name="3,8-divinyl-chlorophyllide a biosynthesis II (anaerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5956" name="sterigmatocystin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-1222556" name="ROS and RNS production in phagocytes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7687" name="stipitatate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5992" name="thalianol and derivatives biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6200" name="2,4,5-trichlorophenoxyacetate degradation"/>
+            <pathway-xref db="Reactome" id="R-RNO-350562" name="Regulation of ornithine decarboxylase (ODC)"/>
+            <pathway-xref db="Reactome" id="R-CEL-156581" name="Methylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6544" name="superpathway of C28 brassinosteroid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-9009391" name="Extra-nuclear estrogen signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-6710" name="poly-hydroxy fatty acids biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7398" name="coumarins biosynthesis (engineered)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7730" name="T-2 toxin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5451" name="acetone degradation I (to methylglyoxal)"/>
+            <pathway-xref db="MetaCyc" id="PWY-2724" name="alkane oxidation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7285" name="methylwyosine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6398" name="melatonin degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7484" name="phytocassanes biosynthesis, shared reactions"/>
+            <pathway-xref db="MetaCyc" id="PWY-6820" name="diphyllin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7974" name="cobalamin salvage (eukaryotic)"/>
+            <pathway-xref db="Reactome" id="R-DME-203615" name="eNOS activation"/>
+            <pathway-xref db="Reactome" id="R-SCE-392154" name="Nitric oxide stimulates guanylate cyclase"/>
+            <pathway-xref db="MetaCyc" id="PWY-7286" name="7-(3-amino-3-carboxypropyl)-wyosine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7561" name="tenellin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-1222556" name="ROS and RNS production in phagocytes"/>
+            <pathway-xref db="Reactome" id="R-SPO-1222556" name="ROS and RNS production in phagocytes"/>
+            <pathway-xref db="MetaCyc" id="PWY-2467" name="(+)-pisatin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6370" name="ascorbate recycling (cytosolic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7493" name="paxilline and diprenylpaxilline biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-156581" name="Methylation"/>
+            <pathway-xref db="Reactome" id="R-SPO-5218920" name="VEGFR2 mediated vascular permeability"/>
+            <pathway-xref db="MetaCyc" id="PWY-6546" name="brassinosteroids inactivation"/>
+            <pathway-xref db="Reactome" id="R-HSA-3359469" name="Defective MTR causes HMAG"/>
+            <pathway-xref db="MetaCyc" id="PWY-7477" name="momilactone A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-203641" name="NOSTRIN mediated eNOS trafficking"/>
+            <pathway-xref db="MetaCyc" id="PWY-2181" name="free phenylpropanoid acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7731" name="superpathway of photosynthetic hydrogen production"/>
+            <pathway-xref db="MetaCyc" id="PWY-7490" name="patulin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7321" name="ecdysteroid metabolism (arthropods)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7507" name="chelerythrine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7712" name="deoxynivalenol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7066" name="glycyrrhetinate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5203" name="soybean saponin I biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-392154" name="Nitric oxide stimulates guanylate cyclase"/>
+            <pathway-xref db="Reactome" id="R-DDI-5218920" name="VEGFR2 mediated vascular permeability"/>
+            <pathway-xref db="Reactome" id="R-SPO-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7497" name="3beta-hydroxysesquiterpene lactone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5287" name="sanguinarine and macarpine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7634" name="vernolate biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-HSA-6785807" name="Interleukin-4 and Interleukin-13 signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-203615" name="eNOS activation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7572" name="lolitrem B biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7608" name="neoxaline biosynthesis"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0044895</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="148" start="1" end="85">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="1" end="85" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

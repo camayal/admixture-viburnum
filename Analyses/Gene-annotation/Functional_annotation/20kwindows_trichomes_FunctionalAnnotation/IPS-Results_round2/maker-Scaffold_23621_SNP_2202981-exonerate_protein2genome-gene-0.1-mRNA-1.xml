@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.56-89.0">
+  <protein>
+    <sequence md5="2031579c3570ea975880e8f29a74a7cd">MVGYYGQIERSNSVNAELWAIHKGLIIAKQMQLKNIEVESDCEAAVSELKGIDEPSHPLKVVIKESRTLITELNCILTHTLREGNQCADQLAKRGVEQEESLICLDSPPMDLFNLMFQDMSCSFVRP</sequence>
+    <xref id="maker-Scaffold_23621_SNP_2202981-exonerate_protein2genome-gene-0.1-mRNA-1" name="maker-Scaffold_23621_SNP_2202981-exonerate_protein2genome-gene-0.1-mRNA-1"/>
+    <matches>
+      <hmmer3-match evalue="2.2E-16" score="59.8">
+        <signature ac="PF13456" desc="Reverse transcriptase-like" name="RVT_3">
+          <entry ac="IPR002156" desc="Ribonuclease H domain" name="RNaseH_domain" type="DOMAIN">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0004523" name="RNA-DNA hybrid ribonuclease activity"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0003676" name="nucleic acid binding"/>
+            <pathway-xref db="MetaCyc" id="PWY-7967" name="5-methoxybenzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="Reactome" id="R-HSA-164516" name="Minus-strand DNA synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7735" name="echinomycin and triostin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8117" name="colibactin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7975" name="adenosylcobalamin biosynthesis from adenosylcobinamide-GDP II"/>
+            <pathway-xref db="Reactome" id="R-HSA-162592" name="Integration of provirus"/>
+            <pathway-xref db="MetaCyc" id="PWY-7964" name="adeninyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="MetaCyc" id="PWY-7966" name="5-methoxy-6-methylbenzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7968" name="5-methylbenzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="Reactome" id="R-HSA-162594" name="Early Phase of HIV Life Cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-162585" name="Uncoating of the HIV Virion"/>
+            <pathway-xref db="MetaCyc" id="PWY-7969" name="5-hydroxybenzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-HSA-175474" name="Assembly Of The HIV Virion"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7963" name="4-methylphenyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="MetaCyc" id="PWY-6998" name="CDP-D-arabitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5509" name="adenosylcobalamin biosynthesis from adenosylcobinamide-GDP I"/>
+            <pathway-xref db="Reactome" id="R-HSA-180689" name="APOBEC3G mediated resistance to HIV-1 infection"/>
+            <pathway-xref db="Reactome" id="R-HSA-175567" name="Integration of viral DNA into host genomic DNA"/>
+            <pathway-xref db="MetaCyc" id="PWY-6626" name="cytidine-5'-diphosphate-glycerol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7888" name="tRNA-uridine 2-thiolation (cytoplasmic)"/>
+            <pathway-xref db="Reactome" id="R-HSA-177539" name="Autointegration results in viral DNA circles"/>
+            <pathway-xref db="Reactome" id="R-HSA-164843" name="2-LTR circle formation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7737" name="thiocoraline biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-162588" name="Budding and maturation of HIV virion"/>
+            <pathway-xref db="MetaCyc" id="PWY-7965" name="2-methyladeninyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7904" name="tRNA-uridine 2-thiolation (thermophilic bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-173107" name="Binding and entry of HIV virion"/>
+            <pathway-xref db="Reactome" id="R-HSA-164525" name="Plus-strand DNA synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7970" name="benzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6269" name="superpathway of adenosylcobalamin salvage from cobinamide II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7127" name="CDP-D-mannitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7961" name="phenyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="Reactome" id="R-HSA-180910" name="Vpr-mediated nuclear import of PICs"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF13456</model-ac>
+        <locations>
+          <hmmer3-location env-end="95" env-start="2" post-processed="true" score="59.6" evalue="2.7E-16" hmm-start="37" hmm-end="123" hmm-length="124" hmm-bounds="INCOMPLETE" start="10" end="94">
+            <location-fragments>
+              <hmmer3-location-fragment start="10" end="94" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="5.5E-14" score="54.3">
+        <signature ac="G3DSA:3.30.420.10" name="">
+          <entry ac="IPR036397" desc="Ribonuclease H superfamily" name="RNaseH_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0003676" name="nucleic acid binding"/>
+            <pathway-xref db="MetaCyc" id="PWY-7967" name="5-methoxybenzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="MetaCyc" id="PWY-7735" name="echinomycin and triostin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-68962" name="Activation of the pre-replicative complex"/>
+            <pathway-xref db="Reactome" id="R-CEL-5656169" name="Termination of translesion DNA synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9610379" name="HCMV Late Events"/>
+            <pathway-xref db="Reactome" id="R-MMU-6803529" name="FGFR2 alternative splicing"/>
+            <pathway-xref db="Reactome" id="R-HSA-162592" name="Integration of provirus"/>
+            <pathway-xref db="Reactome" id="R-HSA-909733" name="Interferon alpha/beta signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-6791226" name="Major pathway of rRNA processing in the nucleolus and cytosol"/>
+            <pathway-xref db="Reactome" id="R-SPO-5655862" name="Translesion synthesis by POLK"/>
+            <pathway-xref db="Reactome" id="R-MMU-6782135" name="Dual incision in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-SCE-5655862" name="Translesion synthesis by POLK"/>
+            <pathway-xref db="Reactome" id="R-DME-69166" name="Removal of the Flap Intermediate"/>
+            <pathway-xref db="Reactome" id="R-HSA-6782135" name="Dual incision in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-MMU-6791226" name="Major pathway of rRNA processing in the nucleolus and cytosol"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-203927" name="MicroRNA (miRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-110312" name="Translesion synthesis by REV1"/>
+            <pathway-xref db="MetaCyc" id="PWY-6998" name="CDP-D-arabitol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-113501" name="Inhibition of replication initiation of damaged DNA by RB1/E2F1"/>
+            <pathway-xref db="Reactome" id="R-MMU-5358606" name="Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)"/>
+            <pathway-xref db="Reactome" id="R-RNO-174414" name="Processive synthesis on the C-strand of the telomere"/>
+            <pathway-xref db="Reactome" id="R-MMU-174417" name="Telomere C-strand (Lagging Strand) Synthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-68962" name="Activation of the pre-replicative complex"/>
+            <pathway-xref db="Reactome" id="R-HSA-180689" name="APOBEC3G mediated resistance to HIV-1 infection"/>
+            <pathway-xref db="MetaCyc" id="PWY-7888" name="tRNA-uridine 2-thiolation (cytoplasmic)"/>
+            <pathway-xref db="Reactome" id="R-MMU-5693568" name="Resolution of D-loop Structures through Holliday Junction Intermediates"/>
+            <pathway-xref db="Reactome" id="R-HSA-5693616" name="Presynaptic phase of homologous DNA pairing and strand exchange"/>
+            <pathway-xref db="Reactome" id="R-HSA-162588" name="Budding and maturation of HIV virion"/>
+            <pathway-xref db="Reactome" id="R-DDI-69091" name="Polymerase switching"/>
+            <pathway-xref db="Reactome" id="R-DDI-69183" name="Processive synthesis on the lagging strand"/>
+            <pathway-xref db="Reactome" id="R-HSA-6803529" name="FGFR2 alternative splicing"/>
+            <pathway-xref db="Reactome" id="R-DME-429947" name="Deadenylation of mRNA"/>
+            <pathway-xref db="Reactome" id="R-RNO-426486" name="Small interfering RNA (siRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-110314" name="Recognition of DNA damage by PCNA-containing replication complex"/>
+            <pathway-xref db="Reactome" id="R-HSA-69473" name="G2/M DNA damage checkpoint"/>
+            <pathway-xref db="Reactome" id="R-MMU-69183" name="Processive synthesis on the lagging strand"/>
+            <pathway-xref db="Reactome" id="R-MMU-426496" name="Post-transcriptional silencing by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-GGA-429947" name="Deadenylation of mRNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-5693607" name="Processing of DNA double-strand break ends"/>
+            <pathway-xref db="Reactome" id="R-RNO-174430" name="Telomere C-strand synthesis initiation"/>
+            <pathway-xref db="Reactome" id="R-HSA-68952" name="DNA replication initiation"/>
+            <pathway-xref db="Reactome" id="R-SCE-69183" name="Processive synthesis on the lagging strand"/>
+            <pathway-xref db="MetaCyc" id="PWY-7975" name="adenosylcobalamin biosynthesis from adenosylcobinamide-GDP II"/>
+            <pathway-xref db="Reactome" id="R-RNO-6782135" name="Dual incision in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-HSA-5685939" name="HDR through MMEJ (alt-NHEJ)"/>
+            <pathway-xref db="Reactome" id="R-SPO-5656121" name="Translesion synthesis by POLI"/>
+            <pathway-xref db="Reactome" id="R-HSA-69205" name="G1/S-Specific Transcription"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-162594" name="Early Phase of HIV Life Cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-8936459" name="RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function"/>
+            <pathway-xref db="Reactome" id="R-HSA-5693568" name="Resolution of D-loop Structures through Holliday Junction Intermediates"/>
+            <pathway-xref db="Reactome" id="R-HSA-110312" name="Translesion synthesis by REV1"/>
+            <pathway-xref db="Reactome" id="R-HSA-162585" name="Uncoating of the HIV Virion"/>
+            <pathway-xref db="Reactome" id="R-HSA-9701192" name="Defective HDR through Homologous Recombination (HRR) due to BRCA1 loss-of-function"/>
+            <pathway-xref db="MetaCyc" id="PWY-5509" name="adenosylcobalamin biosynthesis from adenosylcobinamide-GDP I"/>
+            <pathway-xref db="Reactome" id="R-SCE-113501" name="Inhibition of replication initiation of damaged DNA by RB1/E2F1"/>
+            <pathway-xref db="Reactome" id="R-RNO-68952" name="DNA replication initiation"/>
+            <pathway-xref db="Reactome" id="R-HSA-6783310" name="Fanconi Anemia Pathway"/>
+            <pathway-xref db="Reactome" id="R-MMU-110312" name="Translesion synthesis by REV1"/>
+            <pathway-xref db="Reactome" id="R-MMU-5693616" name="Presynaptic phase of homologous DNA pairing and strand exchange"/>
+            <pathway-xref db="Reactome" id="R-RNO-5358606" name="Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)"/>
+            <pathway-xref db="Reactome" id="R-HSA-5358606" name="Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)"/>
+            <pathway-xref db="Reactome" id="R-CEL-6782210" name="Gap-filling DNA repair synthesis and ligation in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-SPO-174437" name="Removal of the Flap Intermediate from the C-strand"/>
+            <pathway-xref db="Reactome" id="R-MMU-5696397" name="Gap-filling DNA repair synthesis and ligation in GG-NER"/>
+            <pathway-xref db="Reactome" id="R-XTR-426486" name="Small interfering RNA (siRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-69166" name="Removal of the Flap Intermediate"/>
+            <pathway-xref db="Reactome" id="R-HSA-5693579" name="Homologous DNA Pairing and Strand Exchange"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-6791226" name="Major pathway of rRNA processing in the nucleolus and cytosol"/>
+            <pathway-xref db="Reactome" id="R-HSA-2559580" name="Oxidative Stress Induced Senescence"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7127" name="CDP-D-mannitol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5693554" name="Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)"/>
+            <pathway-xref db="Reactome" id="R-RNO-5651801" name="PCNA-Dependent Long Patch Base Excision Repair"/>
+            <pathway-xref db="Reactome" id="R-HSA-69183" name="Processive synthesis on the lagging strand"/>
+            <pathway-xref db="Reactome" id="R-HSA-2559585" name="Oncogene Induced Senescence"/>
+            <pathway-xref db="Reactome" id="R-SCE-68952" name="DNA replication initiation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7964" name="adeninyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="Reactome" id="R-HSA-5685938" name="HDR through Single Strand Annealing (SSA)"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-MMU-68962" name="Activation of the pre-replicative complex"/>
+            <pathway-xref db="Reactome" id="R-HSA-9704331" name="Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA1 binding function"/>
+            <pathway-xref db="Reactome" id="R-DRE-450604" name="KSRP (KHSRP) binds and destabilizes mRNA"/>
+            <pathway-xref db="Reactome" id="R-SPO-5578749" name="Transcriptional regulation by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-SCE-5656169" name="Termination of translesion DNA synthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-6782210" name="Gap-filling DNA repair synthesis and ligation in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-RNO-203927" name="MicroRNA (miRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5696397" name="Gap-filling DNA repair synthesis and ligation in GG-NER"/>
+            <pathway-xref db="Reactome" id="R-SPO-69091" name="Polymerase switching"/>
+            <pathway-xref db="Reactome" id="R-HSA-68962" name="Activation of the pre-replicative complex"/>
+            <pathway-xref db="Reactome" id="R-SPO-69183" name="Processive synthesis on the lagging strand"/>
+            <pathway-xref db="Reactome" id="R-HSA-5696400" name="Dual Incision in GG-NER"/>
+            <pathway-xref db="Reactome" id="R-HSA-173107" name="Binding and entry of HIV virion"/>
+            <pathway-xref db="Reactome" id="R-DDI-6782135" name="Dual incision in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-SPO-5656169" name="Termination of translesion DNA synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-69166" name="Removal of the Flap Intermediate"/>
+            <pathway-xref db="Reactome" id="R-XTR-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-XTR-429947" name="Deadenylation of mRNA"/>
+            <pathway-xref db="Reactome" id="R-MMU-429947" name="Deadenylation of mRNA"/>
+            <pathway-xref db="Reactome" id="R-GGA-6803529" name="FGFR2 alternative splicing"/>
+            <pathway-xref db="Reactome" id="R-HSA-203927" name="MicroRNA (miRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-69473" name="G2/M DNA damage checkpoint"/>
+            <pathway-xref db="Reactome" id="R-HSA-174437" name="Removal of the Flap Intermediate from the C-strand"/>
+            <pathway-xref db="Reactome" id="R-MMU-174411" name="Polymerase switching on the C-strand of the telomere"/>
+            <pathway-xref db="Reactome" id="R-RNO-5696397" name="Gap-filling DNA repair synthesis and ligation in GG-NER"/>
+            <pathway-xref db="Reactome" id="R-RNO-6803529" name="FGFR2 alternative splicing"/>
+            <pathway-xref db="Reactome" id="R-MMU-69166" name="Removal of the Flap Intermediate"/>
+            <pathway-xref db="Reactome" id="R-CEL-110314" name="Recognition of DNA damage by PCNA-containing replication complex"/>
+            <pathway-xref db="Reactome" id="R-DRE-429947" name="Deadenylation of mRNA"/>
+            <pathway-xref db="Reactome" id="R-SCE-6791226" name="Major pathway of rRNA processing in the nucleolus and cytosol"/>
+            <pathway-xref db="Reactome" id="R-SPO-5358565" name="Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)"/>
+            <pathway-xref db="Reactome" id="R-RNO-174437" name="Removal of the Flap Intermediate from the C-strand"/>
+            <pathway-xref db="Reactome" id="R-SCE-5656121" name="Translesion synthesis by POLI"/>
+            <pathway-xref db="Reactome" id="R-DME-6803529" name="FGFR2 alternative splicing"/>
+            <pathway-xref db="Reactome" id="R-DME-6782135" name="Dual incision in TC-NER"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-DRE-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-HSA-174417" name="Telomere C-strand (Lagging Strand) Synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5601884" name="PIWI-interacting RNA (piRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-450604" name="KSRP (KHSRP) binds and destabilizes mRNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-5687128" name="MAPK6/MAPK4 signaling"/>
+            <pathway-xref db="Reactome" id="R-RNO-69166" name="Removal of the Flap Intermediate"/>
+            <pathway-xref db="Reactome" id="R-HSA-8948700" name="Competing endogenous RNAs (ceRNAs) regulate PTEN translation"/>
+            <pathway-xref db="Reactome" id="R-MMU-5685939" name="HDR through MMEJ (alt-NHEJ)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7970" name="benzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="Reactome" id="R-HSA-174430" name="Telomere C-strand synthesis initiation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5651801" name="PCNA-Dependent Long Patch Base Excision Repair"/>
+            <pathway-xref db="Reactome" id="R-MMU-5693607" name="Processing of DNA double-strand break ends"/>
+            <pathway-xref db="Reactome" id="R-HSA-3108214" name="SUMOylation of DNA damage response and repair proteins"/>
+            <pathway-xref db="Reactome" id="R-MMU-174414" name="Processive synthesis on the C-strand of the telomere"/>
+            <pathway-xref db="Reactome" id="R-CEL-426486" name="Small interfering RNA (siRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9710421" name="Defective pyroptosis"/>
+            <pathway-xref db="Reactome" id="R-DME-5696400" name="Dual Incision in GG-NER"/>
+            <pathway-xref db="Reactome" id="R-DME-69183" name="Processive synthesis on the lagging strand"/>
+            <pathway-xref db="Reactome" id="R-SCE-69166" name="Removal of the Flap Intermediate"/>
+            <pathway-xref db="Reactome" id="R-DME-203927" name="MicroRNA (miRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-68952" name="DNA replication initiation"/>
+            <pathway-xref db="Reactome" id="R-SPO-5358606" name="Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)"/>
+            <pathway-xref db="Reactome" id="R-DME-5651801" name="PCNA-Dependent Long Patch Base Excision Repair"/>
+            <pathway-xref db="Reactome" id="R-RNO-5685942" name="HDR through Homologous Recombination (HRR)"/>
+            <pathway-xref db="Reactome" id="R-DDI-6782210" name="Gap-filling DNA repair synthesis and ligation in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-RNO-113501" name="Inhibition of replication initiation of damaged DNA by RB1/E2F1"/>
+            <pathway-xref db="Reactome" id="R-HSA-9018519" name="Estrogen-dependent gene expression"/>
+            <pathway-xref db="Reactome" id="R-HSA-2564830" name="Cytosolic iron-sulfur cluster assembly"/>
+            <pathway-xref db="Reactome" id="R-HSA-4086398" name="Ca2+ pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-9029569" name="NR1H3 &amp; NR1H2 regulate gene expression linked to cholesterol transport and efflux"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6689" name="tRNA splicing I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7969" name="5-hydroxybenzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="Reactome" id="R-RNO-68962" name="Activation of the pre-replicative complex"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7963" name="4-methylphenyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="Reactome" id="R-HSA-426486" name="Small interfering RNA (siRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-6782135" name="Dual incision in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-CEL-6791226" name="Major pathway of rRNA processing in the nucleolus and cytosol"/>
+            <pathway-xref db="Reactome" id="R-RNO-69183" name="Processive synthesis on the lagging strand"/>
+            <pathway-xref db="Reactome" id="R-DDI-69166" name="Removal of the Flap Intermediate"/>
+            <pathway-xref db="Reactome" id="R-RNO-5696400" name="Dual Incision in GG-NER"/>
+            <pathway-xref db="Reactome" id="R-RNO-69091" name="Polymerase switching"/>
+            <pathway-xref db="MetaCyc" id="PWY-7965" name="2-methyladeninyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="Reactome" id="R-DME-426496" name="Post-transcriptional silencing by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-BTA-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-HSA-5655862" name="Translesion synthesis by POLK"/>
+            <pathway-xref db="Reactome" id="R-CEL-5578749" name="Transcriptional regulation by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-HSA-9704646" name="Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function"/>
+            <pathway-xref db="Reactome" id="R-MMU-5651801" name="PCNA-Dependent Long Patch Base Excision Repair"/>
+            <pathway-xref db="Reactome" id="R-SPO-6791226" name="Major pathway of rRNA processing in the nucleolus and cytosol"/>
+            <pathway-xref db="Reactome" id="R-DRE-6803529" name="FGFR2 alternative splicing"/>
+            <pathway-xref db="Reactome" id="R-HSA-8853884" name="Transcriptional Regulation by VENTX"/>
+            <pathway-xref db="Reactome" id="R-XTR-426496" name="Post-transcriptional silencing by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-RNO-6782210" name="Gap-filling DNA repair synthesis and ligation in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-MMU-5656169" name="Termination of translesion DNA synthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-5696397" name="Gap-filling DNA repair synthesis and ligation in GG-NER"/>
+            <pathway-xref db="Reactome" id="R-RNO-174417" name="Telomere C-strand (Lagging Strand) Synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5685942" name="HDR through Homologous Recombination (HRR)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7968" name="5-methylbenzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="Reactome" id="R-HSA-3270619" name="IRF3-mediated induction of type I IFN"/>
+            <pathway-xref db="Reactome" id="R-DDI-113501" name="Inhibition of replication initiation of damaged DNA by RB1/E2F1"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-69091" name="Polymerase switching"/>
+            <pathway-xref db="Reactome" id="R-HSA-8943723" name="Regulation of PTEN mRNA translation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9609690" name="HCMV Early Events"/>
+            <pathway-xref db="Reactome" id="R-HSA-1912408" name="Pre-NOTCH Transcription and Translation"/>
+            <pathway-xref db="Reactome" id="R-SPO-113501" name="Inhibition of replication initiation of damaged DNA by RB1/E2F1"/>
+            <pathway-xref db="Reactome" id="R-HSA-177539" name="Autointegration results in viral DNA circles"/>
+            <pathway-xref db="Reactome" id="R-SPO-6782135" name="Dual incision in TC-NER"/>
+            <pathway-xref db="MetaCyc" id="PWY-7737" name="thiocoraline biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5656121" name="Translesion synthesis by POLI"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-110314" name="Recognition of DNA damage by PCNA-containing replication complex"/>
+            <pathway-xref db="Reactome" id="R-DME-68962" name="Activation of the pre-replicative complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-426496" name="Post-transcriptional silencing by small RNAs"/>
+            <pathway-xref db="MetaCyc" id="PWY-6269" name="superpathway of adenosylcobalamin salvage from cobinamide II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7961" name="phenyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="Reactome" id="R-MMU-5655862" name="Translesion synthesis by POLK"/>
+            <pathway-xref db="Reactome" id="R-MMU-5696400" name="Dual Incision in GG-NER"/>
+            <pathway-xref db="Reactome" id="R-MMU-426486" name="Small interfering RNA (siRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-68952" name="DNA replication initiation"/>
+            <pathway-xref db="Reactome" id="R-DME-5685939" name="HDR through MMEJ (alt-NHEJ)"/>
+            <pathway-xref db="Reactome" id="R-RNO-174411" name="Polymerase switching on the C-strand of the telomere"/>
+            <pathway-xref db="Reactome" id="R-RNO-429947" name="Deadenylation of mRNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-6782210" name="Gap-filling DNA repair synthesis and ligation in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-HSA-164516" name="Minus-strand DNA synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-426496" name="Post-transcriptional silencing by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-HSA-3248023" name="Regulation by TREX1"/>
+            <pathway-xref db="Reactome" id="R-DME-110312" name="Translesion synthesis by REV1"/>
+            <pathway-xref db="Reactome" id="R-HSA-69091" name="Polymerase switching"/>
+            <pathway-xref db="Reactome" id="R-MMU-6782210" name="Gap-filling DNA repair synthesis and ligation in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-MMU-5685938" name="HDR through Single Strand Annealing (SSA)"/>
+            <pathway-xref db="Reactome" id="R-MMU-203927" name="MicroRNA (miRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-6783310" name="Fanconi Anemia Pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-HSA-450604" name="KSRP (KHSRP) binds and destabilizes mRNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-174411" name="Polymerase switching on the C-strand of the telomere"/>
+            <pathway-xref db="Reactome" id="R-SPO-5696400" name="Dual Incision in GG-NER"/>
+            <pathway-xref db="Reactome" id="R-SPO-68962" name="Activation of the pre-replicative complex"/>
+            <pathway-xref db="Reactome" id="R-HSA-175474" name="Assembly Of The HIV Virion"/>
+            <pathway-xref db="Reactome" id="R-DME-5656169" name="Termination of translesion DNA synthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-69183" name="Processive synthesis on the lagging strand"/>
+            <pathway-xref db="Reactome" id="R-SPO-426496" name="Post-transcriptional silencing by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-CEL-69091" name="Polymerase switching"/>
+            <pathway-xref db="Reactome" id="R-HSA-8986944" name="Transcriptional Regulation by MECP2"/>
+            <pathway-xref db="Reactome" id="R-DME-68952" name="DNA replication initiation"/>
+            <pathway-xref db="Reactome" id="R-DME-113501" name="Inhibition of replication initiation of damaged DNA by RB1/E2F1"/>
+            <pathway-xref db="Reactome" id="R-HSA-5656121" name="Translesion synthesis by POLI"/>
+            <pathway-xref db="Reactome" id="R-HSA-380994" name="ATF4 activates genes in response to endoplasmic reticulum stress"/>
+            <pathway-xref db="Reactome" id="R-HSA-175567" name="Integration of viral DNA into host genomic DNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-9022692" name="Regulation of MECP2 expression and activity"/>
+            <pathway-xref db="Reactome" id="R-HSA-5358565" name="Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)"/>
+            <pathway-xref db="Reactome" id="R-MMU-174430" name="Telomere C-strand synthesis initiation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7904" name="tRNA-uridine 2-thiolation (thermophilic bacteria)"/>
+            <pathway-xref db="Reactome" id="R-XTR-5578749" name="Transcriptional regulation by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-DME-110314" name="Recognition of DNA damage by PCNA-containing replication complex"/>
+            <pathway-xref db="Reactome" id="R-MMU-5693579" name="Homologous DNA Pairing and Strand Exchange"/>
+            <pathway-xref db="Reactome" id="R-RNO-5358565" name="Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)"/>
+            <pathway-xref db="Reactome" id="R-HSA-180910" name="Vpr-mediated nuclear import of PICs"/>
+            <pathway-xref db="Reactome" id="R-MMU-5578749" name="Transcriptional regulation by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-DME-5578749" name="Transcriptional regulation by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-CEL-69166" name="Removal of the Flap Intermediate"/>
+            <pathway-xref db="MetaCyc" id="PWY-7884" name="lipoprotein posttranslational modification"/>
+            <pathway-xref db="Reactome" id="R-CEL-5651801" name="PCNA-Dependent Long Patch Base Excision Repair"/>
+            <pathway-xref db="Reactome" id="R-MMU-69091" name="Polymerase switching"/>
+            <pathway-xref db="MetaCyc" id="PWY-7250" name="[2Fe-2S] iron-sulfur cluster biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-174414" name="Processive synthesis on the C-strand of the telomere"/>
+            <pathway-xref db="MetaCyc" id="PWY-8117" name="colibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-110314" name="Recognition of DNA damage by PCNA-containing replication complex"/>
+            <pathway-xref db="Reactome" id="R-MMU-113501" name="Inhibition of replication initiation of damaged DNA by RB1/E2F1"/>
+            <pathway-xref db="Reactome" id="R-SCE-69091" name="Polymerase switching"/>
+            <pathway-xref db="Reactome" id="R-HSA-5656169" name="Termination of translesion DNA synthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7966" name="5-methoxy-6-methylbenzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="Reactome" id="R-MMU-5358565" name="Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)"/>
+            <pathway-xref db="Reactome" id="R-SPO-426486" name="Small interfering RNA (siRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5685942" name="HDR through Homologous Recombination (HRR)"/>
+            <pathway-xref db="Reactome" id="R-SPO-5651801" name="PCNA-Dependent Long Patch Base Excision Repair"/>
+            <pathway-xref db="Reactome" id="R-SPO-110312" name="Translesion synthesis by REV1"/>
+            <pathway-xref db="Reactome" id="R-SPO-110314" name="Recognition of DNA damage by PCNA-containing replication complex"/>
+            <pathway-xref db="Reactome" id="R-RNO-5578749" name="Transcriptional regulation by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-HSA-5578749" name="Transcriptional regulation by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-HSA-8934593" name="Regulation of RUNX1 Expression and Activity"/>
+            <pathway-xref db="Reactome" id="R-HSA-6802952" name="Signaling by BRAF and RAF1 fusions"/>
+            <pathway-xref db="MetaCyc" id="PWY-6626" name="cytidine-5'-diphosphate-glycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-429947" name="Deadenylation of mRNA"/>
+            <pathway-xref db="Reactome" id="R-SPO-68952" name="DNA replication initiation"/>
+            <pathway-xref db="Reactome" id="R-HSA-164843" name="2-LTR circle formation"/>
+            <pathway-xref db="Reactome" id="R-DME-5655862" name="Translesion synthesis by POLK"/>
+            <pathway-xref db="Reactome" id="R-CEL-5696397" name="Gap-filling DNA repair synthesis and ligation in GG-NER"/>
+            <pathway-xref db="Reactome" id="R-DME-5656121" name="Translesion synthesis by POLI"/>
+            <pathway-xref db="Reactome" id="R-XTR-203927" name="MicroRNA (miRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-174437" name="Removal of the Flap Intermediate from the C-strand"/>
+            <pathway-xref db="Reactome" id="R-DME-426486" name="Small interfering RNA (siRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-164525" name="Plus-strand DNA synthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-5696400" name="Dual Incision in GG-NER"/>
+            <pathway-xref db="Reactome" id="R-SCE-6782135" name="Dual incision in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-RNO-5656169" name="Termination of translesion DNA synthesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+          </entry>
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>4e19A00</model-ac>
+        <locations>
+          <hmmer3-location env-end="98" env-start="1" post-processed="true" score="54.1" evalue="6.7E-14" hmm-start="38" hmm-end="130" hmm-length="133" hmm-bounds="COMPLETE" start="1" end="98">
+            <location-fragments>
+              <hmmer3-location-fragment start="1" end="98" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="3.7E-21" familyName="SUBFAMILY NOT NAMED" score="86.7">
+        <signature ac="PTHR34023" name="FAMILY NOT NAMED">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR34023</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="115" hmm-start="7" hmm-end="117" hmm-length="120" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="110">
+            <location-fragments>
+              <panther-location-fragment start="1" end="110" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="3.7E-21" familyName="SUBFAMILY NOT NAMED" score="86.7">
+        <signature ac="PTHR34023:SF2" name="SUBFAMILY NOT NAMED">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR34023:SF2</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="115" hmm-start="7" hmm-end="117" hmm-length="120" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="110">
+            <location-fragments>
+              <panther-location-fragment start="1" end="110" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <rpsblast-match>
+        <signature ac="cd06222" desc="RNase_H_like" name="RNase_H_like">
+          <entry ac="IPR044730" desc="Ribonuclease H-like domain, plant type" name="RNase_H-like_dom_plant" type="DOMAIN"/>
+          <signature-library-release library="CDD" version="3.18"/>
+        </signature>
+        <model-ac>cd06222</model-ac>
+        <locations>
+          <rpsblast-location evalue="7.14798E-22" score="81.9768" start="3" end="93">
+            <location-fragments>
+              <rpsblast-location-fragment start="3" end="93" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <sites/>
+          </rpsblast-location>
+        </locations>
+      </rpsblast-match>
+      <superfamilyhmmer3-match evalue="1.39E-11">
+        <signature ac="SSF53098" name="Ribonuclease H-like">
+          <entry ac="IPR012337" desc="Ribonuclease H-like superfamily" name="RNaseH-like_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="MetaCyc" id="PWY-7967" name="5-methoxybenzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="MetaCyc" id="PWY-7735" name="echinomycin and triostin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-72163" name="mRNA Splicing - Major Pathway"/>
+            <pathway-xref db="Reactome" id="R-SCE-68962" name="Activation of the pre-replicative complex"/>
+            <pathway-xref db="Reactome" id="R-DME-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-CEL-5656169" name="Termination of translesion DNA synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9610379" name="HCMV Late Events"/>
+            <pathway-xref db="Reactome" id="R-MMU-6803529" name="FGFR2 alternative splicing"/>
+            <pathway-xref db="Reactome" id="R-HSA-162592" name="Integration of provirus"/>
+            <pathway-xref db="Reactome" id="R-HSA-909733" name="Interferon alpha/beta signaling"/>
+            <pathway-xref db="Reactome" id="R-HSA-6791226" name="Major pathway of rRNA processing in the nucleolus and cytosol"/>
+            <pathway-xref db="Reactome" id="R-SPO-5655862" name="Translesion synthesis by POLK"/>
+            <pathway-xref db="Reactome" id="R-MMU-6782135" name="Dual incision in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-SCE-5655862" name="Translesion synthesis by POLK"/>
+            <pathway-xref db="Reactome" id="R-DME-69166" name="Removal of the Flap Intermediate"/>
+            <pathway-xref db="Reactome" id="R-HSA-6782135" name="Dual incision in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-MMU-6791226" name="Major pathway of rRNA processing in the nucleolus and cytosol"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-203927" name="MicroRNA (miRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-110312" name="Translesion synthesis by REV1"/>
+            <pathway-xref db="MetaCyc" id="PWY-6998" name="CDP-D-arabitol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-113501" name="Inhibition of replication initiation of damaged DNA by RB1/E2F1"/>
+            <pathway-xref db="Reactome" id="R-MMU-5358606" name="Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7818" name="type IV lipoteichoic acid biosynthesis (S. pneumoniae)"/>
+            <pathway-xref db="Reactome" id="R-RNO-174414" name="Processive synthesis on the C-strand of the telomere"/>
+            <pathway-xref db="Reactome" id="R-MMU-174417" name="Telomere C-strand (Lagging Strand) Synthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-68962" name="Activation of the pre-replicative complex"/>
+            <pathway-xref db="Reactome" id="R-HSA-180689" name="APOBEC3G mediated resistance to HIV-1 infection"/>
+            <pathway-xref db="MetaCyc" id="PWY-7888" name="tRNA-uridine 2-thiolation (cytoplasmic)"/>
+            <pathway-xref db="Reactome" id="R-MMU-5693568" name="Resolution of D-loop Structures through Holliday Junction Intermediates"/>
+            <pathway-xref db="Reactome" id="R-HSA-5693616" name="Presynaptic phase of homologous DNA pairing and strand exchange"/>
+            <pathway-xref db="Reactome" id="R-HSA-162588" name="Budding and maturation of HIV virion"/>
+            <pathway-xref db="Reactome" id="R-DDI-69091" name="Polymerase switching"/>
+            <pathway-xref db="Reactome" id="R-DDI-69183" name="Processive synthesis on the lagging strand"/>
+            <pathway-xref db="Reactome" id="R-SPO-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-6803529" name="FGFR2 alternative splicing"/>
+            <pathway-xref db="Reactome" id="R-DME-429947" name="Deadenylation of mRNA"/>
+            <pathway-xref db="Reactome" id="R-RNO-426486" name="Small interfering RNA (siRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-110314" name="Recognition of DNA damage by PCNA-containing replication complex"/>
+            <pathway-xref db="Reactome" id="R-HSA-69473" name="G2/M DNA damage checkpoint"/>
+            <pathway-xref db="Reactome" id="R-HSA-112382" name="Formation of RNA Pol II elongation complex"/>
+            <pathway-xref db="Reactome" id="R-MMU-69183" name="Processive synthesis on the lagging strand"/>
+            <pathway-xref db="Reactome" id="R-MMU-426496" name="Post-transcriptional silencing by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-GGA-429947" name="Deadenylation of mRNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-5693607" name="Processing of DNA double-strand break ends"/>
+            <pathway-xref db="Reactome" id="R-RNO-174430" name="Telomere C-strand synthesis initiation"/>
+            <pathway-xref db="Reactome" id="R-HSA-68952" name="DNA replication initiation"/>
+            <pathway-xref db="Reactome" id="R-SCE-69183" name="Processive synthesis on the lagging strand"/>
+            <pathway-xref db="MetaCyc" id="PWY-7975" name="adenosylcobalamin biosynthesis from adenosylcobinamide-GDP II"/>
+            <pathway-xref db="Reactome" id="R-RNO-6782135" name="Dual incision in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-HSA-5685939" name="HDR through MMEJ (alt-NHEJ)"/>
+            <pathway-xref db="Reactome" id="R-SPO-5656121" name="Translesion synthesis by POLI"/>
+            <pathway-xref db="Reactome" id="R-HSA-69205" name="G1/S-Specific Transcription"/>
+            <pathway-xref db="Reactome" id="R-CEL-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7816" name="poly(ribitol phosphate) wall teichoic acid biosynthesis II (S. aureus)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-162594" name="Early Phase of HIV Life Cycle"/>
+            <pathway-xref db="Reactome" id="R-MMU-72163" name="mRNA Splicing - Major Pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-8936459" name="RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function"/>
+            <pathway-xref db="Reactome" id="R-HSA-5693568" name="Resolution of D-loop Structures through Holliday Junction Intermediates"/>
+            <pathway-xref db="Reactome" id="R-HSA-110312" name="Translesion synthesis by REV1"/>
+            <pathway-xref db="Reactome" id="R-HSA-162585" name="Uncoating of the HIV Virion"/>
+            <pathway-xref db="Reactome" id="R-HSA-9701192" name="Defective HDR through Homologous Recombination (HRR) due to BRCA1 loss-of-function"/>
+            <pathway-xref db="MetaCyc" id="PWY-5509" name="adenosylcobalamin biosynthesis from adenosylcobinamide-GDP I"/>
+            <pathway-xref db="Reactome" id="R-SCE-113501" name="Inhibition of replication initiation of damaged DNA by RB1/E2F1"/>
+            <pathway-xref db="Reactome" id="R-RNO-68952" name="DNA replication initiation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6463" name="peptidoglycan cross-bridge biosynthesis IV (Weissella viridescens)"/>
+            <pathway-xref db="Reactome" id="R-MMU-110312" name="Translesion synthesis by REV1"/>
+            <pathway-xref db="Reactome" id="R-MMU-5693616" name="Presynaptic phase of homologous DNA pairing and strand exchange"/>
+            <pathway-xref db="Reactome" id="R-RNO-5358606" name="Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)"/>
+            <pathway-xref db="Reactome" id="R-HSA-5358606" name="Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)"/>
+            <pathway-xref db="Reactome" id="R-CEL-6782210" name="Gap-filling DNA repair synthesis and ligation in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-DRE-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-SPO-174437" name="Removal of the Flap Intermediate from the C-strand"/>
+            <pathway-xref db="Reactome" id="R-MMU-5696397" name="Gap-filling DNA repair synthesis and ligation in GG-NER"/>
+            <pathway-xref db="Reactome" id="R-XTR-426486" name="Small interfering RNA (siRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-69166" name="Removal of the Flap Intermediate"/>
+            <pathway-xref db="Reactome" id="R-HSA-5693579" name="Homologous DNA Pairing and Strand Exchange"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-6791226" name="Major pathway of rRNA processing in the nucleolus and cytosol"/>
+            <pathway-xref db="Reactome" id="R-HSA-2559580" name="Oxidative Stress Induced Senescence"/>
+            <pathway-xref db="MetaCyc" id="PWY-7817" name="type I lipoteichoic acid biosynthesis (S. aureus)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7127" name="CDP-D-mannitol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-112382" name="Formation of RNA Pol II elongation complex"/>
+            <pathway-xref db="Reactome" id="R-HSA-5693554" name="Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)"/>
+            <pathway-xref db="Reactome" id="R-RNO-5651801" name="PCNA-Dependent Long Patch Base Excision Repair"/>
+            <pathway-xref db="Reactome" id="R-HSA-69183" name="Processive synthesis on the lagging strand"/>
+            <pathway-xref db="Reactome" id="R-HSA-2559585" name="Oncogene Induced Senescence"/>
+            <pathway-xref db="Reactome" id="R-SCE-68952" name="DNA replication initiation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7964" name="adeninyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="Reactome" id="R-HSA-5685938" name="HDR through Single Strand Annealing (SSA)"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-MMU-68962" name="Activation of the pre-replicative complex"/>
+            <pathway-xref db="Reactome" id="R-HSA-9704331" name="Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA1 binding function"/>
+            <pathway-xref db="Reactome" id="R-DRE-450604" name="KSRP (KHSRP) binds and destabilizes mRNA"/>
+            <pathway-xref db="Reactome" id="R-SPO-5578749" name="Transcriptional regulation by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-SCE-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-SCE-5656169" name="Termination of translesion DNA synthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-72165" name="mRNA Splicing - Minor Pathway"/>
+            <pathway-xref db="Reactome" id="R-SPO-6782210" name="Gap-filling DNA repair synthesis and ligation in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-RNO-203927" name="MicroRNA (miRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5696397" name="Gap-filling DNA repair synthesis and ligation in GG-NER"/>
+            <pathway-xref db="Reactome" id="R-SPO-69091" name="Polymerase switching"/>
+            <pathway-xref db="Reactome" id="R-HSA-68962" name="Activation of the pre-replicative complex"/>
+            <pathway-xref db="Reactome" id="R-SPO-69183" name="Processive synthesis on the lagging strand"/>
+            <pathway-xref db="Reactome" id="R-HSA-5696400" name="Dual Incision in GG-NER"/>
+            <pathway-xref db="Reactome" id="R-HSA-173107" name="Binding and entry of HIV virion"/>
+            <pathway-xref db="Reactome" id="R-DDI-6782135" name="Dual incision in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-SPO-5656169" name="Termination of translesion DNA synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-69166" name="Removal of the Flap Intermediate"/>
+            <pathway-xref db="Reactome" id="R-XTR-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-XTR-429947" name="Deadenylation of mRNA"/>
+            <pathway-xref db="Reactome" id="R-MMU-429947" name="Deadenylation of mRNA"/>
+            <pathway-xref db="Reactome" id="R-GGA-6803529" name="FGFR2 alternative splicing"/>
+            <pathway-xref db="Reactome" id="R-HSA-203927" name="MicroRNA (miRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-69473" name="G2/M DNA damage checkpoint"/>
+            <pathway-xref db="Reactome" id="R-HSA-174437" name="Removal of the Flap Intermediate from the C-strand"/>
+            <pathway-xref db="Reactome" id="R-MMU-174411" name="Polymerase switching on the C-strand of the telomere"/>
+            <pathway-xref db="Reactome" id="R-RNO-5696397" name="Gap-filling DNA repair synthesis and ligation in GG-NER"/>
+            <pathway-xref db="Reactome" id="R-RNO-6803529" name="FGFR2 alternative splicing"/>
+            <pathway-xref db="Reactome" id="R-MMU-69166" name="Removal of the Flap Intermediate"/>
+            <pathway-xref db="Reactome" id="R-CEL-110314" name="Recognition of DNA damage by PCNA-containing replication complex"/>
+            <pathway-xref db="Reactome" id="R-DRE-429947" name="Deadenylation of mRNA"/>
+            <pathway-xref db="Reactome" id="R-SCE-6791226" name="Major pathway of rRNA processing in the nucleolus and cytosol"/>
+            <pathway-xref db="Reactome" id="R-SPO-5358565" name="Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)"/>
+            <pathway-xref db="Reactome" id="R-RNO-174437" name="Removal of the Flap Intermediate from the C-strand"/>
+            <pathway-xref db="Reactome" id="R-SCE-5656121" name="Translesion synthesis by POLI"/>
+            <pathway-xref db="Reactome" id="R-DME-6782135" name="Dual incision in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-HSA-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-DRE-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-DDI-72165" name="mRNA Splicing - Minor Pathway"/>
+            <pathway-xref db="Reactome" id="R-DRE-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-HSA-174417" name="Telomere C-strand (Lagging Strand) Synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-4551638" name="SUMOylation of chromatin organization proteins"/>
+            <pathway-xref db="Reactome" id="R-HSA-5601884" name="PIWI-interacting RNA (piRNA) biogenesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7887" name="protein SAMPylation and SAMP-mediated thiolation"/>
+            <pathway-xref db="Reactome" id="R-MMU-450604" name="KSRP (KHSRP) binds and destabilizes mRNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-5687128" name="MAPK6/MAPK4 signaling"/>
+            <pathway-xref db="Reactome" id="R-RNO-69166" name="Removal of the Flap Intermediate"/>
+            <pathway-xref db="Reactome" id="R-HSA-8948700" name="Competing endogenous RNAs (ceRNAs) regulate PTEN translation"/>
+            <pathway-xref db="Reactome" id="R-MMU-5685939" name="HDR through MMEJ (alt-NHEJ)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7970" name="benzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="Reactome" id="R-HSA-174430" name="Telomere C-strand synthesis initiation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5651801" name="PCNA-Dependent Long Patch Base Excision Repair"/>
+            <pathway-xref db="Reactome" id="R-MMU-5693607" name="Processing of DNA double-strand break ends"/>
+            <pathway-xref db="Reactome" id="R-HSA-3108214" name="SUMOylation of DNA damage response and repair proteins"/>
+            <pathway-xref db="Reactome" id="R-MMU-174414" name="Processive synthesis on the C-strand of the telomere"/>
+            <pathway-xref db="Reactome" id="R-CEL-426486" name="Small interfering RNA (siRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9710421" name="Defective pyroptosis"/>
+            <pathway-xref db="Reactome" id="R-DME-5696400" name="Dual Incision in GG-NER"/>
+            <pathway-xref db="Reactome" id="R-DME-69183" name="Processive synthesis on the lagging strand"/>
+            <pathway-xref db="Reactome" id="R-SCE-69166" name="Removal of the Flap Intermediate"/>
+            <pathway-xref db="Reactome" id="R-DME-203927" name="MicroRNA (miRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-68952" name="DNA replication initiation"/>
+            <pathway-xref db="Reactome" id="R-SPO-5358606" name="Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)"/>
+            <pathway-xref db="Reactome" id="R-DME-5651801" name="PCNA-Dependent Long Patch Base Excision Repair"/>
+            <pathway-xref db="Reactome" id="R-RNO-5685942" name="HDR through Homologous Recombination (HRR)"/>
+            <pathway-xref db="Reactome" id="R-DDI-6782210" name="Gap-filling DNA repair synthesis and ligation in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-RNO-113501" name="Inhibition of replication initiation of damaged DNA by RB1/E2F1"/>
+            <pathway-xref db="Reactome" id="R-HSA-9018519" name="Estrogen-dependent gene expression"/>
+            <pathway-xref db="Reactome" id="R-HSA-2564830" name="Cytosolic iron-sulfur cluster assembly"/>
+            <pathway-xref db="Reactome" id="R-HSA-4086398" name="Ca2+ pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-9029569" name="NR1H3 &amp; NR1H2 regulate gene expression linked to cholesterol transport and efflux"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6689" name="tRNA splicing I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7969" name="5-hydroxybenzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="Reactome" id="R-RNO-68962" name="Activation of the pre-replicative complex"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7963" name="4-methylphenyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="Reactome" id="R-HSA-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-72163" name="mRNA Splicing - Major Pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-426486" name="Small interfering RNA (siRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-6782135" name="Dual incision in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-CEL-6791226" name="Major pathway of rRNA processing in the nucleolus and cytosol"/>
+            <pathway-xref db="Reactome" id="R-RNO-69183" name="Processive synthesis on the lagging strand"/>
+            <pathway-xref db="Reactome" id="R-DDI-69166" name="Removal of the Flap Intermediate"/>
+            <pathway-xref db="Reactome" id="R-RNO-5696400" name="Dual Incision in GG-NER"/>
+            <pathway-xref db="Reactome" id="R-RNO-69091" name="Polymerase switching"/>
+            <pathway-xref db="MetaCyc" id="PWY-7965" name="2-methyladeninyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="Reactome" id="R-DME-426496" name="Post-transcriptional silencing by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-BTA-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="Reactome" id="R-HSA-5655862" name="Translesion synthesis by POLK"/>
+            <pathway-xref db="Reactome" id="R-CEL-5578749" name="Transcriptional regulation by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-HSA-9704646" name="Defective HDR through Homologous Recombination Repair (HRR) due to PALB2 loss of BRCA2/RAD51/RAD51C binding function"/>
+            <pathway-xref db="Reactome" id="R-MMU-5651801" name="PCNA-Dependent Long Patch Base Excision Repair"/>
+            <pathway-xref db="Reactome" id="R-SPO-6791226" name="Major pathway of rRNA processing in the nucleolus and cytosol"/>
+            <pathway-xref db="Reactome" id="R-DRE-6803529" name="FGFR2 alternative splicing"/>
+            <pathway-xref db="Reactome" id="R-HSA-8853884" name="Transcriptional Regulation by VENTX"/>
+            <pathway-xref db="Reactome" id="R-XTR-426496" name="Post-transcriptional silencing by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-CEL-72165" name="mRNA Splicing - Minor Pathway"/>
+            <pathway-xref db="Reactome" id="R-RNO-6782210" name="Gap-filling DNA repair synthesis and ligation in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-MMU-5656169" name="Termination of translesion DNA synthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-5696397" name="Gap-filling DNA repair synthesis and ligation in GG-NER"/>
+            <pathway-xref db="Reactome" id="R-RNO-174417" name="Telomere C-strand (Lagging Strand) Synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5685942" name="HDR through Homologous Recombination (HRR)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7968" name="5-methylbenzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="Reactome" id="R-HSA-3270619" name="IRF3-mediated induction of type I IFN"/>
+            <pathway-xref db="Reactome" id="R-DDI-113501" name="Inhibition of replication initiation of damaged DNA by RB1/E2F1"/>
+            <pathway-xref db="Reactome" id="R-SPO-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="MetaCyc" id="PWY-6841" name="homophytochelatin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-69091" name="Polymerase switching"/>
+            <pathway-xref db="Reactome" id="R-HSA-8943723" name="Regulation of PTEN mRNA translation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9609690" name="HCMV Early Events"/>
+            <pathway-xref db="Reactome" id="R-HSA-1912408" name="Pre-NOTCH Transcription and Translation"/>
+            <pathway-xref db="Reactome" id="R-SPO-113501" name="Inhibition of replication initiation of damaged DNA by RB1/E2F1"/>
+            <pathway-xref db="Reactome" id="R-HSA-177539" name="Autointegration results in viral DNA circles"/>
+            <pathway-xref db="Reactome" id="R-SPO-6782135" name="Dual incision in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-CEL-112382" name="Formation of RNA Pol II elongation complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-7737" name="thiocoraline biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5656121" name="Translesion synthesis by POLI"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-110314" name="Recognition of DNA damage by PCNA-containing replication complex"/>
+            <pathway-xref db="Reactome" id="R-DME-68962" name="Activation of the pre-replicative complex"/>
+            <pathway-xref db="Reactome" id="R-CEL-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-426496" name="Post-transcriptional silencing by small RNAs"/>
+            <pathway-xref db="MetaCyc" id="PWY-6269" name="superpathway of adenosylcobalamin salvage from cobinamide II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7961" name="phenyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="Reactome" id="R-MMU-5655862" name="Translesion synthesis by POLK"/>
+            <pathway-xref db="Reactome" id="R-MMU-5696400" name="Dual Incision in GG-NER"/>
+            <pathway-xref db="Reactome" id="R-MMU-426486" name="Small interfering RNA (siRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-68952" name="DNA replication initiation"/>
+            <pathway-xref db="Reactome" id="R-RNO-174411" name="Polymerase switching on the C-strand of the telomere"/>
+            <pathway-xref db="MetaCyc" id="PWY-6462" name="peptidoglycan cross-bridge biosynthesis III (Enterococcus faecalis)"/>
+            <pathway-xref db="Reactome" id="R-RNO-429947" name="Deadenylation of mRNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-6782210" name="Gap-filling DNA repair synthesis and ligation in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-HSA-164516" name="Minus-strand DNA synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-426496" name="Post-transcriptional silencing by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-HSA-3248023" name="Regulation by TREX1"/>
+            <pathway-xref db="Reactome" id="R-DME-110312" name="Translesion synthesis by REV1"/>
+            <pathway-xref db="Reactome" id="R-HSA-69091" name="Polymerase switching"/>
+            <pathway-xref db="Reactome" id="R-DME-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-MMU-6782210" name="Gap-filling DNA repair synthesis and ligation in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-MMU-5685938" name="HDR through Single Strand Annealing (SSA)"/>
+            <pathway-xref db="Reactome" id="R-MMU-203927" name="MicroRNA (miRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-5628897" name="TP53 Regulates Metabolic Genes"/>
+            <pathway-xref db="Reactome" id="R-MMU-112382" name="Formation of RNA Pol II elongation complex"/>
+            <pathway-xref db="Reactome" id="R-HSA-450604" name="KSRP (KHSRP) binds and destabilizes mRNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-174411" name="Polymerase switching on the C-strand of the telomere"/>
+            <pathway-xref db="Reactome" id="R-SPO-5696400" name="Dual Incision in GG-NER"/>
+            <pathway-xref db="Reactome" id="R-SPO-68962" name="Activation of the pre-replicative complex"/>
+            <pathway-xref db="Reactome" id="R-HSA-175474" name="Assembly Of The HIV Virion"/>
+            <pathway-xref db="Reactome" id="R-DME-5656169" name="Termination of translesion DNA synthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-69183" name="Processive synthesis on the lagging strand"/>
+            <pathway-xref db="Reactome" id="R-SPO-426496" name="Post-transcriptional silencing by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-CEL-69091" name="Polymerase switching"/>
+            <pathway-xref db="Reactome" id="R-SCE-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-8986944" name="Transcriptional Regulation by MECP2"/>
+            <pathway-xref db="Reactome" id="R-DME-68952" name="DNA replication initiation"/>
+            <pathway-xref db="Reactome" id="R-DME-113501" name="Inhibition of replication initiation of damaged DNA by RB1/E2F1"/>
+            <pathway-xref db="Reactome" id="R-HSA-5656121" name="Translesion synthesis by POLI"/>
+            <pathway-xref db="Reactome" id="R-HSA-380994" name="ATF4 activates genes in response to endoplasmic reticulum stress"/>
+            <pathway-xref db="Reactome" id="R-HSA-175567" name="Integration of viral DNA into host genomic DNA"/>
+            <pathway-xref db="Reactome" id="R-HSA-9022692" name="Regulation of MECP2 expression and activity"/>
+            <pathway-xref db="Reactome" id="R-DDI-72163" name="mRNA Splicing - Major Pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-5358565" name="Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)"/>
+            <pathway-xref db="Reactome" id="R-MMU-174430" name="Telomere C-strand synthesis initiation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7904" name="tRNA-uridine 2-thiolation (thermophilic bacteria)"/>
+            <pathway-xref db="Reactome" id="R-XTR-5578749" name="Transcriptional regulation by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-DME-110314" name="Recognition of DNA damage by PCNA-containing replication complex"/>
+            <pathway-xref db="Reactome" id="R-MMU-5693579" name="Homologous DNA Pairing and Strand Exchange"/>
+            <pathway-xref db="Reactome" id="R-RNO-5358565" name="Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)"/>
+            <pathway-xref db="Reactome" id="R-HSA-180910" name="Vpr-mediated nuclear import of PICs"/>
+            <pathway-xref db="Reactome" id="R-MMU-5578749" name="Transcriptional regulation by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-DME-5578749" name="Transcriptional regulation by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-CEL-69166" name="Removal of the Flap Intermediate"/>
+            <pathway-xref db="MetaCyc" id="PWY-7815" name="poly(ribitol phosphate) wall teichoic acid biosynthesis I (B. subtilis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7884" name="lipoprotein posttranslational modification"/>
+            <pathway-xref db="Reactome" id="R-CEL-5651801" name="PCNA-Dependent Long Patch Base Excision Repair"/>
+            <pathway-xref db="Reactome" id="R-MMU-69091" name="Polymerase switching"/>
+            <pathway-xref db="MetaCyc" id="PWY-6682" name="dehydrophos biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-174414" name="Processive synthesis on the C-strand of the telomere"/>
+            <pathway-xref db="MetaCyc" id="PWY-8117" name="colibactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-110314" name="Recognition of DNA damage by PCNA-containing replication complex"/>
+            <pathway-xref db="Reactome" id="R-MMU-113501" name="Inhibition of replication initiation of damaged DNA by RB1/E2F1"/>
+            <pathway-xref db="Reactome" id="R-SCE-69091" name="Polymerase switching"/>
+            <pathway-xref db="Reactome" id="R-HSA-5656169" name="Termination of translesion DNA synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-72165" name="mRNA Splicing - Minor Pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-7966" name="5-methoxy-6-methylbenzimidazolyl adenosylcobamide biosynthesis from adenosylcobinamide-GDP"/>
+            <pathway-xref db="Reactome" id="R-MMU-5358565" name="Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)"/>
+            <pathway-xref db="Reactome" id="R-SPO-426486" name="Small interfering RNA (siRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5685942" name="HDR through Homologous Recombination (HRR)"/>
+            <pathway-xref db="Reactome" id="R-SPO-5651801" name="PCNA-Dependent Long Patch Base Excision Repair"/>
+            <pathway-xref db="Reactome" id="R-SPO-110312" name="Translesion synthesis by REV1"/>
+            <pathway-xref db="Reactome" id="R-SPO-110314" name="Recognition of DNA damage by PCNA-containing replication complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-6289" name="petrobactin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-5578749" name="Transcriptional regulation by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-HSA-5578749" name="Transcriptional regulation by small RNAs"/>
+            <pathway-xref db="Reactome" id="R-HSA-8934593" name="Regulation of RUNX1 Expression and Activity"/>
+            <pathway-xref db="Reactome" id="R-HSA-6802952" name="Signaling by BRAF and RAF1 fusions"/>
+            <pathway-xref db="MetaCyc" id="PWY-6626" name="cytidine-5'-diphosphate-glycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-429947" name="Deadenylation of mRNA"/>
+            <pathway-xref db="Reactome" id="R-SPO-68952" name="DNA replication initiation"/>
+            <pathway-xref db="Reactome" id="R-HSA-164843" name="2-LTR circle formation"/>
+            <pathway-xref db="Reactome" id="R-MMU-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-DME-5655862" name="Translesion synthesis by POLK"/>
+            <pathway-xref db="Reactome" id="R-CEL-5696397" name="Gap-filling DNA repair synthesis and ligation in GG-NER"/>
+            <pathway-xref db="Reactome" id="R-DME-5656121" name="Translesion synthesis by POLI"/>
+            <pathway-xref db="Reactome" id="R-XTR-203927" name="MicroRNA (miRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-174437" name="Removal of the Flap Intermediate from the C-strand"/>
+            <pathway-xref db="Reactome" id="R-DME-426486" name="Small interfering RNA (siRNA) biogenesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-164525" name="Plus-strand DNA synthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-CEL-5696400" name="Dual Incision in GG-NER"/>
+            <pathway-xref db="Reactome" id="R-MMU-72165" name="mRNA Splicing - Minor Pathway"/>
+            <pathway-xref db="Reactome" id="R-SCE-6782135" name="Dual incision in TC-NER"/>
+            <pathway-xref db="Reactome" id="R-RNO-5656169" name="Termination of translesion DNA synthesis"/>
+            <pathway-xref db="Reactome" id="R-GGA-6804115" name="TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0046687</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="152" start="4" end="99">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="4" end="99" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

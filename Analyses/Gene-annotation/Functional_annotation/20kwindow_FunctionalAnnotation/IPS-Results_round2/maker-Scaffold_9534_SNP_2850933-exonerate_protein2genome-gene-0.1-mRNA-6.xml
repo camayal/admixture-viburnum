@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="4a8d496fc3f8103140b27544dd5c0e56">MAEQILFNLAEDILGKLGSQLLQQFGLAWGATKQLKKLEITMSTVKSVLLDAEEQQVTNCAVRDWLQRLKDIVYDVDDMLDEFSTYALRRKLEDNGSMIKEV</sequence>
+    <xref id="maker-Scaffold_9534_SNP_2850933-exonerate_protein2genome-gene-0.1-mRNA-6" name="maker-Scaffold_9534_SNP_2850933-exonerate_protein2genome-gene-0.1-mRNA-6"/>
+    <matches>
+      <hmmer3-match evalue="8.7E-24" score="83.6">
+        <signature ac="PF18052" desc="Rx N-terminal domain" name="Rx_N">
+          <entry ac="IPR041118" desc="Rx, N-terminal" name="Rx_N" type="DOMAIN"/>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF18052</model-ac>
+        <locations>
+          <hmmer3-location env-end="101" env-start="9" post-processed="true" score="83.4" evalue="1.0E-23" hmm-start="5" hmm-end="85" hmm-length="93" hmm-bounds="INCOMPLETE" start="13" end="93">
+            <location-fragments>
+              <hmmer3-location-fragment start="13" end="93" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="3.3E-21" score="77.4">
+        <signature ac="G3DSA:1.20.5.4130" name="">
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>3qflA00</model-ac>
+        <locations>
+          <hmmer3-location env-end="102" env-start="11" post-processed="true" score="77.2" evalue="3.8E-21" hmm-start="6" hmm-end="93" hmm-length="115" hmm-bounds="COMPLETE" start="11" end="102">
+            <location-fragments>
+              <hmmer3-location-fragment start="11" end="102" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="1.9E-12" familyName="OS01G0808000 PROTEIN" score="57.6">
+        <signature ac="PTHR23155:SF1113" name="OS01G0808000 PROTEIN">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR23155:SF1113</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="102" hmm-start="3" hmm-end="95" hmm-length="1111" hmm-bounds="INCOMPLETE" start="2" end="94">
+            <location-fragments>
+              <panther-location-fragment start="2" end="94" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="1.9E-12" familyName="OS01G0808000 PROTEIN" score="57.6">
+        <signature ac="PTHR23155" name="DISEASE RESISTANCE PROTEIN RP">
+          <entry ac="IPR044974" desc="Disease resistance protein, plants" name="Disease_R_plants" type="FAMILY">
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0006952" name="defense response"/>
+            <pathway-xref db="MetaCyc" id="PWY-7564" name="bacimethrin and bacimethrin pyrophosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5381" name="NAD salvage (plants)"/>
+            <pathway-xref db="MetaCyc" id="PWY-2681" name="trans-zeatin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8106" name="queuosine biosynthesis III (queuosine salvage)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7342" name="superpathway of nicotine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5316" name="nicotine biosynthesis"/>
+          </entry>
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR23155</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="102" hmm-start="3" hmm-end="95" hmm-length="1111" hmm-bounds="INCOMPLETE" start="2" end="94">
+            <location-fragments>
+              <panther-location-fragment start="2" end="94" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <rpsblast-match>
+        <signature ac="cd14798" desc="RX-CC_like" name="RX-CC_like">
+          <entry ac="IPR038005" desc="Virus X resistance protein-like, coiled-coil domain" name="RX-like_CC" type="DOMAIN"/>
+          <signature-library-release library="CDD" version="3.18"/>
+        </signature>
+        <model-ac>cd14798</model-ac>
+        <locations>
+          <rpsblast-location evalue="1.50542E-9" score="49.1575" start="14" end="91">
+            <location-fragments>
+              <rpsblast-location-fragment start="14" end="91" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <sites/>
+          </rpsblast-location>
+        </locations>
+      </rpsblast-match>
+    </matches>
+  </protein>
+</protein-matches>

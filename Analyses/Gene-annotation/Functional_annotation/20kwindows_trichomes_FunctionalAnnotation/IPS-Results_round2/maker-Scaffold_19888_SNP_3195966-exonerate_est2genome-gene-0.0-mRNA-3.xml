@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.56-89.0">
+  <protein>
+    <sequence md5="affbacd1eaade1a0712139834455ad41">MRETCRIGREVLDAAARVIRPGVTTDEIDAVVHEATIAAGGYPSPLNYHFFPKSCCASVNEVICHGIPDARKLEDGDIVNVDVTVYYKGVHGDLNETFLVGNVDEASQQLVQCTYECLEKAISIVKPGVRFREIGEVINRHALMAGFSVVKSYCGHGIGELFHCAPNIPHYARNKAVGVMKAGQTFTIEPMINAGVWRDRMWPDGWTAVTADGKRSAQFEHTLLVTETGVEILTARLPTSPNVFPWLKS</sequence>
+    <xref id="maker-Scaffold_19888_SNP_3195966-exonerate_est2genome-gene-0.0-mRNA-3" name="maker-Scaffold_19888_SNP_3195966-exonerate_est2genome-gene-0.0-mRNA-3"/>
+    <matches>
+      <fingerprints-match evalue="1.2E-19" graphscan="IIII">
+        <signature ac="PR00599" desc="Methionine aminopeptidase-1 signature" name="MAPEPTIDASE">
+          <entry ac="IPR001714" desc="Peptidase M24, methionine aminopeptidase" name="Pept_M24_MAP" type="FAMILY">
+            <pathway-xref db="Reactome" id="R-CEL-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-6423" name="hemoglobin degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6842" name="glutathione-mediated detoxification II"/>
+            <pathway-xref db="Reactome" id="R-SCE-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-MMU-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-DRE-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-7694" name="zwittermicin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7569" name="arginomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-RNO-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-SPO-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-XTR-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-7799" name="Arg/N-end rule pathway (eukaryotic)"/>
+            <pathway-xref db="Reactome" id="R-DDI-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-7800" name="Ac/N-end rule pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-7954" name="tabtoxinine-beta-lactam biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7570" name="blasticidin S biosynthesis"/>
+          </entry>
+          <signature-library-release library="PRINTS" version="42.0"/>
+        </signature>
+        <model-ac>PR00599</model-ac>
+        <locations>
+          <fingerprints-location motifNumber="2" pvalue="2.6E-7" score="41.89" start="77" end="93">
+            <location-fragments>
+              <fingerprints-location-fragment start="77" end="93" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </fingerprints-location>
+          <fingerprints-location motifNumber="3" pvalue="1.85E-7" score="49.18" start="147" end="159">
+            <location-fragments>
+              <fingerprints-location-fragment start="147" end="159" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </fingerprints-location>
+          <fingerprints-location motifNumber="4" pvalue="2.24E-5" score="40.56" start="178" end="190">
+            <location-fragments>
+              <fingerprints-location-fragment start="178" end="190" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </fingerprints-location>
+          <fingerprints-location motifNumber="1" pvalue="7.59E-8" score="53.68" start="55" end="68">
+            <location-fragments>
+              <fingerprints-location-fragment start="55" end="68" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </fingerprints-location>
+        </locations>
+      </fingerprints-match>
+      <hmmer3-match evalue="4.2E-54" score="183.5">
+        <signature ac="PF00557" desc="Metallopeptidase family M24" name="Peptidase_M24">
+          <entry ac="IPR000994" desc="Peptidase M24" name="Pept_M24" type="DOMAIN">
+            <pathway-xref db="Reactome" id="R-SPO-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-CEL-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-DME-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-HSA-167246" name="Tat-mediated elongation of the HIV-1 transcript"/>
+            <pathway-xref db="MetaCyc" id="PWY-7694" name="zwittermicin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-SSC-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="Reactome" id="R-MMU-112382" name="Formation of RNA Pol II elongation complex"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7799" name="Arg/N-end rule pathway (eukaryotic)"/>
+            <pathway-xref db="Reactome" id="R-CEL-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="Reactome" id="R-SCE-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-SCE-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-167290" name="Pausing and recovery of HIV elongation"/>
+            <pathway-xref db="Reactome" id="R-DME-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="Reactome" id="R-DDI-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-8065" name="chlorpyrifos degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6423" name="hemoglobin degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="Reactome" id="R-DRE-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-6046" name="dimethylsulfoniopropanoate degradation I (cleavage)"/>
+            <pathway-xref db="Reactome" id="R-DDI-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-DME-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-MMU-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="Reactome" id="R-HSA-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-RNO-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-SPO-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-167200" name="Formation of HIV-1 elongation complex containing HIV-1 Tat"/>
+            <pathway-xref db="Reactome" id="R-DDI-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-167152" name="Formation of HIV elongation complex in the absence of HIV Tat"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-112382" name="Formation of RNA Pol II elongation complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-6842" name="glutathione-mediated detoxification II"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7855" name="ectoine degradation"/>
+            <pathway-xref db="Reactome" id="R-SCE-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="Reactome" id="R-MMU-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-5490" name="paraoxon degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7569" name="arginomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-CEL-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-DDI-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-CEL-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7800" name="Ac/N-end rule pathway"/>
+            <pathway-xref db="Reactome" id="R-SPO-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-MMU-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="Reactome" id="R-DDI-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-HSA-167287" name="HIV elongation arrest and recovery"/>
+            <pathway-xref db="MetaCyc" id="PWY-5489" name="methyl parathion degradation"/>
+            <pathway-xref db="Reactome" id="R-DDI-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="Reactome" id="R-SCE-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-CEL-112382" name="Formation of RNA Pol II elongation complex"/>
+            <pathway-xref db="Reactome" id="R-DDI-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="Reactome" id="R-CEL-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-HSA-167243" name="Tat-mediated HIV elongation arrest and recovery"/>
+            <pathway-xref db="Reactome" id="R-MMU-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-SCE-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-XTR-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6049" name="superpathway of dimethylsulfoniopropanoate degradation"/>
+            <pathway-xref db="Reactome" id="R-RNO-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="Reactome" id="R-SPO-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="Reactome" id="R-DME-112382" name="Formation of RNA Pol II elongation complex"/>
+            <pathway-xref db="Reactome" id="R-SCE-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7954" name="tabtoxinine-beta-lactam biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-167238" name="Pausing and recovery of Tat-mediated HIV elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7570" name="blasticidin S biosynthesis"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF00557</model-ac>
+        <locations>
+          <hmmer3-location env-end="227" env-start="1" post-processed="true" score="183.3" evalue="4.7E-54" hmm-start="3" hmm-end="209" hmm-length="209" hmm-bounds="C_TERMINAL_COMPLETE" start="1" end="227">
+            <location-fragments>
+              <hmmer3-location-fragment start="1" end="227" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="3.7E-104" score="349.8">
+        <signature ac="G3DSA:3.90.230.10" name="Creatinase/methionine aminopeptidase superfamily">
+          <entry ac="IPR036005" desc="Creatinase/aminopeptidase-like" name="Creatinase/aminopeptidase-like" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="Reactome" id="R-SPO-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-CEL-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-DME-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-HSA-167246" name="Tat-mediated elongation of the HIV-1 transcript"/>
+            <pathway-xref db="MetaCyc" id="PWY-7694" name="zwittermicin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-SSC-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="Reactome" id="R-MMU-112382" name="Formation of RNA Pol II elongation complex"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7799" name="Arg/N-end rule pathway (eukaryotic)"/>
+            <pathway-xref db="Reactome" id="R-CEL-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="Reactome" id="R-SCE-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-SCE-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-167290" name="Pausing and recovery of HIV elongation"/>
+            <pathway-xref db="Reactome" id="R-DME-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="Reactome" id="R-DDI-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-8065" name="chlorpyrifos degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6423" name="hemoglobin degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="Reactome" id="R-DRE-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-6046" name="dimethylsulfoniopropanoate degradation I (cleavage)"/>
+            <pathway-xref db="Reactome" id="R-DDI-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-DME-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-MMU-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="Reactome" id="R-HSA-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-RNO-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-SPO-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-167200" name="Formation of HIV-1 elongation complex containing HIV-1 Tat"/>
+            <pathway-xref db="Reactome" id="R-DDI-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-167152" name="Formation of HIV elongation complex in the absence of HIV Tat"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-112382" name="Formation of RNA Pol II elongation complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-6842" name="glutathione-mediated detoxification II"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7855" name="ectoine degradation"/>
+            <pathway-xref db="Reactome" id="R-SCE-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="Reactome" id="R-MMU-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-5490" name="paraoxon degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7569" name="arginomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-CEL-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-DDI-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-CEL-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7800" name="Ac/N-end rule pathway"/>
+            <pathway-xref db="Reactome" id="R-SPO-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-MMU-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="Reactome" id="R-DDI-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-HSA-167287" name="HIV elongation arrest and recovery"/>
+            <pathway-xref db="MetaCyc" id="PWY-5489" name="methyl parathion degradation"/>
+            <pathway-xref db="Reactome" id="R-DDI-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="Reactome" id="R-SCE-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-CEL-112382" name="Formation of RNA Pol II elongation complex"/>
+            <pathway-xref db="Reactome" id="R-DDI-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="Reactome" id="R-CEL-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-HSA-167243" name="Tat-mediated HIV elongation arrest and recovery"/>
+            <pathway-xref db="Reactome" id="R-MMU-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-SCE-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-XTR-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6049" name="superpathway of dimethylsulfoniopropanoate degradation"/>
+            <pathway-xref db="Reactome" id="R-RNO-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="Reactome" id="R-SPO-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="Reactome" id="R-DME-112382" name="Formation of RNA Pol II elongation complex"/>
+            <pathway-xref db="Reactome" id="R-SCE-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7954" name="tabtoxinine-beta-lactam biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-167238" name="Pausing and recovery of Tat-mediated HIV elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7570" name="blasticidin S biosynthesis"/>
+          </entry>
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>2b3hA00</model-ac>
+        <locations>
+          <hmmer3-location env-end="246" env-start="1" post-processed="true" score="349.6" evalue="4.1E-104" hmm-start="59" hmm-end="302" hmm-length="304" hmm-bounds="COMPLETE" start="1" end="246">
+            <location-fragments>
+              <hmmer3-location-fragment start="1" end="246" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="6.3E-89" score="295.7">
+        <signature ac="TIGR00500" desc="met_pdase_I: methionine aminopeptidase, type I" name="TIGR00500">
+          <entry ac="IPR002467" desc="Peptidase M24A, methionine aminopeptidase, subfamily 1" name="Pept_M24A_MAP1" type="FAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0070006" name="metalloaminopeptidase activity"/>
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0006508" name="proteolysis"/>
+            <pathway-xref db="Reactome" id="R-HSA-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-SPO-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-XTR-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-SCE-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-MMU-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-7799" name="Arg/N-end rule pathway (eukaryotic)"/>
+            <pathway-xref db="Reactome" id="R-DRE-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-DDI-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-7800" name="Ac/N-end rule pathway"/>
+          </entry>
+          <signature-library-release library="TIGRFAM" version="15.0"/>
+        </signature>
+        <model-ac>TIGR00500</model-ac>
+        <locations>
+          <hmmer3-location env-end="236" env-start="1" post-processed="false" score="295.5" evalue="7.1E-89" hmm-start="12" hmm-end="246" hmm-length="247" hmm-bounds="INCOMPLETE" start="1" end="235">
+            <location-fragments>
+              <hmmer3-location-fragment start="1" end="235" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="3.7E-152" familyName="METHIONINE AMINOPEPTIDASE 1" score="518.7">
+        <signature ac="PTHR43330" name="METHIONINE AMINOPEPTIDASE">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR43330</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="248" hmm-start="144" hmm-end="385" hmm-length="390" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="242">
+            <location-fragments>
+              <panther-location-fragment start="1" end="242" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="3.7E-152" familyName="METHIONINE AMINOPEPTIDASE 1" score="518.7">
+        <signature ac="PTHR43330:SF7" name="METHIONINE AMINOPEPTIDASE 1">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR43330:SF7</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="248" hmm-start="144" hmm-end="385" hmm-length="390" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="242">
+            <location-fragments>
+              <panther-location-fragment start="1" end="242" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <profilescan-match>
+        <signature ac="MF_01974" desc="Methionine aminopeptidase [map]." name="MetAP_1">
+          <entry ac="IPR002467" desc="Peptidase M24A, methionine aminopeptidase, subfamily 1" name="Pept_M24A_MAP1" type="FAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0070006" name="metalloaminopeptidase activity"/>
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0006508" name="proteolysis"/>
+            <pathway-xref db="Reactome" id="R-HSA-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-SPO-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-XTR-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-SCE-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-MMU-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-7799" name="Arg/N-end rule pathway (eukaryotic)"/>
+            <pathway-xref db="Reactome" id="R-DRE-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-DDI-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-7800" name="Ac/N-end rule pathway"/>
+          </entry>
+          <signature-library-release library="HAMAP" version="2021_04"/>
+        </signature>
+        <model-ac>MF_01974</model-ac>
+        <locations>
+          <profilescan-location score="36.321182" start="1" end="236">
+            <location-fragments>
+              <profilescan-location-fragment start="1" end="236" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>M-----------RETCRIGREVLDAAARVIRPGVTTDEIDAVVHEATIAAGGYPSPLNYHFFPKSCCASVNEVICHGIPDARKLEDGDIVNVDVTVYYKGVHGDLNETFLVGNVDEASQQLVQCTYECLEKAISIVKPGVRFREIGEVINRHALMAGFSVVKSYCGHGIGELFHCAPNIPHYARNKAV-GVMKAGQTFTIEPMINAGVWR-DRMWPDGWTAVTADGKRSAQFEHTLLVTETGVEILTAR</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+      <rpsblast-match>
+        <signature ac="cd01086" desc="MetAP1" name="MetAP1">
+          <entry ac="IPR002467" desc="Peptidase M24A, methionine aminopeptidase, subfamily 1" name="Pept_M24A_MAP1" type="FAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0070006" name="metalloaminopeptidase activity"/>
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0006508" name="proteolysis"/>
+            <pathway-xref db="Reactome" id="R-HSA-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-SPO-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-XTR-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-SCE-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-MMU-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-7799" name="Arg/N-end rule pathway (eukaryotic)"/>
+            <pathway-xref db="Reactome" id="R-DRE-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-DDI-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-7800" name="Ac/N-end rule pathway"/>
+          </entry>
+          <signature-library-release library="CDD" version="3.18"/>
+        </signature>
+        <model-ac>cd01086</model-ac>
+        <locations>
+          <rpsblast-location evalue="1.91809E-143" score="399.175" start="1" end="234">
+            <location-fragments>
+              <rpsblast-location-fragment start="1" end="234" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <sites>
+              <rpsblast-site description="active site" numLocations="6">
+                <site-locations>
+                  <site-location residue="H" start="156" end="156"/>
+                  <site-location residue="H" start="65" end="65"/>
+                  <site-location residue="E" start="220" end="220"/>
+                  <site-location residue="D" start="82" end="82"/>
+                  <site-location residue="E" start="189" end="189"/>
+                  <site-location residue="D" start="93" end="93"/>
+                </site-locations>
+              </rpsblast-site>
+            </sites>
+          </rpsblast-location>
+        </locations>
+      </rpsblast-match>
+      <superfamilyhmmer3-match evalue="2.22E-84">
+        <signature ac="SSF55920" name="Creatinase/aminopeptidase">
+          <entry ac="IPR036005" desc="Creatinase/aminopeptidase-like" name="Creatinase/aminopeptidase-like" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="Reactome" id="R-SPO-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-CEL-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-DME-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-HSA-167246" name="Tat-mediated elongation of the HIV-1 transcript"/>
+            <pathway-xref db="MetaCyc" id="PWY-7694" name="zwittermicin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-SSC-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="Reactome" id="R-MMU-112382" name="Formation of RNA Pol II elongation complex"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7799" name="Arg/N-end rule pathway (eukaryotic)"/>
+            <pathway-xref db="Reactome" id="R-CEL-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="Reactome" id="R-SCE-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-SCE-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-167290" name="Pausing and recovery of HIV elongation"/>
+            <pathway-xref db="Reactome" id="R-DME-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="Reactome" id="R-DDI-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-8065" name="chlorpyrifos degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6423" name="hemoglobin degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="Reactome" id="R-DRE-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-6046" name="dimethylsulfoniopropanoate degradation I (cleavage)"/>
+            <pathway-xref db="Reactome" id="R-DDI-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-DME-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-MMU-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="Reactome" id="R-HSA-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-RNO-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-SPO-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-167200" name="Formation of HIV-1 elongation complex containing HIV-1 Tat"/>
+            <pathway-xref db="Reactome" id="R-DDI-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-167152" name="Formation of HIV elongation complex in the absence of HIV Tat"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-112382" name="Formation of RNA Pol II elongation complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-6842" name="glutathione-mediated detoxification II"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7855" name="ectoine degradation"/>
+            <pathway-xref db="Reactome" id="R-SCE-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="Reactome" id="R-MMU-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="MetaCyc" id="PWY-5490" name="paraoxon degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7569" name="arginomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-CEL-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-DDI-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-CEL-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7800" name="Ac/N-end rule pathway"/>
+            <pathway-xref db="Reactome" id="R-SPO-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-MMU-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="Reactome" id="R-DDI-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-HSA-167287" name="HIV elongation arrest and recovery"/>
+            <pathway-xref db="MetaCyc" id="PWY-5489" name="methyl parathion degradation"/>
+            <pathway-xref db="Reactome" id="R-DDI-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="Reactome" id="R-SCE-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-CEL-112382" name="Formation of RNA Pol II elongation complex"/>
+            <pathway-xref db="Reactome" id="R-DDI-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="Reactome" id="R-CEL-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-HSA-167243" name="Tat-mediated HIV elongation arrest and recovery"/>
+            <pathway-xref db="Reactome" id="R-MMU-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-SCE-6804756" name="Regulation of TP53 Activity through Phosphorylation"/>
+            <pathway-xref db="Reactome" id="R-XTR-2514859" name="Inactivation, recovery and regulation of the phototransduction cascade"/>
+            <pathway-xref db="Reactome" id="R-RNO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6049" name="superpathway of dimethylsulfoniopropanoate degradation"/>
+            <pathway-xref db="Reactome" id="R-RNO-163125" name="Post-translational modification: synthesis of GPI-anchored proteins"/>
+            <pathway-xref db="Reactome" id="R-SPO-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="Reactome" id="R-DME-112382" name="Formation of RNA Pol II elongation complex"/>
+            <pathway-xref db="Reactome" id="R-SCE-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7954" name="tabtoxinine-beta-lactam biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-167238" name="Pausing and recovery of Tat-mediated HIV elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7570" name="blasticidin S biosynthesis"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0041657</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="249" start="1" end="234">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="1" end="234" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="2940cd6e841ff21b80d767f6013d5149">MAAKSLRCIALAYKESAAEETQLGDRKLEETELTLLGFLGLKDPCRPGVREAVESCRNAGVSIKMITGDNVFTAKSIAIECGILGPNEDLEDNAIVEGEIFRNYTPEEMMEKIERIRVVARSSPFDKVLVVQCLKQKGHVVAVMGDGTNDALALKEANIGLSMGMQGTEVAKESSDIVIMDDNFASIVPVLGWGRCVYNNIQKFIQFQLTVNVSALVINFVAAISSGEVPLTAMQLLWVNLIMDTLGALALATEQPTNDLMTKKLVGQTKPLITNVMWRNLTAQALYQVIVLLILQFKGGSIFGVKKKVKDILIFNTFALCQIFNVFNSRNLEKKNIFKGILKNTLFIGIVGMTIVLQVVMVEFLKRFANTEGLDLGQWGTCIGVSAMSWPIGWLVKCIPV</sequence>
+    <xref id="maker-Scaffold_63323_SNP_2650799-exonerate_protein2genome-gene-0.0-mRNA-8" name="maker-Scaffold_63323_SNP_2650799-exonerate_protein2genome-gene-0.0-mRNA-8"/>
+    <matches>
+      <fingerprints-match evalue="7.9E-6" graphscan="..Ii.">
+        <signature ac="PR00120" desc="H+-transporting ATPase (proton pump) signature" name="HATPASE">
+          <entry ac="IPR001757" desc="P-type ATPase" name="P_typ_ATPase" type="FAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005215" name="transporter activity"/>
+            <go-xref category="CELLULAR_COMPONENT" db="GO" id="GO:0016021" name="integral component of membrane"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005524" name="ATP binding"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0016887" name="ATP hydrolysis activity"/>
+            <pathway-xref db="Reactome" id="R-HSA-9662360" name="Sensory processing of sound by inner hair cells of the cochlea"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SPO-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-BTA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-MMU-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6409" name="pyoverdine I biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-DRE-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SCE-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-CFA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-HSA-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-DME-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-HSA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-SPO-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-DME-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-BTA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-MMU-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-RNO-6803544" name="Ion influx/efflux at host-pathogen interface"/>
+            <pathway-xref db="Reactome" id="R-DDI-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SCE-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-DME-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9662361" name="Sensory processing of sound by outer hair cells of the cochlea"/>
+            <pathway-xref db="Reactome" id="R-SSC-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SSC-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-DDI-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-RNO-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CFA-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-SCE-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-CEL-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CFA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-XTR-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-1912420" name="Pre-NOTCH Processing in Golgi"/>
+            <pathway-xref db="Reactome" id="R-HSA-9679191" name="Potential therapeutics for SARS"/>
+            <pathway-xref db="Reactome" id="R-SPO-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-RNO-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6803544" name="Ion influx/efflux at host-pathogen interface"/>
+            <pathway-xref db="Reactome" id="R-RNO-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SSC-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-CEL-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-MMU-6803544" name="Ion influx/efflux at host-pathogen interface"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-936837" name="Ion transport by P-type ATPases"/>
+          </entry>
+          <signature-library-release library="PRINTS" version="42.0"/>
+        </signature>
+        <model-ac>PR00120</model-ac>
+        <locations>
+          <fingerprints-location motifNumber="4" pvalue="1.21E-4" score="20.87" start="176" end="201">
+            <location-fragments>
+              <fingerprints-location-fragment start="176" end="201" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </fingerprints-location>
+          <fingerprints-location motifNumber="3" pvalue="3.33E-8" score="66.32" start="144" end="160">
+            <location-fragments>
+              <fingerprints-location-fragment start="144" end="160" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </fingerprints-location>
+        </locations>
+      </fingerprints-match>
+      <fingerprints-match evalue="1.0E-19" graphscan="..IIII">
+        <signature ac="PR00119" desc="P-type cation-transporting ATPase superfamily signature" name="CATATPASE">
+          <signature-library-release library="PRINTS" version="42.0"/>
+        </signature>
+        <model-ac>PR00119</model-ac>
+        <locations>
+          <fingerprints-location motifNumber="4" pvalue="1.05E-6" score="58.53" start="59" end="69">
+            <location-fragments>
+              <fingerprints-location-fragment start="59" end="69" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </fingerprints-location>
+          <fingerprints-location motifNumber="5" pvalue="3.46E-10" score="59.72" start="144" end="163">
+            <location-fragments>
+              <fingerprints-location-fragment start="144" end="163" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </fingerprints-location>
+          <fingerprints-location motifNumber="3" pvalue="2.06E-4" score="41.51" start="37" end="48">
+            <location-fragments>
+              <fingerprints-location-fragment start="37" end="48" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </fingerprints-location>
+          <fingerprints-location motifNumber="6" pvalue="9.31E-7" score="43.32" start="168" end="180">
+            <location-fragments>
+              <fingerprints-location-fragment start="168" end="180" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </fingerprints-location>
+        </locations>
+      </fingerprints-match>
+      <hmmer3-match evalue="4.8E-15" score="56.4">
+        <signature ac="PF00702" desc="haloacid dehalogenase-like hydrolase" name="Hydrolase">
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF00702</model-ac>
+        <locations>
+          <hmmer3-location env-end="158" env-start="9" post-processed="true" score="55.3" evalue="1.1E-14" hmm-start="96" hmm-end="210" hmm-length="210" hmm-bounds="C_TERMINAL_COMPLETE" start="26" end="158">
+            <location-fragments>
+              <hmmer3-location-fragment start="26" end="158" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="4.1E-71" score="241.7">
+        <signature ac="G3DSA:1.20.1110.10" name="">
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>3tlmA02</model-ac>
+        <locations>
+          <hmmer3-location env-end="400" env-start="156" post-processed="true" score="235.3" evalue="3.6E-69" hmm-start="139" hmm-end="411" hmm-length="417" hmm-bounds="COMPLETE" start="156" end="400">
+            <location-fragments>
+              <hmmer3-location-fragment start="156" end="400" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="2.8E-42" score="144.5">
+        <signature ac="PF00689" desc="Cation transporting ATPase, C-terminus" name="Cation_ATPase_C">
+          <entry ac="IPR006068" desc="Cation-transporting P-type ATPase, C-terminal" name="ATPase_P-typ_cation-transptr_C" type="DOMAIN">
+            <pathway-xref db="Reactome" id="R-HSA-9662360" name="Sensory processing of sound by inner hair cells of the cochlea"/>
+            <pathway-xref db="Reactome" id="R-SPO-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-BTA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-MMU-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-DDI-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-SCE-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-CFA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-HSA-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-DME-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-HSA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-SPO-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-DME-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-BTA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-MMU-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-DDI-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SCE-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-DME-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9662361" name="Sensory processing of sound by outer hair cells of the cochlea"/>
+            <pathway-xref db="Reactome" id="R-SSC-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SSC-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-DDI-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-RNO-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-CFA-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-SCE-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-CFA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1912420" name="Pre-NOTCH Processing in Golgi"/>
+            <pathway-xref db="Reactome" id="R-HSA-9679191" name="Potential therapeutics for SARS"/>
+            <pathway-xref db="Reactome" id="R-SPO-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-RNO-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-RNO-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SSC-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-MMU-936837" name="Ion transport by P-type ATPases"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF00689</model-ac>
+        <locations>
+          <hmmer3-location env-end="399" env-start="228" post-processed="true" score="144.0" evalue="4.0E-42" hmm-start="2" hmm-end="181" hmm-length="182" hmm-bounds="INCOMPLETE" start="229" end="398">
+            <location-fragments>
+              <hmmer3-location-fragment start="229" end="398" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="1.2E-8" score="36.5">
+        <signature ac="G3DSA:3.40.1110.10" name="">
+          <entry ac="IPR023299" desc="P-type ATPase, cytoplasmic domain N" name="ATPase_P-typ_cyto_dom_N" type="HOMOLOGOUS_SUPERFAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0000166" name="nucleotide binding"/>
+            <pathway-xref db="Reactome" id="R-HSA-9662360" name="Sensory processing of sound by inner hair cells of the cochlea"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SPO-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-BTA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-MMU-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6409" name="pyoverdine I biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-DRE-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SCE-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-CFA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-HSA-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-DME-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-HSA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-SPO-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-DME-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-BTA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-MMU-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-RNO-6803544" name="Ion influx/efflux at host-pathogen interface"/>
+            <pathway-xref db="Reactome" id="R-DDI-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SCE-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-DME-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9662361" name="Sensory processing of sound by outer hair cells of the cochlea"/>
+            <pathway-xref db="Reactome" id="R-SSC-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SSC-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-DDI-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-RNO-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CFA-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-SCE-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-CEL-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CFA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-XTR-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-1912420" name="Pre-NOTCH Processing in Golgi"/>
+            <pathway-xref db="Reactome" id="R-HSA-9679191" name="Potential therapeutics for SARS"/>
+            <pathway-xref db="Reactome" id="R-SPO-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-RNO-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6803544" name="Ion influx/efflux at host-pathogen interface"/>
+            <pathway-xref db="Reactome" id="R-RNO-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SSC-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-CEL-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-MMU-6803544" name="Ion influx/efflux at host-pathogen interface"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-936837" name="Ion transport by P-type ATPases"/>
+          </entry>
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>3gwiA00</model-ac>
+        <locations>
+          <hmmer3-location env-end="46" env-start="1" post-processed="true" score="34.5" evalue="5.0E-8" hmm-start="124" hmm-end="165" hmm-length="170" hmm-bounds="COMPLETE" start="1" end="46">
+            <location-fragments>
+              <hmmer3-location-fragment start="1" end="46" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="4.5E-46" score="155.2">
+        <signature ac="TIGR01494" desc="ATPase_P-type: HAD ATPase, P-type, family IC" name="TIGR01494">
+          <entry ac="IPR001757" desc="P-type ATPase" name="P_typ_ATPase" type="FAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005215" name="transporter activity"/>
+            <go-xref category="CELLULAR_COMPONENT" db="GO" id="GO:0016021" name="integral component of membrane"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0005524" name="ATP binding"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0016887" name="ATP hydrolysis activity"/>
+            <pathway-xref db="Reactome" id="R-HSA-9662360" name="Sensory processing of sound by inner hair cells of the cochlea"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SPO-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-BTA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-MMU-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6409" name="pyoverdine I biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-DRE-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SCE-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-CFA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-HSA-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-DME-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-HSA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-SPO-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-DME-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-BTA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-MMU-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-RNO-6803544" name="Ion influx/efflux at host-pathogen interface"/>
+            <pathway-xref db="Reactome" id="R-DDI-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SCE-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-DME-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9662361" name="Sensory processing of sound by outer hair cells of the cochlea"/>
+            <pathway-xref db="Reactome" id="R-SSC-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SSC-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-DDI-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-RNO-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CFA-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-SCE-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-CEL-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CFA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-XTR-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-1912420" name="Pre-NOTCH Processing in Golgi"/>
+            <pathway-xref db="Reactome" id="R-HSA-9679191" name="Potential therapeutics for SARS"/>
+            <pathway-xref db="Reactome" id="R-SPO-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-RNO-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6803544" name="Ion influx/efflux at host-pathogen interface"/>
+            <pathway-xref db="Reactome" id="R-RNO-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SSC-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-CEL-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-MMU-6803544" name="Ion influx/efflux at host-pathogen interface"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-936837" name="Ion transport by P-type ATPases"/>
+          </entry>
+          <signature-library-release library="TIGRFAM" version="15.0"/>
+        </signature>
+        <model-ac>TIGR01494</model-ac>
+        <locations>
+          <hmmer3-location env-end="237" env-start="110" post-processed="false" score="105.7" evalue="4.6E-31" hmm-start="362" hmm-end="466" hmm-length="478" hmm-bounds="INCOMPLETE" start="115" end="225">
+            <location-fragments>
+              <hmmer3-location-fragment start="115" end="225" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="7.1E-249" familyName="CALCIUM-TRANSPORTING ATPASE" score="841.1">
+        <signature ac="PTHR24093:SF471" name="CALCIUM-TRANSPORTING ATPASE">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR24093:SF471</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="401" hmm-start="604" hmm-end="997" hmm-length="1759" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="392">
+            <location-fragments>
+              <panther-location-fragment start="1" end="392" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="7.1E-249" familyName="CALCIUM-TRANSPORTING ATPASE" score="841.1">
+        <signature ac="PTHR24093" name="CATION TRANSPORTING ATPASE">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR24093</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="401" hmm-start="604" hmm-end="997" hmm-length="1759" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="392">
+            <location-fragments>
+              <panther-location-fragment start="1" end="392" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <superfamilyhmmer3-match evalue="1.52E-47">
+        <signature ac="SSF56784" name="HAD-like">
+          <entry ac="IPR036412" desc="HAD-like superfamily" name="HAD-like_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="Reactome" id="R-DDI-446205" name="Synthesis of GDP-mannose"/>
+            <pathway-xref db="MetaCyc" id="PWY-8052" name="2-arachidonoylglycerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-XTR-2161541" name="Abacavir metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7256" name="cyanidin diglucoside biosynthesis (acyl-glucose dependent)"/>
+            <pathway-xref db="Reactome" id="R-SPO-1237112" name="Methionine salvage pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-8151" name="cholesterol degradation to androstenedione III (anaerobic)"/>
+            <pathway-xref db="Reactome" id="R-SPO-977347" name="Serine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-113418" name="Formation of the Early Elongation Complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-7134" name="rutin degradation (plants)"/>
+            <pathway-xref db="Reactome" id="R-SPO-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="MetaCyc" id="PWY-7133" name="quercetin glucoside degradation (Allium)"/>
+            <pathway-xref db="Reactome" id="R-RNO-6803544" name="Ion influx/efflux at host-pathogen interface"/>
+            <pathway-xref db="Reactome" id="R-DDI-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SSC-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-7018" name="paromomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9662361" name="Sensory processing of sound by outer hair cells of the cochlea"/>
+            <pathway-xref db="MetaCyc" id="PWY-6646" name="fluoroacetate degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7878" name="A-factor gamma-butyrolactone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-1483213" name="Synthesis of PE"/>
+            <pathway-xref db="Reactome" id="R-HSA-167242" name="Abortive elongation of HIV-1 transcript in the absence of Tat"/>
+            <pathway-xref db="Reactome" id="R-RNO-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-HSA-4043911" name="Defective PMM2 causes PMM2-CDG (CDG-1a)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5523" name="5,6-dimethylbenzimidazole biosynthesis I (aerobic)"/>
+            <pathway-xref db="Reactome" id="R-CEL-9013407" name="RHOH GTPase cycle"/>
+            <pathway-xref db="Reactome" id="R-HSA-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-6254" name="santalene biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7636" name="astaxanthin biosynthesis (flowering plants)"/>
+            <pathway-xref db="Reactome" id="R-MMU-71737" name="Pyrophosphate hydrolysis"/>
+            <pathway-xref db="Reactome" id="R-MMU-1483226" name="Synthesis of PI"/>
+            <pathway-xref db="Reactome" id="R-DRE-1483191" name="Synthesis of PC"/>
+            <pathway-xref db="MetaCyc" id="PWY-7057" name="cichoriin interconversion"/>
+            <pathway-xref db="MetaCyc" id="PWY-6478" name="GDP-D-glycero-alpha-D-manno-heptose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-1237112" name="Methionine salvage pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-8051" name="anandamide biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-6948" name="sitosterol degradation to androstenedione"/>
+            <pathway-xref db="Reactome" id="R-RNO-977347" name="Serine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7119" name="ceramide and sphingolipid recycling and degradation (yeast)"/>
+            <pathway-xref db="Reactome" id="R-SPO-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7950" name="diadinoxanthin and fucoxanthin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-HSA-73614" name="Pyrimidine salvage"/>
+            <pathway-xref db="Reactome" id="R-RNO-4419969" name="Depolymerisation of the Nuclear Lamina"/>
+            <pathway-xref db="MetaCyc" id="PWY-2722" name="trehalose degradation IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-7782" name="plasmalogen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-862" name="fructan degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-112382" name="Formation of RNA Pol II elongation complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-5269" name="cardiolipin biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-DDI-2161541" name="Abacavir metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-5662" name="glucosylglycerate biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-MMU-5693565" name="Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks"/>
+            <pathway-xref db="Reactome" id="R-SPO-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-HSA-167158" name="Formation of the HIV-1 Early Elongation Complex"/>
+            <pathway-xref db="Reactome" id="R-HSA-429958" name="mRNA decay by 3' to 5' exoribonuclease"/>
+            <pathway-xref db="Reactome" id="R-SCE-113418" name="Formation of the Early Elongation Complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-7135" name="emetine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8077" name="ginkgotoxin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5695" name="inosine 5'-phosphate degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-9018682" name="Biosynthesis of maresins"/>
+            <pathway-xref db="MetaCyc" id="PWY-5659" name="GDP-mannose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-CEL-1237112" name="Methionine salvage pathway"/>
+            <pathway-xref db="Reactome" id="R-GGA-421178" name="Urate synthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-381038" name="XBP1(S) activates chaperone genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-8121" name="2-deoxy-D-glucose 6-phosphate degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6907" name="thiamine diphosphate biosynthesis III (Staphylococcus)"/>
+            <pathway-xref db="Reactome" id="R-XTR-4419969" name="Depolymerisation of the Nuclear Lamina"/>
+            <pathway-xref db="Reactome" id="R-SPO-446205" name="Synthesis of GDP-mannose"/>
+            <pathway-xref db="Reactome" id="R-SSC-9018682" name="Biosynthesis of maresins"/>
+            <pathway-xref db="Reactome" id="R-DME-73614" name="Pyrimidine salvage"/>
+            <pathway-xref db="Reactome" id="R-RNO-74259" name="Purine catabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6167" name="flavin biosynthesis II (archaea)"/>
+            <pathway-xref db="Reactome" id="R-MMU-4419969" name="Depolymerisation of the Nuclear Lamina"/>
+            <pathway-xref db="MetaCyc" id="PWY-7238" name="sucrose biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-4702" name="phytate degradation I"/>
+            <pathway-xref db="Reactome" id="R-XTR-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-RNO-9018682" name="Biosynthesis of maresins"/>
+            <pathway-xref db="Reactome" id="R-CEL-446205" name="Synthesis of GDP-mannose"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6803544" name="Ion influx/efflux at host-pathogen interface"/>
+            <pathway-xref db="MetaCyc" id="PWY-7817" name="type I lipoteichoic acid biosynthesis (S. aureus)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5821" name="dalcochinin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-4419969" name="Depolymerisation of the Nuclear Lamina"/>
+            <pathway-xref db="Reactome" id="R-MMU-429958" name="mRNA decay by 3' to 5' exoribonuclease"/>
+            <pathway-xref db="MetaCyc" id="PWY-4361" name="S-methyl-5-thio-alpha-D-ribose 1-phosphate degradation I"/>
+            <pathway-xref db="Reactome" id="R-HSA-70171" name="Glycolysis"/>
+            <pathway-xref db="Reactome" id="R-SPO-1483191" name="Synthesis of PC"/>
+            <pathway-xref db="Reactome" id="R-MMU-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7805" name="(aminomethyl)phosphonate degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-3881" name="mannitol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-167246" name="Tat-mediated elongation of the HIV-1 transcript"/>
+            <pathway-xref db="MetaCyc" id="PWY-6409" name="pyoverdine I biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8282" name="adenosylcobinamide-GDP salvage from assorted adenosylcobamides"/>
+            <pathway-xref db="MetaCyc" id="PWY-3385" name="choline biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-DME-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-HSA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-RNO-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="MetaCyc" id="PWY-6365" name="D-myo-inositol (3,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6527" name="stachyose degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5414" name="palustric acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7091" name="linustatin bioactivation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7185" name="UTP and CTP dephosphorylation I"/>
+            <pathway-xref db="Reactome" id="R-HSA-77289" name="Mitochondrial Fatty Acid Beta-Oxidation"/>
+            <pathway-xref db="MetaCyc" id="PWY-2343" name="daidzein conjugates interconversion"/>
+            <pathway-xref db="Reactome" id="R-HSA-74259" name="Purine catabolism"/>
+            <pathway-xref db="Reactome" id="R-SCE-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="MetaCyc" id="PWY-8053" name="anandamide biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7587" name="oleate biosynthesis III (cyanobacteria)"/>
+            <pathway-xref db="Reactome" id="R-HSA-167290" name="Pausing and recovery of HIV elongation"/>
+            <pathway-xref db="Reactome" id="R-DDI-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-HSA-4419969" name="Depolymerisation of the Nuclear Lamina"/>
+            <pathway-xref db="MetaCyc" id="PWY-7411" name="phosphatidate biosynthesis (yeast)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7425" name="2-chloroacrylate degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-6275" name="beta-caryophyllene biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-73621" name="Pyrimidine catabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6735" name="starch degradation IV"/>
+            <pathway-xref db="MetaCyc" id="PWY-6797" name="6-hydroxymethyl-dihydropterin diphosphate biosynthesis II (Methanocaldococcus)"/>
+            <pathway-xref db="Reactome" id="R-SCE-73614" name="Pyrimidine salvage"/>
+            <pathway-xref db="MetaCyc" id="PWY-6832" name="2-aminoethylphosphonate degradation II"/>
+            <pathway-xref db="Reactome" id="R-MMU-6803544" name="Ion influx/efflux at host-pathogen interface"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-DRE-71737" name="Pyrophosphate hydrolysis"/>
+            <pathway-xref db="Reactome" id="R-SCE-977347" name="Serine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-4085001" name="Sialic acid metabolism"/>
+            <pathway-xref db="Reactome" id="R-BTA-446205" name="Synthesis of GDP-mannose"/>
+            <pathway-xref db="Reactome" id="R-DME-977347" name="Serine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6607" name="guanosine nucleotides degradation I"/>
+            <pathway-xref db="Reactome" id="R-DME-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="MetaCyc" id="PWY-6456" name="serinol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7778" name="2-methylpropene degradation"/>
+            <pathway-xref db="Reactome" id="R-SPO-1482925" name="Acyl chain remodelling of PG"/>
+            <pathway-xref db="Reactome" id="R-XTR-1237112" name="Methionine salvage pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-SCE-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-MMU-1483213" name="Synthesis of PE"/>
+            <pathway-xref db="Reactome" id="R-HSA-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="Reactome" id="R-SSC-2142670" name="Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)"/>
+            <pathway-xref db="Reactome" id="R-DME-1483226" name="Synthesis of PI"/>
+            <pathway-xref db="MetaCyc" id="PWY-7385" name="1,3-propanediol biosynthesis (engineered)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-MMU-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7881" name="virginiae butanolide type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-4419969" name="Depolymerisation of the Nuclear Lamina"/>
+            <pathway-xref db="MetaCyc" id="PWY-7771" name="butachlor degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6502" name="8-oxo-(d)GTP detoxification I"/>
+            <pathway-xref db="Reactome" id="R-DME-429958" name="mRNA decay by 3' to 5' exoribonuclease"/>
+            <pathway-xref db="MetaCyc" id="PWY-8152" name="androstenedione degradation II (anaerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7647" name="ulvan degradation"/>
+            <pathway-xref db="Reactome" id="R-DRE-1237112" name="Methionine salvage pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-1912420" name="Pre-NOTCH Processing in Golgi"/>
+            <pathway-xref db="Reactome" id="R-MMU-446205" name="Synthesis of GDP-mannose"/>
+            <pathway-xref db="Reactome" id="R-MMU-73621" name="Pyrimidine catabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-1483226" name="Synthesis of PI"/>
+            <pathway-xref db="Reactome" id="R-SCE-1483191" name="Synthesis of PC"/>
+            <pathway-xref db="Reactome" id="R-HSA-167243" name="Tat-mediated HIV elongation arrest and recovery"/>
+            <pathway-xref db="MetaCyc" id="PWY-8055" name="palmitoyl ethanolamide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6724" name="starch degradation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7807" name="glyphosate degradation III"/>
+            <pathway-xref db="Reactome" id="R-MMU-5649702" name="APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-5054" name="D-sorbitol biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-2721" name="trehalose degradation III"/>
+            <pathway-xref db="Reactome" id="R-HSA-73621" name="Pyrimidine catabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-1121" name="suberin monomers biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-113418" name="Formation of the Early Elongation Complex"/>
+            <pathway-xref db="Reactome" id="R-RNO-1483226" name="Synthesis of PI"/>
+            <pathway-xref db="MetaCyc" id="PWY-7539" name="6-hydroxymethyl-dihydropterin diphosphate biosynthesis III (Chlamydia)"/>
+            <pathway-xref db="Reactome" id="R-PFA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6855" name="chitin degradation I (archaea)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6672" name="cis-geranyl-CoA degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-73614" name="Pyrimidine salvage"/>
+            <pathway-xref db="MetaCyc" id="PWY-7586" name="beta-1,4-D-mannosyl-N-acetyl-D-glucosamine degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6061" name="bile acid biosynthesis, neutral pathway"/>
+            <pathway-xref db="Reactome" id="R-SPO-113418" name="Formation of the Early Elongation Complex"/>
+            <pathway-xref db="Reactome" id="R-DDI-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-DRE-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SCE-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-CFA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="MetaCyc" id="PWY-5197" name="lactate biosynthesis (archaea)"/>
+            <pathway-xref db="Reactome" id="R-MMU-1237112" name="Methionine salvage pathway"/>
+            <pathway-xref db="Reactome" id="R-DDI-74259" name="Purine catabolism"/>
+            <pathway-xref db="Reactome" id="R-MMU-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-BTA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8176" name="geraniol biosynthesis (cytosol)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7356" name="thiamine diphosphate salvage IV (yeast)"/>
+            <pathway-xref db="Reactome" id="R-MMU-75109" name="Triglyceride biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6946" name="cholesterol degradation to androstenedione II (cholesterol dehydrogenase)"/>
+            <pathway-xref db="Reactome" id="R-GGA-73621" name="Pyrimidine catabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7863" name="roseoflavin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-2142670" name="Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)"/>
+            <pathway-xref db="Reactome" id="R-HSA-1237112" name="Methionine salvage pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-6258" name="patchoulol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-CEL-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-7491" name="podophyllotoxin glucosides metabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="Reactome" id="R-HSA-5649702" name="APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-7459" name="kojibiose degradation"/>
+            <pathway-xref db="Reactome" id="R-HSA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="MetaCyc" id="PWY-6368" name="3-phosphoinositide degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-5656" name="mannosylglycerate biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-MTU-868688" name="Trehalose biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-4085001" name="Sialic acid metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6737" name="starch degradation V"/>
+            <pathway-xref db="MetaCyc" id="PWY-7721" name="methyl phomopsenoate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7056" name="daphnin interconversion"/>
+            <pathway-xref db="MetaCyc" id="PWY-6839" name="2-aminoethylphosphonate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6606" name="guanosine nucleotides degradation II"/>
+            <pathway-xref db="Reactome" id="R-MMU-77289" name="Mitochondrial Fatty Acid Beta-Oxidation"/>
+            <pathway-xref db="Reactome" id="R-HSA-977347" name="Serine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-429958" name="mRNA decay by 3' to 5' exoribonuclease"/>
+            <pathway-xref db="MetaCyc" id="PWY-6148" name="tetrahydromethanopterin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-446205" name="Synthesis of GDP-mannose"/>
+            <pathway-xref db="Reactome" id="R-BTA-977347" name="Serine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6257" name="curcumene biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7674" name="CMP-8-amino-3,8-dideoxy-D-manno-octulosonate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-1483076" name="Synthesis of CL"/>
+            <pathway-xref db="MetaCyc" id="PWY-5667" name="CDP-diacylglycerol biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7900" name="glycogen biosynthesis III (from alpha-maltose 1-phosphate)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6453" name="stigma estolide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6168" name="flavin biosynthesis III (fungi)"/>
+            <pathway-xref db="MetaCyc" id="PWY-5976" name="dhurrin degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-74259" name="Purine catabolism"/>
+            <pathway-xref db="Reactome" id="R-BTA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="MetaCyc" id="PWY-1921" name="indole-3-acetate activation II"/>
+            <pathway-xref db="MetaCyc" id="PWY-6366" name="D-myo-inositol (1,4,5,6)-tetrakisphosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SPO-75109" name="Triglyceride biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-2161541" name="Abacavir metabolism"/>
+            <pathway-xref db="Reactome" id="R-CEL-73621" name="Pyrimidine catabolism"/>
+            <pathway-xref db="Reactome" id="R-HSA-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-MMU-2161541" name="Abacavir metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7347" name="sucrose biosynthesis III"/>
+            <pathway-xref db="Reactome" id="R-MMU-1483191" name="Synthesis of PC"/>
+            <pathway-xref db="MetaCyc" id="PWY-6596" name="adenosine nucleotides degradation I"/>
+            <pathway-xref db="MetaCyc" id="PWY-6160" name="3-dehydroquinate biosynthesis II (archaea)"/>
+            <pathway-xref db="Reactome" id="R-MMU-9033241" name="Peroxisomal protein import"/>
+            <pathway-xref db="Reactome" id="R-DRE-1483213" name="Synthesis of PE"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-1237112" name="Methionine salvage pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-6531" name="mannitol cycle"/>
+            <pathway-xref db="MetaCyc" id="PWY-8289" name="dZTP biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6848" name="rutin degradation"/>
+            <pathway-xref db="Reactome" id="R-SSC-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-SPO-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="MetaCyc" id="PWY-6352" name="3-phosphoinositide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7882" name="IM-2 type gamma-butyrolactones biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWYG-321" name="mycolate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6990" name="(+)-camphor biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6575" name="juvenile hormone III biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-SCE-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-SCE-446205" name="Synthesis of GDP-mannose"/>
+            <pathway-xref db="Reactome" id="R-CEL-112382" name="Formation of RNA Pol II elongation complex"/>
+            <pathway-xref db="Reactome" id="R-CFA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7445" name="luteolin triglucuronide degradation"/>
+            <pathway-xref db="Reactome" id="R-RNO-1237112" name="Methionine salvage pathway"/>
+            <pathway-xref db="Reactome" id="R-HSA-4085001" name="Sialic acid metabolism"/>
+            <pathway-xref db="Reactome" id="R-CEL-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-4085001" name="Sialic acid metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-6906" name="chitin derivatives degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6147" name="6-hydroxymethyl-dihydropterin diphosphate biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-6996" name="daidzin and daidzein degradation"/>
+            <pathway-xref db="Reactome" id="R-CEL-113418" name="Formation of the Early Elongation Complex"/>
+            <pathway-xref db="Reactome" id="R-SCE-1483213" name="Synthesis of PE"/>
+            <pathway-xref db="Reactome" id="R-HSA-1268020" name="Mitochondrial protein import"/>
+            <pathway-xref db="Reactome" id="R-SSC-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="MetaCyc" id="PWY-6908" name="thiamine diphosphate biosynthesis IV (eukaryotes)"/>
+            <pathway-xref db="Reactome" id="R-MMU-977347" name="Serine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5757" name="fosfomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7074" name="phenylethanol glycoconjugate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="MetaCyc" id="PWY-6784" name="cellulose and hemicellulose degradation (cellulolosome)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7206" name="pyrimidine deoxyribonucleotides dephosphorylation"/>
+            <pathway-xref db="Reactome" id="R-DME-446205" name="Synthesis of GDP-mannose"/>
+            <pathway-xref db="MetaCyc" id="PWY-881" name="trehalose biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-MMU-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-HSA-9662360" name="Sensory processing of sound by inner hair cells of the cochlea"/>
+            <pathway-xref db="MetaCyc" id="PWY-5668" name="cardiolipin biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7456" name="beta-(1,4)-mannan degradation"/>
+            <pathway-xref db="Reactome" id="R-SPO-4419969" name="Depolymerisation of the Nuclear Lamina"/>
+            <pathway-xref db="MetaCyc" id="PWY-6710" name="poly-hydroxy fatty acids biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-4419969" name="Depolymerisation of the Nuclear Lamina"/>
+            <pathway-xref db="MetaCyc" id="PWY-7991" name="toxoflavin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-112382" name="Formation of RNA Pol II elongation complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-7531" name="mannojirimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-3041" name="monoterpene biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SSC-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="MetaCyc" id="PWY-6627" name="salinosporamide A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-SCE-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6279" name="myxol-2' fucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6383" name="mono-trans, poly-cis decaprenyl phosphate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-BTA-1237112" name="Methionine salvage pathway"/>
+            <pathway-xref db="MetaCyc" id="PWY-6720" name="toyocamycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CFA-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="MetaCyc" id="PWY-6944" name="androstenedione degradation I (aerobic)"/>
+            <pathway-xref db="Reactome" id="R-CEL-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="MetaCyc" id="PWY-181" name="photorespiration"/>
+            <pathway-xref db="Reactome" id="R-PFA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-HSA-1483191" name="Synthesis of PC"/>
+            <pathway-xref db="MetaCyc" id="PWY-7902" name="glucosylglycerol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5818" name="validamycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-4419969" name="Depolymerisation of the Nuclear Lamina"/>
+            <pathway-xref db="Reactome" id="R-HSA-9679191" name="Potential therapeutics for SARS"/>
+            <pathway-xref db="MetaCyc" id="PWY-6116" name="mannosylfructose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5725" name="farnesene biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-167200" name="Formation of HIV-1 elongation complex containing HIV-1 Tat"/>
+            <pathway-xref db="MetaCyc" id="PWY-6945" name="cholesterol degradation to androstenedione I (cholesterol oxidase)"/>
+            <pathway-xref db="MetaCyc" id="PWY-8155" name="testosterone degradation (anaerobic)"/>
+            <pathway-xref db="Reactome" id="R-HSA-167152" name="Formation of HIV elongation complex in the absence of HIV Tat"/>
+            <pathway-xref db="Reactome" id="R-RNO-2161541" name="Abacavir metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-842" name="starch degradation I"/>
+            <pathway-xref db="Reactome" id="R-HSA-71737" name="Pyrophosphate hydrolysis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6138" name="CMP-N-acetylneuraminate biosynthesis I (eukaryotes)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7821" name="tunicamycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7204" name="pyridoxal 5'-phosphate salvage II (plants)"/>
+            <pathway-xref db="Reactome" id="R-RNO-71737" name="Pyrophosphate hydrolysis"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SPO-1483213" name="Synthesis of PE"/>
+            <pathway-xref db="MetaCyc" id="PWY-7883" name="anhydromuropeptides recycling II"/>
+            <pathway-xref db="MetaCyc" id="PWY-6899" name="base-degraded thiamine salvage"/>
+            <pathway-xref db="Reactome" id="R-HSA-5693565" name="Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks"/>
+            <pathway-xref db="Reactome" id="R-HSA-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-HSA-75109" name="Triglyceride biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5491" name="diethylphosphate degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-8247" name="(Kdo)2-lipid A biosynthesis (P. gingivalis)"/>
+            <pathway-xref db="MetaCyc" id="PWY-1269" name="CMP-3-deoxy-D-manno-octulosonate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6348" name="phosphate acquisition"/>
+            <pathway-xref db="MetaCyc" id="PWY-6139" name="CMP-N-acetylneuraminate biosynthesis II (bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6608" name="guanosine nucleotides degradation III"/>
+            <pathway-xref db="Reactome" id="R-MMU-9018682" name="Biosynthesis of maresins"/>
+            <pathway-xref db="MetaCyc" id="PWY-6821" name="kappa-carrageenan degradation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7321" name="ecdysteroid metabolism (arthropods)"/>
+            <pathway-xref db="Reactome" id="R-HSA-167287" name="HIV elongation arrest and recovery"/>
+            <pathway-xref db="Reactome" id="R-XTR-74259" name="Purine catabolism"/>
+            <pathway-xref db="Reactome" id="R-SCE-75109" name="Triglyceride biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-RNO-2142670" name="Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6993" name="nicotine degradation II (pyrrolidine pathway)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6140" name="CMP-2-keto-3-deoxy-D-glycero-D-galacto-nononate biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-2142670" name="Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)"/>
+            <pathway-xref db="Reactome" id="R-SPO-73614" name="Pyrimidine salvage"/>
+            <pathway-xref db="MetaCyc" id="PWY-6991" name="(-)-camphor biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-75955" name="RNA Polymerase II Transcription Elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6972" name="oleandomycin activation/inactivation"/>
+            <pathway-xref db="Reactome" id="R-SPO-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-CEL-4419969" name="Depolymerisation of the Nuclear Lamina"/>
+            <pathway-xref db="Reactome" id="R-MMU-674695" name="RNA Polymerase II Pre-transcription Events"/>
+            <pathway-xref db="Reactome" id="R-GGA-429958" name="mRNA decay by 3' to 5' exoribonuclease"/>
+            <pathway-xref db="MetaCyc" id="PWY-5381" name="NAD salvage (plants)"/>
+            <pathway-xref db="Reactome" id="R-DRE-73621" name="Pyrimidine catabolism"/>
+            <pathway-xref db="Reactome" id="R-SPO-6796648" name="TP53 Regulates Transcription of DNA Repair Genes"/>
+            <pathway-xref db="Reactome" id="R-DDI-1237112" name="Methionine salvage pathway"/>
+            <pathway-xref db="Reactome" id="R-CEL-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-CEL-429958" name="mRNA decay by 3' to 5' exoribonuclease"/>
+            <pathway-xref db="Reactome" id="R-HSA-167238" name="Pausing and recovery of Tat-mediated HIV elongation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6686" name="mannosylglucosylglycerate biosynthesis I"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0053649</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="308" start="34" end="249">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="34" end="249" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+      <superfamilyhmmer3-match evalue="3.49E-8">
+        <signature ac="SSF81660" name="Metal cation-transporting ATPase, ATP-binding domain N">
+          <entry ac="IPR023299" desc="P-type ATPase, cytoplasmic domain N" name="ATPase_P-typ_cyto_dom_N" type="HOMOLOGOUS_SUPERFAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0000166" name="nucleotide binding"/>
+            <pathway-xref db="Reactome" id="R-HSA-9662360" name="Sensory processing of sound by inner hair cells of the cochlea"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SPO-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-BTA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-MMU-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6409" name="pyoverdine I biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-DRE-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SCE-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-CFA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-HSA-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-DME-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-HSA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-SPO-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-DME-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-BTA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-MMU-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-RNO-6803544" name="Ion influx/efflux at host-pathogen interface"/>
+            <pathway-xref db="Reactome" id="R-DDI-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SCE-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-DME-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9662361" name="Sensory processing of sound by outer hair cells of the cochlea"/>
+            <pathway-xref db="Reactome" id="R-SSC-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SSC-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-DDI-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-RNO-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CFA-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-SCE-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-CEL-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CFA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-XTR-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-1912420" name="Pre-NOTCH Processing in Golgi"/>
+            <pathway-xref db="Reactome" id="R-HSA-9679191" name="Potential therapeutics for SARS"/>
+            <pathway-xref db="Reactome" id="R-SPO-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-RNO-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6803544" name="Ion influx/efflux at host-pathogen interface"/>
+            <pathway-xref db="Reactome" id="R-RNO-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SSC-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-CEL-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-MMU-6803544" name="Ion influx/efflux at host-pathogen interface"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-936837" name="Ion transport by P-type ATPases"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0042598</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="214" start="1" end="49">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="1" end="49" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+      <superfamilyhmmer3-match evalue="1.02E-56">
+        <signature ac="SSF81665" name="Calcium ATPase, transmembrane domain M">
+          <entry ac="IPR023298" desc="P-type ATPase, transmembrane domain superfamily" name="ATPase_P-typ_TM_dom_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <pathway-xref db="Reactome" id="R-HSA-9662360" name="Sensory processing of sound by inner hair cells of the cochlea"/>
+            <pathway-xref db="Reactome" id="R-SCE-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-SPO-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-BTA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-MMU-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6409" name="pyoverdine I biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DDI-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-DRE-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SCE-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-CFA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-HSA-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-DME-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-HSA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3299685" name="Detoxification of Reactive Oxygen Species"/>
+            <pathway-xref db="Reactome" id="R-SPO-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-DME-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-BTA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-MMU-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-RNO-6803544" name="Ion influx/efflux at host-pathogen interface"/>
+            <pathway-xref db="Reactome" id="R-DDI-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SCE-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-DME-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9662361" name="Sensory processing of sound by outer hair cells of the cochlea"/>
+            <pathway-xref db="Reactome" id="R-SSC-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SSC-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-DDI-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-RNO-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-MMU-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-CFA-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-SCE-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-CEL-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-PFA-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-CFA-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-XTR-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-HSA-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-HSA-1912420" name="Pre-NOTCH Processing in Golgi"/>
+            <pathway-xref db="Reactome" id="R-HSA-9679191" name="Potential therapeutics for SARS"/>
+            <pathway-xref db="Reactome" id="R-SPO-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-RNO-5578775" name="Ion homeostasis"/>
+            <pathway-xref db="Reactome" id="R-HSA-6803544" name="Ion influx/efflux at host-pathogen interface"/>
+            <pathway-xref db="Reactome" id="R-RNO-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-SSC-418359" name="Reduction of cytosolic Ca++ levels"/>
+            <pathway-xref db="Reactome" id="R-CEL-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-MMU-6803544" name="Ion influx/efflux at host-pathogen interface"/>
+            <pathway-xref db="Reactome" id="R-SPO-6798695" name="Neutrophil degranulation"/>
+            <pathway-xref db="Reactome" id="R-MMU-936837" name="Ion transport by P-type ATPases"/>
+            <pathway-xref db="Reactome" id="R-PFA-6798695" name="Neutrophil degranulation"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0049473</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="474" start="194" end="400">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="194" end="400" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

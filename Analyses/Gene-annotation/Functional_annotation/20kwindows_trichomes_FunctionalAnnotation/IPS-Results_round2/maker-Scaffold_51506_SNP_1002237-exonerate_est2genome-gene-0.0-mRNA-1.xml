@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.56-89.0">
+  <protein>
+    <sequence md5="8b0ead7ed7d4b6898da6f74004e01768">PTESGKTTAKTTKANVRNGTCKWADPIYETARLLQDSQSRQYDEKLYKFLVAMGSSRSSILGEATINLSNYADALKPSAVDLPLHGCNSGTILHVTVQLLTSKTGFREFEQQRELRERGLQMGTDLNRHDVSGTGKVSSPEEIPNDEMDKV</sequence>
+    <xref id="maker-Scaffold_51506_SNP_1002237-exonerate_est2genome-gene-0.0-mRNA-1" name="maker-Scaffold_51506_SNP_1002237-exonerate_est2genome-gene-0.0-mRNA-1"/>
+    <matches>
+      <hmmer3-match evalue="5.8E-14" score="52.0">
+        <signature ac="PF10358" desc="N-terminal C2 in EEIG1 and EHBP1 proteins" name="NT-C2">
+          <entry ac="IPR019448" desc="NT-type C2 domain" name="NT-C2" type="DOMAIN"/>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF10358</model-ac>
+        <locations>
+          <hmmer3-location env-end="106" env-start="2" post-processed="true" score="51.6" evalue="8.1E-14" hmm-start="36" hmm-end="139" hmm-length="147" hmm-bounds="INCOMPLETE" start="5" end="100">
+            <location-fragments>
+              <hmmer3-location-fragment start="5" end="100" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="" start="118" end="151">
+            <location-fragments>
+              <mobidblite-location-fragment start="118" end="151" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <panther-match evalue="4.6E-84" familyName="SPORULATION-SPECIFIC PROTEIN" score="294.8">
+        <signature ac="PTHR34452" name="MYOSIN HEAVY CHAIN-RELATED PROTEIN">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR34452</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="151" hmm-start="41" hmm-end="188" hmm-length="1850" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="148">
+            <location-fragments>
+              <panther-location-fragment start="1" end="148" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="4.6E-84" familyName="SPORULATION-SPECIFIC PROTEIN" score="294.8">
+        <signature ac="PTHR34452:SF1" name="SPORULATION-SPECIFIC PROTEIN">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR34452:SF1</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="151" hmm-start="41" hmm-end="188" hmm-length="1850" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="148">
+            <location-fragments>
+              <panther-location-fragment start="1" end="148" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <profilescan-match>
+        <signature ac="PS51840" desc="C2 NT-type domain profile." name="C2_NT">
+          <entry ac="IPR019448" desc="NT-type C2 domain" name="NT-C2" type="DOMAIN"/>
+          <signature-library-release library="PROSITE_PROFILES" version="2022_01"/>
+        </signature>
+        <model-ac>PS51840</model-ac>
+        <locations>
+          <profilescan-location score="22.507587" start="1" end="101">
+            <location-fragments>
+              <profilescan-location-fragment start="1" end="101" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>--------------------------------------PTESgktTAKTTKANVRNGTCKWADPIYETARLLQDSQSRQYDEKLYKFLVAM--GSSRSSILGEATINLSNYADAL-KPSAVDLPLHGC-NSGTILHVTVQLLT</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+    </matches>
+  </protein>
+</protein-matches>

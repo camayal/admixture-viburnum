@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.56-89.0">
+  <protein>
+    <sequence md5="34959667a45c25f1fb7f2e6c844ed7f1">MVAALRNVITGGAAMNSPNELLSFLPASSSETTCQHCRISGCLGCNFFAPTTIDHEDKKNKGVRQRPWGKWAAEIRDPHKKARVWLGTFETAEAAARAYDKAAIEFRGPPAKLNFAFADYTVLTQPTTQLPQENPIKREMEVGTSKEKEKEIWEVFGEDELQQWMMMMDFNADSSASTGGNIKSV</sequence>
+    <xref id="maker-Scaffold_56543_SNP_14798389-exonerate_protein2genome-gene-0.1-mRNA-1" name="maker-Scaffold_56543_SNP_14798389-exonerate_protein2genome-gene-0.1-mRNA-1"/>
+    <matches>
+      <fingerprints-match evalue="3.8E-10" graphscan="II.">
+        <signature ac="PR00367" desc="Ethylene responsive element binding protein signature" name="ETHRSPELEMNT">
+          <entry ac="IPR001471" desc="AP2/ERF domain" name="AP2/ERF_dom" type="DOMAIN">
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0006355" name="regulation of transcription, DNA-templated"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0003700" name="DNA-binding transcription factor activity"/>
+          </entry>
+          <signature-library-release library="PRINTS" version="42.0"/>
+        </signature>
+        <model-ac>PR00367</model-ac>
+        <locations>
+          <fingerprints-location motifNumber="2" pvalue="3.14E-10" score="71.76" start="82" end="98">
+            <location-fragments>
+              <fingerprints-location-fragment start="82" end="98" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </fingerprints-location>
+          <fingerprints-location motifNumber="1" pvalue="4.18E-7" score="61.82" start="60" end="71">
+            <location-fragments>
+              <fingerprints-location-fragment start="60" end="71" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </fingerprints-location>
+        </locations>
+      </fingerprints-match>
+      <hmmer2-match evalue="6.3E-36" score="135.4">
+        <signature ac="SM00380" name="rav1_2">
+          <entry ac="IPR001471" desc="AP2/ERF domain" name="AP2/ERF_dom" type="DOMAIN">
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0006355" name="regulation of transcription, DNA-templated"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0003700" name="DNA-binding transcription factor activity"/>
+          </entry>
+          <signature-library-release library="SMART" version="7.1"/>
+        </signature>
+        <model-ac>SM00380</model-ac>
+        <locations>
+          <hmmer2-location score="135.4" evalue="6.3E-36" hmm-start="1" hmm-end="66" hmm-length="66" hmm-bounds="COMPLETE" start="59" end="122">
+            <location-fragments>
+              <hmmer2-location-fragment start="59" end="122" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer2-location>
+        </locations>
+      </hmmer2-match>
+      <hmmer3-match evalue="3.0E-27" score="96.6">
+        <signature ac="G3DSA:3.30.730.10" name="AP2/ERF domain">
+          <entry ac="IPR036955" desc="AP2/ERF domain superfamily" name="AP2/ERF_dom_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0006355" name="regulation of transcription, DNA-templated"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0003700" name="DNA-binding transcription factor activity"/>
+          </entry>
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>1gccA00</model-ac>
+        <locations>
+          <hmmer3-location env-end="117" env-start="59" post-processed="true" score="95.6" evalue="5.7E-27" hmm-start="4" hmm-end="60" hmm-length="63" hmm-bounds="COMPLETE" start="59" end="117">
+            <location-fragments>
+              <hmmer3-location-fragment start="59" end="117" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="2.0E-14" score="53.6">
+        <signature ac="PF00847" desc="AP2 domain" name="AP2">
+          <entry ac="IPR001471" desc="AP2/ERF domain" name="AP2/ERF_dom" type="DOMAIN">
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0006355" name="regulation of transcription, DNA-templated"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0003700" name="DNA-binding transcription factor activity"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF00847</model-ac>
+        <locations>
+          <hmmer3-location env-end="109" env-start="58" post-processed="true" score="53.0" evalue="3.0E-14" hmm-start="2" hmm-end="53" hmm-length="54" hmm-bounds="INCOMPLETE" start="59" end="108">
+            <location-fragments>
+              <hmmer3-location-fragment start="59" end="108" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="2.2E-51" familyName="DNA-BINDING DOMAIN-CONTAINING PROTEIN-RELATED" score="186.9">
+        <signature ac="PTHR31677:SF130" name="DNA-BINDING DOMAIN-CONTAINING PROTEIN-RELATED">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR31677:SF130</model-ac>
+        <locations>
+          <panther-location env-start="4" env-end="183" hmm-start="123" hmm-end="298" hmm-length="306" hmm-bounds="INCOMPLETE" start="29" end="178">
+            <location-fragments>
+              <panther-location-fragment start="29" end="178" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="2.2E-51" familyName="DNA-BINDING DOMAIN-CONTAINING PROTEIN-RELATED" score="186.9">
+        <signature ac="PTHR31677" name="AP2 DOMAIN CLASS TRANSCRIPTION FACTOR">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR31677</model-ac>
+        <locations>
+          <panther-location env-start="4" env-end="183" hmm-start="123" hmm-end="298" hmm-length="306" hmm-bounds="INCOMPLETE" start="29" end="178">
+            <location-fragments>
+              <panther-location-fragment start="29" end="178" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <profilescan-match>
+        <signature ac="PS51032" desc="AP2/ERF domain profile." name="AP2_ERF">
+          <entry ac="IPR001471" desc="AP2/ERF domain" name="AP2/ERF_dom" type="DOMAIN">
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0006355" name="regulation of transcription, DNA-templated"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0003700" name="DNA-binding transcription factor activity"/>
+          </entry>
+          <signature-library-release library="PROSITE_PROFILES" version="2022_01"/>
+        </signature>
+        <model-ac>PS51032</model-ac>
+        <locations>
+          <profilescan-location score="23.828024" start="59" end="116">
+            <location-fragments>
+              <profilescan-location-fragment start="59" end="116" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <alignment>KNKGVRQRPWGKWAAEIRDP-HKKARVWLGTFETAEAAARAYDKAAIEFRGPPAKLNFA</alignment>
+          </profilescan-location>
+        </locations>
+      </profilescan-match>
+      <rpsblast-match>
+        <signature ac="cd00018" desc="AP2" name="AP2">
+          <entry ac="IPR001471" desc="AP2/ERF domain" name="AP2/ERF_dom" type="DOMAIN">
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0006355" name="regulation of transcription, DNA-templated"/>
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0003700" name="DNA-binding transcription factor activity"/>
+          </entry>
+          <signature-library-release library="CDD" version="3.18"/>
+        </signature>
+        <model-ac>cd00018</model-ac>
+        <locations>
+          <rpsblast-location evalue="7.19899E-24" score="87.3271" start="58" end="116">
+            <location-fragments>
+              <rpsblast-location-fragment start="58" end="116" dc-status="CONTINUOUS"/>
+            </location-fragments>
+            <sites>
+              <rpsblast-site description="DNA binding site" numLocations="11">
+                <site-locations>
+                  <site-location residue="R" start="64" end="64"/>
+                  <site-location residue="W" start="68" end="68"/>
+                  <site-location residue="R" start="83" end="83"/>
+                  <site-location residue="K" start="61" end="61"/>
+                  <site-location residue="W" start="85" end="85"/>
+                  <site-location residue="K" start="70" end="70"/>
+                  <site-location residue="R" start="76" end="76"/>
+                  <site-location residue="E" start="74" end="74"/>
+                  <site-location residue="G" start="62" end="62"/>
+                  <site-location residue="R" start="66" end="66"/>
+                  <site-location residue="T" start="88" end="88"/>
+                </site-locations>
+              </rpsblast-site>
+            </sites>
+          </rpsblast-location>
+        </locations>
+      </rpsblast-match>
+      <superfamilyhmmer3-match evalue="6.54E-22">
+        <signature ac="SSF54171" name="DNA-binding domain">
+          <entry ac="IPR016177" desc="DNA-binding domain superfamily" name="DNA-bd_dom_sf" type="HOMOLOGOUS_SUPERFAMILY">
+            <go-xref category="MOLECULAR_FUNCTION" db="GO" id="GO:0003677" name="DNA binding"/>
+            <pathway-xref db="MetaCyc" id="PWY-7695" name="aurofusarin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8238" name="24-epi-campesterol, fucosterol, and clionasterol biosynthesis (diatoms)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6442" name="spermidine hydroxycinnamic acid conjugates biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-110329" name="Cleavage of the damaged pyrimidine"/>
+            <pathway-xref db="MetaCyc" id="PWY-7826" name="Amaryllidacea alkaloids biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7735" name="echinomycin and triostin A biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7161" name="polymethylated quercetin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5975" name="furaneol and mesifurane biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6739" name="pinitol biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7045" name="mithramycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8122" name="mycofactocin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7325" name="salvigenin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7752" name="gadusol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7517" name="brassicicene C biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8035" name="streptovaricin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9022535" name="Loss of phosphorylation of MECP2 at T308"/>
+            <pathway-xref db="MetaCyc" id="PWY-7150" name="polymethylated quercetin glucoside biosynthesis I - quercetin series (Chrysosplenium)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7363" name="papaverine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7751" name="shinorine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7629" name="yatein biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-5773" name="gossypol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6973" name="dTDP-alpha-D-olivose, dTDP-alpha-D-oliose and dTDP-alpha-D-mycarose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8104" name="yangonin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DME-3214841" name="PKMTs methylate histone lysines"/>
+            <pathway-xref db="MetaCyc" id="PWY-7419" name="FR-900098 and FR-33289 antibiotics biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6998" name="CDP-D-arabitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6978" name="plastoquinol-9 biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7151" name="polymethylated quercetin glucoside biosynthesis II - quercetagetin series (Chrysosplenium)"/>
+            <pathway-xref db="Reactome" id="R-HSA-5689603" name="UCH proteinases"/>
+            <pathway-xref db="MetaCyc" id="PWY-5479" name="6-methoxypodophyllotoxin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8100" name="crotonosine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9022699" name="MECP2 regulates neuronal receptors and channels"/>
+            <pathway-xref db="MetaCyc" id="PWY-8076" name="8-O-methylated benzoxazinoid glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7668" name="apicidin F biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-XTR-3214841" name="PKMTs methylate histone lysines"/>
+            <pathway-xref db="MetaCyc" id="PWY-8047" name="bryostatin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7888" name="tRNA-uridine 2-thiolation (cytoplasmic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6154" name="autoinducer AI-2 biosynthesis II (Vibrio)"/>
+            <pathway-xref db="Reactome" id="R-MMU-3899300" name="SUMOylation of transcription cofactors"/>
+            <pathway-xref db="MetaCyc" id="PWY-7631" name="arctigenin and isoarctigenin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7534" name="gliotoxin inactivation"/>
+            <pathway-xref db="MetaCyc" id="PWY-6148" name="tetrahydromethanopterin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-601" name="glucosinolate biosynthesis from tryptophan"/>
+            <pathway-xref db="Reactome" id="R-RNO-9022692" name="Regulation of MECP2 expression and activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-8257" name="Escherichia coli serotype O:52 O antigen biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7079" name="geodin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5105" name="hesperitin glycoside biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9022537" name="Loss of MECP2 binding ability to the NCoR/SMRT complex"/>
+            <pathway-xref db="MetaCyc" id="PWY-7163" name="polymethylated kaempferol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8212" name="Escherichia coli serotype O:8 O antigen biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9022534" name="Loss of MECP2 binding ability to 5hmC-DNA"/>
+            <pathway-xref db="MetaCyc" id="PWY-7692" name="bikaverin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7643" name="coniferyl alcohol 9-methyl ester biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8095" name="5-methoxy-6-methylbenzimidazole biosynthesis (anaerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6045" name="methylthiopropanonate degradation II (demethylation)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7811" name="6-methylpretetramide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7135" name="emetine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7439" name="dTDP-beta-L-evernitrose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7569" name="arginomycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7186" name="superpathway of scopolin and esculin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8077" name="ginkgotoxin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7729" name="5,6-dimethylbenzimidazole biosynthesis II (anaerobic)"/>
+            <pathway-xref db="Reactome" id="R-HSA-73728" name="RNA Polymerase I Promoter Opening"/>
+            <pathway-xref db="MetaCyc" id="PWY-7498" name="phenylpropanoids methylation (ice plant)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7157" name="eupatolitin 3-O-glucoside biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8179" name="platensimycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6955" name="lincomycin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-73762" name="RNA Polymerase I Transcription Initiation"/>
+            <pathway-xref db="MetaCyc" id="PWY-2681" name="trans-zeatin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9022538" name="Loss of MECP2 binding ability to 5mC-DNA"/>
+            <pathway-xref db="MetaCyc" id="PWY-7769" name="phosalacine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7298" name="nevadensin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7742" name="phenolphthiocerol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWYG-321" name="mycolate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-2083" name="isoflavonoid biosynthesis II"/>
+            <pathway-xref db="Reactome" id="R-HSA-9022707" name="MECP2 regulates transcription factors"/>
+            <pathway-xref db="MetaCyc" id="PWY-7055" name="daphnetin modification"/>
+            <pathway-xref db="MetaCyc" id="PWY-7737" name="thiocoraline biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7485" name="tetracenomycin C biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7058" name="esculetin modification"/>
+            <pathway-xref db="Reactome" id="R-MMU-73728" name="RNA Polymerase I Promoter Opening"/>
+            <pathway-xref db="MetaCyc" id="PWY-7706" name="dapdiamides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5729" name="vestitol and sativan biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3214841" name="PKMTs methylate histone lysines"/>
+            <pathway-xref db="MetaCyc" id="PWY-7301" name="dTDP-4-O-demethyl-beta-L-noviose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8172" name="10-methylstearate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7719" name="CMP-diacetamido-8-epilegionaminic acid biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7669" name="equisetin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5748" name="gamma-coniciene and coniine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7529" name="CMP-N-acetyl-7-O-acetylneuraminate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8103" name="kavain biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6322" name="phosphinothricin tripeptide biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7127" name="CDP-D-mannitol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7667" name="apicidin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5883" name="ephedrine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-5689603" name="UCH proteinases"/>
+            <pathway-xref db="MetaCyc" id="PWY-7689" name="8-O-methylfusarubin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7691" name="10,13-epoxy-11-methyl-octadecadienoate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7483" name="elloramycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8036" name="chaxamycin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7717" name="3-hydroxy-4-methyl-anthranilate biosynthesis I"/>
+            <pathway-xref db="Reactome" id="R-HSA-9725371" name="Nuclear events stimulated by ALK signaling in cancer"/>
+            <pathway-xref db="MetaCyc" id="PWY-7743" name="dimycocerosyl triglycosyl phenolphthiocerol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5987" name="sorgoleone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-4021" name="beta-alanine betaine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6976" name="dTDP-beta-L-mycarose biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7342" name="superpathway of nicotine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7160" name="polymethylated myricetin biosynthesis (tomato)"/>
+            <pathway-xref db="MetaCyc" id="PWY-4161" name="superpathway of benzoxazinoid glucosides biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5209" name="methyl-coenzyme M oxidation to CO2"/>
+            <pathway-xref db="Reactome" id="R-CEL-3214841" name="PKMTs methylate histone lysines"/>
+            <pathway-xref db="MetaCyc" id="PWY-7655" name="dechlorogriseofulvin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7607" name="meleagrin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5846" name="colchicine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7533" name="gliotoxin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7564" name="bacimethrin and bacimethrin pyrophosphate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8040" name="ansatrienin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8096" name="5-methoxybenzimidazole biosynthesis (anaerobic)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7285" name="methylwyosine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-73762" name="RNA Polymerase I Transcription Initiation"/>
+            <pathway-xref db="Reactome" id="R-HSA-8986944" name="Transcriptional Regulation by MECP2"/>
+            <pathway-xref db="MetaCyc" id="PWY-7104" name="dTDP-beta-L-megosamine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6581" name="spirilloxanthin and 2,2'-diketo-spirilloxanthin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7591" name="okenone biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9022692" name="Regulation of MECP2 expression and activity"/>
+            <pathway-xref db="Reactome" id="R-MMU-6804758" name="Regulation of TP53 Activity through Acetylation"/>
+            <pathway-xref db="Reactome" id="R-HSA-3214815" name="HDACs deacetylate histones"/>
+            <pathway-xref db="Reactome" id="R-MMU-3214841" name="PKMTs methylate histone lysines"/>
+            <pathway-xref db="MetaCyc" id="PWY-7904" name="tRNA-uridine 2-thiolation (thermophilic bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-7661" name="protein N-glycosylation (Haloferax volcanii)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6477" name="gibberellin inactivation II (methylation)"/>
+            <pathway-xref db="Reactome" id="R-HSA-9679191" name="Potential therapeutics for SARS"/>
+            <pathway-xref db="MetaCyc" id="PWY-7741" name="phthiocerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-427413" name="NoRC negatively regulates rRNA expression"/>
+            <pathway-xref db="MetaCyc" id="PWY-5665" name="vanillin biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7025" name="gentamicin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7072" name="hopanoid biosynthesis (bacteria)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6795" name="diacylglyceryl-N,N,N-trimethylhomoserine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-110329" name="Cleavage of the damaged pyrimidine"/>
+            <pathway-xref db="MetaCyc" id="PWY-5316" name="nicotine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7659" name="viridicatumtoxin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-110328" name="Recognition and association of DNA glycosylase with site containing an affected pyrimidine"/>
+            <pathway-xref db="Reactome" id="R-HSA-9022702" name="MECP2 regulates transcription of neuronal ligands"/>
+            <pathway-xref db="MetaCyc" id="PWY-6427" name="rot-2'-enonate biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6682" name="dehydrophos biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7765" name="3-hydroxy-4-methyl-anthranilate biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7671" name="saframycin A biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-8943724" name="Regulation of PTEN gene transcription"/>
+            <pathway-xref db="MetaCyc" id="PWY-7155" name="7-dehydroporiferasterol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8117" name="colibactin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5305" name="bixin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6339" name="syringate degradation"/>
+            <pathway-xref db="Reactome" id="R-MMU-8943724" name="Regulation of PTEN gene transcription"/>
+            <pathway-xref db="MetaCyc" id="PWY-6153" name="autoinducer AI-2 biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7076" name="3,5-dimethoxytoluene biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-427389" name="ERCC6 (CSB) and EHMT2 (G9a) positively regulate rRNA expression"/>
+            <pathway-xref db="MetaCyc" id="PWY-8210" name="pyrrolomycin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-9022927" name="MECP2 regulates transcription of genes involved in GABA signaling"/>
+            <pathway-xref db="MetaCyc" id="PWY-7739" name="aucuparin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6346" name="staurosporine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6749" name="CMP-legionaminate biosynthesis I"/>
+            <pathway-xref db="MetaCyc" id="PWY-7440" name="dTDP-beta-L-4-epi-vancosamine biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-110357" name="Displacement of DNA glycosylase by APEX1"/>
+            <pathway-xref db="MetaCyc" id="PWY-5059" name="pinobanksin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-HSA-3899300" name="SUMOylation of transcription cofactors"/>
+            <pathway-xref db="MetaCyc" id="PWY-5301" name="ajmaline and sarpagine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7745" name="p-HBAD biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6626" name="cytidine-5'-diphosphate-glycerol biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7653" name="griseofulvin biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7614" name="methiin metabolism"/>
+            <pathway-xref db="MetaCyc" id="PWY-7547" name="prodigiosin biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-MMU-3214815" name="HDACs deacetylate histones"/>
+            <pathway-xref db="Reactome" id="R-MMU-110357" name="Displacement of DNA glycosylase by APEX1"/>
+            <pathway-xref db="MetaCyc" id="PWY-5765" name="1,3,5-trimethoxybenzene biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-1061" name="homogalacturonan biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8106" name="queuosine biosynthesis III (queuosine salvage)"/>
+            <pathway-xref db="Reactome" id="R-MMU-9022692" name="Regulation of MECP2 expression and activity"/>
+            <pathway-xref db="MetaCyc" id="PWY-4202" name="arsenic detoxification (mammals)"/>
+            <pathway-xref db="Reactome" id="R-HSA-6804758" name="Regulation of TP53 Activity through Acetylation"/>
+            <pathway-xref db="MetaCyc" id="PWY-7977" name="L-methionine biosynthesis IV"/>
+            <pathway-xref db="Reactome" id="R-MMU-427413" name="NoRC negatively regulates rRNA expression"/>
+            <pathway-xref db="MetaCyc" id="PWY-7673" name="fusarin C biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6736" name="sulfur volatiles biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-6835" name="6-gingerol biosynthesis"/>
+            <pathway-xref db="Reactome" id="R-DRE-3214841" name="PKMTs methylate histone lysines"/>
+            <pathway-xref db="MetaCyc" id="PWY-5381" name="NAD salvage (plants)"/>
+            <pathway-xref db="MetaCyc" id="PWY-6286" name="spheroidene and spheroidenone biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-5287" name="sanguinarine and macarpine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-8031" name="epiberberine biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-7608" name="neoxaline biosynthesis"/>
+            <pathway-xref db="MetaCyc" id="PWY-3542" name="choline biosynthesis II"/>
+            <pathway-xref db="MetaCyc" id="PWY-7570" name="blasticidin S biosynthesis"/>
+          </entry>
+          <signature-library-release library="SUPERFAMILY" version="1.75"/>
+        </signature>
+        <model-ac>0038039</model-ac>
+        <locations>
+          <superfamilyhmmer3-location hmm-length="63" start="60" end="116">
+            <location-fragments>
+              <superfamilyhmmer3-location-fragment start="60" end="116" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </superfamilyhmmer3-location>
+        </locations>
+      </superfamilyhmmer3-match>
+    </matches>
+  </protein>
+</protein-matches>

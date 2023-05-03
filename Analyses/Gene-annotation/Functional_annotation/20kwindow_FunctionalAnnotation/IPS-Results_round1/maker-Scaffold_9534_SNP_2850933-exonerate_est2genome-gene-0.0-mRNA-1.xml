@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="b8683bf3f3d4e62aa09836d9f67ef23b">MSNLGYQYASSHQCLPDSITYSRFKTKIFCYNIVPFHSFISHTPTLKKTTLVTLASPSNQHLTFVTRCVNQYTSKISINSDDDNDEKYHKSQQAQEQTEEKSFWGAVGLIIGTAVGPGMLGLPAATIKSGPIPSTIIIILSWIYVISSILLVAELSFAVMEEDNVAEVSFTALATKSLGARLGSFVALVYASLSFSLLVACVSGIGSIVSQWFPLINPLIAHAFFPLLFGIVLCYFPFKVIDAANRFLIIIMLFSITSLVAIGVLVGRISILRSFLNASWGLSSILPAIPVTVLTLGFHVITPFVCKIAGNTINEARKAILFGGFVPLVMVLSWNLIVLGLVGTNNASSFKDPISLLLSVNSLALTAVQGFAFTALATSLIGYAVSFPKQVVDTLDLIFQRSNSKQQNWNQSREDSIGDEVGNAGEISHSGSEVKLLYGVSIESIVMPLVLGVPVLLASFFRSTFSRALDFAGIYANCFLFGILPPVMAYIFQSRKKLRSSVLPGGNLALLLLFSIAVILSIWH</sequence>
+    <xref id="maker-Scaffold_9534_SNP_2850933-exonerate_est2genome-gene-0.0-mRNA-1" name="maker-Scaffold_9534_SNP_2850933-exonerate_est2genome-gene-0.0-mRNA-1"/>
+    <matches>
+      <hmmer3-match evalue="8.5E-96" score="321.4">
+        <signature ac="PF03222" desc="Tryptophan/tyrosine permease family" name="Trp_Tyr_perm">
+          <entry ac="IPR018227" desc="Amino acid/polyamine transporter 2" name="Amino_acid_transport_2" type="FAMILY">
+            <go-xref category="BIOLOGICAL_PROCESS" db="GO" id="GO:0003333" name="amino acid transmembrane transport"/>
+          </entry>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF03222</model-ac>
+        <locations>
+          <hmmer3-location env-end="524" env-start="99" post-processed="true" score="320.9" evalue="1.2E-95" hmm-start="2" hmm-end="394" hmm-length="394" hmm-bounds="C_TERMINAL_COMPLETE" start="100" end="524">
+            <location-fragments>
+              <hmmer3-location-fragment start="100" end="524" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="3.0E-8" score="34.7">
+        <signature ac="G3DSA:1.20.1740.10" name="Amino acid/polyamine transporter I">
+          <signature-library-release library="GENE3D" version="4.3.0"/>
+        </signature>
+        <model-ac>3giaA00</model-ac>
+        <locations>
+          <hmmer3-location env-end="409" env-start="99" post-processed="true" score="34.7" evalue="3.0E-8" hmm-start="9" hmm-end="298" hmm-length="444" hmm-bounds="COMPLETE" start="99" end="409">
+            <location-fragments>
+              <hmmer3-location-fragment start="99" end="409" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="1.3E-11" score="40.9">
+        <signature ac="PIRSF006060" name="AA_transporter">
+          <signature-library-release library="PIRSF" version="3.10"/>
+        </signature>
+        <model-ac>PIRSF006060</model-ac>
+        <locations>
+          <hmmer3-location env-end="392" env-start="76" post-processed="false" score="40.9" evalue="1.3E-11" hmm-start="79" hmm-end="388" hmm-length="498" hmm-bounds="INCOMPLETE" start="76" end="392">
+            <location-fragments>
+              <hmmer3-location-fragment start="76" end="392" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+          <hmmer3-location env-end="523" env-start="429" post-processed="false" score="-3.4" evalue="340.0" hmm-start="450" hmm-end="520" hmm-length="498" hmm-bounds="INCOMPLETE" start="429" end="523">
+            <location-fragments>
+              <hmmer3-location-fragment start="429" end="523" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="8.2E-228" familyName="TRYPTOPHAN/TYROSINE PERMEASE" score="769.4">
+        <signature ac="PTHR47715" name="TRYPTOPHAN/TYROSINE PERMEASE">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR47715</model-ac>
+        <locations>
+          <panther-location env-start="9" env-end="524" hmm-start="22" hmm-end="534" hmm-length="534" hmm-bounds="C_TERMINAL_COMPLETE" start="25" end="524">
+            <location-fragments>
+              <panther-location-fragment start="25" end="524" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

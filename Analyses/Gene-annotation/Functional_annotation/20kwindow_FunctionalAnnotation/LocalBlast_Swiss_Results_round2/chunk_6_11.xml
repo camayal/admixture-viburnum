@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<BlastOutput2
+    xmlns="http://www.ncbi.nlm.nih.gov"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+    xs:schemaLocation="http://www.ncbi.nlm.nih.gov http://www.ncbi.nlm.nih.gov/data_specs/schema_alt/NCBI_BlastOutput2.xsd"
+>
+  <report>
+    <Report>
+      <program>blastp</program>
+      <version>BLASTP 2.10.0+</version>
+      <reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</reference>
+      <search-target>
+        <Target>
+          <db>C:\CAML\Test_FunctionalAnnotation\swissprot\swissprot</db>
+        </Target>
+      </search-target>
+      <params>
+        <Parameters>
+          <matrix>BLOSUM62</matrix>
+          <expect>1e-05</expect>
+          <gap-open>11</gap-open>
+          <gap-extend>1</gap-extend>
+          <filter>F</filter>
+          <cbs>2</cbs>
+        </Parameters>
+      </params>
+      <results>
+        <Results>
+          <search>
+            <Search>
+              <query-id>Query_11</query-id>
+              <query-title>maker-Scaffold_63200_SNP_3462418-exonerate_est2genome-gene-0.0-mRNA-1</query-title>
+              <query-len>102</query-len>
+              <hits>
+                <Hit>
+                  <num>1</num>
+                  <description>
+                    <HitDescr>
+                      <id>sp|Q9C5J9.1|</id>
+                      <accession>Q9C5J9</accession>
+                      <title>RecName: Full=Small GTPase LIP1; AltName: Full=Protein LIGHT INSENSITIVE PERIOD 1 [Arabidopsis thaliana]</title>
+                      <taxid>3702</taxid>
+                    </HitDescr>
+                  </description>
+                  <len>342</len>
+                  <hsps>
+                    <Hsp>
+                      <num>1</num>
+                      <bit-score>116.316</bit-score>
+                      <score>290</score>
+                      <evalue>1.20658e-31</evalue>
+                      <identity>67</identity>
+                      <positive>80</positive>
+                      <query-from>1</query-from>
+                      <query-to>102</query-to>
+                      <hit-from>236</hit-from>
+                      <hit-to>342</hit-to>
+                      <align-len>108</align-len>
+                      <gaps>7</gaps>
+                      <qseq>YFSDDLPAANPWS-SPVQRTLHQSGKNL-SDEDQLYKSTSLIGDPYKYN-MLPPLPAQRNLTPPPKLYPQQPISTPEIYNSIPRFAFAGAQETS---SARSKHTDIIV</qseq>
+                      <hseq>YFSDELPAASPWSISPVPTSSSQRLDEITSDDDQFYKRTSFHGDPYKYNNTIPPLPAQRNLTPPPTLYPQQPVSTPDNY-TIPRYSLSSVQETTNNGSARSKRMDINV</hseq>
+                      <midline>YFSD+LPAA+PWS SPV  +  Q    + SD+DQ YK TS  GDPYKYN  +PPLPAQRNLTPPP LYPQQP+STP+ Y +IPR++ +  QET+   SARSK  DI V</midline>
+                    </Hsp>
+                  </hsps>
+                </Hit>
+                <Hit>
+                  <num>2</num>
+                  <description>
+                    <HitDescr>
+                      <id>sp|F4KFD8.1|</id>
+                      <accession>F4KFD8</accession>
+                      <title>RecName: Full=Small GTPase-like protein LIP2 [Arabidopsis thaliana]</title>
+                      <taxid>3702</taxid>
+                    </HitDescr>
+                  </description>
+                  <len>333</len>
+                  <hsps>
+                    <Hsp>
+                      <num>1</num>
+                      <bit-score>77.411</bit-score>
+                      <score>189</score>
+                      <evalue>3.42501e-17</evalue>
+                      <identity>55</identity>
+                      <positive>67</positive>
+                      <query-from>1</query-from>
+                      <query-to>102</query-to>
+                      <hit-from>235</hit-from>
+                      <hit-to>333</hit-to>
+                      <align-len>110</align-len>
+                      <gaps>19</gaps>
+                      <qseq>YFSDDLPA-ANPWS---SPVQRTLHQSGKNLSDEDQLYKSTSLI-GDPYKYNMLPPLPAQRNLTPPPKLYPQQPISTPEIYN-SIPRFAFAGAQETS--SARSKHTDIIV</qseq>
+                      <hseq>YFSDELPSPSSAWSLSHAPSQRL----DEGTSDEDQFYKRTSLREGDAYKYNTLP----QHNLMQSPTLYPQQP---PDRYNYAIPRFSLSSVEETSNGNGRSKRMDINV</hseq>
+                      <midline>YFSD+LP+ ++ WS   +P QR      +  SDEDQ YK TSL  GD YKYN LP    Q NL   P LYPQQP   P+ YN +IPRF+ +  +ETS  + RSK  DI V</midline>
+                    </Hsp>
+                  </hsps>
+                </Hit>
+              </hits>
+              <stat>
+                <Statistics>
+                  <db-num>478091</db-num>
+                  <db-len>181270864</db-len>
+                  <hsp-len>71</hsp-len>
+                  <eff-space>4567118493</eff-space>
+                  <kappa>0.041</kappa>
+                  <lambda>0.267</lambda>
+                  <entropy>0.14</entropy>
+                </Statistics>
+              </stat>
+            </Search>
+          </search>
+        </Results>
+      </results>
+    </Report>
+  </report>
+</BlastOutput2>

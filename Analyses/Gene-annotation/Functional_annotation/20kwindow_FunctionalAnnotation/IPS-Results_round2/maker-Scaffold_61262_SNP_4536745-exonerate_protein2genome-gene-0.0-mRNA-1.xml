@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="f8b155f506318472068aa2a401ba816f">MVTNEFVLANLMHKFDWELPNGIKGEDLDVNESPGVTSHRRIPLLAIATPCAL</sequence>
+    <xref id="maker-Scaffold_61262_SNP_4536745-exonerate_protein2genome-gene-0.0-mRNA-1" name="maker-Scaffold_61262_SNP_4536745-exonerate_protein2genome-gene-0.0-mRNA-1"/>
+    <matches>
+      <panther-match evalue="9.5E-17" familyName="CYTOCHROME P450 71A8-LIKE" score="72.5">
+        <signature ac="PTHR47956" name="CYTOCHROME P450 71B11-RELATED">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR47956</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="52" hmm-start="449" hmm-end="498" hmm-length="501" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="50">
+            <location-fragments>
+              <panther-location-fragment start="1" end="50" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="9.5E-17" familyName="CYTOCHROME P450 71A8-LIKE" score="72.5">
+        <signature ac="PTHR47956:SF62" name="CYTOCHROME P450 71A8-LIKE">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR47956:SF62</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="52" hmm-start="449" hmm-end="498" hmm-length="501" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="50">
+            <location-fragments>
+              <panther-location-fragment start="1" end="50" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

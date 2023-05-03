@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.55-88.0">
+  <protein>
+    <sequence md5="63024ab102942ed2a4320672ae02dadf">YFSDDLPAANPWSSPVQRTLHQSGKNLSDEDQLYKSTSLIGDPYKYNMLPPLPAQRNLTPPPKLYPQQPISTPEIYNSIPRFAFAGAQETSSARSKHTDIIV</sequence>
+    <xref id="maker-Scaffold_63200_SNP_3462418-exonerate_est2genome-gene-0.0-mRNA-1" name="maker-Scaffold_63200_SNP_3462418-exonerate_est2genome-gene-0.0-mRNA-1"/>
+    <matches>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="Proline-rich" start="54" end="68">
+            <location-fragments>
+              <mobidblite-location-fragment start="54" end="68" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="" start="51" end="70">
+            <location-fragments>
+              <mobidblite-location-fragment start="51" end="70" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="Polar" start="10" end="32">
+            <location-fragments>
+              <mobidblite-location-fragment start="10" end="32" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <mobidblite-match>
+        <signature ac="mobidb-lite" desc="consensus disorder prediction" name="disorder_prediction">
+          <signature-library-release library="MOBIDB_LITE" version="2.0"/>
+        </signature>
+        <model-ac>mobidb-lite</model-ac>
+        <locations>
+          <mobidblite-location sequence-feature="" start="1" end="32">
+            <location-fragments>
+              <mobidblite-location-fragment start="1" end="32" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </mobidblite-location>
+        </locations>
+      </mobidblite-match>
+      <panther-match evalue="2.7E-28" familyName="SMALL GTPASE LIP1" score="110.8">
+        <signature ac="PTHR24073" name="DRAB5-RELATED">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR24073</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="102" hmm-start="236" hmm-end="338" hmm-length="342" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="98">
+            <location-fragments>
+              <panther-location-fragment start="1" end="98" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="2.7E-28" familyName="SMALL GTPASE LIP1" score="110.8">
+        <signature ac="PTHR24073:SF1142" name="SMALL GTPASE LIP1">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR24073:SF1142</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="102" hmm-start="236" hmm-end="338" hmm-length="342" hmm-bounds="N_TERMINAL_COMPLETE" start="1" end="98">
+            <location-fragments>
+              <panther-location-fragment start="1" end="98" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>

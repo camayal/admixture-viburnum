@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><protein-matches xmlns="http://www.ebi.ac.uk/interpro/resources/schemas/interproscan5" interproscan-version="5.56-89.0">
+  <protein>
+    <sequence md5="8ed942b331624874096fbf560b43ebdc">MTSDRTKVVHFQPHTLFLNRVGCSLCLQQCNTQSSEWIHPSDAPKYFRWQSSAKVELLKLRVDGYEWSKPFSVGTEGLMCVSLRNETRSDLMHLRVEVRNGTGSSHYEVIFRPNSLSSPYRIENRSIYLPIRFRQVDGASDSWWSLLPNAAASFLWEDLGRQRLLELLVDGTDPLKTLKYNIDEIFDHQPSHVAGGPSARALRVTILKEEKMNVIKISDWMPENEPQAIMHRRIPSSLSEISGSDSQLQQSTSTSNCEFHVIVEVAEFGLSIVDHTPEEILYLSVQNLLLSYSTGLGSGISRVKLRMRGIQVDNQLPLTPMPVLFRPQRVGEENDYILKFSMTQQSNGSLDLCVYPYIGFQGPENSAFLINIHEPIIWRLHGMIQHANLNRLYDTQSTAVSVDPIIQISVLNISEVRFKVSMAMSPTQRPVGVLGFWSSLMTALGNTENMPVRINQKYLENVCMRQSVLISNAISNINKDLLGQPLQLLSGVDILGNASSALGHMSKGVAALSMDKKFIQSRQRQENKGVEDFGDVIREGGGAFAKGLFRGVTGILTKPLEGAKASGVEGFVQGVGKGIIGAAAQPVSGVLDLLSKTTEGANAMRMKIVSAIASDDQLLRRRLPRVISGDNLLRPYDQYKAQGQVILQLAECGSFFGQVDLFKVRGKFALSDAYENHFSLPKVKFLVVTHRRVILLQQNVNIIGQKKFNPARDPCSVLWEVLWDDLVTMELSHGKKDHPSAPHSRLILYLRTRSLENKDQVRVIKCIRDSNQAVDVYSSIEQAMHTYGPNQSKVMLKSKVTKPYSPISEAASAEVIPKDGLSILSPQQVPSSVPLNPTFGSSAN</sequence>
+    <xref id="maker-Scaffold_61434_SNP_9194665-exonerate_est2genome-gene-0.0-mRNA-2" name="maker-Scaffold_61434_SNP_9194665-exonerate_est2genome-gene-0.0-mRNA-2"/>
+    <matches>
+      <hmmer3-match evalue="1.1E-13" score="51.4">
+        <signature ac="PF16909" desc="Vacuolar-sorting-associated 13 protein C-terminal" name="VPS13_C">
+          <entry ac="IPR031645" desc="Vacuolar protein sorting-associated protein 13, C-terminal" name="VPS13_C" type="DOMAIN"/>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF16909</model-ac>
+        <locations>
+          <hmmer3-location env-end="512" env-start="406" post-processed="true" score="33.7" evalue="2.9E-8" hmm-start="4" hmm-end="115" hmm-length="176" hmm-bounds="INCOMPLETE" start="408" end="511">
+            <location-fragments>
+              <hmmer3-location-fragment start="408" end="511" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <hmmer3-match evalue="4.2E-13" score="49.2">
+        <signature ac="PF06650" desc="SHR-binding domain of vacuolar-sorting associated protein 13" name="SHR-BD">
+          <entry ac="IPR009543" desc="Vacuolar protein sorting-associated protein 13, VPS13 adaptor binding domain" name="VPS13_VAB" type="DOMAIN"/>
+          <signature-library-release library="PFAM" version="34.0"/>
+        </signature>
+        <model-ac>PF06650</model-ac>
+        <locations>
+          <hmmer3-location env-end="159" env-start="2" post-processed="true" score="48.0" evalue="1.0E-12" hmm-start="109" hmm-end="242" hmm-length="271" hmm-bounds="INCOMPLETE" start="5" end="140">
+            <location-fragments>
+              <hmmer3-location-fragment start="5" end="140" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </hmmer3-location>
+        </locations>
+      </hmmer3-match>
+      <panther-match evalue="4.9E-292" familyName="SUBFAMILY NOT NAMED" score="983.8">
+        <signature ac="PTHR45523" name="TETRATRICOPEPTIDE REPEAT (TPR)-CONTAINING PROTEIN-RELATED">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR45523</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="843" hmm-start="3203" hmm-end="4041" hmm-length="4250" hmm-bounds="INCOMPLETE" start="2" end="841">
+            <location-fragments>
+              <panther-location-fragment start="2" end="841" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+      <panther-match evalue="4.9E-292" familyName="SUBFAMILY NOT NAMED" score="983.8">
+        <signature ac="PTHR45523:SF2" name="SUBFAMILY NOT NAMED">
+          <signature-library-release library="PANTHER" version="15.0"/>
+        </signature>
+        <model-ac>PTHR45523:SF2</model-ac>
+        <locations>
+          <panther-location env-start="1" env-end="843" hmm-start="3203" hmm-end="4041" hmm-length="4250" hmm-bounds="INCOMPLETE" start="2" end="841">
+            <location-fragments>
+              <panther-location-fragment start="2" end="841" dc-status="CONTINUOUS"/>
+            </location-fragments>
+          </panther-location>
+        </locations>
+      </panther-match>
+    </matches>
+  </protein>
+</protein-matches>
